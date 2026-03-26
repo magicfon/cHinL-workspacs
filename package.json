@@ -1,5 +1,5 @@
 {
-  "name": "twse-platform",
+  "name": "workspace-homepage",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "lucide-react": "^0.344.0",
+    "next": "14.2.29",
+    "postcss": "^8",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.35"
+    "recharts": "^2.12.0",
+    "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/node": "20.19.37",
+    "@types/react": "18.3.28",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "eslint": "^8",
+    "eslint-config-next": "14.2.29",
+    "typescript": "5.9.3"
   }
 }
