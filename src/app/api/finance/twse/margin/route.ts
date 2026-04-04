@@ -1,11 +1,11 @@
 import { NextRequest } from "next/server";
-import { fetchMarginTrading } from "@/lib/scraper/twseClient";
-import { parseMarginTrading } from "@/lib/scraper/parsers";
+import { fetchMarginTrading } from "../../../../../lib/scraper/twseClient";
+import { parseMarginTrading } from "../../../../../lib/scraper/parsers";
 import {
   successResponse,
   errorResponse,
   ValidationError,
-} from "@/lib/scraper/errorHandler";
+} from "../../../../../lib/scraper/errorHandler";
 
 /**
  * GET /api/twse/margin

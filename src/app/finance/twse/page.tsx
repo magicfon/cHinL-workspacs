@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import SearchBar from "@/components/SearchBar";
-import StockQuoteCard from "@/components/StockQuoteCard";
-import { StockQuote } from "@/types/twse";
+import SearchBar from "../../../components/SearchBar";
+import StockQuoteCard from "../../../components/StockQuoteCard";
+import { StockQuote } from "../../../types/twse";
 import {
   TrendingUp,
   ArrowLeft,

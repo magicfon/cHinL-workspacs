@@ -4,7 +4,7 @@ import {
   MarginTrading,
   HistoricalData,
   TwseApiResponse,
-} from "@/types/twse";
+} from "../../types/twse";
 import { parseNumber, parseChange } from "./twseClient";
 
 // 解析個股當日行情（STOCK_DAY 最後一筆即為最新資料）

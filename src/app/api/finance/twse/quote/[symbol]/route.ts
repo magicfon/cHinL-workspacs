@@ -1,11 +1,11 @@
 import { NextRequest } from "next/server";
-import { fetchStockQuote } from "@/lib/scraper/twseClient";
-import { parseStockQuote } from "@/lib/scraper/parsers";
+import { fetchStockQuote } from "../../../../../../lib/scraper/twseClient";
+import { parseStockQuote } from "../../../../../../lib/scraper/parsers";
 import {
   successResponse,
   errorResponse,
   validateSymbol,
-} from "@/lib/scraper/errorHandler";
+} from "../../../../../../lib/scraper/errorHandler";
 
 /**
  * GET /api/twse/quote/[symbol]

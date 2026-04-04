@@ -1,12 +1,12 @@
 import { NextRequest } from "next/server";
-import { fetchStockHistory } from "@/lib/scraper/twseClient";
-import { parseHistoricalData } from "@/lib/scraper/parsers";
+import { fetchStockHistory } from "../../../../../../lib/scraper/twseClient";
+import { parseHistoricalData } from "../../../../../../lib/scraper/parsers";
 import {
   successResponse,
   errorResponse,
   validateSymbol,
   validateYearMonth,
-} from "@/lib/scraper/errorHandler";
+} from "../../../../../../lib/scraper/errorHandler";
 
 /**
  * GET /api/twse/history/[symbol]

@@ -1,6 +1,6 @@
 "use client";
 
-import { StockQuote } from "@/types/twse";
+import { StockQuote } from "../types/twse";
 
 interface Props {
   quote: StockQuote;

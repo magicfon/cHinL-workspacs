@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
-import { fetchInstitutional } from "@/lib/scraper/twseClient";
-import { parseInstitutional } from "@/lib/scraper/parsers";
-import { successResponse, errorResponse } from "@/lib/scraper/errorHandler";
+import { fetchInstitutional } from "../../../../../lib/scraper/twseClient";
+import { parseInstitutional } from "../../../../../lib/scraper/parsers";
+import { successResponse, errorResponse } from "../../../../../lib/scraper/errorHandler";
 
 /**
  * GET /api/twse/institutional

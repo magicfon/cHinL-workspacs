@@ -1,4 +1,4 @@
-import { TwseApiResponse } from "@/types/twse";
+import { TwseApiResponse } from "../../types/twse";
 
 const TWSE_BASE_URL = "https://www.twse.com.tw";
 

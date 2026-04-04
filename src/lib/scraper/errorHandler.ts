@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { ApiResponse } from "@/types/twse";
+import { ApiResponse } from "../../types/twse";
 
 export class TwseError extends Error {
   constructor(
