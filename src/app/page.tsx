@@ -48,13 +48,13 @@ const projects: Project[] = [
     id: 1,
     icon: TrendingUp,
     title: "Financial Analysis",
-    subtitle: "Platform",
-    description: "NASDAQ 100 期貨三大法人交易資料視覺化",
-    tags: ["Next.js", "Supabase", "Recharts"],
-    link: "#",
+    subtitle: "台股財經分析",
+    description: "台灣股市個股行情、三大法人動向與融資融券資料",
+    tags: ["Next.js", "TWSE API", "Tailwind"],
+    link: "/finance",
     accentColor: "rgba(52, 211, 153, 0.85)",
     bgGradient: "from-emerald-500/8 to-transparent",
-    status: "dev",
+    status: "live",
   },
   {
     id: 2,
@@ -132,12 +132,13 @@ function StatusBadge({ status }: { status: Project["status"] }) {
 function ProjectCard({ project, delay }: { project: Project; delay: string }) {
   const Icon = project.icon;
   const isPlaceholder = project.link === "#";
+  const isInternal = project.link.startsWith("/");
 
   return (
     <a
       href={project.link}
-      target={isPlaceholder ? undefined : "_blank"}
-      rel={isPlaceholder ? undefined : "noopener noreferrer"}
+      target={!isPlaceholder && !isInternal ? "_blank" : undefined}
+      rel={!isPlaceholder && !isInternal ? "noopener noreferrer" : undefined}
       onClick={isPlaceholder ? (e) => e.preventDefault() : undefined}
       className={`group block rounded-xl p-5 card-hover animate-fade-in-up ${delay} bg-gradient-to-br ${project.bgGradient} cursor-pointer`}
       style={{
