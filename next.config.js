@@ -6,6 +6,7 @@ const nextConfig = {
     config.resolve.alias['@'] = path.resolve(__dirname, '.');
     return config;
   },
+  async rewrites() {
+    return [{ source: "/stocks", destination: "/stocks/index.html" }];
+  },
 };
-
-module.exports = nextConfig;
