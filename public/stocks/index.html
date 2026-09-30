@@ -244,7 +244,7 @@ function demoSeries(s, n = 180) {
 /* 台股升降單位 */
 function twTick(p) { return p < 10 ? .01 : p < 50 ? .05 : p < 100 ? .1 : p < 500 ? .5 : p < 1000 ? 1 : 5 }
 function roundPx(p, m) { if (m === "TW") { const t = twTick(p); return Math.round(p / t) * t } return Math.round(p * 100) / 100 }
-function fmtPx(p, m) { const v = roundPx(p, m); const d = m === "TW" ? (twTick(v) < .1 ? 2 : twTick(v) < 1 ? 1 : 0) : 2; return v.toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d }) }
+function fmtPx(p, m, tick = false) { const v = tick ? roundPx(p, m) : p; const d = m === "TW" ? (tick ? (twTick(v) < .1 ? 2 : twTick(v) < 1 ? 1 : 0) : 2) : 2; return v.toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d }) }
 const cur = m => m === "TW" ? "NT$" : "US$";
 /* 台股紅漲綠跌、美股綠漲紅跌 */
 const moveColor = (chg, m) => chg === 0 ? "var(--muted)" : (chg > 0) === (m === "TW") ? "var(--red)" : "var(--green)";
@@ -263,9 +263,11 @@ const WEIGHTS = {
 const FACTOR_NAMES = { F: "基本面", V: "估值", M: "動能", C: "機構共識", R: "風險控管" };
 const HZ = { long: { name: "長期", span: "1 年以上" }, mid: { name: "中期", span: "3–12 個月" }, short: { name: "短期", span: "數日至數週" } };
 
+const LIVE = {};
 function enrich(s) {
+  const lv = LIVE[s.ticker];
   const prices = Array.isArray(s.prices) && s.prices.length >= 70 ? s.prices.map(Number) : demoSeries(s);
-  const price = Number(s.price ?? prices[prices.length - 1]);
+  const price = Number(lv?.price ?? s.price ?? prices[prices.length - 1]);
   const ma20 = sma(prices, 20), ma60 = sma(prices, 60), r14 = rsi(prices), atr = avgMove(prices);
   const ret3m = price / prices[Math.max(0, prices.length - 64)] - 1;
   const peg = s.epsGrowth > 0 ? s.pe / s.epsGrowth : null;
@@ -284,7 +286,7 @@ function enrich(s) {
   const factors = { F, V, M, C, R };
   const scores = {};
   for (const h in WEIGHTS) scores[h] = Math.round(Object.entries(WEIGHTS[h]).reduce((a, [k, w]) => a + w * factors[k], 0) * 100);
-  return { ...s, prices, price, ma20, ma60, r14, atr, ret3m, peg, avgTarget, upside, consensus, factors, scores };
+  return { ...s, live: lv, prices, price, ma20, ma60, r14, atr, ret3m, peg, avgTarget, upside, consensus, factors, scores };
 }
 function rating(sc) {
   if (sc >= 70) return { cls: "r4", label: "強力買進", size: "可建立完整部位（例如單檔上限為總資金 10%）" };
@@ -294,7 +296,7 @@ function rating(sc) {
 }
 
 function plans(s) {
-  const m = s.market, P = x => fmtPx(x, m);
+  const m = s.market, P = x => fmtPx(x, m, true);
   const fv = s.fairValue || s.avgTarget || s.price;
   const out = {};
   // 長期：以合理價的安全邊際分批
@@ -333,6 +335,7 @@ const store = { get(k) { try { return localStorage.getItem(k) } catch { return n
 let raw = DEMO, isDemo = true;
 try { const saved = JSON.parse(store.get("desk.data") || "null"); if (Array.isArray(saved) && saved.length) { raw = saved; isDemo = false } } catch {}
 let data = [];
+const liveInfo = { n: 0, at: "", err: false };
 const state = { market: "ALL", hz: "long", q: "", sel: null };
 try { Object.assign(state, JSON.parse(store.get("desk.ui") || "{}")) } catch {}
 
@@ -378,7 +381,7 @@ function renderList() {
     return `<button type="button" class="row" data-t="${esc(d.ticker)}" aria-current="${d.ticker === state.sel}">
       <span class="rank num">${i + 1}</span>
       <span style="min-width:0"><span class="nm" style="display:block">${esc(d.name)}<span class="mk">${d.market === "TW" ? "台" : "美"}</span></span><span class="tk num" style="display:block">${esc(d.ticker)} · ${esc(d.sector)}</span></span>
-      <span class="px num">${fmtPx(d.price, d.market)}<small style="color:${moveColor(d.ret3m, d.market)}">${pct(d.ret3m)} 3月</small></span>
+      <span class="px num">${fmtPx(d.price, d.market)}${d.live && d.live.changePct != null ? `<small style="color:${moveColor(d.live.change, d.market)}">${pct(d.live.changePct, 2)} 今日</small>` : `<small style="color:${moveColor(d.ret3m, d.market)}">${pct(d.ret3m)} 3月</small>`}</span>
       <span class="score-cell"><b>${sc}</b><br><span class="chip ${r.cls}">${r.label}</span></span>
     </button>`;
   }).join("") : `<div class="empty">沒有符合條件的股票。試著清除搜尋或切換市場。</div>`;
@@ -393,7 +396,7 @@ function renderDetail() {
   el.innerHTML = `
     <div class="d-head">
       <div><div class="tk num">${esc(s.ticker)} · ${m === "TW" ? "台股" : "美股"} · ${esc(s.sector)}${s.asOf ? ` · 資料日 ${esc(s.asOf)}` : ""}</div><h2>${esc(s.name)}</h2></div>
-      <div class="d-price"><div class="big num">${cur(m)} ${fmtPx(s.price, m)}</div><div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div></div>
+      <div class="d-price"><div class="big num">${cur(m)} ${fmtPx(s.price, m)}</div>${s.live && s.live.change != null ? `<div class="num" style="color:${moveColor(s.live.change, m)}">${s.live.change > 0 ? "+" : ""}${fmtPx(s.live.change, m)}（${pct(s.live.changePct, 2)}）今日</div><div class="sub num">${s.live.stale ? "尚無成交，顯示委買賣或昨收 · " : ""}報價時間 ${new Date(s.live.time).toLocaleTimeString("zh-TW", { hour12: false })}</div>` : `<div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div>`}</div>
     </div>
 
     <div>
@@ -453,7 +456,7 @@ function syncControls() {
   for (const [id, key] of [["#segMarket", "market"], ["#segHz", "hz"]])
     document.querySelectorAll(`${id} button`).forEach(b => b.setAttribute("aria-pressed", b.dataset.v === state[key]));
   $("#q").value = state.q;
-  $("#dataFlag").textContent = isDemo ? "示範資料，非真實報價" : "使用你匯入的資料";
+  $("#dataFlag").textContent = (liveInfo.n ? `即時報價 ${liveInfo.n}/${data.length} 檔 · ${liveInfo.at}` + (isDemo ? "｜財報與觀點為示範資料" : "") : (liveInfo.err ? "報價連線失敗，顯示示範資料" : (isDemo ? "示範資料，非真實報價" : "使用你匯入的資料")));
 }
 function render() { renderList(); renderDetail(); syncControls(); store.set("desk.ui", JSON.stringify({ market: state.market, hz: state.hz, sel: state.sel })) }
 
@@ -482,7 +485,24 @@ $("#btnImport").addEventListener("click", () => {
 });
 $("#btnReset").addEventListener("click", () => { raw = DEMO; isDemo = true; store.set("desk.data", null); load(raw); state.sel = null; render(); $("#importMsg").textContent = "已還原示範資料。" });
 
+async function pullQuotes() {
+  if (document.hidden) return;
+  try {
+    const syms = raw.map(s => `${s.market}:${s.ticker}`).join(",");
+    const res = await fetch("/api/quotes?symbols=" + encodeURIComponent(syms), { cache: "no-store", credentials: "same-origin" });
+    if (!res.ok || !(res.headers.get("content-type") || "").includes("json")) throw new Error("http " + res.status);
+    const j = await res.json();
+    for (const k in LIVE) delete LIVE[k];
+    Object.assign(LIVE, j.quotes || {});
+    liveInfo.n = Object.keys(LIVE).length; liveInfo.err = liveInfo.n === 0;
+    liveInfo.at = new Date(j.fetchedAt).toLocaleTimeString("zh-TW", { hour12: false });
+  } catch (e) { liveInfo.n = 0; liveInfo.err = true; }
+  load(raw); render();
+}
 load(raw); render();
+pullQuotes();
+setInterval(pullQuotes, 20000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) pullQuotes(); });
 })();
 </script>
 </body>
