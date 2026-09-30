@@ -7,6 +7,9 @@ const nextConfig = {
     return config;
   },
   async rewrites() {
-    return [{ source: "/stocks", destination: "/stocks/index.html" }];
+    return [
+      { source: "/stocks", destination: "/stocks/index.html" },
+      { source: "/serenity", destination: "/serenity/index.html" },
+    ];
   },
 };
