@@ -7,3 +7,5 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 .vercel
+scripts/serenity/new_tweets.json
+scripts/serenity/new_labels.json

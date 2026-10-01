@@ -1,0 +1,674 @@
+{
+ "SIVE": {
+  "name": "Sivers Semiconductors",
+  "summary": "作者最大持倉與最愛標的之一，認為Sivers握有稀缺獨立CW DFB雷射產能，CW瓶頸下有望成為「下一個LITE」。",
+  "evolution": [
+   {
+    "period": "06/23–07/10",
+    "stance": "bull",
+    "text": "募資約7億瑞典克朗擴產、宣布擬赴Nasdaq上市，CEO買股；作者持股逾百萬股，越跌越看多。"
+   },
+   {
+    "period": "07/13–08/07",
+    "stance": "bull",
+    "text": "大摩將其與LITE、COHR並列CPO雷射三強；以代工產能試算營收，強調估值與遠期營收脫節。"
+   },
+   {
+    "period": "08/09–08/27",
+    "stance": "bull",
+    "text": "AAOI、MTSI、LITE財報驗證CW雷射短缺；Q2營收管道達12億美元、6家新模組商、雙代工產能。"
+   },
+   {
+    "period": "08/28–09/15",
+    "stance": "bull",
+    "text": "批評管理層與CFO溝通差、上市時程含糊致股價重挫；但擴產至年產逾1億顆CW雷射，論點不變。"
+   }
+  ],
+  "risks": [
+   "增資稀釋",
+   "股價高波動、OTC流動性薄",
+   "管理層溝通與上市時程不明",
+   "代工產能或客戶認證失敗"
+  ]
+ },
+ "NVDA": {
+  "name": "輝達",
+  "summary": "作者視輝達為AI與光通訊趨勢的領先指標，受產能限制仍預估成長約70%，是結構性多頭核心。",
+  "evolution": [
+   {
+    "period": "06/23–07/15",
+    "stance": "bull",
+    "text": "駁斥CPO／Kyber延遲報導，引用黃仁勳否認延遲，認為光子股因誤導報導被錯殺。"
+   },
+   {
+    "period": "07/20–08/24",
+    "stance": "neutral",
+    "text": "多作為背景：輝達投資與鎖定CW產能暗示CPO將至，作者以其布局判斷光通訊題材。"
+   },
+   {
+    "period": "08/26–09/04",
+    "stance": "bull",
+    "text": "財報與指引遠超預期、稱需求遠大於產能；投資聯發科、收購Hugging Face鞏固生態。"
+   },
+   {
+    "period": "09/08–09/17",
+    "stance": "bull",
+    "text": "Rubin Ultra增加光模組用量、GPU轉售溢價，反駁崩盤論，強調勿在總經恐慌時賣股。"
+   }
+  ],
+  "risks": [
+   "毛利率指引略低",
+   "產能供給限制成長",
+   "循環融資健康性存疑",
+   "總經與升息不確定性"
+  ]
+ },
+ "MU": {
+  "name": "美光",
+  "summary": "作者一貫看多記憶體瓶頸，美光財報亮眼並簽16份長約，認為是長週期而非傳統週期股。",
+  "evolution": [
+   {
+    "period": "06/23–07/05",
+    "stance": "bull",
+    "text": "視下跌為買點；財報大幅超預期並簽16份長約，CEO稱人形機器人帶動數十年需求。"
+   },
+   {
+    "period": "07/06–07/28",
+    "stance": "bull",
+    "text": "長約不斷市場卻拋售記憶體，作者認為是去槓桿尾聲而非基本面轉弱。"
+   },
+   {
+    "period": "08/04–08/30",
+    "stance": "bull",
+    "text": "DRAM/HBM 2027售罄，駁斥供過於求論；但已減碼多數記憶體股，轉向光通訊與DDR2/3。"
+   },
+   {
+    "period": "09/02–09/17",
+    "stance": "bull",
+    "text": "記憶體大幅反彈，需求缺口40-60%，將預測美光崩盤者列為應取關對象。"
+   }
+  ],
+  "risks": [
+   "升息預期引發賣壓",
+   "去槓桿造成短期波動",
+   "週期股定價疑慮"
+  ]
+ },
+ "JBL": {
+  "name": "捷普 (Jabil)",
+  "summary": "作者主要將捷普視為SIVE雷射的關鍵客戶，其1.6T LRO量產時程是SIVE論點的重要驗證點。",
+  "evolution": [
+   {
+    "period": "06/24–07/10",
+    "stance": "neutral",
+    "text": "列入OpenLight生態系；捷普稱1.6T LRO具護城河且認證中，被引為SIVE營收依據。"
+   },
+   {
+    "period": "07/31–08/09",
+    "stance": "neutral",
+    "text": "POET預期捷普量產訂單於2027上半年到來，作者估SIVE營收拐點同期。"
+   },
+   {
+    "period": "08/24–09/15",
+    "stance": "neutral",
+    "text": "SIVE財報確認捷普2027量產時程，作者建議追蹤捷普認證放量與晶圓產能。"
+   }
+  ],
+  "risks": [
+   "認證與量產時程延遲",
+   "論點依附SIVE執行"
+  ]
+ },
+ "SNDK": {
+  "name": "SanDisk",
+  "summary": "作者看好NAND長期短缺，SanDisk預估80%毛利率延續至2030，認為記憶體是長週期瓶頸。",
+  "evolution": [
+   {
+    "period": "06/25–07/28",
+    "stance": "bull",
+    "text": "大摩稱NAND短缺延續至2027、Meta簽長約；市場拋售被視為去槓桿，非基本面問題。"
+   },
+   {
+    "period": "07/30–08/18",
+    "stance": "bull",
+    "text": "為Leopold的SNDK論點辯護；群聯稱2027短缺更嚴重，瓶頸不因股價下跌而消失。"
+   },
+   {
+    "period": "08/17–08/31",
+    "stance": "neutral",
+    "text": "資金轉向MLCC與DDR2/3，減碼多數記憶體股，但仍稱存儲板塊本益比有上升空間。"
+   },
+   {
+    "period": "09/05–09/17",
+    "stance": "bull",
+    "text": "SNDK大幅反彈，日本通路稱需求缺口40-60%，反駁Cramer，重申記憶體基本面強。"
+   }
+  ],
+  "risks": [
+   "短期波動大",
+   "去槓桿賣壓",
+   "作者已轉向其他記憶體部位"
+  ]
+ },
+ "GFS": {
+  "name": "格芯 (GlobalFoundries)",
+  "summary": "作者視格芯為CPO矽光子平台與2027-28光通訊重估題材，其採用SIVE參考雷射是關鍵連結。",
+  "evolution": [
+   {
+    "period": "06/22–07/23",
+    "stance": "neutral",
+    "text": "多作為SIVE論點的一環：GFS採用Sivers參考雷射、GF SCALE可能被AMD CPO採用。"
+   },
+   {
+    "period": "07/29–07/29",
+    "stance": "bull",
+    "text": "美國政府入股1%並補助3億美元加速CPO，作者未持有但訝異股價仍下跌。"
+   },
+   {
+    "period": "08/25–09/17",
+    "stance": "bull",
+    "text": "稱GFS是2027-28光通訊重估題材、2028預估本益比11.5倍；並提及與MRVL產能協議。"
+   }
+  ],
+  "risks": [
+   "題材需2027-28才兌現",
+   "作者未直接持有",
+   "短期股價反應不佳"
+  ]
+ },
+ "INTC": {
+  "name": "英特爾",
+  "summary": "作者視英特爾為半導體板塊的一員，下跌時視為買點，並看好CPU長約反映瓶頸需求。",
+  "evolution": [
+   {
+    "period": "06/22–07/13",
+    "stance": "bull",
+    "text": "晶圓代工大漲；稱下跌是明確買點，屬無差別拋售，並提及Pelosi買入買權。"
+   },
+   {
+    "period": "07/16–07/29",
+    "stance": "bull",
+    "text": "以散戶爆倉判斷半導體近底；英特爾與AMD將和中國客戶簽CPU長約。"
+   },
+   {
+    "period": "08/15–09/17",
+    "stance": "neutral",
+    "text": "列為今年建倉成功標的之一；引用英特爾稱記憶體價格上漲5-7倍。"
+   }
+  ],
+  "risks": [
+   "板塊無差別拋售",
+   "升息預期壓抑估值"
+  ]
+ },
+ "TSM": {
+  "name": "台積電",
+  "summary": "作者認為以台積電與輝達為核心的AI主題是結構性的，反駁泡沫論，並看好矽光子2027年主流化。",
+  "evolution": [
+   {
+    "period": "06/23–07/12",
+    "stance": "bull",
+    "text": "稱下跌是買點，批評彭博以約23.6倍本益比稱泡沫，反對誇大延遲的看空論。"
+   },
+   {
+    "period": "07/13–08/29",
+    "stance": "neutral",
+    "text": "多作為CPO供應鏈背景：矽光子關鍵參與者、COUPE合作、FAU瓶頸。"
+   },
+   {
+    "period": "08/30–09/13",
+    "stance": "bull",
+    "text": "TSM看好矽光子2027主流化、指雷射光纖為瓶頸；重申AI主題結構性擴張。"
+   }
+  ],
+  "risks": [
+   "泡沫論與估值質疑",
+   "板塊賣壓波及",
+   "升息預期"
+  ]
+ },
+ "AAOI": {
+  "name": "Applied Optoelectronics",
+  "summary": "作者主要持股之一，看好CW雷射稀缺產能、需求超供給與2027放量；唯不滿6億美元ATM增資稀釋。",
+  "evolution": [
+   {
+    "period": "06/22–07/18",
+    "stance": "bull",
+    "text": "以年化營收56億美元對比百億內市值論低估；光子股崩跌屬去槓桿，逢空頭報告仍重倉。"
+   },
+   {
+    "period": "07/21–08/18",
+    "stance": "bull",
+    "text": "財報驗證需求超供給20–40%、1.6T認證、大幅擴產；雷射轉內用而缺席首代CPO，但毛利率提升。"
+   },
+   {
+    "period": "08/21–08/24",
+    "stance": "neutral",
+    "text": "頻繁5–6億美元ATM增資令作者不滿股東結構，雖續持有但語氣轉保留。"
+   },
+   {
+    "period": "08/26–09/17",
+    "stance": "bull",
+    "text": "重申2027需求能見度佳，ATM僅為短期壓力；視光子為下一個HBM式超級週期。"
+   }
+  ],
+  "risks": [
+   "頻繁ATM增資稀釋",
+   "高beta單日20–30%波動",
+   "缺席第一代CPO部署",
+   "產能擴張執行風險"
+  ]
+ },
+ "NBIS": {
+  "name": "Nebius",
+  "summary": "看好新雲端算力供不應求，NBIS營收高速成長、2027產能售罄，並獲輝達投資與優先待遇。",
+  "evolution": [
+   {
+    "period": "06/23–07/14",
+    "stance": "bull",
+    "text": "以Meta轉售算力、Google算力吃緊論新雲需求；但股價長期盤整、利多反跌。"
+   },
+   {
+    "period": "07/17–07/31",
+    "stance": "bull",
+    "text": "Meta出租算力、NVDA持股9.3%驗證模式；認為AI拋售是去槓桿，但作者部分轉向上游瓶頸。"
+   },
+   {
+    "period": "08/08–08/24",
+    "stance": "bull",
+    "text": "財報營收年增454%、電力合約5GW、2027產能售罄；率先採用Groq3 LPX，諷刺放空者。"
+   },
+   {
+    "period": "08/31–09/17",
+    "stance": "bull",
+    "text": "ORCL高價轉售GPU產能、NBIS調漲雲端價格，反駁GPU快速折舊論。"
+   }
+  ],
+  "risks": [
+   "資本支出大且GAAP虧損",
+   "長期盤整、利多不漲",
+   "AI板塊無差別拋售",
+   "總經壓抑高beta估值"
+  ]
+ },
+ "AXTI": {
+  "name": "AXT Inc.",
+  "summary": "作者去年即提出的InP基板瓶頸論點已獲驗證，仍持有；下一步重估需靠大幅調漲售價。",
+  "evolution": [
+   {
+    "period": "06/23–07/08",
+    "stance": "bull",
+    "text": "與COHR簽長約獲預付款、InP價格大漲40–78%；但對一路大幅稀釋散戶感到不自在。"
+   },
+   {
+    "period": "07/29–08/18",
+    "stance": "bull",
+    "text": "再獲LITE長約與4350萬保證金、營收創高、產能倍增仍供不應求；稱瓶頸將延續2–3年。"
+   },
+   {
+    "period": "08/23–09/13",
+    "stance": "bull",
+    "text": "以13美元起點自證論點成功；指出需調漲ASP才能再重估，長約定價不明，九月遭重挫。"
+   }
+  ],
+  "risks": [
+   "持續股權稀釋",
+   "長約定價內容不明",
+   "可能成出口管制報復工具",
+   "高beta劇烈波動"
+  ]
+ },
+ "CCXI": {
+  "name": "Agility Robotics（經CCXI上市）",
+  "summary": "最愛的人形機器人部位：Agility商業化領先、零件多為美國製，估值遠低於Figure與宇樹。",
+  "evolution": [
+   {
+    "period": "06/30–07/10",
+    "stance": "bull",
+    "text": "稱Agility為機器人界Anthropic，列美國商業化第一，約49億估值遠低於Figure，為最大集中部位。"
+   },
+   {
+    "period": "07/28–08/20",
+    "stance": "bull",
+    "text": "FCC禁中國機器人進口受惠；以宇樹IPO超額認購與高估值作對照，加碼約0.25–0.75%流通股。"
+   },
+   {
+    "period": "08/30–09/15",
+    "stance": "neutral",
+    "text": "等待第四季更名上市與題材發酵，發布Digit 5後徵詢看法，未有新論點。"
+   }
+  ],
+  "risks": [
+   "美國人形機器人落後中國",
+   "上市與更名時程不確定",
+   "集中持倉風險",
+   "題材兌現需時間"
+  ]
+ },
+ "POET": {
+  "name": "POET Technologies",
+  "summary": "僅小量持有：現金多、EV低，但需求能見度低、護城河不及SIVE，且可能被Marvell設計排除。",
+  "evolution": [
+   {
+    "period": "06/24–07/15",
+    "stance": "bull",
+    "text": "主要作為SIVE的佐證：股東會稱雷射售罄至2029、可能供應前三大雲端業者。"
+   },
+   {
+    "period": "07/30–08/07",
+    "stance": "bull",
+    "text": "措辭升級為2026年底量產、市值接近現金；Lumilens高估值出關後重新小量買入。"
+   },
+   {
+    "period": "08/13–08/18",
+    "stance": "neutral",
+    "text": "僅230萬美元新訂單，定位為「等待客戶」，需求不明且過度稀釋，非明確多單。"
+   },
+   {
+    "period": "08/21–08/30",
+    "stance": "bear",
+    "text": "推測已被MRVL Celestial與SK海力士路線排除，明確認為AAOI優於POET。"
+   }
+  ],
+  "risks": [
+   "需求能見度低",
+   "可能被Marvell設計排除",
+   "股權稀釋",
+   "技術護城河不如同業"
+  ]
+ },
+ "GOOGL": {
+  "name": "Alphabet（Google）",
+  "summary": "作者主要把GOOGL視為AI資本支出指標：算力吃緊、上調資本支出，利好上游半導體與新雲。",
+  "evolution": [
+   {
+    "period": "06/28–07/15",
+    "stance": "neutral",
+    "text": "以Google算力不足削減Meta配額，反駁雲端削減資本支出論。"
+   },
+   {
+    "period": "07/22–07/31",
+    "stance": "bull",
+    "text": "財報雲端年增82%、上調資本支出至約2000億、Gemini月活9.5億，視為上游最大利多。"
+   },
+   {
+    "period": "08/08–09/14",
+    "stance": "neutral",
+    "text": "多為旁證：與MRVL的TPU股權合作、與三星簽記憶體長約；惋惜賣掉波士頓動力。"
+   }
+  ],
+  "risks": [
+   "自身資本支出不受市場青睞",
+   "AI類股去槓桿拋售",
+   "算力供給不足"
+  ]
+ },
+ "SPCX": {
+  "name": "SpaceX",
+  "summary": "作者對SPCX多為旁觀評論：肯定其主導太空發射與xAI進展，但批評IPO估值荒謬。",
+  "evolution": [
+   {
+    "period": "06/22–07/08",
+    "stance": "neutral",
+    "text": "調侃Cramer喊多後市值蒸發、批評IPO前估值推高、對10兆美元目標價無言；肯定Grok 4.5。"
+   },
+   {
+    "period": "07/13–08/13",
+    "stance": "neutral",
+    "text": "轉為供應鏈視角：Starlink Gen3擴產、收購Mesh可能外購CW雷射，利好SIVE等供應商。"
+   },
+   {
+    "period": "08/20–09/13",
+    "stance": "bull",
+    "text": "美國太空運輸政策下SPCX主導發射產業，RKLB等同受惠；但對其上市後表現有保留。"
+   }
+  ],
+  "risks": [
+   "IPO估值過高",
+   "上市後股價大幅回落",
+   "供應鏈產能吃緊"
+  ]
+ },
+ "MTSI": {
+  "name": "MACOM",
+  "summary": "作者視MTSI為雷射短缺的旁證：財報證實InP DFB雷射急缺，但其CPO雷射進度停滯。",
+  "evolution": [
+   {
+    "period": "07/13",
+    "stance": "bear",
+    "text": "指MTSI的CPO雷射似乎銷聲匿跡，執行長稱商用時程未定、仍在可靠度驗證。"
+   },
+   {
+    "period": "08/06–08/19",
+    "stance": "neutral",
+    "text": "財報稱客戶急迫求購InP DFB雷射，驗證CW雷射瓶頸；AAOI提及DSP/TIA瓶頸亦利好MTSI。"
+   },
+   {
+    "period": "08/24–09/09",
+    "stance": "bull",
+    "text": "業者紛紛找MTSI簽約；入股IQE並簽長約，光子被視為下一個記憶體式超級週期。"
+   }
+  ],
+  "risks": [
+   "CPO雷射商用時程未定",
+   "Ayar供應鏈移除MTSI",
+   "雷射產能不足"
+  ]
+ },
+ "LITE": {
+  "name": "Lumentum",
+  "summary": "看多。Serenity視LITE為雷射瓶頸的標竿：靠EML瓶頸兩年從30億漲至600億+市值，產能售罄、CPO雷射需求強，並常作為SIVE等同業的比較基準。",
+  "evolution": [
+   {
+    "period": "06/23–07/18",
+    "stance": "bull",
+    "text": "以LITE從30億到650億市值的EML瓶頸故事為範本，引POET指其產能兩年售罄；光學股遭CPO延遲報告與去槓桿重挫，作者認為基本面無誤。"
+   },
+   {
+    "period": "07/21–08/06",
+    "stance": "bull",
+    "text": "反彈後論點轉向佐證：AXTI長約與4350萬美元預付款、美政府入股GFS推CPO、擬禁中國收發器，LITE執行長稱InP雷射缺口比記憶體嚴重。"
+   },
+   {
+    "period": "08/10–08/20",
+    "stance": "bull",
+    "text": "財報驗證：營收10.1億美元年增109%、指引超預期、UHP CW雷射可漲價、CPO擴產確認於2027下半年，作者稱延遲說是雜訊。"
+   },
+   {
+    "period": "08/24–09/16",
+    "stance": "neutral",
+    "text": "討論重心轉至同業：CW產能被鎖定、LITE將雷射轉內用，凸顯SIVE等商用供應商；花旗稱雷射為「下一個HBM」再獲呼應。"
+   }
+  ],
+  "risks": [
+   "槓桿清洗引發劇烈修正",
+   "CPO延遲報導衝擊股價",
+   "AI高beta板塊連動下跌",
+   "雷射轉內用、供給緊繃"
+  ]
+ },
+ "COHR": {
+  "name": "Coherent",
+  "summary": "偏多但多為側面提及。Serenity視COHR為三大CPO雷射廠之一，產能售罄、訂單排到2027年底，但InP雷射不外售，反襯商用CW雷射供應商價值。",
+  "evolution": [
+   {
+    "period": "07/02–07/24",
+    "stance": "neutral",
+    "text": "以AXTI三年晶圓長約（預付約2229萬美元）、大摩將COHR與LITE、SIVE並列三大CPO雷射廠等形式出現，POET稱其產能售罄。"
+   },
+   {
+    "period": "08/01–08/13",
+    "stance": "bull",
+    "text": "財報成焦點：訂單排到2027年底、CPO需求未延後；但InP雷射不外售，作者結論是商用CW雷射供應商變得極為重要。"
+   },
+   {
+    "period": "08/16–09/16",
+    "stance": "neutral",
+    "text": "多作為背景：輝達投資LITE與COHR、回檔時恢復最快、將雷射轉內用；鴻海擬共同投資上游，被類比輝達入股COHR。"
+   }
+  ],
+  "risks": [
+   "利潤率成長不如LITE",
+   "雷射產能優先內用",
+   "AXTI長約定價不明",
+   "AI板塊高beta回檔"
+  ]
+ },
+ "META": {
+  "name": "Meta",
+  "summary": "偏多。Serenity力駁「Meta過度建置、削減資本支出」的說法，認為Meta算力仍吃緊、資本支出持續上調，出售多餘算力反而是AI需求強勁的訊號。",
+  "evolution": [
+   {
+    "period": "06/28–07/03",
+    "stance": "bull",
+    "text": "彭博稱Meta將出售多餘算力，引發半導體重挫；作者引Google削減對Meta配額、大摩與富國觀點、Watermelon模型等反駁減支說。"
+   },
+   {
+    "period": "07/06–07/17",
+    "stance": "neutral",
+    "text": "將拋售歸咎誤導性報導；以加拿大100億美元資料中心、記憶體長約、7GW算力倍增、洽租算力給Anthropic佐證需求。"
+   },
+   {
+    "period": "07/22–09/09",
+    "stance": "bull",
+    "text": "財報確認資本支出維持或上調（1300–1450億美元），四大雲端皆稱算力短缺，作者認為AI拋售過度、利好上游與新雲。"
+   }
+  ],
+  "risks": [
+   "媒體報導引發板塊賣壓",
+   "市場誤讀出售算力意涵",
+   "實體AI受益程度不明"
+  ]
+ },
+ "AMD": {
+  "name": "超微 (AMD)",
+  "summary": "中性偏多。Serenity對AMD多為活動與產業鏈觀察：投資Anthropic換取2GW採購、Helios可能採CPO，重點在其對SIVE等CPO雷射供應鏈的外溢效應。",
+  "evolution": [
+   {
+    "period": "07/07–07/21",
+    "stance": "neutral",
+    "text": "AMD隨AI板塊無差別下跌；作者嘲諷延遲報告，並關注AMD活動是否揭露CPO路線圖、可能經Ayar或GF SCALE採用。"
+   },
+   {
+    "period": "07/22–07/26",
+    "stance": "bull",
+    "text": "AMD投資50億美元於Anthropic換2GW晶片採購；活動通路調查稱Helios未來可能採CPO、供應鏈未見延遲，作者獲贈頭巾。"
+   },
+   {
+    "period": "07/31–09/17",
+    "stance": "neutral",
+    "text": "轉為側面提及：Rosenblatt稱AMD為AAOI首個CPO客戶可能有誤；AMD與RIOT/Anthropic擴大合作、Leopold傳買入AMD選擇權。"
+   }
+  ],
+  "risks": [
+   "AI板塊無差別拋售",
+   "CPO採用無直接確認",
+   "AAOI客戶關係存疑"
+  ]
+ },
+ "MRVL": {
+  "name": "Marvell",
+  "summary": "看多且持有。Serenity認為MRVL透過Celestial光子、Google TPU合作與輝達生態結盟，正成為新一代ASIC贏家，呼應黃仁勳「下一家兆元公司」說法。",
+  "evolution": [
+   {
+    "period": "06/23–07/21",
+    "stance": "neutral",
+    "text": "CXL題材已漲291%；隨後因彭博Meta報導與AI去槓桿大跌11%，作者視為無差別拋售，仍記得黃仁勳「兆元公司」說。"
+   },
+   {
+    "period": "08/15–08/22",
+    "stance": "bull",
+    "text": "列為今年成功持股；Google取得122億美元股權選擇權、TPU合作或帶來約1200億營收，另與AMZN有Celestial相關認股權。"
+   },
+   {
+    "period": "08/31–09/17",
+    "stance": "bull",
+    "text": "輝達投資聯發科被解讀為扶植MRVL等ASIC贏家；以Celestial說明CPO價值，並留意其光學CTO提及歐洲雷射來源。"
+   }
+  ],
+  "risks": [
+   "AI板塊同步大跌",
+   "媒體報導引發賣壓",
+   "ASIC競爭格局變動"
+  ]
+ },
+ "AMZN": {
+  "name": "亞馬遜 (Amazon)",
+  "summary": "偏多。Serenity視AMZN為最喜歡的雲端巨頭與實體AI明確贏家，資本支出上調至2200億美元且算力仍不足，對上游半導體是強烈利多。",
+  "evolution": [
+   {
+    "period": "06/24–07/05",
+    "stance": "bull",
+    "text": "資本支出可換來營收與利潤成長，為最喜歡的雲端巨頭；電商生態被視為實體AI與人形機器人（投資Agility）明確受益者。"
+   },
+   {
+    "period": "07/10–07/31",
+    "stance": "bull",
+    "text": "財報上調2026資本支出至2200億美元、2026–27算力仍不足且2028產能多已預訂，作者稱「過度建置」說為胡扯。"
+   },
+   {
+    "period": "08/11–09/17",
+    "stance": "neutral",
+    "text": "轉為產業鏈背景：Agility已進駐Amazon倉庫、MRVL與AMZN有認股權、Anthropic向AMZN租用算力等。"
+   }
+  ],
+  "risks": [
+   "網路優化或削減收發器TAM",
+   "記憶體成本推高資本支出",
+   "AI板塊去槓桿波動"
+  ]
+ },
+ "IREN": {
+  "name": "IREN",
+  "summary": "由空轉中性偏多。Serenity認同IREN併Mirantis後的基本面與算力需求，但因60億美元ATM增發與高管巨額股權報酬，僅象徵性持有1股。",
+  "evolution": [
+   {
+    "period": "06/23–07/07",
+    "stance": "bear",
+    "text": "嘲諷套牢於IREN者：60億美元ATM持續稀釋、創辦人自發逾11.4億美元股權報酬；雖承認Mirantis收購有潛力。"
+   },
+   {
+    "period": "07/17–07/31",
+    "stance": "neutral",
+    "text": "Meta租算力給Anthropic、ARR目標上修至40億+驗證新雲模式；仍不進場，僅持1股表態，並預期IREN將跑贏大盤。"
+   },
+   {
+    "period": "09/01–09/17",
+    "stance": "bull",
+    "text": "九月遭重挫、250–300億資本支出令人擔憂；但ORCL高價轉售GPU產能、執行長稱算力多年不足，作者轉為認同。"
+   }
+  ],
+  "risks": [
+   "ATM增發持續稀釋",
+   "高管股權報酬過高",
+   "龐大資本支出與總經",
+   "季節性重挫波動"
+  ]
+ },
+ "AVGO": {
+  "name": "博通 (Broadcom)",
+  "summary": "中性偏多。Serenity肯定AVGO AI營收FY27–28年增約100%、產能受限仍高成長，並以其稱雷射需求遠超供給驗證雷射瓶頸，但擔心輝達扶植ASIC對手。",
+  "evolution": [
+   {
+    "period": "07/21–08/18",
+    "stance": "neutral",
+    "text": "多為背景提及：三星與AVGO合作、AVGO為CPO交換器平台、AI半導體從AVGO到TSM普遍回檔。"
+   },
+   {
+    "period": "08/31–09/01",
+    "stance": "bear",
+    "text": "輝達投資聯發科35億美元，被視為扶植MRVL等ASIC新贏家、侵蝕AVGO地位，或推動AMD、AVGO與雲端業者靠攏。"
+   },
+   {
+    "period": "09/02–09/15",
+    "stance": "bull",
+    "text": "法說釐清：FY27約1150億、FY28約2300億美元遠超預期且需求更高；執行長稱EML/CW雷射需求遠超供給。"
+   }
+  ],
+  "risks": [
+   "輝達扶植ASIC對手",
+   "產能限制營收",
+   "財報後股價賣壓"
+  ]
+ }
+}
