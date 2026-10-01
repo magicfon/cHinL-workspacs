@@ -4,7 +4,7 @@
 https://github.com/yan-labs/serenity-aleabitoreddit （data/aleabitoreddit_tweets.csv）。
 這個環境連不到 x.com，所以只能等存檔更新；存檔沒有新貼文時，頁面不變。
 
-1. `python3 scripts/serenity/fetch_new.py` → 產生 `new_tweets.json`。顯示 0 則就到第 5 步。
+1. `python3 scripts/serenity/fetch_new.py`（讀公開存檔＋Hermes 每天寫入的 `inbox/`）→ 產生 `new_tweets.json`。顯示 0 則就到第 5 步。
 2. 逐則判讀 `new_tweets.json`，寫 `scripts/serenity/new_labels.json`：
    `[{"id": "...", "s": {"TICKER": "bull|bear|neutral"}, "zh": "...", "risk": "..."}]`
    - 每則貼文的每個代號都要有立場。bull＝作者看好／持有／指出利多；bear＝看壞／警告／賣出；

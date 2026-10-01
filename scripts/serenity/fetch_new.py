@@ -1,4 +1,7 @@
-"""Download the public @aleabitoreddit archive and list posts not yet labeled.
+"""Collect @aleabitoreddit posts not yet labeled.
+
+Sources: the public archive CSV, plus scripts/serenity/inbox/*.json written by the
+always-on Hermes agent (see HERMES.md). Duplicates are merged by post id.
 
 Writes new_tweets.json: [{id,date,text,quoted,tickers,likes}] for original posts
 with $TICKER mentions inside the 90-day window that are missing from posts.json.
@@ -11,8 +14,26 @@ HERE = Path(__file__).parent
 SRC = "https://raw.githubusercontent.com/yan-labs/serenity-aleabitoreddit/main/data/aleabitoreddit_tweets.csv"
 csv.field_size_limit(10**9)
 
-raw = urllib.request.urlopen(SRC, timeout=300).read().decode("utf-8")
-rows = list(csv.DictReader(io.StringIO(raw)))
+rows = []
+try:
+    raw = urllib.request.urlopen(SRC, timeout=300).read().decode("utf-8")
+    rows = list(csv.DictReader(io.StringIO(raw)))
+except Exception as e:  # archive is a fallback; the inbox alone is enough
+    print(f"archive download failed: {e}")
+archive_ids = {r["id"] for r in rows}
+inbox = 0
+for f in sorted((HERE / "inbox").glob("*.json")):
+    for t in json.loads(f.read_text()):
+        tid = str(t["id"])
+        if tid in archive_ids or not t.get("text") or not t.get("date"):
+            continue
+        archive_ids.add(tid)
+        inbox += 1
+        rows.append({"id": tid, "createdAtISO": t["date"][:10], "text": t["text"],
+                     "isRetweet": "True" if t.get("is_repost") else "False",
+                     "quoted_text": t.get("quoted_text", ""), "likes": t.get("likes", 0)})
+if not rows:
+    raise SystemExit("no source data")
 posts = json.loads((HERE / "posts.json").read_text())
 known = {p["id"] for p in posts}
 likes = {r["id"]: int(r["likes"] or 0) for r in rows}
@@ -38,4 +59,4 @@ for p in posts:
 (HERE / "posts.json").write_text(json.dumps(posts, ensure_ascii=False, indent=0))
 new.sort(key=lambda x: x["date"])
 (HERE / "new_tweets.json").write_text(json.dumps(new, ensure_ascii=False, indent=1))
-print(f"archive latest post: {latest}; archive rows: {len(rows)}; new posts to label: {len(new)}")
+print(f"latest post: {latest}; rows: {len(rows)} (inbox-only {inbox}); new posts to label: {len(new)}")
