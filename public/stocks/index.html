@@ -153,6 +153,7 @@ footer { margin-top: 24px; font-size: 12px; color: var(--muted); max-width: 72ch
       <button type="button" data-v="ALL" aria-pressed="true">全部</button>
       <button type="button" data-v="TW" aria-pressed="false">台股</button>
       <button type="button" data-v="US" aria-pressed="false">美股</button>
+      <button type="button" data-v="SER" aria-pressed="false">Serenity</button>
     </span></div>
     <div><label class="lbl">評分期間</label><span class="seg" id="segHz">
       <button type="button" data-v="long" aria-pressed="true">長期</button>
@@ -165,6 +166,7 @@ footer { margin-top: 24px; font-size: 12px; color: var(--muted); max-width: 72ch
   <div class="grid">
     <section class="panel" aria-label="評分排行">
       <div class="list-head"><span id="listTitle">長期評分排行</span><span id="listCount"></span></div>
+      <div id="serNote" class="sub" style="padding:10px 14px;border-bottom:1px solid var(--line)" hidden></div>
       <div id="list"></div>
     </section>
     <section class="panel detail" id="detail" aria-live="polite"></section>
@@ -245,6 +247,8 @@ function demoSeries(s, n = 180) {
 function twTick(p) { return p < 10 ? .01 : p < 50 ? .05 : p < 100 ? .1 : p < 500 ? .5 : p < 1000 ? 1 : 5 }
 function roundPx(p, m) { if (m === "TW") { const t = twTick(p); return Math.round(p / t) * t } return Math.round(p * 100) / 100 }
 function fmtPx(p, m, tick = false) { const v = tick ? roundPx(p, m) : p; const d = m === "TW" ? (tick ? (twTick(v) < .1 ? 2 : twTick(v) < 1 ? 1 : 0) : 2) : 2; return v.toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d }) }
+const pxs = (p, m) => p == null || !Number.isFinite(p) ? "—" : fmtPx(p, m);
+const nz = v => v == null ? "—" : v;
 const cur = m => m === "TW" ? "NT$" : "US$";
 /* 台股紅漲綠跌、美股綠漲紅跌 */
 const moveColor = (chg, m) => chg === 0 ? "var(--muted)" : (chg > 0) === (m === "TW") ? "var(--red)" : "var(--green)";
@@ -266,11 +270,22 @@ const HZ = { long: { name: "長期", span: "1 年以上" }, mid: { name: "中期
 const LIVE = {};
 function enrich(s) {
   const lv = LIVE[s.ticker];
-  const prices = Array.isArray(s.prices) && s.prices.length >= 70 ? s.prices.map(Number) : demoSeries(s);
+  const ser = SER[s.ticker];
+  const realPrices = Array.isArray(s.prices) && s.prices.length >= 70;
+  if (s.noDemo) {
+    if (s.dividendYield == null) s.dividendYield = 0;
+    if (s.sectorPe == null) { s.sectorPe = 25; s.approx = true }
+    const lastPx = realPrices ? s.prices[s.prices.length - 1] : null;
+    const px = lv?.price ?? s.price ?? lastPx;
+    const need = ["roe", "grossMargin", "revGrowth", "epsGrowth", "debtRatio", "beta"];
+    if (!realPrices || px == null || need.some(k => s[k] == null))
+      return { ...s, ser, live: lv, prices: realPrices ? s.prices.map(Number) : [], price: px, incomplete: true, scores: { long: null, mid: null, short: null }, factors: null, views: s.views || [], avgTarget: null, upside: 0 };
+  }
+  const prices = realPrices ? s.prices.map(Number) : demoSeries(s);
   const price = Number(lv?.price ?? s.price ?? prices[prices.length - 1]);
   const ma20 = sma(prices, 20), ma60 = sma(prices, 60), r14 = rsi(prices), atr = avgMove(prices);
   const ret3m = price / prices[Math.max(0, prices.length - 64)] - 1;
-  const peg = s.epsGrowth > 0 ? s.pe / s.epsGrowth : null;
+  const peg = s.pe && s.epsGrowth > 0 ? s.pe / s.epsGrowth : null;
   const views = s.views || [];
   const tgts = views.map(v => Number(v.target)).filter(x => x > 0);
   const avgTarget = tgts.length ? tgts.reduce((a, b) => a + b, 0) / tgts.length : null;
@@ -279,14 +294,14 @@ function enrich(s) {
   const upside = avgTarget ? avgTarget / price - 1 : 0;
 
   const F = (clamp((s.roe - 5) / 25) + clamp((s.grossMargin - 10) / 50) + clamp((s.revGrowth + 5) / 35)) / 3;
-  const V = (clamp(1 - (s.pe / s.sectorPe - .6) / 1.0) + (peg == null ? 0 : clamp((2.5 - peg) / 2)) + clamp(s.dividendYield / 6)) / 3;
+  const V = ((s.pe ? clamp(1 - (s.pe / s.sectorPe - .6) / 1.0) : 0) + (peg == null ? 0 : clamp((2.5 - peg) / 2)) + clamp(s.dividendYield / 6)) / 3;
   const M = (clamp((price / ma60 - .9) / .25) + clamp(1 - Math.abs(r14 - 58) / 40) + clamp((ret3m + .1) / .35)) / 3;
   const C = (consensus + clamp((upside + .05) / .35)) / 2;
   const R = (clamp((2 - s.beta) / 1.4) + clamp((80 - s.debtRatio) / 60)) / 2;
   const factors = { F, V, M, C, R };
   const scores = {};
   for (const h in WEIGHTS) scores[h] = Math.round(Object.entries(WEIGHTS[h]).reduce((a, [k, w]) => a + w * factors[k], 0) * 100);
-  return { ...s, live: lv, prices, price, ma20, ma60, r14, atr, ret3m, peg, avgTarget, upside, consensus, factors, scores };
+  return { ...s, ser, live: lv, prices, price, ma20, ma60, r14, atr, ret3m, peg, avgTarget, upside, consensus, factors, scores };
 }
 function rating(sc) {
   if (sc >= 70) return { cls: "r4", label: "強力買進", size: "可建立完整部位（例如單檔上限為總資金 10%）" };
@@ -322,6 +337,7 @@ function plans(s) {
   return out;
 }
 function frameworks(s) {
+  if (!s.pe || !s.pb) return [{ name: "葛拉漢：本益比 × 股價淨值比 ≤ 22.5", pass: false, why: "虧損或淨值為負，不適用" }, { name: "彼得林區：PEG < 1", pass: false, why: "本益比不適用" }, { name: "巴菲特式護城河：ROE ≥ 15%、毛利率 ≥ 40%、負債比 ≤ 50%", pass: s.roe >= 15 && s.grossMargin >= 40 && s.debtRatio <= 50, why: `ROE ${s.roe}%、毛利率 ${s.grossMargin}%、負債比 ${s.debtRatio}%` }];
   const gp = s.pe * s.pb;
   return [
     { name: "葛拉漢：本益比 × 股價淨值比 ≤ 22.5", pass: gp <= 22.5, why: `目前 ${s.pe} × ${s.pb} = ${gp.toFixed(1)}` },
@@ -332,13 +348,18 @@ function frameworks(s) {
 
 /* ---------- 狀態 ---------- */
 const store = { get(k) { try { return localStorage.getItem(k) } catch { return null } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v) } catch {} } };
-let raw = DEMO, isDemo = true;
+let raw = DEMO, isDemo = true, SER_META = null;
 try { const saved = JSON.parse(store.get("desk.data") || "null"); if (Array.isArray(saved) && saved.length) { raw = saved; isDemo = false } } catch {}
 let data = [];
 const liveInfo = { n: 0, at: "", err: false, fund: 0 };
 const state = { market: "ALL", hz: "long", q: "", sel: null };
 try { Object.assign(state, JSON.parse(store.get("desk.ui") || "{}")) } catch {}
 
+const SER = {};
+let extra = [];
+const ALIAS = { SIVE: { apiSymbol: "SIVE.ST", ccy: "SEK" } };
+const base = () => raw.concat(extra);
+const apiKey = s => (s.apiSymbol || s.ticker).toUpperCase();
 const OV = {};
 function applyOV(s) {
   const o = OV[s.ticker]; if (!o) return s;
@@ -380,35 +401,72 @@ function chart(s) {
 /* ---------- 渲染 ---------- */
 function visible() {
   const q = state.q.trim().toLowerCase();
-  return data.filter(d => (state.market === "ALL" || d.market === state.market) && (!q || d.ticker.toLowerCase().includes(q) || d.name.toLowerCase().includes(q)))
-    .sort((a, b) => b.scores[state.hz] - a.scores[state.hz]);
+  return data.filter(d => (state.market === "ALL" || (state.market === "SER" ? !!d.ser : d.market === state.market)) && (!q || d.ticker.toLowerCase().includes(q) || d.name.toLowerCase().includes(q)))
+    .sort((a, b) => (b.scores[state.hz] ?? -1) - (a.scores[state.hz] ?? -1));
+}
+const STANCE = { bull: { t: "偏多", c: "r3" }, bear: { t: "偏空", c: "r1" }, neutral: { t: "中性", c: "r2" } };
+function renderSerNote(rows) {
+  const el = $("#serNote");
+  if (state.market !== "SER" || !SER_META) { el.hidden = true; return }
+  const okRows = rows.filter(d => d.scores[state.hz] != null);
+  const hit = okRows.filter(d => d.ser.stance === "bull" && d.scores[state.hz] >= 58).map(d => d.ticker);
+  const gap = okRows.filter(d => d.ser.stance === "bull" && d.scores[state.hz] < 45).map(d => d.ticker);
+  const none = rows.length - okRows.length;
+  el.hidden = false;
+  el.innerHTML = `貼文資料至 ${esc(SER_META.asOf)}（${esc(SER_META.author)}，近 90 日）。<br><b>共振</b>（Serenity 最新立場偏多且${HZ[state.hz].name}評分 ≥ 58）：${hit.join("、") || "無"}。<br><b>分歧</b>（偏多但評分 &lt; 45）：${gap.join("、") || "無"}。${none ? `<br>${none} 檔取不到足夠財報或價格，暫不評分。` : ""}`;
 }
 function renderList() {
   const rows = visible();
-  $("#listTitle").textContent = `${HZ[state.hz].name}評分排行`;
+  $("#listTitle").textContent = state.market === "SER" ? `Serenity 精選 · ${HZ[state.hz].name}評分` : `${HZ[state.hz].name}評分排行`;
+  renderSerNote(rows);
   $("#listCount").textContent = `${rows.length} 檔`;
   if (!state.sel || !rows.find(r => r.ticker === state.sel)) state.sel = rows[0]?.ticker ?? null;
   $("#list").innerHTML = rows.length ? rows.map((d, i) => {
-    const sc = d.scores[state.hz], r = rating(sc);
+    const sc = d.scores[state.hz], r = sc == null ? { cls: "r2", label: "資料不足" } : rating(sc);
+    const sm = d.ser ? `<span class="mk" style="color:var(--accent);border-color:var(--accent)">S</span>` : "";
+    const sub = d.ser ? `${esc(d.ticker)} · Serenity ${d.ser.mentions} 則 ${STANCE[d.ser.stance].t}` : `${esc(d.ticker)} · ${esc(d.sector)}`;
+    const chg = d.live && d.live.changePct != null ? `<small style="color:${moveColor(d.live.change, d.market)}">${pct(d.live.changePct, 2)} 今日</small>` : (d.prices.length > 64 ? `<small style="color:${moveColor(d.ret3m, d.market)}">${pct(d.ret3m)} 3月</small>` : "");
     return `<button type="button" class="row" data-t="${esc(d.ticker)}" aria-current="${d.ticker === state.sel}">
       <span class="rank num">${i + 1}</span>
-      <span style="min-width:0"><span class="nm" style="display:block">${esc(d.name)}<span class="mk">${d.market === "TW" ? "台" : "美"}</span></span><span class="tk num" style="display:block">${esc(d.ticker)} · ${esc(d.sector)}</span></span>
-      <span class="px num">${fmtPx(d.price, d.market)}${d.live && d.live.changePct != null ? `<small style="color:${moveColor(d.live.change, d.market)}">${pct(d.live.changePct, 2)} 今日</small>` : `<small style="color:${moveColor(d.ret3m, d.market)}">${pct(d.ret3m)} 3月</small>`}</span>
-      <span class="score-cell"><b>${sc}</b><br><span class="chip ${r.cls}">${r.label}</span></span>
+      <span style="min-width:0"><span class="nm" style="display:block">${esc(d.name)}<span class="mk">${d.market === "TW" ? "台" : "美"}</span>${sm}</span><span class="tk num" style="display:block">${sub}</span></span>
+      <span class="px num">${pxs(d.price, d.market)}${chg}</span>
+      <span class="score-cell"><b>${sc ?? "—"}</b><br><span class="chip ${r.cls}">${r.label}</span></span>
     </button>`;
   }).join("") : `<div class="empty">沒有符合條件的股票。試著清除搜尋或切換市場。</div>`;
+}
+function serSection(s) {
+  const a = s.ser; if (!a) return "";
+  const st = STANCE[a.stance] || STANCE.neutral;
+  return `<div>
+    <div class="sec-title"><span>Serenity 觀點 · ${esc(SER_META?.author || "")}</span><span class="num">近 90 日 ${a.mentions} 則 · 偏多 ${a.bull} / 偏空 ${a.bear} / 中性 ${a.neutral}${a.lastDate ? " · 最後提及 " + esc(a.lastDate) : ""}</span></div>
+    <div style="display:grid;gap:12px">
+      <div><span class="chip ${st.c}">最新立場 ${st.t}</span> <span style="margin-left:6px">${esc(a.summary)}</span></div>
+      ${a.evolution.length ? `<div class="views">${a.evolution.map(e => `<div class="view"><span class="src num">${esc(e.period)}</span><span><span class="chip ${(STANCE[e.stance] || STANCE.neutral).c}">${(STANCE[e.stance] || STANCE.neutral).t}</span></span><span class="note">${esc(e.text)}</span></div>`).join("")}</div>` : ""}
+      ${a.risks.length ? `<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center"><span class="sub">貼文提到的風險</span>${a.risks.map(r => `<span class="chip r1">${esc(r)}</span>`).join("")}</div>` : ""}
+      ${a.recent.length ? `<div class="views">${a.recent.map(r => `<div class="view"><span class="src num">${esc(r.date)}</span><span><span class="chip ${(STANCE[r.stance] || STANCE.neutral).c}">${(STANCE[r.stance] || STANCE.neutral).t}</span></span><span class="note">${esc(r.zh)} <a href="https://x.com/aleabitoreddit/status/${esc(r.id)}" target="_blank" rel="noopener" style="color:var(--accent)">原文</a></span></div>`).join("")}</div>` : ""}
+      <div class="sub">以上為作者貼文的摘要與標註（立場由貼文內容判讀），不是投資建議，也不代表本評分的結論。</div>
+    </div>
+  </div>`;
+}
+function incompleteView(s) {
+  return `<div class="d-head"><div><div class="tk num">${esc(s.ticker)} · ${s.market === "TW" ? "台股" : "美股"}${s.ccy ? " · " + esc(s.ccy) : ""} · ${esc(s.sector)}</div><h2>${esc(s.name)}</h2></div>
+    <div class="d-price"><div class="big num">${s.price == null ? "—" : (s.ccy || cur(s.market)) + " " + fmtPx(s.price, s.market)}</div></div></div>
+    <div class="empty" style="padding:0;color:var(--muted)">這檔還取不到足夠的財報或價格，暫時不評分。可能是 FMP 免費方案不含這檔，或代號不被支援。</div>
+    ${serSection(s)}`;
 }
 function renderDetail() {
   const s = data.find(d => d.ticker === state.sel), el = $("#detail");
   if (!s) { el.innerHTML = `<div class="empty">選擇左側一檔股票查看詳情。</div>`; return }
+  if (s.incomplete) { el.innerHTML = incompleteView(s); return }
   const pl = plans(s), fws = frameworks(s), m = s.market;
   const w = WEIGHTS[state.hz];
-  const metric = (k, v) => `<div class="metric"><div class="k">${k}</div><div class="v">${v}</div></div>`;
+  const metric = (k, v) => v === null || v === undefined ? metricRaw(k, "—") : metricRaw(k, v);
+  const metricRaw = (k, v) => `<div class="metric"><div class="k">${k}</div><div class="v">${v}</div></div>`;
   const stanceTxt = { buy: "買進", hold: "中立", sell: "賣出" };
   el.innerHTML = `
     <div class="d-head">
       <div><div class="tk num">${esc(s.ticker)} · ${m === "TW" ? "台股" : "美股"} · ${esc(s.sector)}${s.asOf ? ` · 資料日 ${esc(s.asOf)}` : ""}</div><h2>${esc(s.name)}</h2></div>
-      <div class="d-price"><div class="big num">${cur(m)} ${fmtPx(s.price, m)}</div>${s.live && s.live.change != null ? `<div class="num" style="color:${moveColor(s.live.change, m)}">${s.live.change > 0 ? "+" : ""}${fmtPx(s.live.change, m)}（${pct(s.live.changePct, 2)}）今日</div><div class="sub num">${s.live.stale ? "尚無成交，顯示委買賣或昨收 · " : ""}報價時間 ${new Date(s.live.time).toLocaleTimeString("zh-TW", { hour12: false })}</div>` : `<div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div>`}<div class="sub">${s.real && s.real.length ? "真實資料：" + esc(s.real.join("、")) + (s.real.some(x => x.includes("共識")) ? "" : "；機構觀點為示範") : "財報與機構觀點為示範資料"}</div></div>
+      <div class="d-price"><div class="big num">${s.ccy || cur(m)} ${fmtPx(s.price, m)}</div>${s.live && s.live.change != null ? `<div class="num" style="color:${moveColor(s.live.change, m)}">${s.live.change > 0 ? "+" : ""}${fmtPx(s.live.change, m)}（${pct(s.live.changePct, 2)}）今日</div><div class="sub num">${s.live.stale ? "尚無成交，顯示委買賣或昨收 · " : ""}報價時間 ${new Date(s.live.time).toLocaleTimeString("zh-TW", { hour12: false })}</div>` : `<div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div>`}<div class="sub">${s.real && s.real.length ? "真實資料：" + esc(s.real.join("、")) + (s.real.some(x => x.includes("共識")) ? "" : "；機構觀點為示範") : "財報與機構觀點為示範資料"}</div></div>
     </div>
 
     <div>
@@ -421,6 +479,8 @@ function renderDetail() {
           <div style="margin-top:8px"><span class="chip ${r.cls}">${r.label}</span></div>
         </button>` }).join("")}</div>
     </div>
+
+    ${serSection(s)}
 
     <div>
       <div class="sec-title"><span>${HZ[state.hz].name}評分組成</span><span>分數 · 權重</span></div>
@@ -436,7 +496,7 @@ function renderDetail() {
     <div>
       <div class="sec-title"><span>財務與技術指標</span></div>
       <div class="metrics">
-        ${metric("本益比", s.pe)}${metric("產業本益比", s.sectorPe)}${metric("PEG", s.peg == null ? "—" : s.peg.toFixed(2))}${metric("股價淨值比", s.pb)}
+        ${metric("本益比", s.pe)}${metric(s.approx ? "產業本益比（暫代）" : "產業本益比", s.sectorPe)}${metric("PEG", s.peg == null ? "—" : s.peg.toFixed(2))}${metric("股價淨值比", s.pb)}
         ${metric("ROE", s.roe + "%")}${metric("毛利率", s.grossMargin + "%")}${metric("營收年增", s.revGrowth + "%")}${metric("EPS 年增", s.epsGrowth + "%")}
         ${metric("殖利率", s.dividendYield + "%")}${metric("負債比", s.debtRatio + "%")}${metric("Beta", s.beta)}${metric("RSI(14)", s.r14.toFixed(0))}
       </div>
@@ -492,30 +552,30 @@ $("#btnImport").addEventListener("click", () => {
     if (miss.length) { msg.className = "msg err"; msg.textContent = `第 ${i + 1} 筆缺少欄位：${miss.join("、")}`; return }
     if (!["TW", "US"].includes(s.market)) { msg.className = "msg err"; msg.textContent = `第 ${i + 1} 筆的 market 必須是 TW 或 US。`; return }
   }
-  raw = arr; isDemo = false; store.set("desk.data", JSON.stringify(arr)); load(raw); state.sel = null; render();
+  raw = arr; isDemo = false; store.set("desk.data", JSON.stringify(arr)); load(base()); state.sel = null; render();
   msg.textContent = `已套用 ${arr.length} 檔股票。`;
 });
-$("#btnReset").addEventListener("click", () => { raw = DEMO; isDemo = true; store.set("desk.data", null); load(raw); state.sel = null; render(); $("#importMsg").textContent = "已還原示範資料。" });
+$("#btnReset").addEventListener("click", () => { raw = DEMO; isDemo = true; store.set("desk.data", null); load(base()); state.sel = null; render(); $("#importMsg").textContent = "已還原示範資料。" });
 
 async function pullQuotes() {
   if (document.hidden) return;
   try {
-    const syms = raw.map(s => `${s.market}:${s.ticker}`).join(",");
+    const list = base(); const syms = list.map(s => `${s.market}:${apiKey(s)}`).join(",");
     const res = await fetch("/api/quotes?symbols=" + encodeURIComponent(syms), { cache: "no-store", credentials: "same-origin" });
     if (!res.ok || !(res.headers.get("content-type") || "").includes("json")) throw new Error("http " + res.status);
     const j = await res.json();
     for (const k in LIVE) delete LIVE[k];
-    Object.assign(LIVE, j.quotes || {});
+    for (const s of list) { const q = (j.quotes || {})[apiKey(s)]; if (q) LIVE[s.ticker] = q }
     liveInfo.n = Object.keys(LIVE).length; liveInfo.err = liveInfo.n === 0;
     liveInfo.at = new Date(j.fetchedAt).toLocaleTimeString("zh-TW", { hour12: false });
   } catch (e) { liveInfo.n = 0; liveInfo.err = true; }
-  load(raw); render();
+  load(base()); render();
 }
 async function pullFund() {
   const fails = [];
-  await Promise.all(raw.map(async s => {
+  await Promise.all(base().map(async s => {
     try {
-      const res = await fetch("/api/fundamentals?symbol=" + encodeURIComponent(s.market + ":" + s.ticker), { credentials: "same-origin" });
+      const res = await fetch("/api/fundamentals?symbol=" + encodeURIComponent(s.market + ":" + apiKey(s)), { credentials: "same-origin" });
       if (!res.ok || !(res.headers.get("content-type") || "").includes("json")) throw new Error("http " + res.status);
       const j = await res.json();
       if (j.real && j.real.length) OV[s.ticker] = j; else fails.push(s.ticker + ": " + (j.errors || []).join("; "));
@@ -523,11 +583,24 @@ async function pullFund() {
   }));
   liveInfo.fund = Object.keys(OV).length;
   if (fails.length) console.warn("fundamentals", fails);
-  load(raw); render();
+  load(base()); render();
+}
+async function loadSer() {
+  try {
+    const res = await fetch("/stocks/serenity.json", { cache: "no-cache", credentials: "same-origin" });
+    if (!res.ok) throw new Error("http " + res.status);
+    const j = await res.json();
+    SER_META = { asOf: j.asOf, author: j.author };
+    const have = new Set(raw.map(r => r.ticker));
+    extra = [];
+    for (const p of j.picks) {
+      SER[p.ticker] = p;
+      if (!have.has(p.ticker)) extra.push({ ticker: p.ticker, name: p.name || p.ticker, market: "US", sector: "Serenity 追蹤", noDemo: true, ...(ALIAS[p.ticker] || {}) });
+    }
+  } catch (e) { console.warn("serenity", e.message) }
 }
 load(raw); render();
-pullFund();
-pullQuotes();
+loadSer().then(() => { load(base()); render(); pullFund(); pullQuotes() });
 setInterval(pullFund, 30 * 60000);
 setInterval(pullQuotes, 20000);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) pullQuotes(); });

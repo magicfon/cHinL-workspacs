@@ -3,7 +3,9 @@ import { NextRequest, NextResponse } from "next/server";
 export const dynamic = "force-dynamic";
 export const maxDuration = 30;
 
-const CACHE_SECONDS = 6 * 60 * 60; // 財報與比率變動慢，快取 6 小時，節省免費額度
+const CACHE_SECONDS = 6 * 60 * 60; // FinMind：財報變動慢，快取 6 小時
+const SLOW_SECONDS = 48 * 60 * 60; // FMP 免費額度每天 250 次：比率與成長率快取 48 小時
+const HIST_SECONDS = 12 * 60 * 60; // FMP 股價歷史快取 12 小時
 
 type Fields = Partial<{
   pe: number; pb: number; roe: number; grossMargin: number; revGrowth: number; epsGrowth: number;
@@ -95,11 +97,11 @@ async function taiwan(id: string): Promise<Result> {
 }
 
 /* ---------------- FMP（美股） ---------------- */
-async function fmp(path: string, params: Record<string, string>): Promise<Record<string, unknown>[]> {
+async function fmp(path: string, params: Record<string, string>, revalidate = SLOW_SECONDS): Promise<Record<string, unknown>[]> {
   const key = process.env.FMP_API_KEY;
   if (!key) throw new Error("未設定 FMP_API_KEY");
   const qs = new URLSearchParams({ ...params, apikey: key });
-  const res = await fetch(`https://financialmodelingprep.com/stable/${path}?${qs}`, { next: { revalidate: CACHE_SECONDS } });
+  const res = await fetch(`https://financialmodelingprep.com/stable/${path}?${qs}`, { next: { revalidate } });
   const json = await res.json().catch(() => null);
   if (!res.ok || !Array.isArray(json)) throw new Error(`${path}: ${(json && (json["Error Message"] || json.message)) ?? "HTTP " + res.status}`);
   return json;
@@ -110,7 +112,7 @@ async function us(symbol: string): Promise<Result> {
   const s = { symbol };
   const [ratios, metrics, growth, profile, target, hist] = await Promise.allSettled([
     fmp("ratios-ttm", s), fmp("key-metrics-ttm", s), fmp("financial-growth", { ...s, limit: "1" }),
-    fmp("profile", s), fmp("price-target-consensus", s), fmp("historical-price-eod/light", { ...s, from: daysAgo(280) }),
+    fmp("profile", s), fmp("price-target-consensus", s), fmp("historical-price-eod/light", { ...s, from: daysAgo(280) }, HIST_SECONDS),
   ]);
   const fail = (r: PromiseRejectedResult) => out.errors.push(String(r.reason?.message ?? r.reason));
   const pct = (v: unknown) => { const n = num(v); return n == null ? undefined : r2(n * 100); };

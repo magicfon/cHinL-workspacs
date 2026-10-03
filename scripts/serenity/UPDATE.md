@@ -16,6 +16,6 @@ https://github.com/yan-labs/serenity-aleabitoreddit （data/aleabitoreddit_tweet
 4. 若新貼文提到 `analysis.json` 裡的前幾大代號，且論點有明顯變化（立場改變、新的催化劑或風險），
    更新該代號的 `summary`、`evolution`（最後一段延長或新增一段，`MM/DD–MM/DD`）、`risks`。
    只根據貼文內容，不加外部事實。
-5. `python3 scripts/serenity/build.py`
-6. 刪掉 `new_tweets.json`、`new_labels.json`。若 `public/serenity/index.html` 或 `posts.json` 有變更，
+5. `python3 scripts/serenity/build.py && python3 scripts/serenity/export_picks.py`（後者更新 /stocks 的 Serenity 精選）
+6. 刪掉 `new_tweets.json`、`new_labels.json`。若 `public/serenity/index.html`、`public/stocks/serenity.json` 或 `posts.json` 有變更，
    commit 到 main 並 push（Vercel 會自動部署）。沒有變更就不要 commit。
