@@ -413,7 +413,7 @@ function renderSerNote(rows) {
   const gap = okRows.filter(d => d.ser.stance === "bull" && d.scores[state.hz] < 45).map(d => d.ticker);
   const none = rows.length - okRows.length;
   el.hidden = false;
-  el.innerHTML = `貼文資料至 ${esc(SER_META.asOf)}（${esc(SER_META.author)}，近 90 日）。<br><b>共振</b>（Serenity 最新立場偏多且${HZ[state.hz].name}評分 ≥ 58）：${hit.join("、") || "無"}。<br><b>分歧</b>（偏多但評分 &lt; 45）：${gap.join("、") || "無"}。${none ? `<br>${none} 檔取不到足夠財報或價格，暫不評分。` : ""}`;
+  el.innerHTML = `貼文資料至 ${esc(SER_META.asOf)}（${esc(SER_META.author)}，近 90 日）。<br><a href="/serenity" style="color:var(--accent);font-weight:500">前往 Serenity 完整追蹤頁（每日、每週、每月、每季）→</a><br><b>共振</b>（Serenity 最新立場偏多且${HZ[state.hz].name}評分 ≥ 58）：${hit.join("、") || "無"}。<br><b>分歧</b>（偏多但評分 &lt; 45）：${gap.join("、") || "無"}。${none ? `<br>${none} 檔取不到足夠財報或價格，暫不評分。` : ""}`;
 }
 function renderList() {
   const rows = visible();
@@ -438,7 +438,7 @@ function serSection(s) {
   const a = s.ser; if (!a) return "";
   const st = STANCE[a.stance] || STANCE.neutral;
   return `<div>
-    <div class="sec-title"><span>Serenity 觀點 · ${esc(SER_META?.author || "")}</span><span class="num">近 90 日 ${a.mentions} 則 · 偏多 ${a.bull} / 偏空 ${a.bear} / 中性 ${a.neutral}${a.lastDate ? " · 最後提及 " + esc(a.lastDate) : ""}</span></div>
+    <div class="sec-title"><span>Serenity 觀點 · ${esc(SER_META?.author || "")}</span><span class="num"><a href="/serenity" style="color:var(--accent)">完整追蹤頁 →</a> · 近 90 日 ${a.mentions} 則 · 偏多 ${a.bull} / 偏空 ${a.bear} / 中性 ${a.neutral}${a.lastDate ? " · 最後提及 " + esc(a.lastDate) : ""}</span></div>
     <div style="display:grid;gap:12px">
       <div><span class="chip ${st.c}">最新立場 ${st.t}</span> <span style="margin-left:6px">${esc(a.summary)}</span></div>
       ${a.evolution.length ? `<div class="views">${a.evolution.map(e => `<div class="view"><span class="src num">${esc(e.period)}</span><span><span class="chip ${(STANCE[e.stance] || STANCE.neutral).c}">${(STANCE[e.stance] || STANCE.neutral).t}</span></span><span class="note">${esc(e.text)}</span></div>`).join("")}</div>` : ""}
