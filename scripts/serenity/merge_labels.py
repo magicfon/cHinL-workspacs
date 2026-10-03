@@ -2,6 +2,8 @@
 import json
 from pathlib import Path
 
+from flips import find_flips
+
 HERE = Path(__file__).parent
 new = {t["id"]: t for t in json.loads((HERE / "new_tweets.json").read_text())}
 labels = json.loads((HERE / "new_labels.json").read_text())
@@ -22,3 +24,7 @@ if missing:
 posts.sort(key=lambda p: (p["date"], p["id"]))
 (HERE / "posts.json").write_text(json.dumps(posts, ensure_ascii=False, indent=0))
 print(f"added {added}; total {len(posts)}")
+new_ids = {l["id"] for l in labels}
+for f in find_flips(posts):
+    if f["id"] in new_ids:
+        print(f"FLIP {f['t']}: {f['from']} -> {f['to']} on {f['date']} (was {f['from']} since {f['prevDate']})")

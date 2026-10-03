@@ -13,6 +13,8 @@ https://github.com/yan-labs/serenity-aleabitoreddit （data/aleabitoreddit_tweet
    - `risk`：貼文提到的風險，30 字內繁中短語；沒有就空字串。
    - 稱呼作者用「作者」或「Serenity」。
 3. `python3 scripts/serenity/merge_labels.py`
+   - 若印出 `FLIP` 行，代表某檔股票的立場由多轉空或由空轉多（頁面上的「⇄ 立場翻轉提醒」會自動列出）。
+     使用者要求特別提醒：部署後的回覆要逐檔列出翻轉（代號、原立場→新立場、一句原因）。
 4. 若新貼文提到 `analysis.json` 裡的前幾大代號，且論點有明顯變化（立場改變、新的催化劑或風險），
    更新該代號的 `summary`、`evolution`（最後一段延長或新增一段，`MM/DD–MM/DD`）、`risks`。
    只根據貼文內容，不加外部事實。

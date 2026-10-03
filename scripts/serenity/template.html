@@ -73,6 +73,16 @@ a{color:var(--accent)}
 .st span{font-size:12px;color:var(--muted)}
 .st b{font-family:var(--f-mono);font-size:24px;line-height:1.2}
 .st.bull b{color:var(--bull)} .st.bear b{color:var(--bear)} .st.neu b{color:var(--neu)}
+.flips{list-style:none;margin:0;padding:0}
+.flips li+li{border-top:1px solid var(--line)}
+.fl{display:grid;grid-template-columns:auto auto 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;background:none;border:0;padding:10px 18px;color:inherit;font:inherit;cursor:pointer}
+.fl:hover{background:var(--soft)}
+.fl .tk{font-family:var(--f-mono);font-weight:700}
+.fl .z{min-width:0;font-size:13px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fl .arr{white-space:nowrap}
+.fbadge{font-size:11px;color:var(--warn);background:var(--warn-soft);border-radius:6px;padding:1px 6px;margin-left:6px;white-space:nowrap}
+#flipsCard{border-color:var(--warn)}
+@media (max-width:720px){.fl{grid-template-columns:auto 1fr auto}.fl .z{grid-column:1/-1;order:1;white-space:normal}}
 .st[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:-2px}
 @media (max-width:720px){.sum{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .st:first-child{grid-column:span 2}}
 
@@ -169,6 +179,11 @@ li.open .chev{transform:rotate(90deg)}
     </div>
   </nav>
 
+  <section class="card" id="flipsCard" hidden>
+    <div class="card-h"><h2>⇄ 立場翻轉提醒</h2><span class="muted" style="font-size:12px" id="flipsSub"></span></div>
+    <ul class="flips" id="flips"></ul>
+  </section>
+
   <section class="sum" id="sum" aria-label="立場總覽"></section>
 
   <section class="card">
@@ -201,7 +216,7 @@ var DATA=/*DATA*/;
 "use strict";
 var SL={bull:"偏多",bear:"偏空",neutral:"中性"};
 var P=DATA.posts, A=DATA.analysis||{}, NAMES=DATA.names||{};
-var ASOF=DATA.asOf;
+var ASOF=DATA.asOf, FL=DATA.flips||[], PBY={};P.forEach(function(p){PBY[p.id]=p;});
 function dnum(d){return Date.parse(d+"T00:00:00Z")/86400000;}
 var ASN=dnum(ASOF);
 var days=[];P.forEach(function(p){if(days.indexOf(p.date)<0)days.push(p.date);});days.sort();
@@ -243,16 +258,17 @@ function renderTabs(){
 function render(){
   renderTabs();
   var posts=P.filter(inWin), g=group(mentions(inWin));
+  var fset={};FL.forEach(function(f){if(inWin(f))fset[f.t]=1;});
   var cnt={bull:0,bear:0,neutral:0};g.forEach(function(x){cnt[x.now]++;});
   var lbl={1:st.day,7:"近 7 日",28:"近 28 日",90:"近 90 日"}[st.w];
-  var tiles=[["all","","提及股票",g.length+'<small class="muted" style="font-size:12px;font-weight:400"> 檔・'+posts.length+' 則貼文</small>'],["bull","bull","目前偏多",cnt.bull],["bear","bear","目前偏空",cnt.bear],["neutral","neu","目前中性",cnt.neutral],["flip","","期間內出現偏空的股票",g.filter(function(x){return x.c.bear>0;}).length]];
+  var tiles=[["all","","提及股票",g.length+'<small class="muted" style="font-size:12px;font-weight:400"> 檔・'+posts.length+' 則貼文</small>'],["bull","bull","目前偏多",cnt.bull],["bear","bear","目前偏空",cnt.bear],["neutral","neu","目前中性",cnt.neutral],["flip","","立場翻轉",g.filter(function(x){return fset[x.t];}).length]];
   document.getElementById("sum").innerHTML=tiles.map(function(t){return '<button type="button" class="st '+t[1]+'" data-f="'+t[0]+'" aria-pressed="'+(st.f===t[0])+'"><span>'+lbl+'・'+t[2]+'</span><b>'+t[3]+'</b></button>';}).join("");
   var q=st.q.trim().toUpperCase().replace(/^\$/,"");
   var shown=g.filter(function(x){
-    if(st.f==="flip"&&!x.c.bear)return false;
+    if(st.f==="flip"&&!fset[x.t])return false;
     if(SL[st.f]&&x.now!==st.f)return false;
     if(q&&x.t.indexOf(q)<0&&(NAMES[x.t]||"").toUpperCase().indexOf(q)<0)return false;return true;});
-  var titles={all:"提及排行",bull:"目前偏多的股票",bear:"目前偏空的股票",neutral:"目前中性的股票",flip:"期間內出現偏空看法的股票"};
+  var titles={all:"提及排行",bull:"目前偏多的股票",bear:"目前偏空的股票",neutral:"目前中性的股票",flip:"期間內立場翻轉的股票"};
   document.getElementById("rankTitle").textContent=titles[st.f];
   document.getElementById("rankSub").textContent=lbl+"・"+shown.length+" 檔";
   var LIM=60;
@@ -262,7 +278,7 @@ function render(){
     var h="";
     if(open){var l=x.list.slice().reverse(),n=st.showN[key]||5;
       h='<div class="hist">'+l.slice(0,n).map(function(m){return postHTML(m.p,m.s);}).join("")+(l.length>n?'<button type="button" class="more" data-more="'+key+'">再顯示 '+Math.min(10,l.length-n)+' 則（共 '+l.length+' 則）</button>':'')+'<button type="button" class="more" data-an="'+key+'">看 '+key+' 的完整論點分析 →</button></div>';}
-    return '<li class="'+(open?"open":"")+'"><button type="button" class="rrow" data-open="'+key+'" aria-expanded="'+open+'"><span class="no">'+(i+1)+'</span><span style="min-width:0"><span class="tk">'+key+'</span><span class="nm">'+esc(NAMES[key]||"")+'</span></span><span class="cnt">'+x.n+'<small> 次</small></span><span class="c-dist">'+dist+'</span><span>'+pill(x.now)+'</span><span class="c-date mono muted" style="font-size:12px">'+md(x.last)+'</span><span class="chev">›</span></button>'+h+'</li>';
+    return '<li class="'+(open?"open":"")+'"><button type="button" class="rrow" data-open="'+key+'" aria-expanded="'+open+'"><span class="no">'+(i+1)+'</span><span style="min-width:0"><span class="tk">'+key+'</span>'+(fset[key]?'<span class="fbadge">⇄ 翻轉</span>':'')+'<span class="nm">'+esc(NAMES[key]||"")+'</span></span><span class="cnt">'+x.n+'<small> 次</small></span><span class="c-dist">'+dist+'</span><span>'+pill(x.now)+'</span><span class="c-date mono muted" style="font-size:12px">'+md(x.last)+'</span><span class="chev">›</span></button>'+h+'</li>';
   }).join("")+(shown.length>LIM?'<li class="empty">只列出前 '+LIM+' 檔，請用搜尋找其他代號。</li>':'');
   document.getElementById("rankEmpty").hidden=shown.length>0;
 }
@@ -311,6 +327,13 @@ function renderAnalysis(){
     '<div class="sec"><h4>三則代表貼文</h4>'+keyPosts(l).map(function(m){return postHTML(m.p,m.s);}).join("")+'</div>'+
     '<div class="sec"><h4>風險因子</h4>'+(rk.length?'<ul class="risks">'+rk.map(function(r){return '<li>'+esc(r)+'</li>';}).join("")+'</ul>':'<p class="muted" style="margin:0">近 90 日貼文中未提到明確風險。</p>')+'</div>';
 }
+function renderFlips(){
+  var l=FL.filter(function(f){return ASN-dnum(f.date)<30;}).reverse();
+  document.getElementById("flipsCard").hidden=!l.length;
+  document.getElementById("flipsSub").textContent="近 30 日・"+l.length+" 次";
+  document.getElementById("flips").innerHTML=l.map(function(f){var p=PBY[f.id]||{};
+    return '<li><button type="button" class="fl" data-an="'+f.t+'"><span class="tk">$'+f.t+'</span><span class="arr">'+pill(f.from)+' → '+pill(f.to)+'</span><span class="z">'+esc(p.zh||"")+'</span><span class="mono muted" style="font-size:12px">'+md(f.date)+'</span></button></li>';}).join("");
+}
 function renderQuick(){
   var g=group(mentions(function(){return true;})).slice(0,16);
   document.getElementById("quick").innerHTML=g.map(function(x){return '<button type="button" class="qc" data-tk="'+x.t+'">'+x.t+'</button>';}).join("");
@@ -334,7 +357,7 @@ document.getElementById("hsPosts").textContent=P.length;
 document.getElementById("hsTk").textContent=Object.keys(tks).length;
 document.getElementById("hsAsof").textContent=ASOF;
 document.getElementById("footAsof").textContent=ASOF;
-renderQuick();
+renderQuick();renderFlips();
 var hv=decodeURIComponent(location.hash.slice(1)).toUpperCase();st.tk=/^[A-Z0-9.\-]{1,10}$/.test(hv)?hv:(DATA.defaultTicker||null);if(st.tk)document.getElementById("askIn").value=st.tk;
 render();renderAnalysis();
 })();
