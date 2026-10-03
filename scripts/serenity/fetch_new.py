@@ -41,6 +41,7 @@ likes = {r["id"]: int(r["likes"] or 0) for r in rows}
 latest = max(r["createdAtISO"][:10] for r in rows)
 L = datetime.fromisoformat(latest)
 new = []
+seen_text = {(p["date"], " ".join(p["text"].split())[:300]) for p in posts}
 for r in rows:
     if r["isRetweet"] != "False" or r["id"] in known:
         continue
@@ -48,6 +49,10 @@ for r in rows:
     if not 0 <= age < 90:
         continue
     tickers = sorted(set(re.findall(r"\$([A-Z]{1,6})\b", r["text"])))
+    key = (r["createdAtISO"][:10], " ".join(r["text"].split())[:300])
+    if key in seen_text:  # same post captured under several ids
+        continue
+    seen_text.add(key)
     if tickers:
         new.append({"id": r["id"], "date": r["createdAtISO"][:10], "text": r["text"][:2500],
                     "quoted": (r["quoted_text"] or "")[:600], "tickers": tickers, "likes": likes[r["id"]]})
