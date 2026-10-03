@@ -438,7 +438,7 @@ function serSection(s) {
   const a = s.ser; if (!a) return "";
   const st = STANCE[a.stance] || STANCE.neutral;
   return `<div>
-    <div class="sec-title"><span>Serenity 觀點 · ${esc(SER_META?.author || "")}</span><span class="num"><a href="/serenity" style="color:var(--accent)">完整追蹤頁 →</a> · 近 90 日 ${a.mentions} 則 · 偏多 ${a.bull} / 偏空 ${a.bear} / 中性 ${a.neutral}${a.lastDate ? " · 最後提及 " + esc(a.lastDate) : ""}</span></div>
+    <div class="sec-title"><span>Serenity 觀點 · ${esc(SER_META?.author || "")}</span><span class="num"><a href="/serenity#${encodeURIComponent(s.ticker)}" style="color:var(--accent)">完整追蹤頁 →</a> · 近 90 日 ${a.mentions} 則 · 偏多 ${a.bull} / 偏空 ${a.bear} / 中性 ${a.neutral}${a.lastDate ? " · 最後提及 " + esc(a.lastDate) : ""}</span></div>
     <div style="display:grid;gap:12px">
       <div><span class="chip ${st.c}">最新立場 ${st.t}</span> <span style="margin-left:6px">${esc(a.summary)}</span></div>
       ${a.evolution.length ? `<div class="views">${a.evolution.map(e => `<div class="view"><span class="src num">${esc(e.period)}</span><span><span class="chip ${(STANCE[e.stance] || STANCE.neutral).c}">${(STANCE[e.stance] || STANCE.neutral).t}</span></span><span class="note">${esc(e.text)}</span></div>`).join("")}</div>` : ""}

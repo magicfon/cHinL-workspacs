@@ -335,7 +335,7 @@ document.getElementById("hsTk").textContent=Object.keys(tks).length;
 document.getElementById("hsAsof").textContent=ASOF;
 document.getElementById("footAsof").textContent=ASOF;
 renderQuick();
-st.tk=DATA.defaultTicker||null;if(st.tk)document.getElementById("askIn").value=st.tk;
+var hv=decodeURIComponent(location.hash.slice(1)).toUpperCase();st.tk=/^[A-Z0-9.\-]{1,10}$/.test(hv)?hv:(DATA.defaultTicker||null);if(st.tk)document.getElementById("askIn").value=st.tk;
 render();renderAnalysis();
 })();
 </script>
