@@ -335,11 +335,23 @@ const store = { get(k) { try { return localStorage.getItem(k) } catch { return n
 let raw = DEMO, isDemo = true;
 try { const saved = JSON.parse(store.get("desk.data") || "null"); if (Array.isArray(saved) && saved.length) { raw = saved; isDemo = false } } catch {}
 let data = [];
-const liveInfo = { n: 0, at: "", err: false };
+const liveInfo = { n: 0, at: "", err: false, fund: 0 };
 const state = { market: "ALL", hz: "long", q: "", sel: null };
 try { Object.assign(state, JSON.parse(store.get("desk.ui") || "{}")) } catch {}
 
-function load(arr) { data = arr.map(enrich); if (!data.find(d => d.ticker === state.sel)) state.sel = null }
+const OV = {};
+function applyOV(s) {
+  const o = OV[s.ticker]; if (!o) return s;
+  const r = { ...s, ...o.fields, real: o.real };
+  if (Array.isArray(o.prices) && o.prices.length >= 70) { r.prices = o.prices; r.price = o.prices[o.prices.length - 1] }
+  if (o.asOf) r.asOf = o.asOf;
+  if (o.target) {
+    const up = o.target / r.price - 1;
+    r.views = [{ source: "FMP 分析師共識目標價", stance: up > .1 ? "buy" : up < -.05 ? "sell" : "hold", target: o.target, note: "立場由目標價相對現價推算（高於 10% 買進、低於 -5% 賣出），並非各機構原始評等" }];
+  }
+  return r;
+}
+function load(arr) { data = arr.map(applyOV).map(enrich); if (!data.find(d => d.ticker === state.sel)) state.sel = null }
 
 /* ---------- 繪圖 ---------- */
 function chart(s) {
@@ -396,7 +408,7 @@ function renderDetail() {
   el.innerHTML = `
     <div class="d-head">
       <div><div class="tk num">${esc(s.ticker)} · ${m === "TW" ? "台股" : "美股"} · ${esc(s.sector)}${s.asOf ? ` · 資料日 ${esc(s.asOf)}` : ""}</div><h2>${esc(s.name)}</h2></div>
-      <div class="d-price"><div class="big num">${cur(m)} ${fmtPx(s.price, m)}</div>${s.live && s.live.change != null ? `<div class="num" style="color:${moveColor(s.live.change, m)}">${s.live.change > 0 ? "+" : ""}${fmtPx(s.live.change, m)}（${pct(s.live.changePct, 2)}）今日</div><div class="sub num">${s.live.stale ? "尚無成交，顯示委買賣或昨收 · " : ""}報價時間 ${new Date(s.live.time).toLocaleTimeString("zh-TW", { hour12: false })}</div>` : `<div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div>`}</div>
+      <div class="d-price"><div class="big num">${cur(m)} ${fmtPx(s.price, m)}</div>${s.live && s.live.change != null ? `<div class="num" style="color:${moveColor(s.live.change, m)}">${s.live.change > 0 ? "+" : ""}${fmtPx(s.live.change, m)}（${pct(s.live.changePct, 2)}）今日</div><div class="sub num">${s.live.stale ? "尚無成交，顯示委買賣或昨收 · " : ""}報價時間 ${new Date(s.live.time).toLocaleTimeString("zh-TW", { hour12: false })}</div>` : `<div class="num" style="color:${moveColor(s.ret3m, m)}">近 3 個月 ${pct(s.ret3m)}</div>`}<div class="sub">${s.real && s.real.length ? "真實資料：" + esc(s.real.join("、")) + (s.real.some(x => x.includes("共識")) ? "" : "；機構觀點為示範") : "財報與機構觀點為示範資料"}</div></div>
     </div>
 
     <div>
@@ -456,7 +468,7 @@ function syncControls() {
   for (const [id, key] of [["#segMarket", "market"], ["#segHz", "hz"]])
     document.querySelectorAll(`${id} button`).forEach(b => b.setAttribute("aria-pressed", b.dataset.v === state[key]));
   $("#q").value = state.q;
-  $("#dataFlag").textContent = (liveInfo.n ? `即時報價 ${liveInfo.n}/${data.length} 檔 · ${liveInfo.at}` + (isDemo ? "｜財報與觀點為示範資料" : "") : (liveInfo.err ? "報價連線失敗，顯示示範資料" : (isDemo ? "示範資料，非真實報價" : "使用你匯入的資料")));
+  $("#dataFlag").textContent = (liveInfo.n ? `即時報價 ${liveInfo.n}/${data.length} 檔 · ${liveInfo.at}` + (liveInfo.fund ? `｜真實財報 ${liveInfo.fund} 檔` : (isDemo ? "｜財報與觀點為示範資料" : "")) : (liveInfo.err ? (liveInfo.fund ? `即時報價連線失敗，改用最近收盤價｜真實財報 ${liveInfo.fund} 檔` : "報價連線失敗，顯示示範資料") : (isDemo ? "示範資料，非真實報價" : "使用你匯入的資料")));
 }
 function render() { renderList(); renderDetail(); syncControls(); store.set("desk.ui", JSON.stringify({ market: state.market, hz: state.hz, sel: state.sel })) }
 
@@ -499,8 +511,24 @@ async function pullQuotes() {
   } catch (e) { liveInfo.n = 0; liveInfo.err = true; }
   load(raw); render();
 }
+async function pullFund() {
+  const fails = [];
+  await Promise.all(raw.map(async s => {
+    try {
+      const res = await fetch("/api/fundamentals?symbol=" + encodeURIComponent(s.market + ":" + s.ticker), { credentials: "same-origin" });
+      if (!res.ok || !(res.headers.get("content-type") || "").includes("json")) throw new Error("http " + res.status);
+      const j = await res.json();
+      if (j.real && j.real.length) OV[s.ticker] = j; else fails.push(s.ticker + ": " + (j.errors || []).join("; "));
+    } catch (e) { fails.push(s.ticker + ": " + e.message) }
+  }));
+  liveInfo.fund = Object.keys(OV).length;
+  if (fails.length) console.warn("fundamentals", fails);
+  load(raw); render();
+}
 load(raw); render();
+pullFund();
 pullQuotes();
+setInterval(pullFund, 30 * 60000);
 setInterval(pullQuotes, 20000);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) pullQuotes(); });
 })();
