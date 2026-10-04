@@ -10,6 +10,7 @@ const nextConfig = {
     return [
       { source: "/stocks", destination: "/stocks/index.html" },
       { source: "/serenity", destination: "/serenity/index.html" },
+      { source: "/alpha", destination: "/alpha/index.html" },
     ];
   },
 };

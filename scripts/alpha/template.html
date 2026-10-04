@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Alpha Consensus 交易員共識</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: capafy Alpha Consensus 式儀表板。頂部帳號列與期間分頁（每日／每週／每月），下接共識與分歧、帳號立場矩陣、單檔深入分析。紅＝偏多、綠＝偏空（台股慣例）。 */
+:root{
+  --bg:#F3F4F7; --card:#FFFFFF; --ink:#171A21; --muted:#646B78; --line:#E1E4EA; --soft:#F7F8FA;
+  --accent:#4B4FD6; --accent-soft:#ECEDFC;
+  --bull:#D63A2F; --bull-soft:#FDECEA; --bear:#15915A; --bear-soft:#E3F5EC; --neu:#8A909B; --neu-soft:#EEEFF2;
+  --warn:#B26B00; --warn-soft:#FFF4DF;
+  --f-body:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0F1115; --card:#171A20; --ink:#E7E9EE; --muted:#9AA1AD; --line:#282C35; --soft:#1C2027;
+  --accent:#9A9DFF; --accent-soft:#25274A;
+  --bull:#FF7A70; --bull-soft:#3A1E1C; --bear:#46CF8E; --bear-soft:#15342A; --neu:#A3A9B3; --neu-soft:#262A31;
+  --warn:#F0B454; --warn-soft:#3A2D14; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#0F1115; --card:#171A20; --ink:#E7E9EE; --muted:#9AA1AD; --line:#282C35; --soft:#1C2027;
+  --accent:#9A9DFF; --accent-soft:#25274A;
+  --bull:#FF7A70; --bull-soft:#3A1E1C; --bear:#46CF8E; --bear-soft:#15342A; --neu:#A3A9B3; --neu-soft:#262A31;
+  --warn:#F0B454; --warn-soft:#3A2D14; color-scheme:dark;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:14px;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:16px;padding-block:20px 56px;display:flex;flex-direction:column;gap:16px}
+h1,h2,h3{margin:0;text-wrap:balance}
+button,input{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.muted{color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;min-width:0}
+.card-h{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line)}
+.card-h h2{font-size:16px;font-weight:700}
+.card-b{padding:16px 18px}
+
+/* header */
+.hero{display:flex;flex-wrap:wrap;gap:16px;align-items:center;padding:18px}
+.avatar{width:56px;height:56px;border-radius:50%;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:900;font-size:24px;flex:none}
+.hero-t{flex:1;min-width:220px}
+.hero-t h1{font-size:22px;font-weight:900}
+.hero-t .h{font-size:13px;color:var(--muted)}
+.hero-stats{display:flex;flex-wrap:wrap;gap:18px}
+.hs{display:flex;flex-direction:column}
+.hs b{font-family:var(--f-mono);font-size:20px}
+.hs span{font-size:12px;color:var(--muted)}
+.notice{font-size:12px;color:var(--warn);background:var(--warn-soft);border-radius:8px;padding:8px 12px}
+
+/* tabs */
+.tabs{display:flex;flex-wrap:wrap;gap:8px}
+.tab{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:8px 16px;font-weight:500;display:flex;flex-direction:column;align-items:flex-start;line-height:1.3}
+.tab small{font-size:11px;color:var(--muted);font-weight:400}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--card);border-color:var(--ink)}
+.tab[aria-selected="true"] small{color:inherit;opacity:.75}
+.daynav{display:flex;align-items:center;gap:8px;margin-left:auto}
+.daynav button{border:1px solid var(--line);background:var(--card);border-radius:8px;width:34px;height:34px}
+.daynav button:disabled{opacity:.35;cursor:default}
+
+/* summary */
+.sum{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.st{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;text-align:left;display:flex;flex-direction:column;gap:2px}
+.st span{font-size:12px;color:var(--muted)}
+.st b{font-family:var(--f-mono);font-size:24px;line-height:1.2}
+.st.bull b{color:var(--bull)} .st.bear b{color:var(--bear)} .st.neu b{color:var(--neu)}
+.flips{list-style:none;margin:0;padding:0}
+.flips li+li{border-top:1px solid var(--line)}
+.fl{display:grid;grid-template-columns:auto auto 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;background:none;border:0;padding:10px 18px;color:inherit;font:inherit;cursor:pointer}
+.fl:hover{background:var(--soft)}
+.fl .tk{font-family:var(--f-mono);font-weight:700}
+.fl .z{min-width:0;font-size:13px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fl .arr{white-space:nowrap}
+.fbadge{font-size:11px;color:var(--warn);background:var(--warn-soft);border-radius:6px;padding:1px 6px;margin-left:6px;white-space:nowrap}
+#flipsCard{border-color:var(--warn)}
+@media (max-width:720px){.fl{grid-template-columns:auto 1fr auto}.fl .z{grid-column:1/-1;order:1;white-space:normal}}
+.inst-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--neu-soft)}
+.inst-bar i{display:block;height:100%}
+.inst-row{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px}
+.inst-row b{font-family:var(--f-mono)}
+.grades{list-style:none;margin:0;padding:0;font-size:13px}
+.grades li{display:grid;grid-template-columns:auto 1fr auto;gap:10px;padding:6px 0;border-top:1px solid var(--line)}
+.grades .d{font-family:var(--f-mono);color:var(--muted);font-size:12px}
+.st[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:-2px}
+@media (max-width:720px){.sum{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .st:first-child{grid-column:span 2}}
+
+/* ranking */
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.search{border:1px solid var(--line);background:var(--soft);border-radius:8px;padding:6px 10px;width:170px;max-width:100%}
+.rank{list-style:none;margin:0;padding:0}
+.rank>li{border-bottom:1px solid var(--line)}
+.rank>li:last-child{border-bottom:0}
+.rrow{width:100%;border:0;background:transparent;display:grid;grid-template-columns:34px minmax(0,1.3fr) 64px minmax(0,1.4fr) 74px 58px 18px;gap:10px;align-items:center;padding:10px 18px;text-align:left}
+.rrow:hover{background:var(--soft)}
+.rrow .no{font-family:var(--f-mono);color:var(--muted);font-size:12px}
+.tk{font-family:var(--f-mono);font-weight:600;font-size:15px}
+.nm{display:block;font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cnt{font-family:var(--f-mono);font-weight:600;text-align:right}
+.cnt small{font-weight:400;color:var(--muted);font-size:11px}
+.dist{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--neu-soft)}
+.dist i{display:block;height:100%}
+.distl{font-size:11px;color:var(--muted);margin-top:3px;font-family:var(--f-mono)}
+.chev{color:var(--muted);transition:transform .15s}
+li.open .chev{transform:rotate(90deg)}
+.pill{display:inline-block;font-size:12px;font-weight:700;padding:1px 9px;border-radius:999px;white-space:nowrap}
+.pill.bull{color:var(--bull);background:var(--bull-soft)} .pill.bear{color:var(--bear);background:var(--bear-soft)} .pill.neutral{color:var(--neu);background:var(--neu-soft)}
+.hist{padding:4px 18px 16px 62px;display:flex;flex-direction:column;gap:10px}
+@media (max-width:720px){
+  .rrow{grid-template-columns:26px minmax(0,1fr) 52px 64px 14px;padding:10px 12px}
+  .rrow .c-dist,.rrow .c-date{display:none}
+  .hist{padding:4px 12px 14px}
+}
+.post{border-left:3px solid var(--line);padding:2px 0 2px 12px}
+.post.bull{border-color:var(--bull)} .post.bear{border-color:var(--bear)} .post.neutral{border-color:var(--neu)}
+.post .pm{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;font-size:12px;color:var(--muted)}
+.post p{margin:3px 0 0;font-size:14px}
+.post details{margin-top:4px}
+.post details summary{font-size:12px;color:var(--muted);cursor:pointer}
+.post blockquote{margin:6px 0 0;padding:8px 10px;background:var(--soft);border-radius:8px;font-size:12.5px;white-space:pre-wrap;overflow-wrap:anywhere;color:var(--ink)}
+.more{border:1px dashed var(--line);background:transparent;border-radius:8px;padding:6px;color:var(--muted);font-size:12px}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+
+/* analysis */
+.ask{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.ask input{border:1px solid var(--line);background:var(--soft);border-radius:10px;padding:8px 12px;flex:1;min-width:180px}
+.ask .btn{border:0;background:var(--accent);color:#fff;border-radius:10px;padding:8px 16px;font-weight:700}
+.quick{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.qc{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:3px 10px;font-family:var(--f-mono);font-size:12px}
+.qc[aria-pressed="true"]{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+.an{display:flex;flex-direction:column;gap:20px;margin-top:16px}
+.an-top{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:baseline}
+.an-top h3{font-size:24px;font-weight:900;font-family:var(--f-mono)}
+.sec{display:flex;flex-direction:column;gap:10px}
+.sec>h4{margin:0;font-size:13px;font-weight:700;display:flex;align-items:center;gap:8px}
+.sec>h4::before{content:"";width:4px;height:14px;border-radius:2px;background:var(--accent)}
+.evo{list-style:none;margin:0;padding:0;position:relative}
+.evo li{position:relative;padding:0 0 14px 22px}
+.evo li::before{content:"";position:absolute;left:5px;top:8px;bottom:-6px;width:2px;background:var(--line)}
+.evo li:last-child::before{display:none}
+.evo li::after{content:"";position:absolute;left:0;top:4px;width:12px;height:12px;border-radius:50%;background:var(--card);border:3px solid var(--neu)}
+.evo li.bull::after{border-color:var(--bull)} .evo li.bear::after{border-color:var(--bear)}
+.evo .per{font-size:12px;color:var(--muted);font-family:var(--f-mono)}
+.evo p{margin:2px 0 0}
+.risks{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+.risks li::marker{color:var(--warn)}
+.chart{overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:360px;height:auto}
+.foot{font-size:12px;color:var(--muted);line-height:1.7}
+/* alpha */
+.accs{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.acc{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:10px 12px;text-align:left;display:flex;gap:10px;align-items:flex-start}
+.acc[aria-pressed="false"]{opacity:.45}
+.acc .av{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:900;flex:none}
+.acc b{display:block;font-size:13.5px}
+.acc .h{font-size:12px;color:var(--muted);font-family:var(--f-mono)}
+.acc .y{display:block;font-size:11.5px;color:var(--muted);line-height:1.4;margin-top:2px}
+.acc .n{font-size:11.5px;margin-top:4px;display:block}
+.acc .n.zero{color:var(--warn)}
+.cons{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}
+.cons>div{padding:14px 18px;min-width:0}
+.cons>div+div{border-left:1px solid var(--line)}
+.cons h3{font-size:13px;margin-bottom:8px}
+.cons ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.cons li button{width:100%;border:0;background:var(--soft);border-radius:8px;padding:6px 10px;text-align:left;display:flex;justify-content:space-between;gap:8px;align-items:center}
+.cons li button:hover{outline:1px solid var(--accent)}
+.cons .who{font-size:11.5px;color:var(--muted);text-align:right}
+@media (max-width:720px){.cons{grid-template-columns:1fr}.cons>div+div{border-left:0;border-top:1px solid var(--line)}}
+.mx-wrap{overflow-x:auto}
+table.mx{border-collapse:collapse;width:100%;font-size:13px}
+.mx th,.mx td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:center;white-space:nowrap}
+.mx th{font-size:11.5px;color:var(--muted);font-weight:500}
+.mx th:first-child,.mx td:first-child{text-align:left;position:sticky;left:0;background:var(--card)}
+.mx tbody tr{cursor:pointer}
+.mx tbody tr:hover td{background:var(--soft)}
+.mx .dot{color:var(--line)}
+.net{font-family:var(--f-mono);font-weight:700}
+.net.pos{color:var(--bull)} .net.neg{color:var(--bear)}
+.ask select{border:1px solid var(--line);background:var(--soft);border-radius:10px;padding:8px 10px}
+.answer{background:var(--accent-soft);border-radius:12px;padding:12px 14px;font-size:14px}
+.answer b{font-family:var(--f-mono)}
+.acct{display:flex;flex-direction:column;gap:12px}
+.acct .who{font-size:13px;font-weight:700;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.legend{display:flex;gap:12px;font-size:11.5px;color:var(--muted)}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="card hero">
+    <div class="avatar" aria-hidden="true">α</div>
+    <div class="hero-t">
+      <h1>Alpha Consensus 交易員共識</h1>
+      <div class="h">彙整 X 上多位交易員的公開發言，比對各帳號對同一檔股票的看多、看空與觀點變化</div>
+    </div>
+    <div class="hero-stats">
+      <div class="hs"><b id="hsAcc"></b><span>有資料帳號／追蹤</span></div>
+      <div class="hs"><b id="hsPosts"></b><span>近 90 日含代號貼文</span></div>
+      <div class="hs"><b id="hsTk"></b><span>提及股票</span></div>
+      <div class="hs"><b id="hsAsof"></b><span>最新貼文日期</span></div>
+    </div>
+  </section>
+  <div class="notice">所有立場標籤皆為 AI 依貼文內容推論，可能不準確。本頁僅整理公開資訊，不構成投資建議，與各帳號本人無關。</div>
+
+  <section class="card">
+    <div class="card-h"><h2>追蹤帳號</h2><span class="muted" style="font-size:12px">點選可只看部分帳號</span></div>
+    <div class="card-b"><div class="accs" id="accs"></div></div>
+  </section>
+
+  <nav class="tabs" role="tablist" aria-label="期間">
+    <button class="tab" role="tab" data-w="1">📅 每日<small>單日發言</small></button>
+    <button class="tab" role="tab" data-w="7">📆 每週<small>近 7 日</small></button>
+    <button class="tab" role="tab" data-w="30">📈 每月<small>近 30 日</small></button>
+    <div class="daynav">
+      <button type="button" id="prevDay" aria-label="前一天">◀</button>
+      <span class="mono" id="dayLbl"></span>
+      <button type="button" id="nextDay" aria-label="後一天">▶</button>
+    </div>
+  </nav>
+
+  <section class="sum" id="sum" aria-label="期間總覽"></section>
+
+  <section class="card">
+    <div class="card-h"><h2>共識與分歧</h2><span class="muted" style="font-size:12px" id="consSub"></span></div>
+    <div id="consBody"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-h">
+      <h2>帳號立場矩陣</h2>
+      <div class="tools"><span class="muted" style="font-size:12px" id="mxSub"></span><input class="search" id="q" type="search" placeholder="搜尋代號，例 NVDA" aria-label="搜尋代號"></div>
+    </div>
+    <div class="mx-wrap" id="mx"></div>
+  </section>
+
+  <section class="card" id="analysis">
+    <div class="card-h"><h2>個股深入分析與提問</h2></div>
+    <div class="card-b">
+      <form class="ask" id="askForm">
+        <select id="askAcc" aria-label="帳號"></select>
+        <span class="muted">對</span>
+        <input id="askIn" placeholder="輸入代號，例 NVDA" autocomplete="off" aria-label="股票代號">
+        <span class="muted">的看法？</span>
+        <button class="btn" type="submit">查詢</button>
+      </form>
+      <div class="quick" id="quick"></div>
+      <div class="an" id="an"></div>
+    </div>
+  </section>
+
+  <p class="foot">資料截至 <span id="footAsof"></span>。貼文由常駐電腦上的 Hermes agent 每日自 X 收集，Claude 每日判讀立場與中文摘要後更新本頁。立場說明：偏多＝看好、持有或指出利多；偏空＝看壞、警告或賣出；中性＝單純提及或看法不明。期間內同一帳號對同一檔股票取最後一次明確表態（無明確表態則記為中性）。共識＝至少兩個帳號同方向且無人反向；分歧＝同時有帳號看多與看空。</p>
+</div>
+<script>
+(function(){
+var DATA=/*DATA*/;
+var ASOF=DATA.asOf,ACC=DATA.accounts,P=DATA.posts,NM=DATA.names||{};
+var SL={bull:"偏多",bear:"偏空",neutral:"中性"};
+var COLORS=["#4B4FD6","#D97706","#0E9F6E","#DB2777","#2563EB","#7C3AED","#0891B2","#65A30D","#DC2626","#475569"];
+var AH={};ACC.forEach(function(a,i){a.color=COLORS[i%COLORS.length];AH[a.handle]=a;});
+function dnum(d){return Date.parse(d+"T00:00:00Z")/86400000;}
+var ASN=dnum(ASOF);
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+function pill(s){return '<span class="pill '+s+'">'+SL[s]+'</span>';}
+function md(d){return d.slice(5).replace("-","/");}
+function an(h){return (AH[h]||{name:h}).name;}
+function av(h,sz){var a=AH[h]||{color:"#888",name:h};return '<span class="av" style="background:'+a.color+(sz?';width:'+sz+'px;height:'+sz+'px;font-size:'+(sz/2)+'px':'')+'">'+esc(a.name.charAt(0))+'</span>';}
+function postHTML(p,s){
+  return '<div class="post '+s+'"><div class="pm">'+pill(s)+'<b style="color:var(--ink)">'+esc(an(p.author))+'</b><span class="mono">'+p.date+'</span><span class="mono">♥ '+(p.likes||0).toLocaleString()+'</span><a href="https://x.com/'+encodeURIComponent(p.author)+'/status/'+encodeURIComponent(p.id)+'" target="_blank" rel="noopener">查看原文 ↗</a></div><p>'+esc(p.zh)+'</p><details><summary>顯示英文原文</summary><blockquote>'+esc(p.text)+'</blockquote></details></div>';
+}
+
+var counts={},last={};P.forEach(function(p){counts[p.author]=(counts[p.author]||0)+1;last[p.author]=p.date;});
+var days=[];(function(){var s={};P.forEach(function(p){s[p.date]=1;});days=Object.keys(s).sort();})();
+var st={w:7,day:ASOF,on:{},q:"",tk:null,acc:"",n:30};
+ACC.forEach(function(a){st.on[a.handle]=true;});
+function active(){return ACC.filter(function(a){return st.on[a.handle]&&counts[a.handle];});}
+
+/* stance of each account on each ticker within [day-w+1, day] */
+function windowStances(){
+  var end=dnum(st.day),beg=end-st.w+1,m={};
+  P.forEach(function(p){
+    var d=dnum(p.date);if(d<beg||d>end||!st.on[p.author])return;
+    Object.keys(p.s).forEach(function(t){
+      var x=m[t]||(m[t]={t:t,n:0,acc:{},last:p.date});
+      x.n++;x.last=p.date;
+      var s=p.s[t],cur=x.acc[p.author];
+      if(!cur)x.acc[p.author]={s:s,p:p};
+      else if(s!=="neutral")x.acc[p.author]={s:s,p:p};
+    });
+  });
+  return Object.keys(m).map(function(t){var x=m[t],b=0,r=0,u=0;
+    Object.keys(x.acc).forEach(function(h){var s=x.acc[h].s;if(s==="bull")b++;else if(s==="bear")r++;else u++;});
+    x.bull=b;x.bear=r;x.neu=u;x.k=b+r+u;x.net=b-r;return x;})
+  .sort(function(a,b){return b.k-a.k||b.n-a.n||Math.abs(b.net)-Math.abs(a.net)||(a.t<b.t?-1:1);});
+}
+
+function renderAccs(){
+  document.getElementById("accs").innerHTML=ACC.map(function(a){var c=counts[a.handle]||0;
+    return '<button type="button" class="acc" data-acc="'+esc(a.handle)+'" aria-pressed="'+!!st.on[a.handle]+'">'+av(a.handle)+'<span style="min-width:0"><b>'+esc(a.name)+'</b><span class="h">@'+esc(a.handle)+'</span><span class="y">'+esc(a.style||"")+'</span>'+
+      (c?'<span class="n">'+c+' 則・最新 '+md(last[a.handle])+'</span>':'<span class="n zero">尚無資料，等待 Hermes 收集</span>')+'</span></button>';}).join("");
+}
+function renderTabs(){
+  document.querySelectorAll(".tab").forEach(function(b){b.setAttribute("aria-selected",String(+b.dataset.w===st.w));});
+  var end=dnum(st.day),beg=new Date((end-st.w+1)*86400000).toISOString().slice(0,10);
+  document.getElementById("dayLbl").textContent=st.w===1?st.day:md(beg)+"–"+md(st.day);
+  var i=days.indexOf(st.day);
+  document.getElementById("prevDay").disabled=i<=0;
+  document.getElementById("nextDay").disabled=i>=days.length-1;
+}
+function whoList(x,s){return Object.keys(x.acc).filter(function(h){return x.acc[h].s===s;}).map(an).join("、");}
+function consItem(x,s){return '<li><button type="button" data-tk="'+x.t+'"><span><span class="tk">$'+x.t+'</span> <span class="muted" style="font-size:12px">'+esc(NM[x.t]||"")+'</span></span><span class="who">'+esc(whoList(x,s))+(s==="mix"?'':'')+'</span></button></li>';}
+function render(){
+  renderTabs();
+  var W=windowStances(),act=active();
+  var spoke={};W.forEach(function(x){Object.keys(x.acc).forEach(function(h){spoke[h]=1;});});
+  var cb=W.filter(function(x){return x.bull>=2&&!x.bear;}),cr=W.filter(function(x){return x.bear>=2&&!x.bull;}),mix=W.filter(function(x){return x.bull&&x.bear;});
+  document.getElementById("sum").innerHTML=
+    '<div class="st"><span>提及股票</span><b>'+W.length+'</b></div>'+
+    '<div class="st bull"><span>共識看多</span><b>'+cb.length+'</b></div>'+
+    '<div class="st bear"><span>共識看空</span><b>'+cr.length+'</b></div>'+
+    '<div class="st"><span>多空分歧</span><b>'+mix.length+'</b></div>'+
+    '<div class="st"><span>發言帳號</span><b>'+Object.keys(spoke).length+'</b></div>';
+  var nSp=Object.keys(spoke).length;
+  document.getElementById("consSub").textContent=nSp+" 個帳號在此期間發言";
+  var cbody=document.getElementById("consBody");
+  if(nSp<2){
+    var one=W.filter(function(x){return x.bull||x.bear;}).slice(0,8);
+    cbody.innerHTML='<div class="card-b"><p class="muted" style="margin:0 0 10px">此期間只有 '+nSp+' 個帳號有含代號的發言，至少要兩個帳號表態才能比對共識。其他帳號的貼文由 Hermes 收集後就會出現在這裡。'+(one.length?'以下是目前的明確表態：':'')+'</p>'+
+      (one.length?'<div class="cons" style="grid-template-columns:repeat(2,minmax(0,1fr))"><div style="padding:0 8px 0 0"><h3 style="color:var(--bull)">看多</h3><ul>'+one.filter(function(x){return x.bull;}).map(function(x){return consItem(x,"bull");}).join("")+'</ul></div><div style="padding:0 0 0 8px;border:0"><h3 style="color:var(--bear)">看空</h3><ul>'+one.filter(function(x){return x.bear;}).map(function(x){return consItem(x,"bear");}).join("")+'</ul></div></div>':'')+'</div>';
+  }else{
+    var col=function(title,color,list,s){return '<div><h3 style="color:'+color+'">'+title+'（'+list.length+'）</h3>'+(list.length?'<ul>'+list.slice(0,10).map(function(x){return s==="mix"?'<li><button type="button" data-tk="'+x.t+'"><span class="tk">$'+x.t+'</span><span class="who"><span style="color:var(--bull)">多：'+esc(whoList(x,"bull"))+'</span><br><span style="color:var(--bear)">空：'+esc(whoList(x,"bear"))+'</span></span></button></li>':consItem(x,s);}).join("")+'</ul>':'<p class="muted" style="margin:0;font-size:13px">無</p>')+'</div>';};
+    cbody.innerHTML='<div class="cons">'+col("共識看多","var(--bull)",cb,"bull")+col("共識看空","var(--bear)",cr,"bear")+col("多空分歧","var(--warn)",mix,"mix")+'</div>';
+  }
+  var q=st.q.trim().toUpperCase().replace(/^\$/,"");
+  var rows=q?W.filter(function(x){return x.t.indexOf(q)>=0||(NM[x.t]||"").toUpperCase().indexOf(q)>=0;}):W;
+  var cols=act.filter(function(a){return spoke[a.handle];});
+  document.getElementById("mxSub").textContent=rows.length+" 檔";
+  document.getElementById("mx").innerHTML=rows.length?'<table class="mx"><thead><tr><th>代號</th>'+cols.map(function(a){return '<th title="@'+esc(a.handle)+'">'+esc(a.name)+'</th>';}).join("")+'<th>提及</th><th>淨分</th></tr></thead><tbody>'+
+    rows.slice(0,st.n).map(function(x){return '<tr data-tk="'+x.t+'"><td><span class="tk">$'+x.t+'</span><span class="nm">'+esc(NM[x.t]||"")+'</span></td>'+
+      cols.map(function(a){var c=x.acc[a.handle];return '<td>'+(c?pill(c.s):'<span class="dot">·</span>')+'</td>';}).join("")+
+      '<td class="mono">'+x.n+'</td><td class="net '+(x.net>0?"pos":x.net<0?"neg":"")+'">'+(x.net>0?"+":"")+x.net+'</td></tr>';}).join("")+'</tbody></table>'+
+    (rows.length>st.n?'<div style="padding:10px 18px"><button type="button" class="more" id="mxMore" style="width:100%">再顯示 '+Math.min(30,rows.length-st.n)+' 檔</button></div>':'')
+    :'<div class="empty">此期間沒有含代號的貼文。</div>';
+}
+
+/* deep dive */
+function tkPosts(t,h){return P.filter(function(p){return p.s[t]&&(!h||p.author===h);});}
+function latestStance(list,t){var r=null;list.forEach(function(p){var s=p.s[t];if(!r||s!=="neutral"||r.s==="neutral")r={s:s,p:p};});return r;}
+function flipsOf(list,t){var prev=null,out=[];list.forEach(function(p){var s=p.s[t];if(s==="neutral")return;if(prev&&prev.s!==s&&prev.p.date!==p.date)out.push({from:prev.s,to:s,p:p});prev={s:s,p:p};});return out;}
+function weeklySVG(list,t){
+  var W=13,b=[];for(var i=0;i<W;i++)b.push({bull:0,bear:0,neutral:0});
+  list.forEach(function(p){var k=W-1-Math.floor((ASN-dnum(p.date))/7);if(k>=0)b[k][p.s[t]]++;});
+  var mx=Math.max(1,Math.max.apply(null,b.map(function(x){return x.bull+x.bear+x.neutral;})));
+  var w=600,h=120,bw=w/W,svg='<svg viewBox="0 0 '+w+' '+(h+18)+'" role="img" aria-label="每週提及次數">';
+  b.forEach(function(x,i){var y=h;["bull","neutral","bear"].forEach(function(s){var v=x[s];if(!v)return;var hh=v/mx*(h-8);y-=hh;svg+='<rect x="'+(i*bw+6)+'" y="'+y+'" width="'+(bw-12)+'" height="'+hh+'" rx="2" fill="var(--'+(s==="neutral"?"neu":s)+')"><title>'+SL[s]+' '+v+'</title></rect>';});
+    if(i%2===0||i===W-1){var d=new Date((ASN-(W-1-i)*7)*86400000).toISOString().slice(0,10);svg+='<text x="'+(i*bw+bw/2)+'" y="'+(h+14)+'" font-size="10" text-anchor="middle" fill="var(--muted)">'+md(d)+'</text>';}});
+  return svg+'</svg>';
+}
+function renderAnalysis(){
+  var el=document.getElementById("an"),t=st.tk;
+  document.querySelectorAll(".qc").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.tk===t));});
+  if(!t){el.innerHTML="";return;}
+  var all=tkPosts(t);
+  if(!all.length){el.innerHTML='<div class="empty">近 90 日沒有追蹤帳號提到 $'+esc(t)+'。</div>';return;}
+  var by={};all.forEach(function(p){(by[p.author]=by[p.author]||[]).push(p);});
+  var hs=Object.keys(by).sort(function(a,b){return by[b].length-by[a].length;});
+  var dist={bull:0,bear:0,neutral:0};hs.forEach(function(h){dist[latestStance(by[h],t).s]++;});
+  var ans="";
+  if(st.acc){var mine=by[st.acc]||[];
+    if(!mine.length)ans='<div class="answer">'+esc(an(st.acc))+' 近 90 日沒有提到 <b>$'+esc(t)+'</b>。'+(hs.length?'有提到的帳號：'+esc(hs.map(an).join("、"))+'。':'')+'</div>';
+    else{var ls=latestStance(mine,t),c={bull:0,bear:0,neutral:0};mine.forEach(function(p){c[p.s[t]]++;});var fl=flipsOf(mine,t);
+      ans='<div class="answer"><b style="font-family:var(--f-body)">'+esc(an(st.acc))+'</b> 對 <b>$'+esc(t)+'</b> 目前'+pill(ls.s)+'（最後明確表態 '+ls.p.date+'）：'+esc(ls.p.zh)+
+        '<br><span class="muted" style="font-size:13px">近 90 日提及 '+mine.length+' 次：偏多 '+c.bull+'、偏空 '+c.bear+'、中性 '+c.neutral+'。'+(fl.length?'立場變化：'+fl.map(function(f){return md(f.p.date)+' '+SL[f.from]+'→'+SL[f.to];}).join("；")+'。':'期間內立場沒有翻轉。')+
+        (hs.length>1?'其他帳號：'+hs.filter(function(h){return h!==st.acc;}).map(function(h){return esc(an(h))+' '+SL[latestStance(by[h],t).s];}).join("、")+'。':'')+'</span></div>';}}
+  var n=hs.length,rk=[];all.slice().reverse().forEach(function(p){if(p.risk&&rk.indexOf(p.risk)<0)rk.push(p.risk);});
+  el.innerHTML='<div class="an-top"><h3>$'+esc(t)+'</h3><span class="muted">'+esc(NM[t]||"")+'</span><span class="mono" id="qt"></span><span class="muted" style="font-size:12px">近 90 日 '+all.length+' 則・'+n+' 個帳號</span></div>'+ans+
+    '<div class="sec"><h4>帳號觀點分布（各帳號最新立場）</h4><div class="dist" role="img" aria-label="偏多 '+dist.bull+'，偏空 '+dist.bear+'，中性 '+dist.neutral+'">'+["bull","neutral","bear"].map(function(s){return dist[s]?'<i style="width:'+(dist[s]/n*100)+'%;background:var(--'+(s==="neutral"?"neu":s)+')"></i>':'';}).join("")+'</div><div class="distl">偏多 '+dist.bull+'・中性 '+dist.neutral+'・偏空 '+dist.bear+(n<2?'・目前只有一個帳號提到，尚無法比對':'')+'</div></div>'+
+    '<div class="sec"><h4>各帳號最新立場與理由</h4><div class="acct">'+hs.map(function(h){var ls=latestStance(by[h],t),fl=flipsOf(by[h],t);
+      return '<div><div class="who">'+av(h,22)+esc(an(h))+' <span class="muted mono" style="font-weight:400">@'+esc(h)+'・'+by[h].length+' 則</span>'+(fl.length?'<span class="fbadge">⇄ '+md(fl[fl.length-1].p.date)+' '+SL[fl[fl.length-1].from]+'→'+SL[fl[fl.length-1].to]+'</span>':'')+'</div>'+postHTML(ls.p,ls.s)+'</div>';}).join("")+'</div></div>'+
+    '<div class="sec"><h4>每週提及（近 13 週）</h4><div class="legend"><span><i style="background:var(--bull)"></i>偏多</span><span><i style="background:var(--neu)"></i>中性</span><span><i style="background:var(--bear)"></i>偏空</span></div><div class="chart">'+weeklySVG(all,t)+'</div></div>'+
+    '<div class="sec"><h4>觀點時間軸</h4><div class="acct" id="tl"></div></div>'+
+    '<div class="sec"><h4>機構觀點（華爾街分析師）</h4><div id="inst" class="muted" style="font-size:13px">載入中…</div></div>'+
+    '<div class="sec"><h4>貼文提到的風險</h4>'+(rk.length?'<ul class="risks">'+rk.slice(0,6).map(function(r){return '<li>'+esc(r)+'</li>';}).join("")+'</ul>':'<p class="muted" style="margin:0">近 90 日貼文中未提到明確風險。</p>')+'</div>';
+  st.tl=8;renderTL();loadInst(t);loadQuote(t);
+}
+function renderTL(){
+  var l=tkPosts(st.tk).reverse(),el=document.getElementById("tl");if(!el)return;
+  el.innerHTML=l.slice(0,st.tl).map(function(p){return postHTML(p,p.s[st.tk]);}).join("")+(l.length>st.tl?'<button type="button" class="more" id="tlMore">再顯示 '+Math.min(10,l.length-st.tl)+' 則</button>':'');
+}
+var QT={};
+function loadQuote(t){
+  var put=function(){var el=document.getElementById("qt"),q=QT[t];if(!el||st.tk!==t||!q)return;
+    el.innerHTML='$'+q.price.toLocaleString(undefined,{maximumFractionDigits:2})+(q.changePct!=null?' <span style="color:var(--'+(q.changePct>=0?"bull":"bear")+')">'+(q.changePct>=0?"+":"")+(q.changePct*100).toFixed(2)+'%</span>':'');};
+  if(t in QT)return put();
+  fetch("/api/quotes?symbols=US:"+encodeURIComponent(t)).then(function(r){return r.json();}).then(function(d){QT[t]=d.quotes&&d.quotes[t]||null;put();}).catch(function(){QT[t]=null;});
+}
+var INST={};
+var RT={"Strong Buy":"強力買進","Buy":"買進","Hold":"持有","Sell":"賣出","Strong Sell":"強力賣出","Outperform":"優於大盤","Overweight":"加碼","Underperform":"遜於大盤","Underweight":"減碼","Neutral":"中立","Market Perform":"與大盤同步","Equal Weight":"中立","Sector Perform":"與類股同步","Positive":"正向","Negative":"負向"};
+var ACT={upgrade:"調升",downgrade:"調降",maintain:"維持",initialise:"首次評等",initiate:"首次評等",reiterated:"重申"};
+function rt(x){return esc(RT[x]||x);}
+function money(v){return v==null?"—":"$"+(+v).toLocaleString(undefined,{maximumFractionDigits:2});}
+function instHTML(d){
+  if(!d||d.error)return '無法取得機構資料'+(d&&d.error?'（'+esc(d.error)+'）':'')+'。';
+  var c=d.consensus,t=d.target,g=d.grades||[],h="";
+  var n=c?c.strongBuy+c.buy+c.hold+c.sell+c.strongSell:0;
+  if(!n&&!(t&&t.consensus)&&!g.length&&(d.errors||[]).length)return '無法取得機構資料（'+esc(d.errors[0])+'）。';
+  if(!n&&!(t&&t.consensus)&&!g.length)return '查無 $'+esc(d.symbol)+' 的華爾街分析師資料。非美國掛牌或小型股通常沒有。';
+  if(n){var seg=[["strongBuy","強力買進","var(--bull)"],["buy","買進","var(--bull)"],["hold","持有","var(--neu)"],["sell","賣出","var(--bear)"],["strongSell","強力賣出","var(--bear)"]];
+    h+='<div class="inst-row"><span>共識：<b style="color:var(--ink)">'+rt(c.rating)+'</b></span><span>'+n+' 位分析師</span>'+seg.filter(function(x){return c[x[0]];}).map(function(x){return '<span>'+x[1]+' <b>'+c[x[0]]+'</b></span>';}).join("")+'</div>';
+    h+='<div class="inst-bar" role="img" aria-label="評等分布">'+seg.map(function(x,i){return c[x[0]]?'<i style="width:'+(c[x[0]]/n*100)+'%;background:'+x[2]+';opacity:'+(i===1||i===3?.55:1)+'"></i>':'';}).join("")+'</div>';}
+  if(t&&t.consensus)h+='<div class="inst-row"><span>目標價共識 <b style="color:var(--ink)">'+money(t.consensus)+'</b></span><span>中位數 <b>'+money(t.median)+'</b></span><span>區間 <b>'+money(t.low)+' – '+money(t.high)+'</b></span></div>';
+  if(g.length)h+='<div style="font-size:12px;margin-top:4px">近期評等異動</div><ul class="grades">'+g.map(function(x){return '<li><span class="d">'+esc(x.date)+'</span><span style="color:var(--ink)">'+esc(x.firm)+'</span><span>'+(ACT[x.action]||esc(x.action))+'・'+(x.from&&x.from!==x.to?rt(x.from)+' → ':'')+rt(x.to)+'</span></li>';}).join("")+'</ul>';
+  return h+'<div style="font-size:11px;margin-top:6px">資料來源：Financial Modeling Prep，每日更新。</div>';
+}
+function loadInst(t){
+  var put=function(){var el=document.getElementById("inst");if(el&&st.tk===t)el.innerHTML=instHTML(INST[t]);};
+  if(INST[t])return put();
+  fetch("/api/analysts?symbol="+encodeURIComponent(t)).then(function(r){return r.json();}).catch(function(){return {error:"連線失敗"};}).then(function(d){INST[t]=d;put();});
+}
+function renderQuick(){
+  var save=st.w,sd=st.day;st.w=90;st.day=ASOF;var g=windowStances().slice(0,16);st.w=save;st.day=sd;
+  document.getElementById("quick").innerHTML=g.map(function(x){return '<button type="button" class="qc" data-tk="'+x.t+'">'+x.t+'</button>';}).join("");
+}
+function pick(t,scroll){st.tk=t;document.getElementById("askIn").value=t;renderAnalysis();if(scroll)document.getElementById("analysis").scrollIntoView({behavior:"smooth",block:"start"});}
+
+document.addEventListener("click",function(e){
+  var b;
+  if((b=e.target.closest(".tab"))){st.w=+b.dataset.w;st.n=30;render();return;}
+  if((b=e.target.closest("[data-acc]"))){var h=b.dataset.acc;st.on[h]=!st.on[h];if(!ACC.some(function(a){return st.on[a.handle];}))st.on[h]=true;renderAccs();render();return;}
+  if(e.target.id==="mxMore"){st.n+=30;render();return;}
+  if(e.target.id==="tlMore"){st.tl+=10;renderTL();return;}
+  if((b=e.target.closest(".qc"))){pick(b.dataset.tk,false);return;}
+  if((b=e.target.closest("[data-tk]"))){pick(b.dataset.tk,true);return;}
+});
+document.getElementById("prevDay").addEventListener("click",function(){var i=days.indexOf(st.day);if(i>0){st.day=days[i-1];render();}});
+document.getElementById("nextDay").addEventListener("click",function(){var i=days.indexOf(st.day);if(i<days.length-1){st.day=days[i+1];render();}});
+document.getElementById("q").addEventListener("input",function(e){st.q=e.target.value;st.n=30;render();});
+var sel=document.getElementById("askAcc");
+sel.innerHTML='<option value="">所有帳號</option>'+ACC.map(function(a){return '<option value="'+esc(a.handle)+'">'+esc(a.name)+'</option>';}).join("");
+sel.addEventListener("change",function(){st.acc=sel.value;renderAnalysis();});
+document.getElementById("askForm").addEventListener("submit",function(e){e.preventDefault();var v=document.getElementById("askIn").value.trim().toUpperCase().replace(/^\$/,"");if(v){st.acc=sel.value;st.tk=v;renderAnalysis();}});
+
+var tks={};P.forEach(function(p){Object.keys(p.s).forEach(function(t){tks[t]=1;});});
+document.getElementById("hsAcc").textContent=Object.keys(counts).length+"/"+ACC.length;
+document.getElementById("hsPosts").textContent=P.length;
+document.getElementById("hsTk").textContent=Object.keys(tks).length;
+document.getElementById("hsAsof").textContent=ASOF;
+document.getElementById("footAsof").textContent=ASOF;
+renderAccs();renderQuick();
+var hv=decodeURIComponent(location.hash.slice(1)).toUpperCase();
+var top=windowStances()[0];st.tk=/^[A-Z0-9.\-]{1,10}$/.test(hv)?hv:(top?top.t:null);if(st.tk)document.getElementById("askIn").value=st.tk;
+render();renderAnalysis();
+})();
+</script>
+</body>
+</html>
