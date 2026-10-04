@@ -9,5 +9,7 @@
   {"handle": "DJTRadar", "name": "DJT Radar", "type": "交易揭露", "style": "追蹤川普相關交易的公開揭露"},
   {"handle": "Franktradinglog", "name": "Frank trading", "type": "觀點帳號", "style": "交易紀錄"},
   {"handle": "asklivermore", "name": "AskLivermore", "type": "觀點帳號", "style": "市場觀點"},
-  {"handle": "Balder13946731", "name": "Balder", "type": "觀點帳號", "style": "市場觀點"}
+  {"handle": "Balder13946731", "name": "Balder", "type": "觀點帳號", "style": "市場觀點"},
+  {"handle": "zephyr_z9", "name": "Zephyr", "type": "觀點帳號", "style": "半導體與 AI 硬體產業分析"},
+  {"handle": "unusual_whales", "name": "Unusual Whales", "type": "市場新聞", "style": "異常選擇權流量、國會交易與市場快訊"}
 ]

@@ -7,6 +7,7 @@
 1. 用瀏覽器（已登入 X 的設定檔）依序打開 accounts.json 裡其他每個帳號的頁面
    （`https://x.com/<handle>`），往下捲動，收集最近 3 天內的貼文，包含長文（點「顯示更多」取得完整內容）。
    第一次執行請改收最近 30 天，讓網站有足夠資料比對共識。
+   2026-10-04 新增 @zephyr_z9（Zephyr）和 @unusual_whales（Unusual Whales）：下一次執行時這兩個帳號也請收最近 30 天。
 2. 在本機的 chinl-workspacs 程式庫 `git pull origin main`，把所有帳號的結果寫進同一個檔案
    `scripts/alpha/inbox/YYYY-MM-DD.json`（今天日期），格式是 JSON 陣列：
 

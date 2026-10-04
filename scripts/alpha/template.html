@@ -8,12 +8,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600;700;900&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#F3F0E8;--dot:#DCD6C8;--card:#FFFDF8;--ink:#1F1D1A;--mut:#6F6A60;--line:#E4DED1;--soft:#F7F3EA;
---bull:#C8372D;--bullbg:#FBEDEA;--bear:#1E8A4C;--bearbg:#EAF5EE;--mix:#7A4FB5;--mixbg:#F2ECFA;--neu:#8A8478;--neubg:#F0EDE6;--acc:#2B2A27;
+--bull:#1E8A4C;--bullbg:#EAF5EE;--bear:#C8372D;--bearbg:#FBEDEA;--mix:#7A4FB5;--mixbg:#F2ECFA;--neu:#8A8478;--neubg:#F0EDE6;--acc:#2B2A27;
 --serif:"Noto Serif TC",Georgia,"Times New Roman",serif;--sans:"Noto Sans TC",system-ui,-apple-system,"Segoe UI",sans-serif}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17160F;--dot:#2C2A22;--card:#211F19;--ink:#F1ECE0;--mut:#A39D90;--line:#36332A;--soft:#2A2820;
---bull:#F0685C;--bullbg:#3A211D;--bear:#4CC27E;--bearbg:#1B3325;--mix:#B48CEB;--mixbg:#2D2440;--neu:#A39D90;--neubg:#2C2A23;--acc:#F1ECE0}}
+--bull:#4CC27E;--bullbg:#1B3325;--bear:#F0685C;--bearbg:#3A211D;--mix:#B48CEB;--mixbg:#2D2440;--neu:#A39D90;--neubg:#2C2A23;--acc:#F1ECE0}}
 :root[data-theme="dark"]{--bg:#17160F;--dot:#2C2A22;--card:#211F19;--ink:#F1ECE0;--mut:#A39D90;--line:#36332A;--soft:#2A2820;
---bull:#F0685C;--bullbg:#3A211D;--bear:#4CC27E;--bearbg:#1B3325;--mix:#B48CEB;--mixbg:#2D2440;--neu:#A39D90;--neubg:#2C2A23;--acc:#F1ECE0}
+--bull:#4CC27E;--bullbg:#1B3325;--bear:#F0685C;--bearbg:#3A211D;--mix:#B48CEB;--mixbg:#2D2440;--neu:#A39D90;--neubg:#2C2A23;--acc:#F1ECE0}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);background-image:radial-gradient(var(--dot) 1px,transparent 1px);background-size:18px 18px;color:var(--ink);font:15px/1.6 var(--sans)}
@@ -174,7 +174,7 @@ footer{padding:30px 0 40px;font-size:12px;color:var(--mut)}
   <div class="eyebrow">Alpha Consensus</div>
   <h1>X 頂尖交易員共識</h1>
   <div class="muted small" id="stats"></div>
-  <p class="disc">整理 X 上公開貼文，只呈現帳號觀點與共識，不是投資建議。紅色代表看多、綠色代表看空。</p>
+  <p class="disc">整理 X 上公開貼文，只呈現帳號觀點與共識，不是投資建議。綠色代表看多、紅色代表看空。</p>
   <form class="ai" id="aiForm"><input id="aiIn" placeholder="問 AI：例如「哪些人看多 MU？」「Ren 最近看好什麼？」" autocomplete="off"><button class="btn pri" type="submit">提問</button></form>
   <div class="aiout card" id="aiOut" hidden></div>
 </header>
@@ -193,7 +193,7 @@ var DATA=/*DATA*/;
 var ASOF=DATA.asOf,ACC=DATA.accounts,NM=DATA.names||{},AN=DATA.analysis||{};
 var P=DATA.posts.slice().sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:0;});
 var SL={bull:"看多",bear:"看空",neutral:"提及",mix:"多空皆有"};
-var COLORS=["#4B4FD6","#D97706","#0E9F6E","#DB2777","#2563EB","#7C3AED","#0891B2","#65A30D","#B45309","#475569","#BE185D"];
+var COLORS=["#4B4FD6","#D97706","#0E9F6E","#DB2777","#2563EB","#7C3AED","#0891B2","#65A30D","#B45309","#475569","#BE185D","#0F766E","#9333EA"];
 var AH={};ACC.forEach(function(a,i){a.color=COLORS[i%COLORS.length];AH[a.handle]=a;});
 var OP=function(h){return (AH[h]||{}).type==="觀點帳號";};
 var NOP=ACC.filter(function(a){return OP(a.handle);}).length;
