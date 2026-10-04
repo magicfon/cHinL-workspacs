@@ -1,28 +1,100 @@
 {
-  "summary": {
-    "asOf": "2026-10-04",
-    "1": "10/04 發言集中在記憶體與 AI 交易分化：Ren 認為 HBM 改為內建輝達控制器、提前多年設計導入，記憶體將走向長約與高附加價值；Jukan 轉述高通晶片將用於 Muse 吊飾裝置。當日沒有明確看空的發言。",
-    "7": "近 7 日最強共識是 $MU：美光財報雙雙超預期、下季營收指引 615 億美元，6 個帳號看多，只有大老师在財報前提醒防衝高回落。光通訊（$LITE、$COHR、$AAOI）因美方可能限制中國 3.2T 光模組、Lumentum 供給缺口擴大到 70% 而再獲共識；$NVDA、$NBIS 也有 5 個帳號看多，論點是 GPU 折舊年限拉長、半導體本益比低於大盤。分歧集中在 HDD（$STX、$WDC：AskLivermore 看突破，Balder 認為東芝擴產是重擊）與 $CBRS（Ren 看空、Balder 看多）。共識看空只有 $NKE。",
-    "30": "近 30 日的主軸是 Meta Muse 帶動的「代理式 AI 吃 CPU」交易：$META、$AMD、$ARM、$INTC 獲多數帳號看多，理由是 GPU 對 CPU 比例下降、伺服器 CPU 交期拉長到 25–30 週。$INTC 是唯一明顯分歧的 CPU 股，Jukan 轉述三星電機與高通開發繞過 EMIB 的封裝技術。新雲端分化明顯：$NBIS 獲 6 個帳號看多，$CRWV 則因增資 30 億美元與債務問題被 Balder、Ren 看空。另外 $EXPE、$BKNG 被認為會被 AI 代理侵蝕護城河，$NKE、$LULU 持續被看空。"
+ "summary": {
+  "asOf": "2026-10-04",
+  "1": "10/04 發言集中在記憶體與 AI 交易分化：Ren 認為 HBM 改為內建輝達控制器、提前多年設計導入，記憶體將走向長約與高附加價值；Jukan 轉述高通晶片將用於 Muse 吊飾裝置。當日沒有明確看空的發言。",
+  "7": "近 7 日最強共識是 $MU：美光財報雙雙超預期、下季營收指引 615 億美元，6 個帳號看多，只有大老师在財報前提醒防衝高回落。光通訊（$LITE、$COHR、$AAOI）因美方可能限制中國 3.2T 光模組、Lumentum 供給缺口擴大到 70% 而再獲共識；$NVDA、$NBIS 也有 5 個帳號看多，論點是 GPU 折舊年限拉長、半導體本益比低於大盤。分歧集中在 HDD（$STX、$WDC：AskLivermore 看突破，Balder 認為東芝擴產是重擊）與 $CBRS（Ren 看空、Balder 看多）。共識看空只有 $NKE。",
+  "28": "近 28 日的主軸是 Meta Muse 帶動的「代理式 AI 吃 CPU」交易：$META、$AMD、$ARM、$INTC 獲多數帳號看多，理由是 GPU 對 CPU 比例下降、伺服器 CPU 交期拉長到 25–30 週。$INTC 是唯一明顯分歧的 CPU 股，Jukan 轉述三星電機與高通開發繞過 EMIB 的封裝技術。新雲端分化明顯：$NBIS 獲 6 個帳號看多，$CRWV 則因增資 30 億美元與債務問題被 Balder、Ren 看空。另外 $EXPE、$BKNG 被認為會被 AI 代理侵蝕護城河，$NKE、$LULU 持續被看空。"
+ },
+ "tickers": {
+  "MU": {
+   "take": "9 個帳號提到、7 個看多，是目前最強共識。",
+   "bull": "營收與 EPS 雙超預期、下季指引 615 億美元（KawzInvests、Ren）；HBM 走向長約與設計導入（Ren）；記憶體超級循環、產能協議延長（Serenity）；技術面整理待突破（AskLivermore）。",
+   "bear": "沒有帳號看空。大老师在財報前提醒指引可能下修、須站穩 1110；Michael Sikand 提到管理層稱漲價速度已見頂。"
   },
-  "tickers": {
-    "MU": {"take": "9 個帳號提到、7 個看多，是目前最強共識。", "bull": "營收與 EPS 雙超預期、下季指引 615 億美元（KawzInvests、Ren）；HBM 走向長約與設計導入（Ren）；記憶體超級循環、產能協議延長（Serenity）；技術面整理待突破（AskLivermore）。", "bear": "沒有帳號看空。大老师在財報前提醒指引可能下修、須站穩 1110；Michael Sikand 提到管理層稱漲價速度已見頂。"},
-    "NVDA": {"take": "7 個帳號提到，看多為主，沒有人看空。", "bull": "伺服器折舊年限延長駁斥 GPU 貶值論（Ren）；搶下 Cerebras 的超快推論客戶（Ren）；CPO 帶動雷射需求（Serenity）；1500 億美元回購（Balder）；Ark 加碼、股價創新高（Evan）。", "bear": "沒有帳號看空。"},
-    "NBIS": {"take": "6 個帳號看多，是新雲端裡的共識首選。", "bull": "升息時仍調漲 GPU 租價 20%（Michael Sikand）；類股下跌時相對強勢（Serenity）；Truist 給 355 美元目標價（Ren）；收購 Inferize 降低 GPU 閒置（Evan）。", "bear": "沒有帳號看空；AskLivermore 提醒需守住 190 美元。"},
-    "CRWV": {"take": "多空分歧：Serenity、KawzInvests、Evan 偏多，Balder、Ren 偏空。", "bull": "Vera Rubin NVL72 上線並有正式客戶（Evan）；Burry 回補空單（KawzInvests）；算力瓶頸普遍上漲（Serenity）。", "bear": "增發 30 億美元後暴跌（Balder）；債務利息負擔（Serenity 9/15）；拖累同業 NBIS（Ren）；Nscale 的積壓訂單估值更便宜（Michael Sikand）。"},
-    "INTC": {"take": "8 個帳號提到，6 個看多，只有 Jukan 偏空。", "bull": "代理式 AI 讓 CPU 需求翻倍，Intel 只能滿足約五成需求（Serenity、Ren、KawzInvests、Michael Sikand）；亞馬遜採用 EMIB 封裝（Jukan 9/11）；川普持股獲利近 5 倍（DJT Radar）。", "bear": "三星電機與高通開發繞過 EMIB 的有機橋接封裝（Jukan 9/14）；裴洛西在 INTC 吃虧（Balder 9/05）。"},
-    "AMD": {"take": "6 個帳號看多，CPU 交易核心標的。", "bull": "伺服器 CPU 市場預估從 600 億上調到 2200 億美元（KawzInvests）；GPU 對 CPU 比例下降（Ren）；Balder 喊本週 700、年內 1000；收購 World Labs（Serenity）。", "bear": "沒有帳號看空。"},
-    "ARM": {"take": "6 個帳號看多。", "bull": "Muse 等代理應用帶動 CPU 需求（Serenity、Michael Sikand、KawzInvests、Ren）；全球手機版稅收入、可能已見本輪低點（AskLivermore）；蘋果發表會行情（Balder）。", "bear": "沒有帳號看空；Balder 提到高通與 ARM 的訴訟造成波動。"},
-    "GOOGL": {"take": "原本有分歧，Gemini 4 推出後轉為多數看多。", "bull": "Gemini 4 Argon 被視為最佳模型（KawzInvests、Ren、Balder 9/30）；擁有最多 AI 層、估值仍像搜尋公司（Ren）；長期回檔可布局（AskLivermore）。", "bear": "Balder 9/16 主張做空 Google、做多 Meta；Michael Sikand 認為 AI 代理可能顛覆搜尋廣告。"},
-    "META": {"take": "Muse 推出後最一致的看多標的之一。", "bull": "Muse 登上全球第一、下載量爆發（Michael Sikand、KawzInvests）；不侵蝕廣告、純增量（Michael Sikand）；本益比為七巨頭最低（Balder）；本月漲 35%（Ren）。", "bear": "沒有帳號看空；KawzInvests 提醒年初市場曾擔心 Meta 算力過剩。"},
-    "AAOI": {"take": "5 個帳號提到，看多為主，但增資是共同顧慮。", "bull": "美方可能限制中國 3.2T 光模組（KawzInvests、Michael Sikand、Serenity）；機櫃成本轉向互連（Ren）；光通訊供給缺口擴大（KawzInvests）。", "bear": "反覆 ATM 增資形成賣壓（Serenity 9/24、Michael Sikand 9/26）；Balder 演算法停損出場。"},
-    "LITE": {"take": "光通訊共識首選，沒有人看空。", "bull": "CEO 稱明年供給缺口 70%、產能售罄（KawzInvests、Michael Sikand）；輝達包下五成 UHP 雷射產能（Serenity）；中國光模組限制（多個帳號）。", "bear": "沒有帳號看空；KawzInvests 提醒舊世代光模組會降價。"},
-    "ORCL": {"take": "多數看多，大老师在財報前偏空。", "bull": "OpenAI 高槓桿受惠股、3000 億美元積壓訂單（Michael Sikand）；續約 GPU 以高 20% 價格轉售（Serenity）。", "bear": "期權結構顯示上漲預期被壓低（大老师 9/10）；Balder 演算法停損出場。"},
-    "SPCX": {"take": "多空並存，偏長線看多。", "bull": "星艦首次進入軌道部署衛星（大老师）；長期配置持有（AskLivermore）；太空股齊漲（Balder 9/27）。", "bear": "納入 QQQ 後將迎來解禁賣壓（Balder 9/21）；Anthropic 上市可能抽走資金（Michael Sikand）。"},
-    "TSM": {"take": "5 個帳號提到，看多為主。", "bull": "8 月營收年增 53.3%（Jukan）；德州新廠與 Terafab 合作（Evan）；Balder 9 月推薦股漲 14.5%。", "bear": "沒有帳號看空；Balder 提到月營收公布時股價沒反應。"},
-    "AVGO": {"take": "看多為主。", "bull": "AI 晶片營收將連年翻倍（Michael Sikand）；回到合理價位適合長期布局（AskLivermore）；HPE Helios 系統受惠（Balder）。", "bear": "沒有帳號看空；AskLivermore 提到短線仍弱。"},
-    "AAPL": {"take": "看法分歧且多為中性新聞。", "bull": "摺疊機買家對價格不敏感（Michael Sikand）；與鎧俠簽 NAND 長約（Balder 9/08）。", "bear": "Balder 預期發表會當天與隔天下跌；摺疊機良率問題（Jukan）。"},
-    "CRDO": {"take": "看多，Michael Sikand 與 KawzInvests 都有深入研究。", "bull": "AI 網通中預估本益比最低、光學產品被低估（Michael Sikand）；成長不只靠 AEC（KawzInvests）；一個月漲 37%。", "bear": "沒有帳號看空；AskLivermore 9/16 認為 AI 股尚未落底，宜慢慢建倉。"},
-    "QCOM": {"take": "看多為主。", "bull": "AI 穿戴裝置將全面採用驍龍（Michael Sikand）；與亞馬遜合作 AI 資料中心與 1.6T 光通訊（KawzInvests）；Muse 吊飾裝置採用（Jukan）。", "bear": "ARM 訴訟造成賣壓（Balder 9/19）。"}
+  "NVDA": {
+   "take": "7 個帳號提到，看多為主，沒有人看空。",
+   "bull": "伺服器折舊年限延長駁斥 GPU 貶值論（Ren）；搶下 Cerebras 的超快推論客戶（Ren）；CPO 帶動雷射需求（Serenity）；1500 億美元回購（Balder）；Ark 加碼、股價創新高（Evan）。",
+   "bear": "沒有帳號看空。"
+  },
+  "NBIS": {
+   "take": "6 個帳號看多，是新雲端裡的共識首選。",
+   "bull": "升息時仍調漲 GPU 租價 20%（Michael Sikand）；類股下跌時相對強勢（Serenity）；Truist 給 355 美元目標價（Ren）；收購 Inferize 降低 GPU 閒置（Evan）。",
+   "bear": "沒有帳號看空；AskLivermore 提醒需守住 190 美元。"
+  },
+  "CRWV": {
+   "take": "多空分歧：Serenity、KawzInvests、Evan 偏多，Balder、Ren 偏空。",
+   "bull": "Vera Rubin NVL72 上線並有正式客戶（Evan）；Burry 回補空單（KawzInvests）；算力瓶頸普遍上漲（Serenity）。",
+   "bear": "增發 30 億美元後暴跌（Balder）；債務利息負擔（Serenity 9/15）；拖累同業 NBIS（Ren）；Nscale 的積壓訂單估值更便宜（Michael Sikand）。"
+  },
+  "INTC": {
+   "take": "8 個帳號提到，6 個看多，只有 Jukan 偏空。",
+   "bull": "代理式 AI 讓 CPU 需求翻倍，Intel 只能滿足約五成需求（Serenity、Ren、KawzInvests、Michael Sikand）；亞馬遜採用 EMIB 封裝（Jukan 9/11）；川普持股獲利近 5 倍（DJT Radar）。",
+   "bear": "三星電機與高通開發繞過 EMIB 的有機橋接封裝（Jukan 9/14）；裴洛西在 INTC 吃虧（Balder 9/05）。"
+  },
+  "AMD": {
+   "take": "6 個帳號看多，CPU 交易核心標的。",
+   "bull": "伺服器 CPU 市場預估從 600 億上調到 2200 億美元（KawzInvests）；GPU 對 CPU 比例下降（Ren）；Balder 喊本週 700、年內 1000；收購 World Labs（Serenity）。",
+   "bear": "沒有帳號看空。"
+  },
+  "ARM": {
+   "take": "6 個帳號看多。",
+   "bull": "Muse 等代理應用帶動 CPU 需求（Serenity、Michael Sikand、KawzInvests、Ren）；全球手機版稅收入、可能已見本輪低點（AskLivermore）；蘋果發表會行情（Balder）。",
+   "bear": "沒有帳號看空；Balder 提到高通與 ARM 的訴訟造成波動。"
+  },
+  "GOOGL": {
+   "take": "原本有分歧，Gemini 4 推出後轉為多數看多。",
+   "bull": "Gemini 4 Argon 被視為最佳模型（KawzInvests、Ren、Balder 9/30）；擁有最多 AI 層、估值仍像搜尋公司（Ren）；長期回檔可布局（AskLivermore）。",
+   "bear": "Balder 9/16 主張做空 Google、做多 Meta；Michael Sikand 認為 AI 代理可能顛覆搜尋廣告。"
+  },
+  "META": {
+   "take": "Muse 推出後最一致的看多標的之一。",
+   "bull": "Muse 登上全球第一、下載量爆發（Michael Sikand、KawzInvests）；不侵蝕廣告、純增量（Michael Sikand）；本益比為七巨頭最低（Balder）；本月漲 35%（Ren）。",
+   "bear": "沒有帳號看空；KawzInvests 提醒年初市場曾擔心 Meta 算力過剩。"
+  },
+  "AAOI": {
+   "take": "5 個帳號提到，看多為主，但增資是共同顧慮。",
+   "bull": "美方可能限制中國 3.2T 光模組（KawzInvests、Michael Sikand、Serenity）；機櫃成本轉向互連（Ren）；光通訊供給缺口擴大（KawzInvests）。",
+   "bear": "反覆 ATM 增資形成賣壓（Serenity 9/24、Michael Sikand 9/26）；Balder 演算法停損出場。"
+  },
+  "LITE": {
+   "take": "光通訊共識首選，沒有人看空。",
+   "bull": "CEO 稱明年供給缺口 70%、產能售罄（KawzInvests、Michael Sikand）；輝達包下五成 UHP 雷射產能（Serenity）；中國光模組限制（多個帳號）。",
+   "bear": "沒有帳號看空；KawzInvests 提醒舊世代光模組會降價。"
+  },
+  "ORCL": {
+   "take": "多數看多，大老师在財報前偏空。",
+   "bull": "OpenAI 高槓桿受惠股、3000 億美元積壓訂單（Michael Sikand）；續約 GPU 以高 20% 價格轉售（Serenity）。",
+   "bear": "期權結構顯示上漲預期被壓低（大老师 9/10）；Balder 演算法停損出場。"
+  },
+  "SPCX": {
+   "take": "多空並存，偏長線看多。",
+   "bull": "星艦首次進入軌道部署衛星（大老师）；長期配置持有（AskLivermore）；太空股齊漲（Balder 9/27）。",
+   "bear": "納入 QQQ 後將迎來解禁賣壓（Balder 9/21）；Anthropic 上市可能抽走資金（Michael Sikand）。"
+  },
+  "TSM": {
+   "take": "5 個帳號提到，看多為主。",
+   "bull": "8 月營收年增 53.3%（Jukan）；德州新廠與 Terafab 合作（Evan）；Balder 9 月推薦股漲 14.5%。",
+   "bear": "沒有帳號看空；Balder 提到月營收公布時股價沒反應。"
+  },
+  "AVGO": {
+   "take": "看多為主。",
+   "bull": "AI 晶片營收將連年翻倍（Michael Sikand）；回到合理價位適合長期布局（AskLivermore）；HPE Helios 系統受惠（Balder）。",
+   "bear": "沒有帳號看空；AskLivermore 提到短線仍弱。"
+  },
+  "AAPL": {
+   "take": "看法分歧且多為中性新聞。",
+   "bull": "摺疊機買家對價格不敏感（Michael Sikand）；與鎧俠簽 NAND 長約（Balder 9/08）。",
+   "bear": "Balder 預期發表會當天與隔天下跌；摺疊機良率問題（Jukan）。"
+  },
+  "CRDO": {
+   "take": "看多，Michael Sikand 與 KawzInvests 都有深入研究。",
+   "bull": "AI 網通中預估本益比最低、光學產品被低估（Michael Sikand）；成長不只靠 AEC（KawzInvests）；一個月漲 37%。",
+   "bear": "沒有帳號看空；AskLivermore 9/16 認為 AI 股尚未落底，宜慢慢建倉。"
+  },
+  "QCOM": {
+   "take": "看多為主。",
+   "bull": "AI 穿戴裝置將全面採用驍龍（Michael Sikand）；與亞馬遜合作 AI 資料中心與 1.6T 光通訊（KawzInvests）；Muse 吊飾裝置採用（Jukan）。",
+   "bear": "ARM 訴訟造成賣壓（Balder 9/19）。"
   }
+ }
 }

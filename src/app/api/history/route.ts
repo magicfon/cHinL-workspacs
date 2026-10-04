@@ -1,17 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 
 export const dynamic = "force-dynamic";
+export const maxDuration = 30;
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
-/**
- * GET /api/history?symbol=NVDA
- * 美股近一年日收盤價（Yahoo Finance chart，非官方），回傳 { symbol, dates: ["YYYY-MM-DD"], closes: [number] }
- */
-export async function GET(req: NextRequest) {
-  const symbol = (req.nextUrl.searchParams.get("symbol") ?? "").toUpperCase();
-  if (!/^[A-Z0-9.\-]{1,10}$/.test(symbol)) return NextResponse.json({ error: "symbol 格式錯誤" }, { status: 400 });
+type Series = { dates: string[]; closes: number[]; currency: string } | { error: string };
+
+async function history(symbol: string): Promise<Series> {
   try {
     const res = await fetch(
       `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol.replace(".", "-"))}?interval=1d&range=1y`,
@@ -31,11 +28,21 @@ export async function GET(req: NextRequest) {
       }
     });
     if (!closes.length) throw new Error("查無股價資料");
-    return NextResponse.json(
-      { symbol, currency: r?.meta?.currency ?? "USD", dates, closes },
-      { headers: { "Cache-Control": "s-maxage=21600" } }
-    );
+    return { dates, closes, currency: r?.meta?.currency ?? "USD" };
   } catch (e) {
-    return NextResponse.json({ symbol, error: e instanceof Error ? e.message : "查詢失敗" }, { status: 502 });
+    return { error: e instanceof Error ? e.message : "查詢失敗" };
   }
+}
+
+/**
+ * GET /api/history?symbols=NVDA,MU（最多 40 檔）
+ * 美股近一年日收盤價（Yahoo Finance chart，非官方），回傳 { series: { [symbol]: { dates, closes, currency } | { error } } }
+ */
+export async function GET(req: NextRequest) {
+  const raw = req.nextUrl.searchParams.get("symbols") ?? req.nextUrl.searchParams.get("symbol") ?? "";
+  const symbols = Array.from(new Set(raw.toUpperCase().split(",").map((s) => s.trim()).filter((s) => /^[A-Z0-9.\-]{1,10}$/.test(s)))).slice(0, 40);
+  if (!symbols.length) return NextResponse.json({ error: "symbols 格式錯誤" }, { status: 400 });
+  const out: Record<string, Series> = {};
+  await Promise.all(symbols.map(async (s) => { out[s] = await history(s); }));
+  return NextResponse.json({ series: out }, { headers: { "Cache-Control": "s-maxage=21600" } });
 }
