@@ -83,6 +83,13 @@ a{color:var(--accent)}
 .fbadge{font-size:11px;color:var(--warn);background:var(--warn-soft);border-radius:6px;padding:1px 6px;margin-left:6px;white-space:nowrap}
 #flipsCard{border-color:var(--warn)}
 @media (max-width:720px){.fl{grid-template-columns:auto 1fr auto}.fl .z{grid-column:1/-1;order:1;white-space:normal}}
+.inst-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--neu-soft)}
+.inst-bar i{display:block;height:100%}
+.inst-row{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px}
+.inst-row b{font-family:var(--f-mono)}
+.grades{list-style:none;margin:0;padding:0;font-size:13px}
+.grades li{display:grid;grid-template-columns:auto 1fr auto;gap:10px;padding:6px 0;border-top:1px solid var(--line)}
+.grades .d{font-family:var(--f-mono);color:var(--muted);font-size:12px}
 .st[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:-2px}
 @media (max-width:720px){.sum{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .st:first-child{grid-column:span 2}}
 
@@ -321,11 +328,13 @@ function renderAnalysis(){
   var rk=Object.keys(risks).slice(0,6);
   el.innerHTML='<div class="an-top"><h3>$'+esc(t)+'</h3><span class="muted">'+esc(NAMES[t]||"")+'</span>'+pill(now)+'<span class="muted mono" style="font-size:12px">近 90 日 '+l.length+' 次提及・多 '+c.bull+'・中 '+c.neutral+'・空 '+c.bear+'</span></div>'+
     (a.summary?'<p style="margin:0">'+esc(a.summary)+'</p>':'')+
+    '<div class="sec"><h4>機構觀點（華爾街分析師）</h4><div id="inst" class="muted" style="font-size:13px">載入中…</div></div>'+
     '<div class="sec"><h4>最新立場與來源</h4>'+postHTML(latest.p,latest.s)+'</div>'+
     '<div class="sec"><h4>每週提及次數（近 13 週）</h4><div class="chart">'+chartSVG(l)+'</div></div>'+
     '<div class="sec"><h4>論點演變</h4><ul class="evo">'+evo+'</ul></div>'+
     '<div class="sec"><h4>三則代表貼文</h4>'+keyPosts(l).map(function(m){return postHTML(m.p,m.s);}).join("")+'</div>'+
     '<div class="sec"><h4>風險因子</h4>'+(rk.length?'<ul class="risks">'+rk.map(function(r){return '<li>'+esc(r)+'</li>';}).join("")+'</ul>':'<p class="muted" style="margin:0">近 90 日貼文中未提到明確風險。</p>')+'</div>';
+  loadInst(t);
 }
 function renderFlips(){
   var l=FL.filter(function(f){return ASN-dnum(f.date)<30;}).reverse();
@@ -333,6 +342,29 @@ function renderFlips(){
   document.getElementById("flipsSub").textContent="近 30 日・"+l.length+" 次";
   document.getElementById("flips").innerHTML=l.map(function(f){var p=PBY[f.id]||{};
     return '<li><button type="button" class="fl" data-an="'+f.t+'"><span class="tk">$'+f.t+'</span><span class="arr">'+pill(f.from)+' → '+pill(f.to)+'</span><span class="z">'+esc(p.zh||"")+'</span><span class="mono muted" style="font-size:12px">'+md(f.date)+'</span></button></li>';}).join("");
+}
+var INST={};
+var RT={"Strong Buy":"強力買進","Buy":"買進","Hold":"持有","Sell":"賣出","Strong Sell":"強力賣出","Outperform":"優於大盤","Overweight":"加碼","Underperform":"遜於大盤","Underweight":"減碼","Neutral":"中立","Market Perform":"與大盤同步","Equal Weight":"中立","Sector Perform":"與類股同步","Positive":"正向","Negative":"負向"};
+var ACT={upgrade:"調升",downgrade:"調降",maintain:"維持",initialise:"首次評等",initiate:"首次評等",reiterated:"重申"};
+function rt(x){return esc(RT[x]||x);}
+function money(v){return v==null?"—":"$"+(+v).toLocaleString(undefined,{maximumFractionDigits:2});}
+function instHTML(d){
+  if(!d||d.error)return '無法取得機構資料'+(d&&d.error?'（'+esc(d.error)+'）':'')+'。';
+  var c=d.consensus,t=d.target,g=d.grades||[],h="";
+  var n=c?c.strongBuy+c.buy+c.hold+c.sell+c.strongSell:0;
+  if(!n&&!(t&&t.consensus)&&!g.length&&(d.errors||[]).length)return '無法取得機構資料（'+esc(d.errors[0])+'）。';
+  if(!n&&!(t&&t.consensus)&&!g.length)return '查無 $'+esc(d.symbol)+' 的華爾街分析師資料。非美國掛牌（例如 Sivers 在瑞典上市）或小型股通常沒有。';
+  if(n){var seg=[["strongBuy","強力買進","var(--bull)"],["buy","買進","var(--bull)"],["hold","持有","var(--neu)"],["sell","賣出","var(--bear)"],["strongSell","強力賣出","var(--bear)"]];
+    h+='<div class="inst-row"><span>共識：<b style="color:var(--ink)">'+rt(c.rating)+'</b></span><span>'+n+' 位分析師</span>'+seg.filter(function(x){return c[x[0]];}).map(function(x){return '<span>'+x[1]+' <b>'+c[x[0]]+'</b></span>';}).join("")+'</div>';
+    h+='<div class="inst-bar" role="img" aria-label="評等分布">'+seg.map(function(x,i){return c[x[0]]?'<i style="width:'+(c[x[0]]/n*100)+'%;background:'+x[2]+';opacity:'+(i===1||i===3?.55:1)+'"></i>':'';}).join("")+'</div>';}
+  if(t&&t.consensus)h+='<div class="inst-row"><span>目標價共識 <b style="color:var(--ink)">'+money(t.consensus)+'</b></span><span>中位數 <b>'+money(t.median)+'</b></span><span>區間 <b>'+money(t.low)+' – '+money(t.high)+'</b></span></div>';
+  if(g.length)h+='<div style="font-size:12px;margin-top:4px">近期評等異動</div><ul class="grades">'+g.map(function(x){return '<li><span class="d">'+esc(x.date)+'</span><span style="color:var(--ink)">'+esc(x.firm)+'</span><span>'+(ACT[x.action]||esc(x.action))+'・'+(x.from&&x.from!==x.to?rt(x.from)+' → ':'')+rt(x.to)+'</span></li>';}).join("")+'</ul>';
+  return h+'<div style="font-size:11px;margin-top:6px">資料來源：Financial Modeling Prep，每日更新。</div>';
+}
+function loadInst(t){
+  var put=function(){var el=document.getElementById("inst");if(el&&st.tk===t)el.innerHTML=instHTML(INST[t]);};
+  if(INST[t])return put();
+  fetch("/api/analysts?symbol="+encodeURIComponent(t)).then(function(r){return r.json();}).catch(function(){return {error:"連線失敗"};}).then(function(d){INST[t]=d;put();});
 }
 function renderQuick(){
   var g=group(mentions(function(){return true;})).slice(0,16);
