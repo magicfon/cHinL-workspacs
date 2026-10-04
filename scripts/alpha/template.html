@@ -156,9 +156,23 @@ li.open .chev{transform:rotate(90deg)}
 .chart svg{display:block;width:100%;min-width:360px;height:auto}
 .foot{font-size:12px;color:var(--muted);line-height:1.7}
 /* alpha */
-.accs{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
-.acc{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:10px 12px;text-align:left;display:flex;gap:10px;align-items:flex-start}
-.acc[aria-pressed="false"]{opacity:.45}
+.acc .top{display:flex;gap:10px;align-items:flex-start}
+.acc .xl{font-size:11px;border:1px solid var(--line);border-radius:6px;padding:0 5px;text-decoration:none;margin-left:4px;white-space:nowrap}
+.acc .stat{border-top:1px solid var(--line);padding-top:8px;display:flex;flex-direction:column;gap:6px;font-size:12.5px}
+.acc .row{display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.acc .row>b{font-size:12.5px;min-width:34px}
+.tkc{font-family:var(--f-mono);font-weight:700;font-size:12px;border-radius:6px;padding:1px 6px;border:0;cursor:pointer}
+.tkc.bull{color:var(--bull);background:var(--bull-soft)} .tkc.bear{color:var(--bear);background:var(--bear-soft)} .tkc.neutral{color:var(--neu);background:var(--neu-soft)}
+.cmp{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.cmp>div{border-radius:10px;padding:10px 12px;font-size:13.5px}
+.cmp .b{background:var(--bull-soft)} .cmp .r{background:var(--bear-soft)}
+.cmp h5{margin:0 0 4px;font-size:12px}
+@media (max-width:720px){.cmp{grid-template-columns:1fr}}
+.pchg{display:flex;flex-wrap:wrap;gap:14px;font-size:13px}
+.pchg b{font-family:var(--f-mono)}
+.accs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.acc{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:12px;text-align:left;display:flex;flex-direction:column;gap:8px;cursor:pointer;min-width:0}
+.acc[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:-2px}
 .acc .av{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:900;flex:none}
 .acc b{display:block;font-size:13.5px}
 .acc .h{font-size:12px;color:var(--muted);font-family:var(--f-mono)}
@@ -210,11 +224,6 @@ table.mx{border-collapse:collapse;width:100%;font-size:13px}
   </section>
   <div class="notice">所有立場標籤皆為 AI 依貼文內容推論，可能不準確。本頁僅整理公開資訊，不構成投資建議，與各帳號本人無關。</div>
 
-  <section class="card">
-    <div class="card-h"><h2>追蹤帳號</h2><span class="muted" style="font-size:12px">點選可只看部分帳號</span></div>
-    <div class="card-b"><div class="accs" id="accs"></div></div>
-  </section>
-
   <nav class="tabs" role="tablist" aria-label="期間">
     <button class="tab" role="tab" data-w="1">📅 每日<small>單日發言</small></button>
     <button class="tab" role="tab" data-w="7">📆 每週<small>近 7 日</small></button>
@@ -225,6 +234,18 @@ table.mx{border-collapse:collapse;width:100%;font-size:13px}
       <button type="button" id="nextDay" aria-label="後一天">▶</button>
     </div>
   </nav>
+
+  <section class="card" id="mktCard">
+    <div class="card-h"><h2>📝 市場觀點摘要</h2><span class="muted" style="font-size:12px" id="mktSub"></span></div>
+    <div class="card-b"><p id="mkt" style="margin:0"></p></div>
+  </section>
+
+  <section>
+    <div class="card-h" style="border:0;padding:4px 2px 10px"><h2 id="accTitle">帳號狀態</h2><span class="muted" style="font-size:12px">點選帳號卡查看該帳號視角</span></div>
+    <div class="accs" id="accs"></div>
+  </section>
+
+  <section class="card" id="accView" hidden></section>
 
   <section class="sum" id="sum" aria-label="期間總覽"></section>
 
@@ -242,7 +263,7 @@ table.mx{border-collapse:collapse;width:100%;font-size:13px}
   </section>
 
   <section class="card" id="analysis">
-    <div class="card-h"><h2>個股深入分析與提問</h2></div>
+    <div class="card-h"><h2>個股深入分析與 AI 問答</h2></div>
     <div class="card-b">
       <form class="ask" id="askForm">
         <select id="askAcc" aria-label="帳號"></select>
@@ -251,6 +272,11 @@ table.mx{border-collapse:collapse;width:100%;font-size:13px}
         <span class="muted">的看法？</span>
         <button class="btn" type="submit">查詢</button>
       </form>
+      <form class="ask" id="aiForm" style="margin-top:10px">
+        <input id="aiIn" placeholder="AI 問答：例如「Serenity 和 Ren 對 MU 的看法有什麼不同？」" autocomplete="off" aria-label="AI 問題">
+        <button class="btn" type="submit">問 AI</button>
+      </form>
+      <div id="aiOut" class="answer" hidden style="margin-top:10px;white-space:pre-wrap"></div>
       <div class="quick" id="quick"></div>
       <div class="an" id="an"></div>
     </div>
@@ -278,7 +304,7 @@ function postHTML(p,s){
 
 var counts={},last={};P.forEach(function(p){counts[p.author]=(counts[p.author]||0)+1;last[p.author]=p.date;});
 var days=[];(function(){var s={};P.forEach(function(p){s[p.date]=1;});days=Object.keys(s).sort();})();
-var st={w:7,day:ASOF,on:{},q:"",tk:null,acc:"",n:30};
+var st={w:1,day:ASOF,on:{},q:"",tk:null,acc:"",n:30,view:null};
 ACC.forEach(function(a){st.on[a.handle]=true;});
 function active(){return ACC.filter(function(a){return st.on[a.handle]&&counts[a.handle];});}
 
@@ -301,10 +327,43 @@ function windowStances(){
   .sort(function(a,b){return b.k-a.k||b.n-a.n||Math.abs(b.net)-Math.abs(a.net)||(a.t<b.t?-1:1);});
 }
 
-function renderAccs(){
-  document.getElementById("accs").innerHTML=ACC.map(function(a){var c=counts[a.handle]||0;
-    return '<button type="button" class="acc" data-acc="'+esc(a.handle)+'" aria-pressed="'+!!st.on[a.handle]+'">'+av(a.handle)+'<span style="min-width:0"><b>'+esc(a.name)+'</b><span class="h">@'+esc(a.handle)+'</span><span class="y">'+(a.type?'<span class="pill neutral" style="font-weight:500;margin-right:4px">'+esc(a.type)+'</span>':'')+esc(a.style||"")+'</span>'+
-      (c?'<span class="n">'+c+' 則・最新 '+md(last[a.handle])+'</span>':'<span class="n zero">尚無資料，等待 Hermes 收集</span>')+'</span></button>';}).join("");
+function chips(l,cls,max){max=max||6;return l.slice(0,max).map(function(t){return '<button type="button" class="tkc '+cls+'" data-tkc="'+t+'">'+t+'</button>';}).join("")+(l.length>max?'<span class="muted" style="font-size:12px">+'+(l.length-max)+'</span>':'');}
+function accStatus(W){var m={};ACC.forEach(function(a){m[a.handle]={bull:[],bear:[],neutral:[]};});
+  W.forEach(function(x){Object.keys(x.acc).forEach(function(h){if(m[h])m[h][x.acc[h].s].push(x.t);});});return m;}
+var PER={1:"今日",7:"本週",30:"本月"};
+function renderAccs(W){
+  var S=accStatus(W),per=PER[st.w];
+  document.getElementById("accTitle").textContent=ACC.length+" 個帳號・"+per+"狀態";
+  document.getElementById("accs").innerHTML=ACC.map(function(a){var c=counts[a.handle]||0,x=S[a.handle];
+    var stat=!c?'<span class="n zero">尚無資料，等待 Hermes 收集</span>':
+      (x.bull.length||x.bear.length?
+        '<div class="row"><b style="color:var(--bull)">看多</b>'+(x.bull.length?chips(x.bull,"bull"):'<span class="muted">'+per+'無明確看多</span>')+'</div>'+
+        '<div class="row"><b style="color:var(--bear)">看空</b>'+(x.bear.length?chips(x.bear,"bear"):'<span class="muted">'+per+'無明確看空</span>')+'</div>'
+        :'<div class="muted">'+per+'沒有明確看多或看空的股票</div>')+
+      '<div class="row"><b class="muted">提及</b>'+(x.neutral.length?chips(x.neutral,"neutral"):'<span class="muted">'+(x.bull.length||x.bear.length?'—':per+'無提及')+'</span>')+'</div>';
+    return '<div class="acc" role="button" tabindex="0" data-acc="'+esc(a.handle)+'" aria-pressed="'+(st.view===a.handle)+'"><div class="top">'+av(a.handle,40)+'<span style="min-width:0;flex:1"><b>'+esc(a.name)+'<a class="xl" href="https://x.com/'+encodeURIComponent(a.handle)+'" target="_blank" rel="noopener">X ↗</a></b><span class="h">@'+esc(a.handle)+'</span></span>'+(a.type?'<span class="pill neutral" style="font-weight:500">'+esc(a.type)+'</span>':'')+'</div>'+
+      '<span class="y">'+esc(a.style||"")+'</span><div class="stat">'+stat+'</div>'+(c?'<span class="muted" style="font-size:11.5px">近 90 日 '+c+' 則・最新 '+md(last[a.handle])+'</span>':'')+'</div>';}).join("");
+}
+function renderAccView(W){
+  var el=document.getElementById("accView"),h=st.view;
+  if(!h){el.hidden=true;return;}
+  var a=AH[h],per=PER[st.w],mine=[];
+  W.forEach(function(x){var c=x.acc[h];if(c)mine.push({t:x.t,s:c.s,p:c.p});});
+  var grp=function(s,title,color){var l=mine.filter(function(m){return m.s===s;});if(!l.length)return '';
+    return '<div class="sec"><h4 style="color:'+color+'">'+title+'（'+l.length+'）</h4>'+l.map(function(m){return '<div class="post '+s+'"><div class="pm"><button type="button" class="tkc '+s+'" data-tkc="'+m.t+'">$'+m.t+'</button><span class="mono">'+m.p.date+'</span><a href="https://x.com/'+encodeURIComponent(h)+'/status/'+encodeURIComponent(m.p.id)+'" target="_blank" rel="noopener">原文 ↗</a></div><p>'+esc(m.p.zh)+'</p></div>';}).join("")+'</div>';};
+  var fl=[];var tk={};P.filter(function(p){return p.author===h;}).forEach(function(p){Object.keys(p.s).forEach(function(t){tk[t]=1;});});
+  Object.keys(tk).forEach(function(t){flipsOf(tkPosts(t,h),t).forEach(function(f){if(ASN-dnum(f.p.date)<30)fl.push({t:t,f:f});});});
+  fl.sort(function(x,y){return x.f.p.date<y.f.p.date?1:-1;});
+  el.hidden=false;
+  el.innerHTML='<div class="card-h"><h2>'+av(h,24)+' '+esc(a.name)+' 的視角・'+per+'</h2><button type="button" class="more" id="closeView">關閉</button></div><div class="card-b an" style="margin:0">'+
+    (a.style?'<p class="muted" style="margin:0">'+esc(a.style)+'</p>':'')+
+    (fl.length?'<div class="sec"><h4>⇄ 近 30 日立場翻轉</h4><ul class="risks">'+fl.map(function(x){return '<li><b class="mono">$'+x.t+'</b> '+md(x.f.p.date)+' '+SL[x.f.from]+' → '+SL[x.f.to]+'：'+esc(x.f.p.zh)+'</li>';}).join("")+'</ul></div>':'')+
+    (mine.length?grp("bull","看多","var(--bull)")+grp("bear","看空","var(--bear)")+grp("neutral","提及","var(--neu)"):'<div class="empty">'+per+'沒有含代號的發言。</div>')+'</div>';
+}
+function renderMkt(){
+  var S=(DATA.analysis||{}).summary||{},txt=S[String(st.w)];
+  document.getElementById("mktSub").textContent=S.asOf?"截至 "+S.asOf+"・"+{1:"當日",7:"近 7 日",30:"近 30 日"}[st.w]:"";
+  document.getElementById("mkt").innerHTML=!txt?'<span class="muted">尚無摘要。</span>':(st.day!==S.asOf?'<span class="muted">摘要只提供最新日期（'+S.asOf+'）。</span> ':'')+esc(txt).replace(/\$([A-Z][A-Z0-9.]{0,7})/g,'<button type="button" class="tkc neutral" data-tkc="$1">$$$1</button>');
 }
 function renderTabs(){
   document.querySelectorAll(".tab").forEach(function(b){b.setAttribute("aria-selected",String(+b.dataset.w===st.w));});
@@ -319,6 +378,7 @@ function consItem(x,s){return '<li><button type="button" data-tk="'+x.t+'"><span
 function render(){
   renderTabs();
   var W=windowStances(),act=active();
+  renderAccs(W);renderAccView(W);renderMkt();
   var spoke={};W.forEach(function(x){Object.keys(x.acc).forEach(function(h){spoke[h]=1;});});
   var cb=W.filter(function(x){return x.bull>=2&&!x.bear;}),cr=W.filter(function(x){return x.bear>=2&&!x.bull;}),mix=W.filter(function(x){return x.bull&&x.bear;});
   document.getElementById("sum").innerHTML=
@@ -382,18 +442,65 @@ function renderAnalysis(){
   var n=hs.length,rk=[];all.slice().reverse().forEach(function(p){if(p.risk&&rk.indexOf(p.risk)<0)rk.push(p.risk);});
   el.innerHTML='<div class="an-top"><h3>$'+esc(t)+'</h3><span class="muted">'+esc(NM[t]||"")+'</span><span class="mono" id="qt"></span><span class="muted" style="font-size:12px">近 90 日 '+all.length+' 則・'+n+' 個帳號</span></div>'+ans+
     '<div class="sec"><h4>帳號觀點分布（各帳號最新立場）</h4><div class="dist" role="img" aria-label="偏多 '+dist.bull+'，偏空 '+dist.bear+'，中性 '+dist.neutral+'">'+["bull","neutral","bear"].map(function(s){return dist[s]?'<i style="width:'+(dist[s]/n*100)+'%;background:var(--'+(s==="neutral"?"neu":s)+')"></i>':'';}).join("")+'</div><div class="distl">偏多 '+dist.bull+'・中性 '+dist.neutral+'・偏空 '+dist.bear+(n<2?'・目前只有一個帳號提到，尚無法比對':'')+'</div></div>'+
-    '<div class="sec"><h4>各帳號最新立場與理由</h4><div class="acct">'+hs.map(function(h){var ls=latestStance(by[h],t),fl=flipsOf(by[h],t);
+    cmpHTML(t)+'<div class="sec"><h4>股價走勢與關鍵觀點</h4><div id="px" class="muted" style="font-size:13px">載入股價中…</div></div>'+'<div class="sec"><h4>各帳號最新立場與理由</h4><div class="acct">'+hs.map(function(h){var ls=latestStance(by[h],t),fl=flipsOf(by[h],t);
       return '<div><div class="who">'+av(h,22)+esc(an(h))+' <span class="muted mono" style="font-weight:400">@'+esc(h)+'・'+by[h].length+' 則</span>'+(fl.length?'<span class="fbadge">⇄ '+md(fl[fl.length-1].p.date)+' '+SL[fl[fl.length-1].from]+'→'+SL[fl[fl.length-1].to]+'</span>':'')+'</div>'+postHTML(ls.p,ls.s)+'</div>';}).join("")+'</div></div>'+
     '<div class="sec"><h4>每週提及（近 13 週）</h4><div class="legend"><span><i style="background:var(--bull)"></i>偏多</span><span><i style="background:var(--neu)"></i>中性</span><span><i style="background:var(--bear)"></i>偏空</span></div><div class="chart">'+weeklySVG(all,t)+'</div></div>'+
     '<div class="sec"><h4>觀點時間軸</h4><div class="acct" id="tl"></div></div>'+
     '<div class="sec"><h4>機構觀點（華爾街分析師）</h4><div id="inst" class="muted" style="font-size:13px">載入中…</div></div>'+
     '<div class="sec"><h4>貼文提到的風險</h4>'+(rk.length?'<ul class="risks">'+rk.slice(0,6).map(function(r){return '<li>'+esc(r)+'</li>';}).join("")+'</ul>':'<p class="muted" style="margin:0">近 90 日貼文中未提到明確風險。</p>')+'</div>';
-  st.tl=8;renderTL();loadInst(t);loadQuote(t);
+  st.tl=8;renderTL();loadInst(t);loadQuote(t);loadPx(t);
 }
 function renderTL(){
   var l=tkPosts(st.tk).reverse(),el=document.getElementById("tl");if(!el)return;
   el.innerHTML=l.slice(0,st.tl).map(function(p){return postHTML(p,p.s[st.tk]);}).join("")+(l.length>st.tl?'<button type="button" class="more" id="tlMore">再顯示 '+Math.min(10,l.length-st.tl)+' 則</button>':'');
 }
+function cmpHTML(t){var c=((DATA.analysis||{}).tickers||{})[t];if(!c)return '';
+  return '<div class="sec"><h4>跨帳號論點比較</h4><p style="margin:0">'+esc(c.take)+'</p><div class="cmp"><div class="b"><h5 style="color:var(--bull)">多方理由</h5>'+esc(c.bull)+'</div><div class="r"><h5 style="color:var(--bear)">空方理由</h5>'+esc(c.bear)+'</div></div></div>';}
+var PX={};
+function pct(a,b){return b?(a-b)/b:null;}
+function fmtPct(v){return v==null?"—":'<b style="color:var(--'+(v>=0?"bull":"bear")+')">'+(v>=0?"+":"")+(v*100).toFixed(1)+'%</b>';}
+function pxSVG(d,t){
+  var W=640,H=200,L=44,R=10,T=10,B=22,n=d.closes.length;
+  var mn=Math.min.apply(null,d.closes),mx=Math.max.apply(null,d.closes),rg=(mx-mn)||1;
+  var X=function(i){return L+(W-L-R)*i/(n-1);},Y=function(v){return T+(H-T-B)*(1-(v-mn)/rg);};
+  var path=d.closes.map(function(v,i){return (i?"L":"M")+X(i).toFixed(1)+" "+Y(v).toFixed(1);}).join("");
+  var idx={};d.dates.forEach(function(x,i){idx[x]=i;});
+  var near=function(ds){if(ds in idx)return idx[ds];for(var k=1;k<6;k++){var nd=new Date((dnum(ds)+k)*86400000).toISOString().slice(0,10);if(nd in idx)return idx[nd];}return null;};
+  var svg='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="$'+t+' 近一年股價與帳號表態">';
+  [0,.5,1].forEach(function(f){var v=mn+rg*f;svg+='<line x1="'+L+'" x2="'+(W-R)+'" y1="'+Y(v)+'" y2="'+Y(v)+'" stroke="var(--line)"/><text x="'+(L-4)+'" y="'+(Y(v)+3)+'" font-size="10" text-anchor="end" fill="var(--muted)">'+v.toFixed(v<10?2:0)+'</text>';});
+  [0,Math.floor(n/2),n-1].forEach(function(i){svg+='<text x="'+X(i)+'" y="'+(H-6)+'" font-size="10" text-anchor="'+(i?i===n-1?"end":"middle":"start")+'" fill="var(--muted)">'+d.dates[i]+'</text>';});
+  svg+='<path d="'+path+'" fill="none" stroke="var(--accent)" stroke-width="1.6"/>';
+  tkPosts(t).forEach(function(p){var s=p.s[t];if(s==="neutral")return;var i=near(p.date);if(i==null)return;
+    svg+='<circle cx="'+X(i)+'" cy="'+Y(d.closes[i])+'" r="4.5" fill="var(--'+s+')" stroke="var(--card)" stroke-width="1.5"><title>'+esc(an(p.author))+' '+p.date+' '+SL[s]+'：'+esc(p.zh)+'</title></circle>';});
+  return svg+'</svg>';
+}
+function loadPx(t){
+  var put=function(){var el=document.getElementById("px"),d=PX[t];if(!el||st.tk!==t||!d)return;
+    if(d.error||!d.closes){el.textContent='無法取得 $'+t+' 的股價（'+(d.error||"無資料")+'）。非美國掛牌的股票通常沒有。';return;}
+    var c=d.closes,n=c.length,last=c[n-1];
+    el.innerHTML='<div class="pchg"><span>收盤 <b>'+last.toLocaleString()+'</b> '+esc(d.currency||"")+'</span><span>28 日 '+fmtPct(pct(last,c[Math.max(0,n-21)]))+'</span><span>1 年 '+fmtPct(pct(last,c[0]))+'</span></div><div class="chart" style="margin-top:6px">'+pxSVG(d,t)+'</div><div class="legend"><span><i style="background:var(--bull)"></i>帳號看多</span><span><i style="background:var(--bear)"></i>帳號看空</span><span>滑鼠移到圓點可看是誰、說了什麼</span></div>';};
+  if(PX[t])return put();
+  fetch("/api/history?symbol="+encodeURIComponent(t)).then(function(r){return r.json();}).catch(function(){return {error:"連線失敗"};}).then(function(d){PX[t]=d;put();});
+}
+/* AI 問答：整理相關帳號與貼文給 /api/ask */
+var TKS=null;
+function askContext(q){
+  if(!TKS){TKS={};P.forEach(function(p){Object.keys(p.s).forEach(function(t){TKS[t]=1;});});}
+  var up=q.toUpperCase(),tk=[],hs=[];
+  (up.match(/\$?[A-Z][A-Z0-9.]{0,7}/g)||[]).forEach(function(w){w=w.replace(/^\$/,"");if(TKS[w]&&tk.indexOf(w)<0)tk.push(w);});
+  ACC.forEach(function(a){if(up.indexOf(a.handle.toUpperCase())>=0||q.indexOf(a.name)>=0)hs.push(a.handle);});
+  if(!tk.length&&!hs.length&&st.tk)tk.push(st.tk);
+  var l=P.filter(function(p){var okT=!tk.length||tk.some(function(t){return p.s[t];});var okH=!hs.length||hs.indexOf(p.author)>=0;return okT&&okH;});
+  l=l.slice(-120);
+  return {tk:tk,hs:hs,text:l.map(function(p){return '['+p.date+'] '+an(p.author)+'（@'+p.author+'）｜'+Object.keys(p.s).map(function(t){return t+':'+SL[p.s[t]];}).join("、")+'｜'+p.zh+(p.risk?'｜風險：'+p.risk:'');}).join("\n")};
+}
+document.getElementById("aiForm").addEventListener("submit",function(e){e.preventDefault();
+  var q=document.getElementById("aiIn").value.trim(),out=document.getElementById("aiOut");if(!q)return;
+  var c=askContext(q);out.hidden=false;out.textContent="AI 思考中…（依據 "+c.text.split("\n").filter(Boolean).length+" 則貼文）";
+  fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:q,context:c.text})})
+    .then(function(r){return r.json();}).catch(function(){return {error:"連線失敗"};})
+    .then(function(d){out.textContent=d.answer||("無法取得 AI 回答："+(d.error||"未知錯誤")+(c.tk[0]?"\n下方已改為顯示 $"+c.tk[0]+" 的整理結果。":""));if(!d.answer&&c.tk[0])pick(c.tk[0],false);});
+});
 var QT={};
 function loadQuote(t){
   var put=function(){var el=document.getElementById("qt"),q=QT[t];if(!el||st.tk!==t||!q)return;
@@ -433,7 +540,10 @@ function pick(t,scroll){st.tk=t;document.getElementById("askIn").value=t;renderA
 document.addEventListener("click",function(e){
   var b;
   if((b=e.target.closest(".tab"))){st.w=+b.dataset.w;st.n=30;render();return;}
-  if((b=e.target.closest("[data-acc]"))){var h=b.dataset.acc;st.on[h]=!st.on[h];if(!ACC.some(function(a){return st.on[a.handle];}))st.on[h]=true;renderAccs();render();return;}
+  if(e.target.closest("a"))return;
+  if((b=e.target.closest("[data-tkc]"))){pick(b.dataset.tkc,true);return;}
+  if(e.target.id==="closeView"){st.view=null;render();return;}
+  if((b=e.target.closest("[data-acc]"))){var h=b.dataset.acc;st.view=st.view===h?null:h;render();if(st.view)document.getElementById("accView").scrollIntoView({behavior:"smooth",block:"start"});return;}
   if(e.target.id==="mxMore"){st.n+=30;render();return;}
   if(e.target.id==="tlMore"){st.tl+=10;renderTL();return;}
   if((b=e.target.closest(".qc"))){pick(b.dataset.tk,false);return;}
@@ -453,7 +563,7 @@ document.getElementById("hsPosts").textContent=P.length;
 document.getElementById("hsTk").textContent=Object.keys(tks).length;
 document.getElementById("hsAsof").textContent=ASOF;
 document.getElementById("footAsof").textContent=ASOF;
-renderAccs();renderQuick();
+renderQuick();
 var hv=decodeURIComponent(location.hash.slice(1)).toUpperCase();
 var top=windowStances()[0];st.tk=/^[A-Z0-9.\-]{1,10}$/.test(hv)?hv:(top?top.t:null);if(st.tk)document.getElementById("askIn").value=st.tk;
 render();renderAnalysis();

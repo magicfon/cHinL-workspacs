@@ -25,7 +25,8 @@ for p in posts:
         if t not in s or v != "neutral":
             s[t] = v
     p["s"] = s
-data = {"asOf": as_of, "accounts": [{k: v for k, v in a.items() if k != "source"} for a in accounts],
+analysis = json.loads((HERE / "analysis.json").read_text()) if (HERE / "analysis.json").exists() else {}
+data = {"asOf": as_of, "analysis": analysis, "accounts": [{k: v for k, v in a.items() if k != "source"} for a in accounts],
         "posts": posts, "names": names}
 blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 OUT.write_text((HERE / "template.html").read_text().replace("/*DATA*/", blob, 1))
