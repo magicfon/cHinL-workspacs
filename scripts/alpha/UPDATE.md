@@ -1,7 +1,7 @@
 # /alpha 每日更新流程
 
 追蹤名單：`accounts.json`（可增減；`source: "serenity"` 的帳號直接沿用 /serenity 已判讀的貼文）。
-其他帳號的貼文由 Hermes 每天寫進 `inbox/`（見 HERMES.md）。這個環境連不到 x.com。
+其他帳號的貼文由 Hermes 在美股開盤前和收盤後寫進 `inbox/`（見 HERMES.md）。這個環境連不到 x.com。
 
 1. `python3 scripts/alpha/fetch_new.py` → 產生 `new_tweets.json`。顯示 0 則就到第 4 步。
 2. 逐則判讀 `new_tweets.json`，寫 `scripts/alpha/new_labels.json`：
