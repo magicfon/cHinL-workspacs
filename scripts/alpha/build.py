@@ -16,8 +16,15 @@ L = datetime.fromisoformat(as_of)
 posts = sorted(({k: p[k] for k in ("id", "author", "date", "zh", "risk", "s", "text", "likes") if k in p}
                 for p in posts if (L - datetime.fromisoformat(p["date"])).days < 90),
                key=lambda p: (p["date"], p["id"]))
+ALIAS = {"GOOG": "GOOGL", "APPL": "AAPL"}  # same company under two tickers / common typo
 for p in posts:
     p["text"] = p["text"][:1200]
+    s = {}
+    for t, v in p["s"].items():
+        t = ALIAS.get(t, t)
+        if t not in s or v != "neutral":
+            s[t] = v
+    p["s"] = s
 data = {"asOf": as_of, "accounts": [{k: v for k, v in a.items() if k != "source"} for a in accounts],
         "posts": posts, "names": names}
 blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
