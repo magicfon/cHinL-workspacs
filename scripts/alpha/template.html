@@ -303,7 +303,7 @@ function windowStances(){
 
 function renderAccs(){
   document.getElementById("accs").innerHTML=ACC.map(function(a){var c=counts[a.handle]||0;
-    return '<button type="button" class="acc" data-acc="'+esc(a.handle)+'" aria-pressed="'+!!st.on[a.handle]+'">'+av(a.handle)+'<span style="min-width:0"><b>'+esc(a.name)+'</b><span class="h">@'+esc(a.handle)+'</span><span class="y">'+esc(a.style||"")+'</span>'+
+    return '<button type="button" class="acc" data-acc="'+esc(a.handle)+'" aria-pressed="'+!!st.on[a.handle]+'">'+av(a.handle)+'<span style="min-width:0"><b>'+esc(a.name)+'</b><span class="h">@'+esc(a.handle)+'</span><span class="y">'+(a.type?'<span class="pill neutral" style="font-weight:500;margin-right:4px">'+esc(a.type)+'</span>':'')+esc(a.style||"")+'</span>'+
       (c?'<span class="n">'+c+' 則・最新 '+md(last[a.handle])+'</span>':'<span class="n zero">尚無資料，等待 Hermes 收集</span>')+'</span></button>';}).join("");
 }
 function renderTabs(){

@@ -13,7 +13,7 @@
 ```json
 [
   {
-    "author": "markminervini",
+    "author": "jukan05",
     "id": "2100735673561174047",
     "date": "2026-10-03",
     "text": "貼文完整原文（原樣，不要翻譯或摘要）",

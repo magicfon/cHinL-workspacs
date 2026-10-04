@@ -1,9 +1,13 @@
 [
-  {"handle": "aleabitoreddit", "name": "Serenity", "style": "AI 供應鏈、光通訊題材，偏中長線", "source": "serenity"},
-  {"handle": "markminervini", "name": "Mark Minervini", "style": "SEPA 趨勢模板、VCP 動能突破，中短線"},
-  {"handle": "Qullamaggie", "name": "Kristjan Kullamägi", "style": "動能突破與強勢股回檔，短中線"},
-  {"handle": "alphatrends", "name": "Brian Shannon", "style": "多週期均線與 AVWAP，波段"},
-  {"handle": "ripster47", "name": "Ripster", "style": "EMA 雲帶、指數與大型科技股，短線"},
-  {"handle": "TraderStewie", "name": "Stewie", "style": "小型動能股與題材輪動，短線"},
-  {"handle": "PeterLBrandt", "name": "Peter Brandt", "style": "古典圖形與總經部位，中長線"}
+  {"handle": "aleabitoreddit", "name": "Serenity", "type": "觀點帳號", "style": "半導體、光通訊與 AI 供應鏈", "source": "serenity"},
+  {"handle": "jukan05", "name": "Jukan", "type": "觀點帳號", "style": "韓國半導體與全球供應鏈"},
+  {"handle": "octopusycc", "name": "大老师", "type": "觀點帳號", "style": "先進製程、設備與亞洲科技供應鏈"},
+  {"handle": "KawzInvests", "name": "KawzInvests", "type": "觀點帳號", "style": "AI、科技成長股與產業催化劑"},
+  {"handle": "michaelsikand", "name": "Michael Sikand", "type": "觀點帳號", "style": "科技平台、AI 產品與新創趨勢"},
+  {"handle": "ren_stocks", "name": "Ren", "type": "觀點帳號", "style": "成長股機會，重視估值風險"},
+  {"handle": "StockMKTNewz", "name": "Evan", "type": "市場新聞", "style": "即時追蹤美股公司新聞與市場催化劑"},
+  {"handle": "DJTRadar", "name": "DJT Radar", "type": "交易揭露", "style": "追蹤川普相關交易的公開揭露"},
+  {"handle": "Franktradinglog", "name": "Frank trading", "type": "觀點帳號", "style": "交易紀錄"},
+  {"handle": "asklivermore", "name": "AskLivermore", "type": "觀點帳號", "style": "市場觀點"},
+  {"handle": "Balder13946731", "name": "Balder", "type": "觀點帳號", "style": "市場觀點"}
 ]
