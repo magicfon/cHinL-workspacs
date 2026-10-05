@@ -5150,6 +5150,30 @@
 "likes": 381
 },
 {
+"id": "2106133816935088623",
+"author": "michaelsikand",
+"date": "2026-10-02",
+"zh": "Michael Sikand：看好Google代理式AI產品，已掌握使用者密碼、免登入摩擦將成為護城河。",
+"risk": "",
+"s": {
+"GOOG": "bull"
+},
+"text": "I can't stop thinking about how good \n$GOOG\n's agentic product could be. Mainly on one vector. It already has all your passwords. Sign in friction is holding agents back from real seamless usefulness and will be the real moat.",
+"likes": 196
+},
+{
+"id": "2106152339325469010",
+"author": "michaelsikand",
+"date": "2026-10-02",
+"zh": "Michael Sikand：調侃Sam Altman稱CBRS為「親密夥伴」，像是被發好人卡。",
+"risk": "",
+"s": {
+"CBRS": "neutral"
+},
+"text": "\"Close partner\". Did Sama just friendzone \n$CBRS\n?",
+"likes": 88
+},
+{
 "id": "2106152526466953640",
 "author": "unusual_whales",
 "date": "2026-10-02",
@@ -5427,6 +5451,20 @@
 "likes": 1995
 },
 {
+"id": "2106762784016850987",
+"author": "ren_stocks",
+"date": "2026-10-04",
+"zh": "Ren：宣布在交易平台舉辦一週交易競賽並親自參賽。",
+"risk": "",
+"s": {
+"BTC": "neutral",
+"NBIS": "neutral",
+"SNDK": "neutral"
+},
+"text": "$NBIS\n \n$SNDK\n \n$BTC\n\n\n Trading tournament on \n@liquidtrading\n, starting today and running until next Sunday, October 11.\n\nMy late-evening fun is about to start.\n\nI'll be giving away $1,000 in prizes among the top 3, and I'll be competing too.\n\n1 week to prove who is the best trader in the arena.\n\n1 week to use your better judgment and ride momentum in your favor.\n\nThe ranking is by % return, not net gains, so a small account can win it.\n\nI'll only be trading the names I know best.\n\nSign up link in the comments.",
+"likes": 30
+},
+{
 "id": "2106776609457844610",
 "author": "unusual_whales",
 "date": "2026-10-04",
@@ -5461,7 +5499,7 @@
 "PEP": "neutral"
 },
 "text": "Here is the earnings calendar for this upcoming week\n\nDelta \n$DAL\n and Pepsi \n$PEP\n earnings",
-"likes": 66
+"likes": 69
 },
 {
 "id": "2106823474098360335",
@@ -5565,7 +5603,7 @@
 "SPCX": "neutral"
 },
 "text": "Apparently 60% of \n$SPCX\n's 10GW goes to its own demand, and only 40% is for external customers. Could it be because Grok Bot has been a hit?",
-"likes": 514
+"likes": 617
 },
 {
 "id": "2107000187046810015",
@@ -5589,7 +5627,7 @@
 "SPY": "neutral"
 },
 "text": "$SPY\n \n\nThe markets are still strong, but it is getting a little bit exhausted. \n\nBut since we're still in a very much bullish trend, any dip will be bought up quickly in my opinion.\n\nFor now, I am holding really strong fundamentally great companies. I am not adding at these levels, just holding and letting my portfolio continue to compound.\n\nIf there's red weeks ahead, I believe it will be a decent buying opportunity.",
-"likes": 65
+"likes": 283
 },
 {
 "id": "2107078477539078459",
@@ -5620,5 +5658,361 @@
 },
 "text": "Nvidia \n$NVDA\n manufacturing partner Foxconn reported Q3 sales of $95.4 Billion up 47% YoY beating expectations of ~$89B",
 "likes": 17
+},
+{
+"id": "2107099160000287139",
+"author": "KawzInvests",
+"date": "2026-10-05",
+"zh": "KawzInvests：AAOI完成6億美元ATM增發，少了一個賣壓來源，有利後續擴產。",
+"risk": "增發稀釋",
+"s": {
+"AAOI": "bull",
+"COHR": "neutral",
+"LITE": "neutral"
+},
+"text": "$AAOI\n just completed its $600M ATM offering.\n\n> 5.69M shares sold\n> $105.36 average selling price\n> $588M net proceeds\n\nThat brings its total raised through ATMs in 2026 to roughly $1.7B before fees.\n\nThat is 85% of the $2B Nvidia invested in EACH of \n$COHR\n and \n$LITE\n.\n\nThe ATM added substantial mechanical selling pressure, likely contributing to \n$AAOI\n lagging the optical sector. One less overhang as AAOI scales production.",
+"likes": 197
+},
+{
+"id": "2107102762303476166",
+"author": "KawzInvests",
+"date": "2026-10-05",
+"zh": "KawzInvests：Marvell明早舉辦投資人日，之後可能有新目標價。",
+"risk": "",
+"s": {
+"MRVL": "neutral"
+},
+"text": "$MRVL\n Investor Day tomorrow at 9 AM ET\n\nCould see some fresh analyst PTs afterward as the Street digests management’s outlook and growth plans.",
+"likes": 49
+},
+{
+"id": "2107106432101326948",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：比特幣本月站上9.5萬或跌破7.75萬的機率都約四分之一。",
+"risk": "",
+"s": {
+"BTC": "neutral"
+},
+"text": "WHICH OF THESE IS MORE LIKELY TO HAPPEN\n\nBitcoin \n$BTC\n climbs over $95K at some point this month or Bitcoin drops back under $77.5K\n\nThey both have basically the same odds right around a 1 in 4 chance",
+"likes": 49
+},
+{
+"id": "2107111270235111751",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：本週持股表現最佳SpaceX、最差T1 Energy。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TE": "neutral"
+},
+"text": "Here are the best and worst performing stocks in my portfolio to begin trading this week \n\nBest - SpaceX \n$SPCX\n\nWorst - T1 Energy \n$TE\n (now down only 48%)",
+"likes": 425
+},
+{
+"id": "2107113987615625600",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：AI代理建構的打敗那斯達克100組合，以輝達、微軟、博通、台積電為主。",
+"risk": "",
+"s": {
+"AVGO": "neutral",
+"MSFT": "neutral",
+"NVDA": "neutral",
+"TSM": "neutral"
+},
+"text": "I gave my AI Agent the task of beating the NASDAQ 100 over the long term without taking on a lot more risk than the index\n\nThis is what my beat the NASDAQ portfolio looks like right now:\n\nNvidia \n$NVDA\n: 14.7%\nMicrosoft \n$MSFT\n: 14.5%\nBroadcom \n$AVGO\n: 13.8%\nTaiwan Semiconductor \n$TSM\n:",
+"likes": 109
+},
+{
+"id": "2107132957165048154",
+"author": "unusual_whales",
+"date": "2026-10-05",
+"zh": "Unusual Whales：Strategy因比特幣未實現利益210億美元，四季來首度轉盈。",
+"risk": "",
+"s": {
+"MSTR": "neutral"
+},
+"text": "Strategy, \n$MSTR\n, is profitable again, for the first time in four quarters.\n\nIt booked a $21 billion unrealized gain on its Bitcoin in Q3, per Bloomberg.\n\nThe swing is massive:\n\nQ1: $14.5 billion loss\nQ2: $8.3 billion loss\nQ3: $21 billion gain\n\nThe company holds about 848,000 Bitcoin, worth roughly $73 billion.",
+"likes": 439
+},
+{
+"id": "2107137990070075740",
+"author": "unusual_whales",
+"date": "2026-10-05",
+"zh": "Unusual Whales：輝達最大伺服器代工鴻海Q3營收年增47%優於預期，9月創單月紀錄。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia's, \n$NVDA\n, biggest server maker just had one of its biggest quarter.\n\nFoxconn reported Q3 sales of $95.4 billion, up 47% YoY, beating expectations of $89 billion.\n\nSeptember alone hit a record $36.5 billion, up 38%, its first month ever above T$1 trillion.",
+"likes": 262
+},
+{
+"id": "2107138233377427462",
+"author": "michaelsikand",
+"date": "2026-10-05",
+"zh": "Michael Sikand：大盤上漲但記憶體、光通訊、新雲端走弱，市場追高SpaceX而冷落本益比7倍的美光和AAOI，很荒謬。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"MU": "bull",
+"SPCX": "bear"
+},
+"text": "So the indexes are up but memory, photonics, and neoclouds are red. The market is really bidding \n$SPCX\n  over 7x PE \n$MU\n and \n$AAOI\n post ATM. Pathetic.",
+"likes": 290
+},
+{
+"id": "2107142681444958263",
+"author": "KawzInvests",
+"date": "2026-10-05",
+"zh": "KawzInvests：慶祝輝達創歷史新高。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Happy \n$NVDA\n ATH to those who celebrate.\n\nPlease stand for the national anthem.",
+"likes": 148
+},
+{
+"id": "2107143023846904157",
+"author": "unusual_whales",
+"date": "2026-10-05",
+"zh": "Unusual Whales：AMD今年漲近195%，資料中心營收倍增，Anthropic承諾採用最多2GW晶片。",
+"risk": "",
+"s": {
+"AMD": "bull"
+},
+"text": "AMD, \n$AMD\n, is up nearly 195% this year.\n\nIt's one of the 10 best-performing stocks in the S&P 500.\n\nQ2 revenue hit a record $11.5 billion, up 50%.\n\nIts data center business more than doubled to $6.7 billion, now 58% of sales.\n\nAnthropic committed to up to 2 gigawatts of AMD's next-gen AI chips.\n\nAMD expects data center revenue to more than double again in 2027.",
+"likes": 236
+},
+{
+"id": "2107145688467312718",
+"author": "ren_stocks",
+"date": "2026-10-05",
+"zh": "Ren：AAOI完成6億美元ATM，股價消化後仍走高，手握5.88億美元擴產，看多。",
+"risk": "持續增發",
+"s": {
+"AAOI": "bull"
+},
+"text": "Bullish for \n$AAOI\n.\n\nThe $600M ATM is done. \n\nThey sold 5.7M shares at an average of $105 in six weeks, the stock absorbed all of it and still trades higher, and the company now sits on about $588M to build out capacity.\n\nMy read is that this goes into the all-American supply chain customers are willing to pay a premium for.\n\nNow just stop running the ATM every quarter and we are golden!\n\nBullish \n$AAOI",
+"likes": 138
+},
+{
+"id": "2107148001592438901",
+"author": "KawzInvests",
+"date": "2026-10-05",
+"zh": "KawzInvests：「是時候了」，看好AAOI。",
+"risk": "",
+"s": {
+"AAOI": "bull"
+},
+"text": "Its time \n$AAOI",
+"likes": 89
+},
+{
+"id": "2107160391214420203",
+"author": "michaelsikand",
+"date": "2026-10-05",
+"zh": "Michael Sikand：AAOI完成ATM、枷鎖解除，短線可能是利多，但財報前指引目標非常激進。",
+"risk": "財報指引過於激進",
+"s": {
+"AAOI": "bull",
+"COHR": "neutral",
+"LITE": "neutral"
+},
+"text": "Shackles are off. \n\n\n$AAOI\n has finished their $600M ATM program. Certainly the main reason why \n$AAOI\n has underperformed \n$LITE\n and \n$COHR\n lately.\n\nCould see this as a positive catalyst short term before de-risking ahead of ER, as the guidance targets are extremely ambitious.",
+"likes": 93
+},
+{
+"id": "2107163864949539022",
+"author": "Balder13946731",
+"date": "2026-10-05",
+"zh": "Balder：今天大型半導體走強、小型偏弱，台積電創歷史新高。",
+"risk": "",
+"s": {
+"TSM": "bull"
+},
+"text": "今天大半导体走好强，小半导体都好弱🫪\n\n\n$TSM\n创历史新高。",
+"likes": 17
+},
+{
+"id": "2107185488268603492",
+"author": "michaelsikand",
+"date": "2026-10-05",
+"zh": "Michael Sikand：介紹主張「MANGOS」取代七巨頭的新ETF MN，問大家是否會勝過MAGS。",
+"risk": "",
+"s": {
+"GOOGL": "neutral",
+"MAGS": "neutral",
+"META": "neutral",
+"MN": "neutral",
+"NVDA": "neutral",
+"SPCX": "neutral"
+},
+"text": "This new ETF \n$MN\n thinks the Mag 7 is over and \"MANGOS\" is next \n\nSo you think this group outperforms \n$MAGS\n?\n\nM - \n$META\n 21.85%\nA - Anthropic 5.07%\nN - \n$NVDA\n 22.16%\nG - \n$GOOGL\n 21.79%\nO - OpenAI 5.06%\nS - \n$SPCX\n 22.48%",
+"likes": 28
+},
+{
+"id": "2107188859549192543",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：輝達今天再創歷史新高。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n stock just hit new ALL TIME HIGHS again today",
+"likes": 321
+},
+{
+"id": "2107192113746382953",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：列出今天創52週新高的股票，包括輝達、台積電、CrowdStrike、Lumentum。",
+"risk": "",
+"s": {
+"ARW": "neutral",
+"BBDO": "neutral",
+"CRL": "neutral",
+"CRWD": "neutral",
+"CVI": "neutral",
+"DT": "neutral",
+"ELPC": "neutral",
+"EXPD": "neutral",
+"FTNT": "neutral",
+"GGB": "neutral",
+"GH": "neutral",
+"GMAB": "neutral",
+"GRAL": "neutral",
+"HAFN": "neutral",
+"HNGE": "neutral",
+"ILMN": "neutral",
+"INSW": "neutral",
+"ITUB": "neutral",
+"JCI": "neutral",
+"KEYS": "neutral",
+"LITE": "neutral",
+"MPC": "neutral",
+"MTRN": "neutral",
+"NVDA": "neutral",
+"OKTA": "neutral",
+"P": "neutral",
+"PBF": "neutral",
+"PBR": "neutral",
+"PBR.A": "neutral",
+"PCVX": "neutral",
+"RBRK": "neutral",
+"TBBB": "neutral",
+"TSM": "neutral",
+"TWST": "neutral",
+"TX": "neutral",
+"TXG": "neutral",
+"UGP": "neutral",
+"VLO": "neutral",
+"WBD": "neutral",
+"XP": "neutral",
+"ZETA": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nNVIDIA \n$NVDA\n\nTaiwan Semiconductor \n$TSM\n\nCrowdStrike \n$CRWD\n\nOkta \n$OKTA\n\nLumentum \n$LITE\n\nWarner Bros. Discovery \n$WBD\n\nZeta Global \n$ZETA\n\nXP Inc \n$XP\n\nPetrobras \n$PBR.A\n\nGerdau \n$GGB\n\nVaxcyte \n$PCVX\n\nGenmab \n$GMAB\n\nUltrapar \n$UGP\n\nPetrobras \n$PBR\n\nEverpure \n$P\n\nDynatrace \n$DT\n\nHafnia \n$HAFN\n\nIllumina \n$ILMN\n\nCopel \n$ELPC\n\nTwist Bioscience \n$TWST\n\nPBF Energy \n$PBF\n\nRubrik \n$RBRK\n\nFortinet \n$FTNT\n\n10x Genomics \n$TXG\n\nValero Energy \n$VLO\n\nJohnson Controls \n$JCI\n\nMarathon Petroleum \n$MPC\n\nGrail \n$GRAL\n\nExpeditors International \n$EXPD\n\nGuardant Health \n$GH\n\nCharles River Laboratories \n$CRL\n\nHinge Health \n$HNGE\n\nInternational Seaways \n$INSW\n\nTernium \n$TX\n\nKeysight Technologies \n$KEYS\n\nBBB Foods \n$TBBB\n\nCVR Energy \n$CVI\n\nArrow Electronics \n$ARW\n\nMaterion \n$MTRN\n\nBanco Bradesco \n$BBDO\n \nItaú Unibanco \n$ITUB",
+"likes": 66
+},
+{
+"id": "2107194628067958931",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：列出今天創52週新低的股票，包括麥當勞、Trade Desk、百事、Lululemon。",
+"risk": "",
+"s": {
+"AGNC": "neutral",
+"AON": "neutral",
+"AZO": "neutral",
+"BCE": "neutral",
+"CCI": "neutral",
+"CHTR": "neutral",
+"CRH": "neutral",
+"CTVA": "neutral",
+"FER": "neutral",
+"GLPI": "neutral",
+"IONS": "neutral",
+"JOBY": "neutral",
+"LEN": "neutral",
+"LOW": "neutral",
+"LULU": "neutral",
+"LVS": "neutral",
+"MAA": "neutral",
+"MCD": "neutral",
+"NLY": "neutral",
+"PEP": "neutral",
+"PHG": "neutral",
+"PNR": "neutral",
+"POOL": "neutral",
+"ROAD": "neutral",
+"ROL": "neutral",
+"RYN": "neutral",
+"SBAC": "neutral",
+"SNY": "neutral",
+"STZ": "neutral",
+"TTD": "neutral",
+"TU": "neutral",
+"VICI": "neutral",
+"WSO": "neutral",
+"WY": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nMcDonald's \n$MCD\n \nTrade Desk \n$TTD\n \nPepsiCo \n$PEP\n\nLululemon \n$LULU\n\nConstellation Brands \n$STZ\n\nLas Vegas Sands \n$LVS\n\nLowe's \n$LOW\n\nCorteva \n$CTVA\n\nAGNC Investment \n$AGNC\n\nAnnaly Capital \n$NLY\n\nLennar \n$LEN\n\nSanofi \n$SNY\n\nVICI Properties \n$VICI\n\nWeyerhaeuser \n$WY\n\nRollins \n$ROL\n \nTelus \n$TU\n\nBCE \n$BCE\n\nCRH \n$CRH\n\nRayonier \n$RYN\n\nFerrovial \n$FER\n\nGaming and Leisure Properties \n$GLPI\n\nCharter Communications \n$CHTR\n\nJoby Aviation \n$JOBY\n\nCrown Castle \n$CCI\n\nIonis Pharmaceuticals \n$IONS\n\nPentair \n$PNR\n\nAon \n$AON\n \nPhilips \n$PHG\n\nMid-America Apartment \n$MAA\n\nSBA Communications \n$SBAC\n\nConstruction Partners \n$ROAD\n\nWatsco \n$WSO\n\nPool Corp \n$POOL\n\nLennar \n$LEN\n \nAutoZone \n$AZO",
+"likes": 105
+},
+{
+"id": "2107198126604054819",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：輝達距離成為首家6兆美元公司不到2500億美元。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n is less than $250B away from being the first ever $6 Trilllion company",
+"likes": 83
+},
+{
+"id": "2107198391256330580",
+"author": "Balder13946731",
+"date": "2026-10-05",
+"zh": "Balder：明早Marvell股東大會，看能否出現奇蹟。",
+"risk": "",
+"s": {
+"MRVL": "neutral"
+},
+"text": "明日西部时间早上6点是 \n$MRVL\n 的股东大会，让我们看看能不能有奇迹🫪",
+"likes": 1
+},
+{
+"id": "2107200401716240718",
+"author": "michaelsikand",
+"date": "2026-10-05",
+"zh": "Michael Sikand：3月GTC時預測輝達被低估、HBM不會被取代、光通訊續強，全部應驗。",
+"risk": "",
+"s": {
+"COHR": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NVDA": "bull",
+"SNDK": "bull"
+},
+"text": "So crazy I went 3/3 from my predictions from \n$NVDA\n GTC in March.\n\n1) I said \n$NVDA\n was still undervalued. Stock is up 31% since.\n\n2) Everyone was scared SRAM would kill HBM demand. I said it wouldn't / \n$MU\n and \n$SNDK\n both up +140% since.\n\n3) I said we'd see continued strength in optics names. \n$LITE\n +74%, \n$COHR\n +34% since.\n\nThese convictions made me the #1 and #2 stock picker on \n@joinautopilot\n in the last year.\n\nMy goal is to continue to gain alpha by attending events across industries, and hopefully can put together more killer trades publicly before they hit.",
+"likes": 29
+},
+{
+"id": "2107202420380143958",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：SpaceX今天漲逾7%，馬斯克身價重回1兆美元以上。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX \n$SPCX\n stock was up by more than 7% today, bringing Elon Musk's net worth back over $1 Trillion",
+"likes": 36
 }
 ]
