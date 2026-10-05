@@ -3757,6 +3757,32 @@
 "likes": 213
 },
 {
+"id": "2105333255117689052",
+"author": "asklivermore",
+"date": "2026-09-30",
+"zh": "AskLivermore：GOOGL正在收斂整理，觀察能否守住314美元支撐，本人持有。",
+"risk": "跌破314支撐",
+"s": {
+"GOOGL": "bull"
+},
+"text": "$GOOGL\n trying to coil here. Getting tight.\n\nLet's see if it can continue to hold its support and stay above $314.\n\nDisclaimer: I do have Google in my portfolio.",
+"likes": 272
+},
+{
+"id": "2105340872846180534",
+"author": "Balder13946731",
+"date": "2026-09-30",
+"zh": "Balder：PCE低於預期後雲端大廠大漲，認為資金現在在半導體、未來會轉向雲端廠商。",
+"risk": "",
+"s": {
+"AMZN": "bull",
+"GOOG": "bull",
+"MSFT": "bull"
+},
+"text": "上次美联储加息鹰派半导体大涨，这次PCE低于预期（鸽派信号），云大厂（$GOOG \n$MSFT\n \n$AMZN\n ) 纷纷大涨，可见目前资金在半导体，未来资金在云厂商，这件事情在形成市场共识。",
+"likes": 45
+},
+{
 "id": "2105343052638478416",
 "author": "michaelsikand",
 "date": "2026-09-30",
@@ -3850,6 +3876,18 @@
 "likes": 103
 },
 {
+"id": "2105364780995473890",
+"author": "KawzInvests",
+"date": "2026-09-30",
+"zh": "KawzInvests：若Gemini 4 Pro如傳聞強大，是否會改變對Google的看法？認為Google熱度已降。",
+"risk": "話題熱度下滑",
+"s": {
+"GOOG": "neutral"
+},
+"text": "If Gemini 4 Pro is as good as the rumors suggest, would that change your view on \n$GOOG\n?\n\nFeels like Google has lost a lot of its buzz since dropping Antigravity/ Gemini 3 . Curious how quickly that flips if they deliver.",
+"likes": 62
+},
+{
 "id": "2105385355172360348",
 "author": "octopusycc",
 "date": "2026-09-30",
@@ -3859,7 +3897,19 @@
 "MU": "neutral"
 },
 "text": "9.30 美光 财报预测 \n$MU\n \n\n本次财报复杂度极高，同时也是养老金调仓的最后一天。\n\n开盘到现在，也看不到明确的方向。\n\n以下内容为博主大胆猜想，DYOR，NFA\n\n这很重要，敏捷交易\n\n总结：财报Beat 拉盘到1100-1135\n\n指引下调 随后砸盘到1015-1050\n\n——————————\n\n首先 SOXX/SMH的反弹要明显的晚于MU期权上的看涨，这里构成了Insider Trading的表现\n\n从这里，我们判断财报超预期，市场可能会在财报公布后突破1070，抵达Call Wall 1100。 \n\n最终，财报Beat后的顶部，可能会停留在1100-1150，从IV来判断，1100-1135为本轮反弹极限。（价格区间相差不大，不要苛责价格区间）\n\n而指引，将会出现部分下调，因数据中心建设受阻，新更新的Agent也还没有到Killer级别。\n\n所以在电话会阶段，MU股价将会从1100-1135 逐步下跌到1000-1050，作者认为这个区间可以更细化到1015-1050之间。",
-"likes": 14
+"likes": 15
+},
+{
+"id": "2105386193303253112",
+"author": "Balder13946731",
+"date": "2026-09-30",
+"zh": "Balder：預期美光業績與展望會非常強，但無法確定華爾街的反應。",
+"risk": "市場反應難料",
+"s": {
+"MU": "bull"
+},
+"text": "$MU\n 的业绩和预期一定会非常非常恐怖，但是我们无法确定华尔街的态度 \n\n我们研究财报有一个contraction的效应，每一次财报的结果不是和前一次财报的结果相关性很大，而是那次财报累积很多天以后累积起来的机会相关性更大。",
+"likes": 29
 },
 {
 "id": "2105387905405579311",
@@ -3898,6 +3948,19 @@
 "likes": 86
 },
 {
+"id": "2105389004900499548",
+"author": "Balder13946731",
+"date": "2026-09-30",
+"zh": "Balder：美光再度全面超越極高預期，營收後年將超過輝達。",
+"risk": "",
+"s": {
+"MU": "bull",
+"NVDA": "neutral"
+},
+"text": "$MU\n 再一次全面beat本已经高得离谱的预期，其收入将在后年超过 \n$NVDA",
+"likes": 30
+},
+{
 "id": "2105389107455168986",
 "author": "StockMKTNewz",
 "date": "2026-09-30",
@@ -3934,6 +3997,18 @@
 "likes": 49
 },
 {
+"id": "2105394819338244364",
+"author": "Balder13946731",
+"date": "2026-09-30",
+"zh": "Balder：演算法交易紀錄，SNOW平倉獲利5.47%。",
+"risk": "",
+"s": {
+"SNOW": "neutral"
+},
+"text": "平仓获利 1/1 · 最佳 +5.47% \n$SNOW\n 329.51→347.53 +5.47%\n\n 持仓 CRWV 87.53→87.12 -0.5% · LMT 531.71→509.25 -4.2% · HD 290.57→284.49 -2.1% · NVO 38.43→37.91 -1.4% · QCOM 189.82→184.04 -3.0%\n\n balder-algo-logs · 龙气 · 09-30 · algo log · not advice",
+"likes": 0
+},
+{
 "id": "2105396359494824091",
 "author": "KawzInvests",
 "date": "2026-09-30",
@@ -3943,7 +4018,19 @@
 "MU": "bull"
 },
 "text": "$MU\n just guided $61.5B revenue next quarter.\n\nOne year ago they did $11.3B in a quarter. Wow",
-"likes": 172
+"likes": 173
+},
+{
+"id": "2105397139627225130",
+"author": "ren_stocks",
+"date": "2026-09-30",
+"zh": "Ren：美光下季指引615億美元遠超預期，史上最大擴產仍預期2027–28年供給更吃緊。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "$MU\n\n\nThe biggest memory buildout in Micron's history, and they still see supply getting tighter in 2027 and 2028.\n\nNext quarter Micron guided to $61.5B of revenue against $57B expected, and $38.15 of EPS against about $35. And they expect fiscal 2027 to be another record year, with revenue growing every single quarter.\n\nMicron expects memory and storage supply to get even tighter in 2027 and 2028. That's why they're spending $25B on capex in just the first half of the year, with more in the second half, which puts fiscal 2027 north of $50B by my math.\n\nThe biggest memory buildout Micron has ever done, and they still see the shortage getting worse, not better, for two more years.\n\nThey're also more than doubling the R&D increase they guided in June, from about $1B to $2.5B, because the product roadmap keeps getting bigger.\n\nThey expect a more moderate rate of price increases from here, so growth shifts more toward volume. That's the part the bears will focus on, and it's worth watching.\n\nMemory is very much alive and thriving! \n\nBullish",
+"likes": 109
 },
 {
 "id": "2105397854030422232",
@@ -3956,6 +4043,18 @@
 },
 "text": "由于 \n$MU\n 的期权波动预期值是+-11%，所以目前财报的所有结果还没展现出来\n\n我感觉有可能，市场是在等一笔巨额回购的宣布。",
 "likes": 33
+},
+{
+"id": "2105399528090157540",
+"author": "ren_stocks",
+"date": "2026-09-30",
+"zh": "Ren：Vicor九天內二度上修，Q3營收季增逾30%，授權權利金模式發酵，正走世代行情。",
+"risk": "",
+"s": {
+"VICR": "bull"
+},
+"text": "$VICR\n IS ON A GENERATIONAL RUN\n\nSecond raise in nine days.\n\nVicor now expects Q3 revenue to grow more than 30% sequentially, up from more than 20% last week, which was itself up from about 10% before that. The reason: higher royalties from its first non-exclusive Vertical Power Delivery license.\n\nThis is the licensing model doing exactly what I said it would: every rack that ships with Vicor's vertical power delivery pays Vicor, whether Vicor builds the module or not.\n\nFor scale, Q2 revenue was $143.4M, so more than 30% growth puts Q3 above $186M by my math. And royalties carry far higher margins than products, so the earnings impact should be bigger than the revenue number suggests.\n\nIt also connects straight to my power supply chain piece. DC-DC conversion right next to the silicon is the layer I said I'd watch most closely, because as racks get denser, every point of efficiency there becomes worth more.\n\nThe stock is up about 12% after hours, to around $324.\n\nI became interesting in this stock at $180, just a few weeks ago, now I'm watching it fly. Damn.\n\nI won't chase but talk about FOMO.",
+"likes": 59
 },
 {
 "id": "2105400477504655376",
@@ -3992,6 +4091,36 @@
 },
 "text": "$MU\n的最终结果应该还是要看今天韩国股市的情况。",
 "likes": 19
+},
+{
+"id": "2105422332978454661",
+"author": "ren_stocks",
+"date": "2026-09-30",
+"zh": "Ren：同一檔CBRS，自己賺23%、另一人虧20%，調侃追隨誰。",
+"risk": "",
+"s": {
+"CBRS": "neutral"
+},
+"text": "$CBRS\n \n\n\n@ren_stocks\n  +23% / \n@kevinxu\n  -20%\n\nSame ticker, different outcomes. \n\nYou pick which to follow, wink, wink.",
+"likes": 79
+},
+{
+"id": "2105427796994457755",
+"author": "ren_stocks",
+"date": "2026-09-30",
+"zh": "Ren：半導體贏軟體13個百分點、新雲端漲9%，AI建置撐起大盤。",
+"risk": "油價上漲",
+"s": {
+"AVGO": "bull",
+"LITE": "bull",
+"LRCX": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"NVDA": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$LRCX\n \n$NVDA\n \n$AVGO\n \n$SNDK\n \n$MU\n \n$LITE\n\n\nSemis beat software by 13 points, neoclouds rose 9% while cloud software fell 7.5%, and high-beta momentum ripped 28%. Meanwhile oil jumped 14%, and consumer, travel and financial names all bled.\n\nThe AI buildout carried the market \n\nLet's see what October has in store.",
+"likes": 49
 },
 {
 "id": "2105432526634602861",
@@ -4040,6 +4169,31 @@
 },
 "text": "Oracle \n$ORCL\n co-founder Larry Ellison bought 8 home in this Florida community\n\nAll 8 of the houses are for his staff",
 "likes": 256
+},
+{
+"id": "2105461947621835098",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：亞馬遜向Constellation購買690百萬瓩核電，簽20年購電協議。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"CEG": "bull"
+},
+"text": "Amazon \n$AMZN\n has agreed to buy 690 megawatts of nuclear power from Constellation Energy \n$CEG\n \n\nThe 20-year power-purchase agreement includes 190 megawatts of new capacity that will come from upgrading the Calvert Cliffs nuclear plant - Bloomberg",
+"likes": 579
+},
+{
+"id": "2105467639401488419",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：美光上季營收542億美元，去年同期僅113億。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "Micron \n$MU\n brought in $54.2 Billion of revenue this past quarter up from $11.3B in the same quarter last year",
+"likes": 523
 },
 {
 "id": "2105650423172415725",
@@ -4092,6 +4246,18 @@
 "likes": 49
 },
 {
+"id": "2105667101038158155",
+"author": "ren_stocks",
+"date": "2026-10-01",
+"zh": "Ren：互連正在吃下物料成本占比，看多LITE。",
+"risk": "",
+"s": {
+"LITE": "bull"
+},
+"text": "$LITE\n\n\nDid you listen?\n\nInterconnect is coming for that BOM.\n\nBullish",
+"likes": 66
+},
+{
 "id": "2105667213277417675",
 "author": "StockMKTNewz",
 "date": "2026-10-01",
@@ -4128,6 +4294,20 @@
 "likes": 230
 },
 {
+"id": "2105674595701231661",
+"author": "ren_stocks",
+"date": "2026-10-01",
+"zh": "Ren：本週以新聞短線交易勝率100%，嘗試用槓桿平台補充IBKR帳戶。",
+"risk": "槓桿雙向風險",
+"s": {
+"CBRS": "neutral",
+"GOOGL": "neutral",
+"SNDK": "neutral"
+},
+"text": "$GOOGL\n \n$SNDK\n \n$CBRS\n\n\nTrading the news might just be my kind of thing.\n\nWhat a week. 100% win rate.\n\nAs you've probably noticed, I'm trying out \n@liquidtrading\n.\n\nIt complements my \n@IBKR\n account rather than replacing it, for the moments when I can sense a small move to capture and amplify without having to incur into decay from options or leveraged ETFs.\n\nLeverage cuts both ways, so I'll never trade more than I'm willing to lose.",
+"likes": 32
+},
+{
 "id": "2105677590304595981",
 "author": "michaelsikand",
 "date": "2026-10-01",
@@ -4161,7 +4341,7 @@
 "APP": "bull"
 },
 "text": "Investors are watching in disbelief as \n$APP\n plummets under $300 a share.\n\n\n$APP\n trades at 22x earnings, growing revenue 53% YoY in Q2 and EPS by 57%.\n\nInvestors doubt the company can pivot out of ads for mobile games into ads for ecommerce brands.",
-"likes": 322
+"likes": 324
 },
 {
 "id": "2105684676623114344",
@@ -4173,7 +4353,7 @@
 "NBIS": "bull"
 },
 "text": "Nebius \n$NBIS\n announced today it has agreed to acquire Inferize an\n\n\"AI startup that specializes in reducing idle GPU capacity and accelerates the deployment of large models\"",
-"likes": 146
+"likes": 147
 },
 {
 "id": "2105698908416479284",
@@ -4187,7 +4367,44 @@
 "LITE": "bull"
 },
 "text": "Potentially big for US optical suppliers.\n\nMorgan Stanley says Washington is discussing restrictions targeting Chinese 3.2T transceivers, potentially as soon as October.\n\n\n$LITE\n \n$AAOI\n \n$COHR",
-"likes": 294
+"likes": 295
+},
+{
+"id": "2105708459505389734",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：美國商務部與韓國政府宣布投資NextEra參與的223億美元能源園區Project Star。",
+"risk": "",
+"s": {
+"NEE": "neutral"
+},
+"text": "THE UNITED STATES  DEPARTMENT OF COMMERCE AND THE KOREAN GOVERNMENT  ANNOUNCE STRATEGIC INVESTMENT IN PROJECT STAR\n\nProject Star is a $22.3 billion energy infrastructure campus in Encinal, Texas being jointly developed by NextEra Energy \n$NEE\n and Related Companies",
+"likes": 111
+},
+{
+"id": "2105718751077498922",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：Cboe考慮推出VIX永續期貨。",
+"risk": "",
+"s": {
+"VIX": "neutral"
+},
+"text": "VIX PERPS INCOMING?!?!?\n\nCboe Global is looking at listing perpetual futures based on the Cboe Volatility Index $VIX - Bloomberg",
+"likes": 75
+},
+{
+"id": "2105723822439596368",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：今日自選股最佳是Accenture、最差是持有的Tempus AI。",
+"risk": "",
+"s": {
+"ACN": "neutral",
+"TEM": "neutral"
+},
+"text": "What are the best and worst performing stocks on your watch list today\n\nFor me its\n\nBest - Accenture \n$ACN\n \nWorst - Tempus AI \n$TEM\n\n\nClassic Evan I own the worst performer but dont own the best performer",
+"likes": 107
 },
 {
 "id": "2105725080370356309",
@@ -4204,6 +4421,18 @@
 "likes": 224
 },
 {
+"id": "2105725384431902812",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：Authentic Brands據報提議以逾60億美元收購美泰兒。",
+"risk": "",
+"s": {
+"MAT": "neutral"
+},
+"text": "Authentic Brands Group has made an approach to acquire Mattel \n$MAT\n for a reported $6+ Billion - WSJ\n\nMattel owns brands like\n\n- Barbie\n- Hot Wheels\n- Fisher Price\n- American Girl\n- Uno\n- Mega Bloks\n- Thomas & Friends\n- Match box\n- Magic 8 ball",
+"likes": 77
+},
+{
 "id": "2105736910635458960",
 "author": "michaelsikand",
 "date": "2026-10-01",
@@ -4216,6 +4445,18 @@
 "likes": 36
 },
 {
+"id": "2105737787890680259",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：SpaceX另有3.28億股早期股東持股將於10/9可交易。",
+"risk": "解禁賣壓",
+"s": {
+"SPCX": "neutral"
+},
+"text": "Another 328 Million shares of SpaceX \n$SPCX\n stock held by people who have been in since before the IPO will be available to be traded next week on October 9th\n\nDoesn't mean they have to trade them, but they will have the option\n\nAfter the shares become available to trade there will still be more than 75% of the compnay not available to be traded in the open market (yet)",
+"likes": 292
+},
+{
 "id": "2105747909216174124",
 "author": "michaelsikand",
 "date": "2026-10-01",
@@ -4226,6 +4467,42 @@
 },
 "text": "Beautiful to see \n$CRDO\n moving up with the optical stack today.\n\nIn yesterday's deep dive we argued the market hasn't been giving their photonics upside enough respect.\n\nNice to see the market making this connection right after.",
 "likes": 114
+},
+{
+"id": "2105754339935690998",
+"author": "unusual_whales",
+"date": "2026-10-01",
+"zh": "Unusual Whales：Nike財報EPS 0.48美元優於預期，營收112億略低於預期。",
+"risk": "營收未達預期",
+"s": {
+"NKE": "neutral"
+},
+"text": "Nike, \n$NKE\n, earnings:\n\n- EPS: $0.48, est: $0.44\n- Revenue: $11.2 billion, et: $11.3 billion",
+"likes": 459
+},
+{
+"id": "2105755089868562931",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：Nike財報後盤後走低。",
+"risk": "",
+"s": {
+"NKE": "bear"
+},
+"text": "Nike \n$NKE\n stock is moving lower initially in after hours following its earnings",
+"likes": 187
+},
+{
+"id": "2105755732213727412",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：Nike股價再創十多年新低。",
+"risk": "",
+"s": {
+"NKE": "bear"
+},
+"text": "Another afternoon of decade plus lows for Nike \n$NKE\n stock",
+"likes": 109
 },
 {
 "id": "2105755766695276964",
@@ -4250,6 +4527,57 @@
 },
 "text": "平仓亏损 1 \n$LMT\n 531.71→504.96 -5.03%\n\n 持仓 CRWV 87.53→88.57 +1.2% · HD 290.57→282.46 -2.8% · NVO 38.43→37.4 -2.7% · QCOM 189.82→182.09 -4.1%\n\n balder-algo-logs · 龙气 · 10-01 · algo log · not advice",
 "likes": 2
+},
+{
+"id": "2105758074858610774",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：玩笑說追蹤者每人投4.5萬美元就能買下Nike。",
+"risk": "",
+"s": {
+"NKE": "neutral"
+},
+"text": "If everyone who follows me invested $45,000 we could acquire Nike \n$NKE\n\n\nYou’re welcome for this piece of useless information",
+"likes": 236
+},
+{
+"id": "2105768992119881869",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：迪士尼世界開幕55週年。",
+"risk": "",
+"s": {
+"DIS": "neutral"
+},
+"text": "The Walt Disney World \n$DIS\n theme park opened 55 years ago today in Orlando, Florida",
+"likes": 115
+},
+{
+"id": "2105779287169323157",
+"author": "unusual_whales",
+"date": "2026-10-01",
+"zh": "Unusual Whales：訂閱以取得GME即時動態。",
+"risk": "",
+"s": {
+"GME": "neutral"
+},
+"text": "To get updates to \n$GME\n as it happens, subscribe to Unusual Whales.\n\nRead more:",
+"likes": 9
+},
+{
+"id": "2105786489128862146",
+"author": "StockMKTNewz",
+"date": "2026-10-01",
+"zh": "Evan：標普500成分股調整，Vylor、Twilio納入，Corteva、華納兄弟探索剔除。",
+"risk": "",
+"s": {
+"CTVA": "neutral",
+"TWLO": "neutral",
+"VLYR": "neutral",
+"WBD": "neutral"
+},
+"text": "THE S&P 500 IS CHANGING \n\n2 new names are being added to the index and 2 names are being removed\n\nStocks being added:\n\nVylor $VLYR\nTwilio \n$TWLO\n\n\nStocks being removed:\n\nCorrect \n$CTVA\n \nWarner Bros. Discovery \n$WBD\n\n\n(Vylor was added to the S&P 500 on October 1 when S&P 500 constituent Corteva spun off Vylor in a transaction completed on that date. Vylor replaces Corteva in the S&P 500)",
+"likes": 134
 },
 {
 "id": "2105795361495253211",
@@ -4419,6 +4747,18 @@
 "likes": 33
 },
 {
+"id": "2105885776328446186",
+"author": "ren_stocks",
+"date": "2026-10-02",
+"zh": "Ren：先前放空比特幣，考慮回頭做多。",
+"risk": "",
+"s": {
+"BTC": "neutral"
+},
+"text": "$BTC\n \n\nSorry I had to short this,\n\nI sure know how to play with fire hahaha.\n\nMaybe it’s time to go back long.",
+"likes": 19
+},
+{
 "id": "2105907093291299105",
 "author": "jukan05",
 "date": "2026-10-02",
@@ -4428,7 +4768,31 @@
 "DRAM": "bull"
 },
 "text": "KOREAN LOCAL MEDIA: SAMSUNG IS QUOTING A PRICE IN THE MID-TO-HIGH $4 RANGE PER GIGABIT IN ONGOING HBM4 PRICE NEGOTIATIONS WITH MAJOR CUSTOMERS.\n\nKOREAN LOCAL MEDIA: THIS IS MORE THAN THREE TIMES THE $1.50 PER GIGABIT PRICE OF HBM3E, THE CURRENT MAINSTREAM PRODUCT.\n\n\n$DRAM",
-"likes": 806
+"likes": 809
+},
+{
+"id": "2105969281997431070",
+"author": "StockMKTNewz",
+"date": "2026-10-02",
+"zh": "Evan：亞馬遜研議把80億美元AI晶片移到外部特殊目的實體再租回。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "AMAZON \n$AMZN\n IS EXPLORING A DEAL TO MOVE $8 BILLION OF AI CHIPS OFF ITS OWN BALANCE SHEET\n\nThe plan would shift thousands of Grace Blackwell chips across more than a dozen US data centers into a special-purpose vehicle funded by outside investors, according to the Financial Times\n\nAmazon would keep using the hardware while moving to a more asset-light financing model. The vehicle could issue debt and sell up to a 10% equity stake to investors.\n\nUnder the proposed structure, Amazon would lease the advanced chips back from the entity - Bloomberg",
+"likes": 612
+},
+{
+"id": "2105982866912129293",
+"author": "StockMKTNewz",
+"date": "2026-10-02",
+"zh": "Evan：博通開始籌集600億美元AI晶片融資，受益者包括Anthropic。",
+"risk": "",
+"s": {
+"AVGO": "bull"
+},
+"text": "BROADCOM STARTS AMASSING $60 BILLION TO FUND CHIPS FOR ANTHROPIC\n\nBroadcom’s \n$AVGO\n Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic and other companies - Bloomberg",
+"likes": 308
 },
 {
 "id": "2106006829570601275",
@@ -4441,6 +4805,18 @@
 },
 "text": "我在想这段时间死死压在 \n$DIA\n 还有银行板块的空头会不会离开🫪",
 "likes": 6
+},
+{
+"id": "2106007515607474511",
+"author": "StockMKTNewz",
+"date": "2026-10-02",
+"zh": "Evan：特斯拉Q3交車48.65萬輛，優於預期46.4萬。",
+"risk": "",
+"s": {
+"TSLA": "bull"
+},
+"text": "Tesla \n$TSLA\n delivered 486,532 cars in Q3 beating expectations of 464K",
+"likes": 365
 },
 {
 "id": "2106010740188647457",
@@ -4540,7 +4916,7 @@
 "TSM": "bull"
 },
 "text": "9月发财股票总结：\n\n$RKLB\n 63>75 +19%\n\n$TSM\n 412>472 +14.5%\n\n很快发布10月发财股票。",
-"likes": 34
+"likes": 35
 },
 {
 "id": "2106025311347315130",
@@ -4552,7 +4928,7 @@
 "NVDA": "bull"
 },
 "text": "Nvidia \n$NVDA\n stock just hit new ALL TIME HIGHS",
-"likes": 898
+"likes": 899
 },
 {
 "id": "2106032699094053029",
@@ -4564,7 +4940,7 @@
 "CRDO": "bull"
 },
 "text": "$CRDO\n is now +37% since my public fear buy just one month ago.\n\nAnd 18% in TWO days since \n@AsymmetricBets_\n called it's photonics upside misunderstood by Wall St.\n\nWhen there's real alpha, this market does not give you time to sit around.",
-"likes": 132
+"likes": 133
 },
 {
 "id": "2106034689861664859",
@@ -4579,6 +4955,18 @@
 "likes": 1902
 },
 {
+"id": "2106036165036130452",
+"author": "zephyr_z9",
+"date": "2026-10-02",
+"zh": "Zephyr：Rosenblatt為希捷辯護稱東芝擴產要到2030年，Zephyr認為這是很弱的理由。",
+"risk": "新競爭者加入",
+"s": {
+"STX": "bear"
+},
+"text": "Rosenblatt the first starting to defend $STX here, argueing Toshiba's planned Philippine expansion will likely materialize closer to 2030, preserving Seagate's relative position.\n\nThis entire note reads like one of the weakest excuses for a new potential competitor joining the  x.com/jukan05/status…",
+"likes": 138
+},
+{
 "id": "2106044365634465880",
 "author": "asklivermore",
 "date": "2026-10-02",
@@ -4589,6 +4977,21 @@
 },
 "text": "My wife and I’s Tesla is arriving in the next few weeks. \n\nWe’ll be buying more \n$TSLA\n shares in the future.",
 "likes": 290
+},
+{
+"id": "2106044829041864831",
+"author": "ren_stocks",
+"date": "2026-10-02",
+"zh": "Ren：持股全面上漲、投資組合接近新高，認為大家還不夠看多。",
+"risk": "",
+"s": {
+"LITE": "bull",
+"MXL": "bull",
+"NBIS": "bull",
+"SOXX": "bull"
+},
+"text": "$SOXX\n \n$LITE\n \n$MXL\n \n$NBIS\n \n\nWould you look at that. Green across the board.\n\nMy portfolio is inches away from reaching ATH.\n\nYou guys are not bullish enough.",
+"likes": 43
 },
 {
 "id": "2106056040873935257",
@@ -4602,7 +5005,19 @@
 "NBIS": "bull"
 },
 "text": "PUMP FUCKING TOBER. \n\nThis market wants to buy stocks so desperatley and some weak job data clearing out an October rate hike gave it an excuse to follow its heart. \n\n\n$CRDO\n \n$NBIS\n \n$AAOI",
-"likes": 172
+"likes": 173
+},
+{
+"id": "2106060471497334816",
+"author": "unusual_whales",
+"date": "2026-10-02",
+"zh": "Unusual Whales：XLK近期大量買進10/16到期買權，交易人押注科技股續漲。",
+"risk": "",
+"s": {
+"XLK": "bull"
+},
+"text": "Technology remains strong. Recent large flows in the SPDR \n$XLK\n technology ETF have preceded this recent move\n\nNearly $2M of the 195c 10/16 opened in the last couple of weeks\n\nThe 200c saw similar flows, these totaling $1.3M\n\nTraders may be speculating on further upside going into the middle of the month, as the 205c had a trader (albeit much smaller) active recently as well",
+"likes": 113
 },
 {
 "id": "2106061969069674631",
@@ -4629,6 +5044,18 @@
 "likes": 274
 },
 {
+"id": "2106065926093496476",
+"author": "unusual_whales",
+"date": "2026-10-02",
+"zh": "Unusual Whales：Nike單日跌逾6%創2013年來新低，一年跌逾55%，營收未達預期並預告續降。",
+"risk": "營收持續下滑",
+"s": {
+"NKE": "bear"
+},
+"text": "Wow.\n\nNike, \n$NKE\n, is down more than 6% today, hitting its lowest level since September 2013.\n\nIt is down more than 55% in a year.\n\nIt has lost roughly $60 billion in market cap.\n\nIf you invested $1 in \n$NKE\n 5 years ago, it would now be worth about 23 cents.\n\nYesterday, it missed revenue estimates and guided for sales to fall again this year.",
+"likes": 795
+},
+{
 "id": "2106073886743732568",
 "author": "StockMKTNewz",
 "date": "2026-10-02",
@@ -4641,6 +5068,21 @@
 "likes": 179
 },
 {
+"id": "2106076184840667539",
+"author": "ren_stocks",
+"date": "2026-10-02",
+"zh": "Ren：認為這些持股該續抱，押注殖利率回落；總經雖示警，高貝塔股仍看漲。",
+"risk": "殖利率走高",
+"s": {
+"AAOI": "bull",
+"AXTI": "bull",
+"PENG": "bull",
+"SIVE": "bull"
+},
+"text": "$AAOI\n $SIVE \n$AXTI\n \n$PENG\n\n\nOK, now it's almost certain this is a hold.\n\nNow all we need is for yields to go down and hold.\n\nTrump needs to pull off a 180 here, which I'm betting he will.\n\nBuckle up, ladies and gentlemen.\n\nEven if the macro is screaming caution, high betas are screaming higher.",
+"likes": 156
+},
+{
 "id": "2106083350159253575",
 "author": "michaelsikand",
 "date": "2026-10-02",
@@ -4650,7 +5092,7 @@
 "KRKNF": "bear"
 },
 "text": "Certainly wild to see $KRKNF under $3/share.\n\nIn August I wrote about my frustrations and that there were better opportunities than waiting for the Anduril ramp, which was clearly delayed. Sentiment has only dragged lower since.\n\nBut there's a lot of factors.\n\n1) The market",
-"likes": 193
+"likes": 196
 },
 {
 "id": "2106099215059255470",
@@ -4671,6 +5113,31 @@
 "likes": 197
 },
 {
+"id": "2106104933099675674",
+"author": "unusual_whales",
+"date": "2026-10-02",
+"zh": "Unusual Whales：特斯拉交車優於預期漲約5%，SpaceX星艦入軌後漲逾6%。",
+"risk": "",
+"s": {
+"SPCX": "bull",
+"TSLA": "bull"
+},
+"text": "Wow.\n\nTesla, \n$TSLA\n, is up about 5% today after Q3 deliveries hit 486,532, beating estimates of 461,974.\n\nSpaceX, \n$SPCX\n, is up more than 6%, days after Starship reached orbit for the first time.\n\nTogether, they're worth more than $3 trillion.",
+"likes": 990
+},
+{
+"id": "2106107632243319179",
+"author": "StockMKTNewz",
+"date": "2026-10-02",
+"zh": "Evan：川普政府計畫提供Vistra約40億美元貸款升級三座核電廠。",
+"risk": "",
+"s": {
+"VST": "bull"
+},
+"text": "The  Trump administration plans to offer a roughly $4B loan package to Vistra \n$VST\n to upgrade three of its nuclear plants - Bloomberg",
+"likes": 528
+},
+{
 "id": "2106119214637486348",
 "author": "StockMKTNewz",
 "date": "2026-10-02",
@@ -4681,6 +5148,18 @@
 },
 "text": "Oracle \n$ORCL\n co founder Larry Ellison bought this home in North Palm Beach, Florida for $80 Million\n\nHe is now trying to sell it for $165 Million",
 "likes": 381
+},
+{
+"id": "2106152526466953640",
+"author": "unusual_whales",
+"date": "2026-10-02",
+"zh": "Unusual Whales：GameStop執行長Ryan Cohen買進1700萬美元股票。",
+"risk": "",
+"s": {
+"GME": "bull"
+},
+"text": "GameStop, \n$GME\n, CEO Ryan Cohen has bought $17 million in stock",
+"likes": 1731
 },
 {
 "id": "2106357311232970853",
@@ -4719,6 +5198,30 @@
 "likes": 277
 },
 {
+"id": "2106414221529424057",
+"author": "unusual_whales",
+"date": "2026-10-03",
+"zh": "Unusual Whales：新墨西哥州要求法院判Meta最高400億美元罰款。",
+"risk": "巨額罰款",
+"s": {
+"META": "bear"
+},
+"text": "BREAKING: New Mexico is asking a judge to order Meta, \n$META\n, to pay up to $40 billion in penalties after a jury found the company misled consumers about Facebook's data privacy, per YF",
+"likes": 2140
+},
+{
+"id": "2106444420383989961",
+"author": "unusual_whales",
+"date": "2026-10-03",
+"zh": "Unusual Whales：輝達市值約5.6兆美元全球最大，大摩列為半導體首選。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Wow.\n\nNvidia, \n$NVDA\n, is up more than 20% in a year.\n\nIt is now worth roughly $5.6 trillion, the largest company on earth.\n\nIf you invested $1 in \n$NVDA\n 5 years ago, it would now be worth about $11.\n\nMorgan Stanley named it its top semiconductor pick.",
+"likes": 816
+},
+{
 "id": "2106450096808153311",
 "author": "KawzInvests",
 "date": "2026-10-03",
@@ -4730,7 +5233,7 @@
 "LITE": "bull"
 },
 "text": "Earlier this year, \n$LITE\n CEO Michael Hurlston reported that Lumentum was under-shipping optical demand by 30%.\n\nAt the Global Photonics Economic Forum, he revealed that the projected deficit has now expanded to 70%:\n\n\"Next year, with the advent of CPO and NPO in 2027, our estimate is that we are going to be under shipping demand by 70% literally 70%. So we can only supply 30% of what we're being asked to supply.\"\n\nHe noted that Lumentum is actively having to allocate customer supply, with management not projecting market supply and demand to reach balance until 2029 or 2030. \n$LITE\n \n$COHR\n \n$AAOI",
-"likes": 239
+"likes": 280
 },
 {
 "id": "2106450782002512355",
@@ -4742,7 +5245,32 @@
 "LITE": "bull"
 },
 "text": "Where supply vs demand actually stands in optics right now, straight from the latest earnings calls.\n\n$LITE is sold out. Their CEO quantified undershipping demand by more than 30% and said they are having to choose which customers to support. EML capacity is locked in LTAs  x.com/KawzInvests/st…",
-"likes": 8
+"likes": 9
+},
+{
+"id": "2106451917161292095",
+"author": "StockMKTNewz",
+"date": "2026-10-03",
+"zh": "Evan：最近賣出CoreWeave、買進Nebius。",
+"risk": "",
+"s": {
+"CRWV": "bear",
+"NBIS": "bull"
+},
+"text": "I sold my \n$CRWV\n and bought \n$NBIS\n recently",
+"likes": 29
+},
+{
+"id": "2106466676435009754",
+"author": "StockMKTNewz",
+"date": "2026-10-03",
+"zh": "Evan：Nike過去33年表現落後標普500。",
+"risk": "",
+"s": {
+"NKE": "bear"
+},
+"text": "Nike \n$NKE\n is now underperforming the S&P 500 over the last 33 years",
+"likes": 947
 },
 {
 "id": "2106486146310025477",
@@ -4783,7 +5311,7 @@
 "WMT": "neutral"
 },
 "text": "This is how every stock in the Dow Jones Industrial Average has performed over the last decade\n\nNvidia \n$NVDA\n: +13,050.65% \nApple \n$AAPL\n: +1,080.68% \nCaterpillar \n$CAT\n: +852.37% \nMicrosoft \n$MSFT\n: +798.49% \nAlphabet \n$GOOGL\n: +754.41% \nAmazon \n$AMZN\n: +500.78% \nGoldman Sachs \n$GS\n: +459.66% \nJPMorgan \n$JPM\n: +399.14% \nAmerican Express \n$AXP\n: +372.80% \nVisa \n$V\n: +336.11% \nWalmart \n$WMT\n: +333.69% \nCisco \n$CSCO\n: +253.72% \nSherwin-Williams \n$SHW\n: +246.47% \nSalesforce \n$CRM\n: +229.02% \nTravelers \n$TRV\n: +214.60% \nUnitedHealth \n$UNH\n: +165.64% \nMerck \n$MRK\n: +142.48% \nAmgen \n$AMGN\n: +141.62% \nHome Depot \n$HD\n: +119.81% \nJohnson & Johnson \n$JNJ\n: +116.74% \nCoca-Cola \n$KO\n: +102.39% \nMcDonald's \n$MCD\n: +101.01% \nChevron \n$CVX\n: +100.83% \nHoneywell \n$HON\n: +95.21% \nProcter & Gamble \n$PG\n: +61.46% \nBoeing \n$BA\n: +46.93% \nIBM \n$IBM\n: +46.74% \nDisney \n$DIS\n: +10.05% \n3M \n$MMM\n: +9.87% \nNike \n$NKE\n: -32.5%",
-"likes": 341
+"likes": 445
 },
 {
 "id": "2106486526888776082",
@@ -4795,7 +5323,19 @@
 "LITE": "bull"
 },
 "text": "This is insane.\n\nWe thought \n$LITE\n's supply/demand imbalance was about 30%. \n\nCEO is saying that previous estimate was off by 40%. \n\nNo wonder we've seen so much strength in the stock this week.",
-"likes": 157
+"likes": 204
+},
+{
+"id": "2106535017430003734",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：美光一年漲逾480%、股價破千，本週財報與指引優於預期。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "Wow.\n\nMicron, \n$MU\n, is up more than 480% in a year.\n\nIt has added roughly $1 trillion in market cap.\n\nIt now trades above $1,000 a share.\n\nIf you invested $1 in \n$MU\n 5 years ago, it would now be worth about $15.\n\nThis week, it beat earnings estimates and guided above Wall Street.",
+"likes": 749
 },
 {
 "id": "2106546457167671735",
@@ -4809,7 +5349,7 @@
 "SKHY": "bull"
 },
 "text": "$MU\n \n$SKHY\n\n\nNow this is a really interesting development and it’s bullish for memory.\n\nHBM stops being a part you can swap and becomes something designed into the chip years ahead, with Nvidia's controller built into the stack itself. Once you're designed in, you're in for the whole generation, which means longer contracts, more value per stack and a lot less of the old commodity cycle.\n\n\n$MU\n, SK Hynix and Samsung just got a stickier product, and \n$NVDA\n gets more compute out of every chip. Both layers win.",
-"likes": 147
+"likes": 199
 },
 {
 "id": "2106553928913404087",
@@ -4827,6 +5367,30 @@
 "likes": 201
 },
 {
+"id": "2106559780743704635",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：介紹如何追蹤Ryan Cohen買進GME。",
+"risk": "",
+"s": {
+"GME": "neutral"
+},
+"text": "Ryan Cohen of GameStop, \n$GME\n, has bought millions of \n$GME\n recently.\n\nHow can you track this?\n\nCheck Unusual Whales: \nhttps://\nunusualwhales.com/stock/gme/over\nview?chart=stock-chart\n…",
+"likes": 850
+},
+{
+"id": "2106572765759410444",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：訂閱以取得Nike選擇權動態。",
+"risk": "",
+"s": {
+"NKE": "neutral"
+},
+"text": "To get updates on all \n$NKE\n option content, subscribe to Unusual Whales.\n\nSee more:",
+"likes": 9
+},
+{
 "id": "2106580842797826068",
 "author": "jukan05",
 "date": "2026-10-04",
@@ -4836,6 +5400,225 @@
 "QCOM": "bull"
 },
 "text": "SemiAnalysis: The Muse charm will be powered by Qualcomm’s Snapdragon.\n\nI recall CA saying that Qualcomm was working with OpenAI as well as Meta.\n\n\n$QCOM",
-"likes": 321
+"likes": 414
+},
+{
+"id": "2106757600494649520",
+"author": "StockMKTNewz",
+"date": "2026-10-04",
+"zh": "Evan：蘋果新任執行長Ternus親自投入工業設計與人機介面團隊。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "New Apple \n$AAPL\n CEO John Ternus has reportedly been immersing himself in the industrial design and human interface teams\n\nTernus has reportedly been working hand on in the studio several times per week, sometimes visiting multiple times in a single day - Bloomberg",
+"likes": 443
+},
+{
+"id": "2106761511049830673",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：Palantir內部人持續賣股、今年零買進。",
+"risk": "內部人賣壓",
+"s": {
+"PLTR": "bear"
+},
+"text": "Wow.\n\nPalantir, \n$PLTR\n, insiders keep selling, and nobody is buying.\n\nPeter Thiel sold 2 million shares in March for $290 million.\n\nCEO Alex Karp sold $65.9 million in Feb, another $86 million in August.\n\nInsiders sold about $95 million in August alone, across six executives.\n\nInsider purchases this year: zero.",
+"likes": 1995
+},
+{
+"id": "2106776609457844610",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：GameStop執行長9/10以來買進約5700萬美元，股價連五週上漲。",
+"risk": "",
+"s": {
+"GME": "bull"
+},
+"text": "Wow.\n\nGameStop insiders are buying, and the CEO is leading the way.\n\nRyan Cohen has bought about $57 million of \n$GME\n stock since Sept. 10.\n\nHe now owns nearly 41 million shares directly.\n\nFour directors have bought shares too.\n\nThe stock is had its 5th straight weekly gain.",
+"likes": 2058
+},
+{
+"id": "2106791708830622185",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：Moderna今年漲逾570%，8月黑色素瘤試驗成功單日漲140%。",
+"risk": "",
+"s": {
+"MRNA": "neutral"
+},
+"text": "This is interesting.\n\nModerna, \n$MRNA\n, is up more than 570% this year.\n\nIt's the 2nd-best stock in the S&P 500.\n\nThe stock jumped 140% in a single day in August after a late-stage melanoma trial came back positive.",
+"likes": 465
+},
+{
+"id": "2106814901075533869",
+"author": "StockMKTNewz",
+"date": "2026-10-04",
+"zh": "Evan：本週財報有達美航空與百事。",
+"risk": "",
+"s": {
+"DAL": "neutral",
+"PEP": "neutral"
+},
+"text": "Here is the earnings calendar for this upcoming week\n\nDelta \n$DAL\n and Pepsi \n$PEP\n earnings",
+"likes": 66
+},
+{
+"id": "2106823474098360335",
+"author": "ren_stocks",
+"date": "2026-10-04",
+"zh": "Ren：預期週一持股會上漲，市場不在意前沿模型放緩的消息。",
+"risk": "",
+"s": {
+"AMD": "bull",
+"BE": "bull",
+"LITE": "bull",
+"MRVL": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$SNDK\n \n$LITE\n \n$BE\n \n$AMD\n \n$MRVL\n\n\nMy stocks on Monday after it turned out no one gave a fk about pacing the frontier.",
+"likes": 93
+},
+{
+"id": "2106831119614173471",
+"author": "StockMKTNewz",
+"date": "2026-10-04",
+"zh": "Evan：本週看點：亞馬遜Prime Day、微軟Windows與Surface發表會、Zeta Live。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"MSFT": "neutral",
+"ZETA": "neutral"
+},
+"text": "Here are some of the events to watch out for this week\n\n- Amazon \n$AMZN\n will be holding a Prime Day sales event on Tuesday and Wednesday\n- Microsoft \n$MSFT\n will host its Windows and Surface event on Wednesday\n- Zeta Global \n$ZETA\n will be hosting its Zeta Live Event (They invited me to go to this actually ... so this is where I will be on Thursday)",
+"likes": 90
+},
+{
+"id": "2106837006982746505",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：戴爾今年漲逾340%，AI伺服器帶動Q1營收增88%。",
+"risk": "",
+"s": {
+"DELL": "bull"
+},
+"text": "Look at this.\n\nDell, \n$DELL\n, is up more than 340% this year.\n\nIts Q1 revenue jumped 88% to $43.8 billion, driven by AI servers.\n\nThe PC company is now an AI infrastructure company.",
+"likes": 368
+},
+{
+"id": "2106857499886260234",
+"author": "StockMKTNewz",
+"date": "2026-10-04",
+"zh": "Evan：VGT近20年上漲逾2500%。",
+"risk": "",
+"s": {
+"VGT": "neutral"
+},
+"text": "$VGT\n is up by more than 2,500% over the last ~2 decades",
+"likes": 64
+},
+{
+"id": "2106859515207627095",
+"author": "michaelsikand",
+"date": "2026-10-04",
+"zh": "Michael Sikand：Sony是被忽略的好交易，GTA 6分成未反映在股價，買權便宜。",
+"risk": "GTA 6延期",
+"s": {
+"SONY": "bull",
+"TTWO": "neutral"
+},
+"text": "$SONY\n feels like the easiest trade on the market no one is paying attention to.\n\nWhile it's less of a pure play than \n$TTWO\n, I like \n$SONY\n better as a trade because no GTA 6 revenue is currently priced into the stock despite \n$SONY\n taking a ~30% cut of the game on its 70%+ console market share. \n\nFor context, about 40% \n$SONY\n's entire earnings as a conglomerate come from gaming, 100% of that from non hardware like digital game sales, microtransactions/add-on content, and PSN subscriptions, and no earnings growth is forecasted from GTA 6 this year.\n\nCalls are cheap, IV is low, and no one is pricing in a benefit that will structurally re-rate gaming earnings for 10-15 years based on GTA V still being the third top game played on PS5 today.\n\nI also like that a near term, unpriced god tier catalyst coincides with an already excellent, cheap business with in my view little downside, allowing me to go aggressive on options here as it's not trading at some hype multiple or in a volatile sector like AI. \n\n17x forward PE on ~17% projected earning growth this year, 4-8% lower than what I model just from \n$SONY\n's pure margin cut of GTA 6 game sales from launch through March 2027. \n\nThings get even rosier, when we model the launch of GTA Online in 2027. This is where \n$SONY\n's real business model eats with add-on content and PSN subscriber uplift, becoming a long term, structural earnings driver for the business after the surge of copy sales are worked through.\n\nThat's why I think the stock will move up not only with earnings growth, but the market soon paying the platform multiple \n$SONY\n deserves in the mid 20's, because of its pivot from hardware to high margin software.\n\nThe market already paid this 25x multiple in Nov 2025 when the stock hit an ATH of $30/share for the ADR, I believe GTA 6 will have the market to pay it again on much larger earnings base, implying a new ATH ahead.\n\nI just laid out my projections/model for the stock on \n@AsymmetricBets_\n Substack, 90% of my thinking is free: \nhttps://\nasymmetricalbets.substack.com/p/sony-high-co\nnviction-multiple-expansion\n…",
+"likes": 42
+},
+{
+"id": "2106882305524642080",
+"author": "unusual_whales",
+"date": "2026-10-04",
+"zh": "Unusual Whales：Sandisk今年漲近650%居標普之冠，NAND短缺推升。",
+"risk": "",
+"s": {
+"SNDK": "bull"
+},
+"text": "This is interesting.\n\nSandisk, \n$SNDK\n, is up nearly 650% this year.\n\nIt's the best-performing stock in the S&P 500.\n\nIt was also the S&P's top performer in 2025, up nearly 570%.\n\nA global shortage of NAND flash memory, driven by AI demand, has sent it soaring.",
+"likes": 171
+},
+{
+"id": "2106897405165900224",
+"author": "unusual_whales",
+"date": "2026-10-05",
+"zh": "Unusual Whales：英特爾今年漲逾230%，名列標普前五。",
+"risk": "",
+"s": {
+"INTC": "neutral"
+},
+"text": "Intel, \n$INTC\n, is up more than 230% this year.\n\nIt's one of the 5 best-performing stocks in the S&P 500.",
+"likes": 381
+},
+{
+"id": "2106907946890457304",
+"author": "jukan05",
+"date": "2026-10-05",
+"zh": "Jukan：SpaceX的10GW算力60%自用、40%對外，猜測與Grok熱賣有關。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "Apparently 60% of \n$SPCX\n's 10GW goes to its own demand, and only 40% is for external customers. Could it be because Grok Bot has been a hit?",
+"likes": 514
+},
+{
+"id": "2107000187046810015",
+"author": "jukan05",
+"date": "2026-10-05",
+"zh": "Jukan：台積電台股創歷史新高。",
+"risk": "",
+"s": {
+"TSM": "bull"
+},
+"text": "Alert: TSMC’s Taiwan-listed shares hit a new all-time high today.\n\n\n$TSM",
+"likes": 332
+},
+{
+"id": "2107076375165497372",
+"author": "asklivermore",
+"date": "2026-10-05",
+"zh": "AskLivermore：大盤仍強但略顯疲態，續抱不加碼，若回檔是買點。",
+"risk": "短線過熱",
+"s": {
+"SPY": "neutral"
+},
+"text": "$SPY\n \n\nThe markets are still strong, but it is getting a little bit exhausted. \n\nBut since we're still in a very much bullish trend, any dip will be bought up quickly in my opinion.\n\nFor now, I am holding really strong fundamentally great companies. I am not adding at these levels, just holding and letting my portfolio continue to compound.\n\nIf there's red weeks ahead, I believe it will be a decent buying opportunity.",
+"likes": 65
+},
+{
+"id": "2107078477539078459",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：今早併購消息彙整，包括施耐德以226億美元收購PTC、CH Robinson收購RXO。",
+"risk": "",
+"s": {
+"CHRW": "neutral",
+"CVE": "neutral",
+"GEHC": "neutral",
+"ITH": "neutral",
+"PTC": "neutral",
+"RXO": "neutral",
+"SU": "neutral"
+},
+"text": "HERE ARE A BUNCH OF MERGERS AND ACQUISITIONS THAT HAPPENED THIS MORNING:\n\n- GE Healthcare \n$GEHC\n is expected to announce today that it has agreed to acquire Sofie Bioscience \"a manufacturer of radioactive substances used in medical-imaging procedures.\"\n\n- Schneider Electric has agreed to acquire \n$PTC\n in an all-cash deal valuing PTC at $22.6 Billion \n\n- Cenovus Energy \n$CVE\n has agreed to buy Athabasca Oil at an enterprise value of $4 billion\n\n- CH Robinson \n$CHRW\n has agreed to buy trucking brokerage firm \n$RXO\n in a deal valued at ~$5.8 billion\n\n- Shionogi has agreed to acquire Austin, Texas-based drugmaker IntraBio for $2 billion\n\n- Ithaca Energy $ITH has agreed to buy a portfolio of offshore oil projects from Canada’s Suncor Energy \n$SU\n for up to $1.11 billion",
+"likes": 14
+},
+{
+"id": "2107081500134982060",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：輝達代工夥伴鴻海Q3營收954億美元年增47%優於預期。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n manufacturing partner Foxconn reported Q3 sales of $95.4 Billion up 47% YoY beating expectations of ~$89B",
+"likes": 17
 }
 ]

@@ -1,30 +1,30 @@
 {
  "summary": {
-  "asOf": "2026-10-04",
-  "1": "10/04 發言集中在記憶體與 AI 交易分化：Ren 認為 HBM 改為內建輝達控制器、提前多年設計導入，記憶體將走向長約與高附加價值；Jukan 轉述高通晶片將用於 Muse 吊飾裝置。當日沒有明確看空的發言。",
-  "7": "近 7 日最強共識是 $MU：美光財報雙雙超預期、下季營收指引 615 億美元，6 個帳號看多，只有大老师在財報前提醒防衝高回落。光通訊（$LITE、$COHR、$AAOI）因美方可能限制中國 3.2T 光模組、Lumentum 供給缺口擴大到 70% 而再獲共識；$NVDA、$NBIS 也有 5 個帳號看多，論點是 GPU 折舊年限拉長、半導體本益比低於大盤。分歧集中在 HDD（$STX、$WDC：AskLivermore 看突破，Balder 認為東芝擴產是重擊）與 $CBRS（Ren 看空、Balder 看多）。共識看空只有 $NKE。",
-  "28": "近 28 日的主軸是 Meta Muse 帶動的「代理式 AI 吃 CPU」交易：$META、$AMD、$ARM、$INTC 獲多數帳號看多，理由是 GPU 對 CPU 比例下降、伺服器 CPU 交期拉長到 25–30 週。$INTC 是唯一明顯分歧的 CPU 股，Jukan 轉述三星電機與高通開發繞過 EMIB 的封裝技術。新雲端分化明顯：$NBIS 獲 6 個帳號看多，$CRWV 則因增資 30 億美元與債務問題被 Balder、Ren 看空。另外 $EXPE、$BKNG 被認為會被 AI 代理侵蝕護城河，$NKE、$LULU 持續被看空。"
+  "asOf": "2026-10-05",
+  "1": "10/05 開盤前發言不多：Jukan 提到台積電台股創歷史新高（$TSM），Evan 轉述鴻海 Q3 營收年增 47% 優於預期（$NVDA 供應鏈）。AskLivermore 認為大盤偏強但略顯疲態，續抱不加碼，回檔視為買點。當日沒有明確看空的發言。",
+  "7": "近 7 日最強共識仍是 $MU：財報與指引雙超預期，9 個帳號提到、7 個看多，沒有人看空。$GOOGL 也有 7 個帳號看多，主因 Gemini 4 被視為最佳模型。$NBIS、$LITE、$AAOI 各有 4 個帳號看多，Evan 更表示賣出 $CRWV 改買 $NBIS。分歧集中在 HDD：$STX 有 AskLivermore 看突破，Balder 與新加入的 Zephyr 認為東芝擴產是威脅；$CBRS 則是 Ren 看空、Balder 看多。共識看空只有 $NKE，財報後跌到 2013 年來新低。",
+  "28": "近 28 日的主軸是 AI 基礎建設與「代理式 AI 吃 CPU」交易：$MU 有 8 個帳號看多，$NVDA、$GOOGL 各 7 個，$META、$AMD、$ARM 各 5–6 個，理由是記憶體超級循環、GPU 對 CPU 比例下降。$INTC 是最明顯的分歧股，6 個帳號看多、Jukan 看空。新雲端分化明顯：$NBIS 獲 6 個帳號看多，$CRWV 因增資與債務問題被 Balder、Ren、Evan 看空。$EXPE、$BKNG 被認為會被 AI 代理侵蝕，$NKE 持續被看空。"
  },
  "tickers": {
   "MU": {
-   "take": "9 個帳號提到、7 個看多，是目前最強共識。",
-   "bull": "營收與 EPS 雙超預期、下季指引 615 億美元（KawzInvests、Ren）；HBM 走向長約與設計導入（Ren）；記憶體超級循環、產能協議延長（Serenity）；技術面整理待突破（AskLivermore）。",
-   "bear": "沒有帳號看空。大老师在財報前提醒指引可能下修、須站穩 1110；Michael Sikand 提到管理層稱漲價速度已見頂。"
+   "take": "10 個帳號提到、8 個看多，沒有人看空，是目前最強共識。",
+   "bull": "營收與 EPS 雙超預期、下季指引 615 億美元（KawzInvests、Ren 9/30）；2027–28 年供給仍會更吃緊（Ren 9/30）；營收後年將超越輝達（Balder 9/30）；一年漲逾 480%、市值增加約 1 兆美元（Unusual Whales 10/04）；記憶體超級循環（Serenity）。",
+   "bear": "沒有帳號看空。大老师在財報前提醒指引可能下修；Balder 提醒華爾街反應難料；Michael Sikand 提到管理層稱漲價速度已見頂。"
   },
   "NVDA": {
-   "take": "7 個帳號提到，看多為主，沒有人看空。",
-   "bull": "伺服器折舊年限延長駁斥 GPU 貶值論（Ren）；搶下 Cerebras 的超快推論客戶（Ren）；CPO 帶動雷射需求（Serenity）；1500 億美元回購（Balder）；Ark 加碼、股價創新高（Evan）。",
+   "take": "8 個帳號提到，看多為主，沒有人看空。",
+   "bull": "伺服器折舊年限延長駁斥 GPU 貶值論（Ren）；CPO 帶動雷射需求（Serenity）；市值 5.6 兆美元、大摩列為半導體首選（Unusual Whales 10/03）；鴻海 Q3 營收年增 47%（Evan 10/05）。",
    "bear": "沒有帳號看空。"
   },
   "NBIS": {
    "take": "6 個帳號看多，是新雲端裡的共識首選。",
-   "bull": "升息時仍調漲 GPU 租價 20%（Michael Sikand）；類股下跌時相對強勢（Serenity）；Truist 給 355 美元目標價（Ren）；收購 Inferize 降低 GPU 閒置（Evan）。",
+   "bull": "升息時仍調漲 GPU 租價 20%（Michael Sikand）；類股下跌時相對強勢（Serenity）；Truist 給 355 美元目標價（Ren）；收購 Inferize 降低 GPU 閒置（Evan）；Evan 賣出 CRWV 改買 NBIS（10/03）；Ren 列為持股主力（10/02、10/04）。",
    "bear": "沒有帳號看空；AskLivermore 提醒需守住 190 美元。"
   },
   "CRWV": {
-   "take": "多空分歧：Serenity、KawzInvests、Evan 偏多，Balder、Ren 偏空。",
-   "bull": "Vera Rubin NVL72 上線並有正式客戶（Evan）；Burry 回補空單（KawzInvests）；算力瓶頸普遍上漲（Serenity）。",
-   "bear": "增發 30 億美元後暴跌（Balder）；債務利息負擔（Serenity 9/15）；拖累同業 NBIS（Ren）；Nscale 的積壓訂單估值更便宜（Michael Sikand）。"
+   "take": "多空分歧，近期偏空：Serenity、KawzInvests 偏多，Balder、Ren、Evan 偏空。",
+   "bull": "Burry 回補空單（KawzInvests）；算力瓶頸普遍上漲（Serenity）。",
+   "bear": "增發 30 億美元後暴跌（Balder）；拖累同業 NBIS（Ren）；Evan 賣出 CRWV 改買 NBIS（10/03）；Nscale 的積壓訂單估值更便宜（Michael Sikand）。"
   },
   "INTC": {
    "take": "8 個帳號提到，6 個看多，只有 Jukan 偏空。",
@@ -47,9 +47,9 @@
    "bear": "Balder 9/16 主張做空 Google、做多 Meta；Michael Sikand 認為 AI 代理可能顛覆搜尋廣告。"
   },
   "META": {
-   "take": "Muse 推出後最一致的看多標的之一。",
+   "take": "Muse 推出後最一致的看多標的之一，但出現法律風險。",
    "bull": "Muse 登上全球第一、下載量爆發（Michael Sikand、KawzInvests）；不侵蝕廣告、純增量（Michael Sikand）；本益比為七巨頭最低（Balder）；本月漲 35%（Ren）。",
-   "bear": "沒有帳號看空；KawzInvests 提醒年初市場曾擔心 Meta 算力過剩。"
+   "bear": "Unusual Whales 指出新墨西哥州要求法院判 Meta 最高 400 億美元罰款（10/03）；KawzInvests 提醒年初市場曾擔心 Meta 算力過剩。"
   },
   "AAOI": {
    "take": "5 個帳號提到，看多為主，但增資是共同顧慮。",
@@ -95,6 +95,16 @@
    "take": "看多為主。",
    "bull": "AI 穿戴裝置將全面採用驍龍（Michael Sikand）；與亞馬遜合作 AI 資料中心與 1.6T 光通訊（KawzInvests）；Muse 吊飾裝置採用（Jukan）。",
    "bear": "ARM 訴訟造成賣壓（Balder 9/19）。"
+  },
+  "NKE": {
+   "take": "唯一的共識看空：Evan、Unusual Whales、Balder 看空，沒有人看多。",
+   "bull": "沒有帳號看多。",
+   "bear": "財報營收略低於預期並預告銷售續降，股價跌到 2013 年以來新低、一年跌逾 55%（Unusual Whales 10/02）；過去 33 年落後標普 500（Evan 10/03）。"
+  },
+  "STX": {
+   "take": "HDD 分歧：AskLivermore 看突破，Balder、Zephyr 看空。",
+   "bull": "MU、STX、WDC、SNDK 若守住低點有望突破（AskLivermore 10/02）。",
+   "bear": "東芝擴產是重擊（Balder）；Rosenblatt 稱東芝擴產要到 2030 年，Zephyr 認為這是很弱的辯護（10/02）。"
   }
  }
 }
