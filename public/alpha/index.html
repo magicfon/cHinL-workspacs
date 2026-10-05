@@ -154,6 +154,7 @@ ul.plain{margin:0;padding-left:18px;font-size:14px}
 .mxtools{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .mxtools input{padding:7px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit;width:180px}
 .more{width:100%;margin-top:8px}
+.tvrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:10px}
 footer{padding:30px 0 40px;font-size:12px;color:var(--mut)}
 @media (max-width:640px){
  h1{font-size:26px}
@@ -174,6 +175,7 @@ footer{padding:30px 0 40px;font-size:12px;color:var(--mut)}
   <div class="eyebrow">Alpha Consensus</div>
   <h1>X 頂尖交易員共識</h1>
   <div class="muted small" id="stats"></div>
+  <div class="tvrow"><button class="btn" type="button" id="tvBtn">匯出 TradingView 自選清單</button><span class="muted small" id="tvMsg">下載 .txt 後，在 TradingView 自選清單選單按「匯入清單」。</span></div>
   <p class="disc">整理 X 上公開貼文，只呈現帳號觀點與共識，不是投資建議。綠色代表看多、紅色代表看空。</p>
   <form class="ai" id="aiForm"><input id="aiIn" placeholder="問 AI：例如「哪些人看多 MU？」「Ren 最近看好什麼？」" autocomplete="off"><button class="btn pri" type="submit">提問</button></form>
   <div class="aiout card" id="aiOut" hidden></div>
@@ -476,6 +478,24 @@ document.getElementById("aiForm").addEventListener("submit",function(e){e.preven
     .then(function(d){out.textContent=d.answer||("目前無法取得 AI 回答（"+(d.error||"未知錯誤")+"）。"+(c.tk[0]?"已改為打開 "+c.tk[0]+" 的個股頁。":""));if(!d.answer&&c.tk[0])location.hash="stock/"+c.tk[0];});
 });
 
+/* 匯出 TradingView 自選清單：近 7 日共識看多／分歧／共識看空，再加近 28 日其他提及的股票 */
+document.getElementById("tvBtn").addEventListener("click",function(){
+  var btn=this,msg=document.getElementById("tvMsg");
+  var W=vals(stances(7,ASOF)),M=vals(stances(28,ASOF)).sort(function(a,b){return b.n-a.n;}),used={};
+  var pick=function(l){return l.map(function(x){return x.t;}).filter(function(t){if(used[t]||!/^[A-Z][A-Z0-9.]{0,5}$/.test(t))return false;used[t]=1;return true;});};
+  var secs=[["共識看多（近7日）",pick(W.filter(function(x){return x.opB>=2&&!x.bearA.length;}).sort(function(a,b){return b.bullA.length-a.bullA.length;}))],
+    ["多空分歧（近7日）",pick(W.filter(function(x){return x.bullA.length&&x.bearA.length;}))],
+    ["共識看空（近7日）",pick(W.filter(function(x){return x.opR>=2&&!x.bullA.length;}))],
+    ["近28日提及",pick(M)]].filter(function(s){return s[1].length;});
+  var all=[];secs.forEach(function(s){all=all.concat(s[1]);});
+  btn.disabled=true;msg.textContent="正在查詢 "+all.length+" 檔股票的交易所…";
+  fetch("/api/tradingview",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({symbols:all})})
+   .then(function(r){return r.json();}).catch(function(){return {};})
+   .then(function(d){var m=(d&&d.map)||{},miss=0;
+     var txt=secs.map(function(s){return "###"+s[0]+","+s[1].map(function(t){if(!m[t])miss++;return m[t]||t;}).join(",");}).join(",");
+     var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([txt],{type:"text/plain"}));a.download="alpha-consensus-"+ASOF+".txt";document.body.appendChild(a);a.click();a.remove();
+     btn.disabled=false;msg.textContent="已下載 "+all.length+" 檔（"+secs.length+" 個分組）"+(miss?"，其中 "+miss+" 檔查不到交易所，只放代號":"")+"。在 TradingView 自選清單選單按「匯入清單」選這個檔案。";});
+});
 var nAcc={};P.forEach(function(p){nAcc[p.author]=1;});
 document.getElementById("stats").textContent="追蹤 "+ACC.length+" 個帳號・"+Object.keys(nAcc).length+" 個有資料・"+P.length+" 則含股票代號的貼文・資料截至 "+ASOF;
 document.getElementById("footAsof").textContent=ASOF;
