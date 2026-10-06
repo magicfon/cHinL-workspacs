@@ -5660,6 +5660,18 @@
 "likes": 17
 },
 {
+"id": "2107098244392124678",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：Strategy因比特幣未實現利益，四季來首度轉盈。",
+"risk": "",
+"s": {
+"MSTR": "neutral"
+},
+"text": "Strategy \n$MSTR\n returned to profitability for the first time in four quarters after registering an unrealized gain from an increase in the value of its Bitcoin holdings during Q3\n\nStrategy said it recorded a $21 billion gain on its digital assets in the three months ended",
+"likes": 128
+},
+{
 "id": "2107099160000287139",
 "author": "KawzInvests",
 "date": "2026-10-05",
@@ -6050,7 +6062,7 @@
 "NU": "neutral"
 },
 "text": "平仓获利 1/1 · 最佳 +16.18% \n$NU\n 13.1→15.22 +16.18%\n\n 持仓 QCOM 189.82→180.79 -4.8% · IBM 223.69→221.58 -0.9% · MCD 231.38→233.04 +0.7% · CRWV  88.15→87.39 -0.9% · INTC  116.23→116.19 -0.0% · IREN  40.84→40.48 -0.9% · SMCI  43.23→43.19 -0.1% · NVO  37.16→37.54 +1.0%\n\n balder-algo-logs · 龙气 · 10-05 · algo log · not advice",
-"likes": 3
+"likes": 4
 },
 {
 "id": "2107214746155978967",
@@ -6088,7 +6100,7 @@
 "NVDA": "bull"
 },
 "text": "$NVDA\n 再次新高，天天涨啊。",
-"likes": 8
+"likes": 9
 },
 {
 "id": "2107290195758616644",
@@ -6100,7 +6112,7 @@
 "AVGO": "neutral"
 },
 "text": "$AVGO\n trying hard to keep up with the rest of the semi-conductor industry.\n\nLet's see if Broadcom can continue to hold above $288+.\n\nTight wedge formation.",
-"likes": 253
+"likes": 317
 },
 {
 "id": "2107300051970126204",
@@ -6126,7 +6138,7 @@
 "CEG": "neutral"
 },
 "text": "能源股 \n$CEG\n \n$BE",
-"likes": 2
+"likes": 7
 },
 {
 "id": "2107357674891550759",
@@ -6141,7 +6153,7 @@
 "ZS": "neutral"
 },
 "text": "本周 几个 Alpha 可以关注一下\n\n10/6 周二\n\nMRVL investor day \n$MRVL\n \n\nZS investor day \n$ZS\n\n\n10/7 周三\n\nMicrosoft Windows / Surface Event \n$MSFT\n \n\n10/8 周四\n\nTSMC 9月月度营收 \n$TSM",
-"likes": 16
+"likes": 24
 },
 {
 "id": "2107370111975739606",
@@ -6154,7 +6166,7 @@
 "MSFT": "bull"
 },
 "text": "尤其关注 MRVL 和MSFT 的Catalyst（催化剂）\n\n\n$MRVL\n 迫切的需要一个新的Catalyst 以突破近期的Call wall———短期280美金\n\n10月6日美东时间 9:00 开始，CEO Matt Murphy 和管理层会直接讲公司战略、增长机会，以及 MRVL 在下一代 AI/Data Center Infrastructure 中的位置。\n\n—————\n\n\n$MSFT\n的Windows/Surface活动依然非常重要\n\n10月7日 Microsoft 有 Windows / Surface 相关活动，目前披露的信息指向 Local AI + 下一阶段PC生态，同时涉及 NVIDIA CEO Jensen Huang，以及 RTX Spark / Surface / AI PC。\n\n因为它对应一条目前相对没有数据中心AI那么拥挤的链：\n\nMSFT → Windows AI → Local AI → AI PC → NVDA / QCOM / ARM\n\n如果出现新的硬件形态或者Windows端AI Agent能力，可能重新刺激 AI PC 叙事。\n\n也许这是一个短期550-580的Catalyst",
-"likes": 8
+"likes": 13
 },
 {
 "id": "2107399356068331969",
@@ -6166,7 +6178,7 @@
 "PTC": "neutral"
 },
 "text": "BREAKING: Our data just caught something wild on Trump's trading.\n\n2 weeks ago, President Trump filed a purchase of up to $1 million of PTC Inc.\n\nYesterday Schneider Electric announced it's buying \n$PTC\n for $22.6 BILLION in cash.\n\nThe stock jumped 35%. Coincidence?",
-"likes": 163
+"likes": 410
 },
 {
 "id": "2107424880429871420",
@@ -6190,7 +6202,7 @@
 "INTU": "bear"
 },
 "text": "Wow.\n\nIntuit, \n$INTU\n, is down more than 58% this year.\n\nIt's the worst-performing stock in the S&P 500.\n\nThe maker of TurboTax and QuickBooks has lost more than half its value in 9 months.",
-"likes": 126
+"likes": 312
 },
 {
 "id": "2107444248458994016",
@@ -6203,5 +6215,283 @@
 },
 "text": "$AMD\n CEO LISA SU SAID \n\nAMD plans to “substantially increase” supply in 2027, while memory remains broadly supply constrained.",
 "likes": 14
+},
+{
+"id": "2107463018523267154",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Marvell執行長表示2030年潛在市場約4000億美元。",
+"risk": "",
+"s": {
+"MRVL": "bull"
+},
+"text": "MARVELL \n$MRVL\n CEO MATT MURPHY JUST SAID\n\n- We see an ~$400 billion total addressable market for Marvell by 2030",
+"likes": 266
+},
+{
+"id": "2107464264927809676",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：輝達再創新高，距離6兆美元市值不到1500億。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n stock just hit new ALL TIME HIGHS again today and is now less than $150B away from being the first $6 Trillion company",
+"likes": 574
+},
+{
+"id": "2107465892443591071",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：MRVL大漲8%，想跑的可以跑了。",
+"risk": "短線獲利了結",
+"s": {
+"MRVL": "neutral"
+},
+"text": "$MRVL\n 想跑的可以跑了 没有比我更超值的财经博主了。+8%",
+"likes": 38
+},
+{
+"id": "2107466748899328022",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Marvell盤前上漲近10%。",
+"risk": "",
+"s": {
+"MRVL": "bull"
+},
+"text": "Marvell \n$MRVL\n stock is now up almost 10% in pre market trading",
+"likes": 213
+},
+{
+"id": "2107469958380950004",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：宣傳即時數據，有人開盤買進6萬口SPY選擇權。",
+"risk": "",
+"s": {
+"SPY": "neutral"
+},
+"text": "Having real time data to see someone opening 60,000 \n$SPY\n contracts at the open might be handy ;)",
+"likes": 142
+},
+{
+"id": "2107473730150760869",
+"author": "octopusycc",
+"date": "2026-10-06",
+"zh": "大老师：MRVL大漲，感謝大家。",
+"risk": "",
+"s": {
+"MRVL": "bull"
+},
+"text": "谢谢大家\n\n\n$MRVL\n    大涨",
+"likes": 15
+},
+{
+"id": "2107474517882978347",
+"author": "asklivermore",
+"date": "2026-10-06",
+"zh": "AskLivermore：亞馬遜正試圖守住200日均線，萬聖節與聖誕節是催化劑。",
+"risk": "跌破200日線",
+"s": {
+"AMZN": "bull"
+},
+"text": "$AMZN\n trying to hold its 200-daily moving average.\n\nHalloween and Christmas holiday catalysts.",
+"likes": 136
+},
+{
+"id": "2107492507646935225",
+"author": "KawzInvests",
+"date": "2026-10-06",
+"zh": "KawzInvests：高通近期受記憶體短缺拖累，但資料中心CPU與機器人可能改寫成長故事，推薦CFO專訪。",
+"risk": "記憶體短缺",
+"s": {
+"QCOM": "neutral"
+},
+"text": "$QCOM\n has been a controversial stock this year. \n\nMemory shortages cloud the near term, but data center CPUs and robotics could reshape its growth story.\n\nIs the market giving that shift enough credit?\n\nMy partner \n@michealsikand\n sat down with CFO Akash Palkhiwala. Worth a watch.",
+"likes": 39
+},
+{
+"id": "2107499725226434906",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：HP本益比僅10倍、EPS翻倍，值得長期持有，AI PC若修復估值有望漲到100美元。",
+"risk": "",
+"s": {
+"HPQ": "bull"
+},
+"text": "其实 \n$HPQ\n 这个股票本身可能是值得长期持有的，PE才10，近一年虽然涨了100%，但是其EPS也翻倍了，所以其低估值逻辑还没有改善。并不是炒作上去的。\n\n如果AI PC 可以进一步修复其估值逻辑，那么他甚至涨到100也是可能的。",
+"likes": 21
+},
+{
+"id": "2107514446226870613",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：輝達指數權重已超過日本。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "$NVDA\n 一个超过世界第四经济体日本的指数权重。",
+"likes": 13
+},
+{
+"id": "2107521004650037539",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：過去一年做多這些股票賺了11倍年薪，打算以時間與自由為優先。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"AMD": "bull",
+"BE": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$BE\n \n$AMD\n \n$AAOI\n\n\nToday I realized something: I've never had this much fun trading, ever.\n\nIt's all thanks to this group of amazing people, the people in my Discord.\n\nI'm 100% convinced I won't optimize for a career anymore. I've made 11x my salary in the past year from going long and swinging the right names, and these past two weeks of active trading have brought insane gains. On Liquid alone I'm at 300%, and I added 100% to the long port.\n\nBut it takes time to be up before the market opens, and to capture and rotate.\n\nGoing forward, I'll optimize for time and freedom. My job has a deadline.\n\nI'm dead set: mid next year I'll quit and put all my time into building my own version of what I want to see in the world, a start up to help us all achieve financial freedom faster and make it easier to invest, plus keep the investing and trading community going, and hopefully have you all in Discord.",
+"likes": 125
+},
+{
+"id": "2107522483616452629",
+"author": "michaelsikand",
+"date": "2026-10-06",
+"zh": "Michael Sikand：Marvell投資人日把上修歸功於連接需求，Ciena大漲10%，其光通訊基金持有140萬美元CIEN。",
+"risk": "",
+"s": {
+"CIEN": "bull",
+"MRVL": "bull"
+},
+"text": "My photonics fund is getting lit up today with its $1.4M \n$CIEN\n allocation.\n\nThe stock is flying 10% today because \n$MRVL\n's investor day presentation attributed a guidance raise to connectivity (including from 1.6T DSPs) that indicates higher scale-across demand for \n$CIEN\n.\n\nThe",
+"likes": 79
+},
+{
+"id": "2107526519379898412",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：宣傳交易競賽，參賽者交易NBIS、SNDK等熱門股。",
+"risk": "",
+"s": {
+"ALAB": "neutral",
+"BTC": "neutral",
+"DELL": "neutral",
+"NBIS": "neutral",
+"SNDK": "neutral"
+},
+"text": "My subs are insane!! They're trading your favorite names: \n$NBIS\n, \n$SNDK\n, \n$DELL\n, \n$ALAB\n, \n$BTC\n\n\nIt's been one day since I opened the trading competition with $1,000 in prizes \n\nJust look at that leaderboard!!!\n\nDon't miss the fun. Sign up on \n@liquidtrading\n with the code RENSTOCKS to enter the competition.\n\nTest yourself and see if you can take first place!\n\nFront-run everyone trading the news 24/7 and bank some money.\n\nAs for me?\n\nI'm up 300% in one week",
+"likes": 27
+},
+{
+"id": "2107534523923833225",
+"author": "michaelsikand",
+"date": "2026-10-06",
+"zh": "Michael Sikand：基金在280美元加碼AppLovin，過去一年成長61%、遠期本益比僅15倍。",
+"risk": "",
+"s": {
+"APP": "bull"
+},
+"text": "Rebalanced my flagship fund today on \n@joinautopilot\n that's up 146% since Februrary.\n\nThe most controversial add has to be \n$APP\n at $280/share.\n\n61% growth LTM and is trading at just 15x fwd earnings. \n\nI'm hearing more marketers mention \n$APP\n as a place they want to spend lately.",
+"likes": 51
+},
+{
+"id": "2107549431742484558",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：AMD再創歷史新高。",
+"risk": "",
+"s": {
+"AMD": "bull"
+},
+"text": "$AMD\n stock hit new ALL TIME HIGHS again today",
+"likes": 172
+},
+{
+"id": "2107551575258677719",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：PENG股價狂飆，40分鐘後公布財報。",
+"risk": "財報波動",
+"s": {
+"PENG": "neutral"
+},
+"text": "$PENG\n \n\nTalk about a stock going crazy...\n\nEarnings in 40 minutes.",
+"likes": 38
+},
+{
+"id": "2107554748513546384",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：列出今天創歷史新高的股票，包括輝達、AMD、CrowdStrike、Lumentum。",
+"risk": "",
+"s": {
+"ACA": "neutral",
+"AMD": "neutral",
+"APH": "neutral",
+"CRWD": "neutral",
+"FFIV": "neutral",
+"FTNT": "neutral",
+"GH": "neutral",
+"GRAL": "neutral",
+"HNGE": "neutral",
+"HPE": "neutral",
+"JCI": "neutral",
+"KEYS": "neutral",
+"LITE": "neutral",
+"NET": "neutral",
+"NTRA": "neutral",
+"NVDA": "neutral",
+"P": "neutral",
+"PANW": "neutral",
+"RBRK": "neutral",
+"TBBB": "neutral",
+"TMO": "neutral",
+"TWST": "neutral",
+"VLO": "neutral",
+"WAT": "neutral",
+"WCC": "neutral",
+"XMTR": "neutral"
+},
+"text": "All these stocks hit new ALL TIME HIGHS at some point today \n\nNvidia \n$NVDA\n\nAMD \n$AMD\n \nCrowdStrike \n$CRWD\n \nCloudflare \n$NET\n \nPalo Alto \n$PANW\n \nLumentum \n$LITE\n \nArcosa \n$ACA\n\nAmphenol \n$APH\n\nF5 \n$FFIV\n\nFortinet \n$FTNT\n\nGuardant Health \n$GH\n\nGrail \n$GRAL\n\nHinge Health \n$HNGE\n\nHewlett Packard \n$HPE\n\nJohnson Controls \n$JCI\n\nKeysight Technologies \n$KEYS\n\nNatera \n$NTRA\n\nEverpure \n$P\n\nRubrik \n$RBRK\n\nBBB Foods \n$TBBB\n\nThermo Fisher Scientific \n$TMO\n\nTwist Bioscience \n$TWST\n\nValero Energy \n$VLO\n\nWaters \n$WAT\n\nWesco International \n$WCC\n\nXometry \n$XMTR",
+"likes": 104
+},
+{
+"id": "2107556823842595299",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Google旗下Waymo把首次發債規模擴大到50億美元。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n owned Waymo just increased the size of its first debt offering up to $5 Billion - Bloomberg",
+"likes": 96
+},
+{
+"id": "2107559602749669887",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Target為食品飲料員工推出新服裝規定。",
+"risk": "",
+"s": {
+"TGT": "neutral"
+},
+"text": "Target \n$TGT\n is rolling out a new dress code for food-and-beverage employees\n\nStore staff on Target’s grocery team will start wearing hats and aprons during every shift to make them more easily identifiable to customers - Bloomberg",
+"likes": 32
+},
+{
+"id": "2107561004557025761",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：標普500創新高，看多選擇權流量以AVGO、AMZN、NBIS居首，看空流量為NVDA、MU、WDC。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"AVGO": "neutral",
+"MU": "neutral",
+"NBIS": "neutral",
+"NVDA": "neutral",
+"WDC": "neutral"
+},
+"text": "The S&P 500 hit a new all time high today, with marketwide participation\n\nBullish options flow leaders: \n$AVGO\n \n$AMZN\n \n$NBIS\n \n\nBearish flow: \n$NVDA\n \n$MU\n \n$WDC\n \n\n\nhttps://\nunusualwhales.com/flow/overview",
+"likes": 53
 }
 ]
