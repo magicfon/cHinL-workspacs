@@ -5838,6 +5838,19 @@
 "likes": 17
 },
 {
+"id": "2107174747285102713",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：據報Meta與微軟正減少員工使用Claude。",
+"risk": "",
+"s": {
+"META": "neutral",
+"MSFT": "neutral"
+},
+"text": "Meta Platforms \n$META\n and Microsoft \n$MSFT\n are reportedly working to cut their employees’ use of Claude - The Information",
+"likes": 301
+},
+{
 "id": "2107185488268603492",
 "author": "michaelsikand",
 "date": "2026-10-05",
@@ -5853,6 +5866,18 @@
 },
 "text": "This new ETF \n$MN\n thinks the Mag 7 is over and \"MANGOS\" is next \n\nSo you think this group outperforms \n$MAGS\n?\n\nM - \n$META\n 21.85%\nA - Anthropic 5.07%\nN - \n$NVDA\n 22.16%\nG - \n$GOOGL\n 21.79%\nO - OpenAI 5.06%\nS - \n$SPCX\n 22.48%",
 "likes": 28
+},
+{
+"id": "2107187430302355505",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：SpaceX目前的低點出現在首次解禁前一天。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "The bottom for SpaceX \n$SPCX\n stock so far was actually the day before the first IPO unlock",
+"likes": 225
 },
 {
 "id": "2107188859549192543",
@@ -6014,5 +6039,169 @@
 },
 "text": "SpaceX \n$SPCX\n stock was up by more than 7% today, bringing Elon Musk's net worth back over $1 Trillion",
 "likes": 36
+},
+{
+"id": "2107206767499428132",
+"author": "Balder13946731",
+"date": "2026-10-05",
+"zh": "Balder：演算法交易紀錄，NU平倉獲利16.18%。",
+"risk": "",
+"s": {
+"NU": "neutral"
+},
+"text": "平仓获利 1/1 · 最佳 +16.18% \n$NU\n 13.1→15.22 +16.18%\n\n 持仓 QCOM 189.82→180.79 -4.8% · IBM 223.69→221.58 -0.9% · MCD 231.38→233.04 +0.7% · CRWV  88.15→87.39 -0.9% · INTC  116.23→116.19 -0.0% · IREN  40.84→40.48 -0.9% · SMCI  43.23→43.19 -0.1% · NVO  37.16→37.54 +1.0%\n\n balder-algo-logs · 龙气 · 10-05 · algo log · not advice",
+"likes": 3
+},
+{
+"id": "2107214746155978967",
+"author": "michaelsikand",
+"date": "2026-10-05",
+"zh": "Michael Sikand：那斯達克創新高，但SNDK、LITE、NBIS卻下跌。",
+"risk": "",
+"s": {
+"LITE": "neutral",
+"NBIS": "neutral",
+"SNDK": "neutral"
+},
+"text": "When the NASDAQ hits a new ATH but \n$SNDK\n, \n$LITE\n, and \n$NBIS\n are down.",
+"likes": 189
+},
+{
+"id": "2107244228250304628",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：Cramer表示Planet Labs估值已夠低、業務改善，開始買進。",
+"risk": "",
+"s": {
+"PL": "neutral"
+},
+"text": "Jim Cramer said today that Planet Labs \n$PL\n has fallen enough that the lower valuation and improving business are enough to make him start buying - CNBC",
+"likes": 68
+},
+{
+"id": "2107267814352675000",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：輝達再創新高，天天上漲。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "$NVDA\n 再次新高，天天涨啊。",
+"likes": 8
+},
+{
+"id": "2107290195758616644",
+"author": "asklivermore",
+"date": "2026-10-06",
+"zh": "AskLivermore：博通努力跟上半導體漲勢，觀察能否守住288美元，呈收斂楔形。",
+"risk": "跌破288支撐",
+"s": {
+"AVGO": "neutral"
+},
+"text": "$AVGO\n trying hard to keep up with the rest of the semi-conductor industry.\n\nLet's see if Broadcom can continue to hold above $288+.\n\nTight wedge formation.",
+"likes": 253
+},
+{
+"id": "2107300051970126204",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：摩根大通記憶體報告讓他更看多美光與Sandisk，長約增至26份、訂單能見度到2031年。",
+"risk": "",
+"s": {
+"MU": "bull",
+"SNDK": "bull"
+},
+"text": "I had the chance to check out J.P. Morgan's latest Memory Market Update and it only made me more bullish on \n$MU\n and \n$SNDK\n.\n\nMemory bears are running out of years to be right.\n\nMicron now sees supply tighter in 2027 and 2028 than in 2026, with no line of sight to balance. Demand keeps outgrowing supply, and there aren't enough cleanrooms to close the gap.\n\nLook at what customers are signing. Micron went from 16 long-term supply agreements to 26 in a single quarter, with order visibility now reaching 2031. Prepayments climbed to $32B from $22B, the contracted backlog sits at $150B, and about 75% of 2027 output is already locked in.\n\nHBM is even tighter. 2027 supply is sold out with prices up 54% y/y, and bit demand is growing 63% against 37% for the rest of server memory.\n\nThis goes well beyond Micron. Samsung has 60 to 70% of its plant capacity under contract and SK Hynix is signing five-year terms.\n\nYou only prepay $32B years ahead when the bigger risk is ending up with no supply.\n\nCycles end when supply catches up, and right now nobody in this industry can tell you when that happens.\n\nBullish memory",
+"likes": 231
+},
+{
+"id": "2107343712753996072",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：點名能源股CEG、BE。",
+"risk": "",
+"s": {
+"BE": "neutral",
+"CEG": "neutral"
+},
+"text": "能源股 \n$CEG\n \n$BE",
+"likes": 2
+},
+{
+"id": "2107357674891550759",
+"author": "octopusycc",
+"date": "2026-10-06",
+"zh": "大老师：本週催化劑：MRVL、ZS投資人日，微軟Windows/Surface活動，台積電9月營收。",
+"risk": "",
+"s": {
+"MRVL": "neutral",
+"MSFT": "neutral",
+"TSM": "neutral",
+"ZS": "neutral"
+},
+"text": "本周 几个 Alpha 可以关注一下\n\n10/6 周二\n\nMRVL investor day \n$MRVL\n \n\nZS investor day \n$ZS\n\n\n10/7 周三\n\nMicrosoft Windows / Surface Event \n$MSFT\n \n\n10/8 周四\n\nTSMC 9月月度营收 \n$TSM",
+"likes": 16
+},
+{
+"id": "2107370111975739606",
+"author": "octopusycc",
+"date": "2026-10-06",
+"zh": "大老师：MRVL需要新催化劑突破280美元買權牆；微軟AI PC活動可能重燃敘事，看550–580。",
+"risk": "MRVL缺乏催化劑",
+"s": {
+"MRVL": "neutral",
+"MSFT": "bull"
+},
+"text": "尤其关注 MRVL 和MSFT 的Catalyst（催化剂）\n\n\n$MRVL\n 迫切的需要一个新的Catalyst 以突破近期的Call wall———短期280美金\n\n10月6日美东时间 9:00 开始，CEO Matt Murphy 和管理层会直接讲公司战略、增长机会，以及 MRVL 在下一代 AI/Data Center Infrastructure 中的位置。\n\n—————\n\n\n$MSFT\n的Windows/Surface活动依然非常重要\n\n10月7日 Microsoft 有 Windows / Surface 相关活动，目前披露的信息指向 Local AI + 下一阶段PC生态，同时涉及 NVIDIA CEO Jensen Huang，以及 RTX Spark / Surface / AI PC。\n\n因为它对应一条目前相对没有数据中心AI那么拥挤的链：\n\nMSFT → Windows AI → Local AI → AI PC → NVDA / QCOM / ARM\n\n如果出现新的硬件形态或者Windows端AI Agent能力，可能重新刺激 AI PC 叙事。\n\n也许这是一个短期550-580的Catalyst",
+"likes": 8
+},
+{
+"id": "2107399356068331969",
+"author": "DJTRadar",
+"date": "2026-10-06",
+"zh": "DJT Radar：川普兩週前申報買進PTC最多100萬美元，施耐德隨即宣布226億美元收購、股價跳漲35%。",
+"risk": "",
+"s": {
+"PTC": "neutral"
+},
+"text": "BREAKING: Our data just caught something wild on Trump's trading.\n\n2 weeks ago, President Trump filed a purchase of up to $1 million of PTC Inc.\n\nYesterday Schneider Electric announced it's buying \n$PTC\n for $22.6 BILLION in cash.\n\nThe stock jumped 35%. Coincidence?",
+"likes": 163
+},
+{
+"id": "2107424880429871420",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：Grab執行長上市後首次公開市場買進3000萬美元股票。",
+"risk": "",
+"s": {
+"GRAB": "bull"
+},
+"text": "Look at this.\n\nGrab CEO Anthony Tan bought $30 million of \n$GRAB\n stock.\n\nHe bought 10.35 million shares at about $2.89 on Sept. 21.\n\nIt's reportedly his first open-market purchase since Grab went public.\n\nGrab's president bought another $867,000 the same day.",
+"likes": 75
+},
+{
+"id": "2107429913682751805",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：Intuit今年跌逾58%，標普500表現最差。",
+"risk": "",
+"s": {
+"INTU": "bear"
+},
+"text": "Wow.\n\nIntuit, \n$INTU\n, is down more than 58% this year.\n\nIt's the worst-performing stock in the S&P 500.\n\nThe maker of TurboTax and QuickBooks has lost more than half its value in 9 months.",
+"likes": 126
+},
+{
+"id": "2107444248458994016",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：蘇姿丰表示AMD將在2027年大幅增加供給，記憶體仍普遍吃緊。",
+"risk": "",
+"s": {
+"AMD": "bull"
+},
+"text": "$AMD\n CEO LISA SU SAID \n\nAMD plans to “substantially increase” supply in 2027, while memory remains broadly supply constrained.",
+"likes": 14
 }
 ]
