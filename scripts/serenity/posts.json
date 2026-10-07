@@ -6969,5 +6969,28 @@
 },
 "text": "$LITE\n CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by supply. By 2029-2030, we get to some level of balance.\"\n\nSource: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00)\n\nAny other players with laser capacity coming online are probably going to get more market attention soon.",
 "likes": 1637
+},
+{
+"id": "2107143846027268373",
+"date": "2026-10-05",
+"zh": "AAOI 6 億美元 ATM 增資終於完成（均價約 105.36 美元）；只要不再增資，憑月營收 4.71 億的出貨爬坡，作者認為 AAOI 會跑贏 Lumentum。",
+"risk": "若再申報 ATM 增資",
+"s": {
+"AAOI": "bull",
+"LITE": "neutral"
+},
+"text": "$AAOI\n is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms \n$LITE\n, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month transceiver revenue + 400K/month ELSFP",
+"likes": 2120
+},
+{
+"id": "2107199278561333744",
+"date": "2026-10-05",
+"zh": "ATM 賣壓長期拖累 AAOI，如今結束，股價可望回歸基本面。",
+"risk": "",
+"s": {
+"AAOI": "bull"
+},
+"text": "I think we’ll go back to regularly scheduled programming now\n\nIt’s just that ATM was holding \n$AAOI\n back for the longest time",
+"likes": 114
 }
 ]
