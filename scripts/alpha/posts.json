@@ -6268,7 +6268,7 @@
 "META": "bull"
 },
 "text": "Wells Fargo today raised its price target on Meta Platforms \n$META\n up to $1,000 from $796 while maintaining its Overweight rating",
-"likes": 450
+"likes": 456
 },
 {
 "id": "2107458288069890451",
@@ -6280,7 +6280,7 @@
 "SPY": "neutral"
 },
 "text": "For those people who are curious and are looking to celebrate today’s National holiday (ALL TIME HIGH DAY)\n\nThe S&P 500’s \n$SPY\n all time high closing price is $775.95\n\nThe S&P 500’s \n$SPY\n intra day all time high is $779.37",
-"likes": 150
+"likes": 151
 },
 {
 "id": "2107463018523267154",
@@ -6379,6 +6379,18 @@
 "likes": 136
 },
 {
+"id": "2107478443478921501",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：MRVL再次接近300美元，但目標是1200美元。",
+"risk": "",
+"s": {
+"MRVL": "bull"
+},
+"text": "$MRVL\n 再次接近返回300，但是我们的目标是1200",
+"likes": 23
+},
+{
 "id": "2107486630097387602",
 "author": "ren_stocks",
 "date": "2026-10-06",
@@ -6402,7 +6414,7 @@
 "QCOM": "bull"
 },
 "text": "Is the market underestimating \n$QCOM\n? I asked CFO Akash Palkhiwala to explain its audacious pivot.\n\n- $0 to $15B data center roadmap for \n$META\n \n$AMZN\n\n\n- How the next iPhone moment could unlock unpriced growth with wearables\n\n- Why \n$QCOM\n is in \"pole position\" for humanoid robots",
-"likes": 147
+"likes": 156
 },
 {
 "id": "2107492507646935225",
@@ -6608,7 +6620,7 @@
 "PENG": "bull"
 },
 "text": "$PENG\n is exploding on a monster beat after hours! \n\nCongrats to those who followed me on this trade notification on my Flagship portfolio on \n@joinautopilot\n this morning.\n\n• Revenue $567M vs $521M Est\n• EPS $1.00 vs Est. $0.77 \n• Integrated Memory: $341M (+158% YoY) \n\nHope to",
-"likes": 103
+"likes": 110
 },
 {
 "id": "2107567122973147137",
@@ -6644,7 +6656,7 @@
 "QCOM": "neutral"
 },
 "text": "平仓亏损 1 \n$QCOM\n 189.82→179.93 -5.21%\n\n 持仓 IBM 223.69→221.29 -1.1% · MCD 231.38→232.45 +0.5% · CRWV 88.15→91.72 +4.0% · INTC 116.23→112.5 -3.2% · IREN 40.84→41.28 +1.1% · SMCI 43.23→43.46 +0.5% · NVO 37.16→37.53 +1.0% · BAC  54.19→54.09 -0.2%\n\n balder-algo-logs · 龙气 · 10-06 · algo log · not advice",
-"likes": 6
+"likes": 8
 },
 {
 "id": "2107575801315012688",
@@ -6659,7 +6671,7 @@
 "SNDK": "neutral"
 },
 "text": "$MU\n \n$SNDK\n today vs \n$NBIS\n \n$PENG",
-"likes": 273
+"likes": 285
 },
 {
 "id": "2107581364023230753",
@@ -6684,7 +6696,7 @@
 "NVDA": "bull"
 },
 "text": "$NBIS\n \n$NVDA\n\n\nThere are no B200s left to rent. Read that again.\n\nOn-demand availability for Nvidia's B200 started the year above 60%. By late March it was at zero, it got a small breather in June when about 5% of capacity opened up, and since mid-August it has been flat at 0.0%. \n\nEvery chip that comes online is taken before it reaches the on-demand pool.\n\nThe B200 rental index went from about $4.40 an hour in January to $5.78 now, a gain of roughly 30% in nine months on hardware that is supposed to get cheaper as it ages. \n\nOne-year contract pricing tells the same story and is pushing past $6.\n\nThe older chips are the part I find most bullish. \n\nAn H100 on a one-year contract was around $1.70 a year ago and is near $2.80 today. \n\nThat is a chip from 2022 renting for about 65% more than it did last October, and even the A100 is drifting higher. The whole bear case on neoclouds rested on GPUs losing value fast enough to wreck the returns on these buildouts, yet the opposite is happening.\n\nMega bullish",
-"likes": 154
+"likes": 167
 },
 {
 "id": "2107584539224948911",
@@ -6697,6 +6709,22 @@
 },
 "text": "【美股复盘 · 10月6日】\n\n**大市**\n美股三大指数靠稳造好，惟细价股表现反复偏软。标普( \n$SPY\n )全日收报779.09，升0.55%；纳指(QQQ)收报759.69，升0.46%；道指(DIA)收报514.56，升0.48%。相较之下，罗素小型股(IWM)遭遇沽压，收报281.37，跌0.71%，未能与大市同步。大市整体市宽偏强，104只观察股中，69只上升，35只下跌，反映资金仍倾斜于大型蓝筹及科技权重股。\n\n**板块**\n板块走势呈现两极分化。通讯网络设备及光纤概念股受资金追捧，表现一枝独秀。其中Ciena(CIEN)急升13.85%领跑大市，Nebius(NBIS)及Applied Optoelectronics(AAOI)分别升7.44%及7.07%，诺基亚(NOK)与康宁(GLW)分别造好7.55%及6.02%。此外，CoreWeave(CRWV)及Arista Networks(ANET)亦录得4.95%及4.09%升幅。另一边厢，环球存储芯片及半导体测试设备股暴跌，拖累相关板块急泻。Aehr Test Systems(AEHR)重挫11.74%领跌，希捷(STX)及西部数据(WDC)分别泻9.18%及6.93%，SK海力士(SKHY)及闪迪(SNDK)亦挫6.39%及2.56%；受韩国半导体权重股弱势拖累，MSCI韩国ETF(EWY)全日下挫2.64%。\n\n**焦点**\n个股焦点方面，网络基建巨头思科(CSCO)逆市造好，收升4.54%；回顾2000年科网泡沫时期，该股曾为全市场之网络基石，惟泡沫爆破后足足耗时24年方重新摸到当年高点，反映科技龙头若遭套牢，盲目死扛或需承担极大时间成本。此外，尽管市场对部分人工智能大模型之炒作渐生审美疲劳，惟真正具备深厚护城河之硬件设备仍受热议；如ASML之EUV光刻机，造价两亿美元起步，单次发货需拆解为逾四十个集装箱，其内部光学反射镜之平整度堪称极致，展现出残暴之行业壁垒。受底层基建逻辑带动，涉及通信网络之AST SpaceMobile(ASTS)及美满电子(MRVL)今日获买盘吸纳，分别收升8.00%及5.81%。反观半导体设备大厂应用材料(AMAT)及传统芯片巨头英特尔(INTC)表现疲弱，分别跌2.21%及3.19%。同日，赛富时(CRM)与莫德纳(MRNA)亦见沽压，分别下挫2.09%及7.75%。\n\n**小结**\n总括而言，美股大市呈现高位整固形态，网络通信股与存储芯片股形成强烈对比，板块轮动支撑指数靠稳。分析指，当前大市市宽尚算健康，惟存储芯片等硬件板块之持续弱势或成隐忧。后市走势料将受制于资金在各板块间的博弈，投资者宜留意标普(SPY)能否企稳现有水平，同时需警惕罗素小型股(IWM)失守关键位对大市整体气氛之拖累；操作上需审慎甄别科技股之实质护城河，切忌对部分弱势龙头抱有盲目死守之迷信。",
 "likes": 5
+},
+{
+"id": "2107584541020037544",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：中國推論token用量預估到2030年成長近60倍，推升算力與記憶體需求。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$MU\n \n$SNDK\n \n$LITE\n \n$AAOI\n\n\nChina is on track to use roughly 64,000 trillion inference tokens this year. The projection for 2030 is about 3.85 million trillion, which is close to 60x in four years, or nearly a tripling every single year until the end of the decade.\n\nConsumption more than triples in 2027, more than triples again in 2028, and then still doubles in each of the following two years off a base that is already enormous. The jump from 2029 to 2030 alone adds about 30 times what the whole country is consuming today.\n\nIt leaves out the US hyperscalers, the model labs, Europe, the Gulf buildouts and every sovereign program being announced right now.\n\nTokens are the unit that everything else follows. \n\nEach one needs a chip to compute it, memory to hold the model and its context, and optics to move the data, so a 60x increase in tokens pulls on every layer of the stack at once. \n\nPeople keep asking me when AI demand peaks, I rather they draw their own conclusion.\n\nLook at the bar for 2026, now look back at me.\n\nExactly",
+"likes": 129
 },
 {
 "id": "2107590835994804475",
@@ -6713,6 +6741,18 @@
 },
 "text": "Dan Ives just said his top 5 tech plays going into 2027 are\n\nNvidia \n$NVDA\n \nMicrosoft \n$MSFT\n \nPalantir \n$PLTR\n \nApple \n$AAPL\n \nCrowdStrike \n$CRWD",
 "likes": 621
+},
+{
+"id": "2107591226468008086",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：訂閱以取得GME動態。",
+"risk": "",
+"s": {
+"GME": "neutral"
+},
+"text": "To get \n$GME\n updates, subscribe to Unusual Whales.\n\nCheck all options info right on site.\n\nSee more:",
+"likes": 17
 },
 {
 "id": "2107597396876169252",
@@ -6765,6 +6805,18 @@
 "likes": 9
 },
 {
+"id": "2107643028521279860",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：做多SNDK。",
+"risk": "",
+"s": {
+"SNDK": "bull"
+},
+"text": "$SNDK\n Long",
+"likes": 75
+},
+{
 "id": "2107653638709489678",
 "author": "ren_stocks",
 "date": "2026-10-07",
@@ -6776,7 +6828,7 @@
 "SNDK": "bull"
 },
 "text": "$SKHY\n \n$MU\n \n$SNDK\n\n\nMemory per GPU is going up, and the math is getting silly.\n\nThe fear with memory at these prices has always been \"de-spec,\" the idea that chip designers respond to expensive memory by using less of it. \n\nBofA's memory team is assuming the opposite. \n\nRubin moves from 288GB to 384GB, a third more per chip, and Rubin Ultra goes to 1,000GB, which is about 3.5x what ships today.\n\nSo the most supply-constrained component in the stack is getting designed in at higher content, into more chips, every generation. \n\nThat is how you get to their new 2030 forecast of $2.0 trillion in DRAM and NAND sales, raised from $1.8 trillion. For scale, the 2018 cloud boom peaked at $170 billion, and last year did about $210 billion.\n\nThe industry is already running above a $1 trillion annual pace, based on $278 billion of sales in the third quarter alone. \n\nGetting to $2 trillion from here is a doubling in four years, with bit growth in the high teens and the mix shifting toward HBM and enterprise SSDs.\n\nBullish memory",
-"likes": 238
+"likes": 284
 },
 {
 "id": "2107669764395176397",
@@ -6812,7 +6864,7 @@
 "INTC": "neutral"
 },
 "text": "Lip-Bu Tan: Intel will continue working with Terafab.\n\n\n$INTC",
-"likes": 426
+"likes": 501
 },
 {
 "id": "2107769990820852154",
@@ -6824,7 +6876,7 @@
 "MU": "neutral"
 },
 "text": "MICRON TAIWAN UNION WINS MANDATE TO STRIKE OVER BONUS DISPUTE\n\n\n$MU",
-"likes": 197
+"likes": 364
 },
 {
 "id": "2107792302152298790",
@@ -6836,6 +6888,261 @@
 "BE": "bull"
 },
 "text": "Bloom Energy, \n$BE\n, is up more than 230% this year.\n\nAI data centers need power, and Bloom sells fuel cells that can deliver it on-site, skipping years-long waits for the grid.\n\nIt powered one Oracle data center in just 55 days.\n\nQ2 revenue jumped 166% to $1.07 billion, its first $1 billion quarter ever.\n\nIt expects 2026 sales to roughly double to as much as $4.2 billion.\n\nEvery major U.S. hyperscaler has now approved its systems.\n\nIts financing deal with Brookfield grew from $5 billion to $25 billion.\n\nThe stock now trades at roughly 108x forward earnings.",
-"likes": 158
+"likes": 395
+},
+{
+"id": "2107818498491617469",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：馬斯克確認Terafab由旗下公司自行興建營運，與台積電僅可能出租部分場地。",
+"risk": "",
+"s": {
+"TSM": "neutral"
+},
+"text": "Elon Musk confirmed that his companies will build and operate Terafab independently\n\nMusk clarified that the only matter under consideration with Taiwan Semiconductor \n$TSM\n is potentially leasing some part of the planned site",
+"likes": 137
+},
+{
+"id": "2107820472716988599",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：據報輝達洽談再投資10億美元給機器人新創Figure。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n has reportedly been in talks to invest another $1 Billion into robotics startup Figure - The Information",
+"likes": 707
+},
+{
+"id": "2107821998265041079",
+"author": "michaelsikand",
+"date": "2026-10-07",
+"zh": "Michael Sikand：高通CFO表示公司在人形機器人領域最具優勢。",
+"risk": "",
+"s": {
+"QCOM": "bull"
+},
+"text": "$QCOM\n CFO on powering humanoid robots:\n\n\"I hope this doesn't come across as arrogant, but we're best positioned to be that player.\"",
+"likes": 60
+},
+{
+"id": "2107834955598287261",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：蘇姿丰表示持續探索與三星在記憶體與代工的合作。",
+"risk": "",
+"s": {
+"AMD": "neutral"
+},
+"text": "$AMD\n CEO Lisa Su said the company continues to explore partnership opportunities with Samsung Electronics in memory chips and contract manufacturing - Reuters",
+"likes": 205
+},
+{
+"id": "2107840949757878347",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：美光台灣工廠數百名員工投票通過罷工。",
+"risk": "台灣廠罷工",
+"s": {
+"MU": "bear"
+},
+"text": "Hundreds of workers at a Micron \n$MU\n plant in Taiwan  have voted to strike - Reuters",
+"likes": 330
+},
+{
+"id": "2107843060054843766",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：希望SNDK與MU能在這裡止跌。",
+"risk": "記憶體股回檔",
+"s": {
+"MU": "neutral",
+"SNDK": "neutral"
+},
+"text": "$SNDK\n \n$MU\n\n\nCan we bottom now please?",
+"likes": 69
+},
+{
+"id": "2107843894691905965",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：Google與Unity推出用文字提示生成遊戲的平台。",
+"risk": "",
+"s": {
+"GOOGL": "neutral",
+"U": "neutral"
+},
+"text": "Google \n$GOOGL\n and Unity Software \n$U\n announced today a new platform that will allow people to create video games from simple text prompts",
+"likes": 140
+},
+{
+"id": "2107846554916921614",
+"author": "Balder13946731",
+"date": "2026-10-07",
+"zh": "Balder：大盤下跌時DELL、HPQ、HPE同步上漲，顯示板塊強勢，大盤反彈HPQ會更強。",
+"risk": "",
+"s": {
+"DELL": "bull",
+"HPE": "bull",
+"HPQ": "bull"
+},
+"text": "大盘下跌的时候你买到一个上涨的股票有什么不满意\n\n而且 \n$DELL\n \n$HPQ\n \n$HPE\n 三个一条线的全部上涨，恰恰说明这个板块强势。\n\n如果大盘反弹了 \n$HPQ\n 只会更强。\n\n近期Event Driven Trading依然不错，我会继续做，今天依然有特别的事情发生，订阅帖子见。",
+"likes": 47
+},
+{
+"id": "2107846602635243713",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：Robinhood確認把2500萬美元比特幣納入資產負債表。",
+"risk": "",
+"s": {
+"BTC": "neutral",
+"HOOD": "neutral"
+},
+"text": "Robinhood \n$HOOD\n just confirmed that it's adding $25 Million worth of Bitcoin \n$BTC\n to its balance sheet",
+"likes": 149
+},
+{
+"id": "2107852951117295824",
+"author": "unusual_whales",
+"date": "2026-10-07",
+"zh": "Unusual Whales：眾議院委員會指Webull與中國政府有結構性關聯，股價重挫近30%。",
+"risk": "國安風險",
+"s": {
+"BULL": "bear"
+},
+"text": "BREAKING: Webull, \n$BULL\n, is down nearly 30% after a congressional panel said its China ties create a national security risk.\n\nThe bipartisan House Select Committee on China says the trading platform is tied to the Chinese government \"in structural ways.\"",
+"likes": 265
+},
+{
+"id": "2107871605158502616",
+"author": "michaelsikand",
+"date": "2026-10-07",
+"zh": "Michael Sikand：AEHR遭誤傳財報日期而被拋售，認為不合理，動用現金加碼。",
+"risk": "",
+"s": {
+"AEHR": "bull"
+},
+"text": "$AEHR\n this selloff makes no sense.\n\nJust drew from cash to bump up my \n$AEHR\n position in my \"Photonics Is Next\" portfolio on \n@joinautopilot\n.\n\n\n$AEHR\n surged 15% and 25% from the close after its last two earnings reports, making it a favorite for traders.\n\nHowever, there was misinformation yesterday that \n$AEHR\n earnings were happening. Basically every finance site has the date as 10/6 and traders moved out in droves when they realized it was wrong.\n\nThe stock crashed on a massive AI rally yesterday and is down another 4% today despite announcing another order from its lead hyperscaler test customer today.\n\nThis customer already uses Sonoma to test one AI processor in high-volume production. Now it's ordering more equipment for a second, newer processor, with production expected to ramp in 2027.\n\nSolid trade logic if I've ever seen it where the market is confused and a great PR is getting ignored.",
+"likes": 120
+},
+{
+"id": "2107895984730874204",
+"author": "michaelsikand",
+"date": "2026-10-07",
+"zh": "Michael Sikand：調侃SpaceX與特斯拉合併後的社會。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "Society after \n$SPCX\n and \n$TSLA\n merge",
+"likes": 66
+},
+{
+"id": "2107904468142768597",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：近幾天在SNDK與NBIS間輪動獲利豐厚，宣傳交易競賽。",
+"risk": "",
+"s": {
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "Rotating between \n$SNDK\n and \n$NBIS\n has been really profitable these past few days.\n\nMy subs caught it too, and they're putting on a show in our  Liquid Tournament.\n\nThree days in and the top 3 are already up 48%, 45% and 36%. These dudes are incredible.\n\n$1,000 in prizes:\n $600\n $300\n $100\n\nIt runs until Sunday 11 and you can still get in. Sign up on \n@liquidtrading\n with code RENSTOCKS, or DM me your handle if you're already on it.\n\nCome trade with us. \n\nThe leaderboard is still up for grabs.\n\nBullish",
+"likes": 25
+},
+{
+"id": "2107911954786598978",
+"author": "michaelsikand",
+"date": "2026-10-07",
+"zh": "Michael Sikand：Marvell首度給出到2030年的光通訊能見度，FY31營收目標700–900億美元，供應商同樣受惠，Lumentum明年只能供應三成需求。",
+"risk": "",
+"s": {
+"AAOI": "neutral",
+"ALAB": "neutral",
+"CIEN": "neutral",
+"COHR": "bull",
+"LITE": "bull",
+"MRVL": "bull",
+"TSEM": "neutral"
+},
+"text": "$MRVL\n is the first company that's given visibility into photonics through 2030.\n\nRevenue was $8.2B last year and the fiscal 2031 target is $70B to $90B. The TAM is 4x last investor day. Interconnect becomes the biggest segment at ~$37.5B\n\nNow think about what this means for the suppliers. Nobody else in the photonics supply chain has guided out to 2030, but they all ride the same curves.\n\n\n$LITE\n's CEO says they'll only be able to supply 30% of what customers want next year. Coherent's booked through the end of 2027.\n\nSo \n@AsymmetricBets_\n ran Marvell's model on the 6 biggest beneficiaries: \n$LITE\n \n$COHR\n \n$AAOI\n \n$CIEN\n \n$TSEM\n \n$ALAB\n\n\nEach one grows at its own market's rate, gets valued off historical multiples and has dilution baked in.\n\nBear, base and bull 2030 targets for all 7 are on my Substack below.",
+"likes": 76
+},
+{
+"id": "2107917250670002215",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：Lululemon再創52週新低。",
+"risk": "",
+"s": {
+"LULU": "bear"
+},
+"text": "Lululemon \n$LULU\n stock hit new 52 WEEK LOWS again today",
+"likes": 52
+},
+{
+"id": "2107920201581019613",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：納德拉宣布Windows Copilot加入混合智慧，可用本機情境與模型代為操作。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microsoft \n$MSFT\n CEO Satya Nadella just posted this:\n\n“We’re supercharging Copilot on Windows with Hybrid Intelligence.\n\nWith your permission, Copilot can tap into the context on your PC, take action for you, and use local models when it makes sense”",
+"likes": 56
+},
+{
+"id": "2107922099176157654",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：微軟公布採用輝達晶片的Surface Laptop Ultra，售價2599美元起。",
+"risk": "",
+"s": {
+"MSFT": "neutral",
+"NVDA": "neutral"
+},
+"text": "Microsoft \n$MSFT\n revealed pricing and availability for the new flagship laptop Surface Laptop Ultra built on Nvidia \n$NVDA\n chips starting at $2,599 - Bloomberg",
+"likes": 44
+},
+{
+"id": "2107924404197879815",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：調侃Leopold是否回來了。",
+"risk": "",
+"s": {
+"LITE": "neutral"
+},
+"text": "$LITE\n \n\nLeopold is back?",
+"likes": 11
+},
+{
+"id": "2107927736924995619",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：Palantir與Zeta執行長明天將在Zeta Live對談。",
+"risk": "",
+"s": {
+"PLTR": "neutral",
+"ZETA": "neutral"
+},
+"text": "Palantir \n$PLTR\n CEO Alex Karp and Zeta Global \n$ZETA\n CEO David Steinberg will be talking tomorrow at the Zeta Live event talking about\n\n\"Building the Sovereign Intelligent Enterprise\"",
+"likes": 19
+},
+{
+"id": "2107928791977005535",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：美國戰爭部戰略資本辦公室承諾提供Wolfspeed 15億美元有條件貸款。",
+"risk": "",
+"s": {
+"WOLF": "bull"
+},
+"text": "DEPARTMENT OF WAR'S OFFICE OF STRATEGIC CAPITAL ANNOUNCES $1.5 BILLION CONDITIONAL LOAN COMMITMENT TO WOLFSPEED \n$WOLF\n - Bloomberg",
+"likes": 6
 }
 ]
