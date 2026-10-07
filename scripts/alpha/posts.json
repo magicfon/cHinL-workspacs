@@ -6115,6 +6115,18 @@
 "likes": 317
 },
 {
+"id": "2107290697267032515",
+"author": "asklivermore",
+"date": "2026-10-06",
+"zh": "AskLivermore：英特爾也得想辦法跟上。",
+"risk": "",
+"s": {
+"INTC": "neutral"
+},
+"text": "$INTC\n better figure it out as well",
+"likes": 2
+},
+{
 "id": "2107300051970126204",
 "author": "ren_stocks",
 "date": "2026-10-06",
@@ -6126,6 +6138,24 @@
 },
 "text": "I had the chance to check out J.P. Morgan's latest Memory Market Update and it only made me more bullish on \n$MU\n and \n$SNDK\n.\n\nMemory bears are running out of years to be right.\n\nMicron now sees supply tighter in 2027 and 2028 than in 2026, with no line of sight to balance. Demand keeps outgrowing supply, and there aren't enough cleanrooms to close the gap.\n\nLook at what customers are signing. Micron went from 16 long-term supply agreements to 26 in a single quarter, with order visibility now reaching 2031. Prepayments climbed to $32B from $22B, the contracted backlog sits at $150B, and about 75% of 2027 output is already locked in.\n\nHBM is even tighter. 2027 supply is sold out with prices up 54% y/y, and bit demand is growing 63% against 37% for the rest of server memory.\n\nThis goes well beyond Micron. Samsung has 60 to 70% of its plant capacity under contract and SK Hynix is signing five-year terms.\n\nYou only prepay $32B years ahead when the bigger risk is ending up with no supply.\n\nCycles end when supply catches up, and right now nobody in this industry can tell you when that happens.\n\nBullish memory",
 "likes": 231
+},
+{
+"id": "2107305938432725004",
+"author": "octopusycc",
+"date": "2026-10-06",
+"zh": "大老师：非農疲弱使升息預期降溫、油價回落，觀察航空與郵輪股成本面修復，但10年債殖利率仍是關鍵。",
+"risk": "10年債殖利率仍高",
+"s": {
+"AAL": "neutral",
+"CCL": "neutral",
+"DAL": "neutral",
+"LUV": "neutral",
+"NCLH": "neutral",
+"RCL": "neutral",
+"UAL": "neutral"
+},
+"text": "复盘一下 NFP 之后的市场。\n\n我觉得现在市场正在同时交易两条非常清晰的 Reverse 逻辑：\n\n1. NFP → 加息预期快速降温\n\n9月 NFP 只新增 2.9万人，失业率升至 4.2%，同时7、8月就业合计又被下修6万人。(Bureau of Labor Statistics)\n\n最直接的变化就是市场重新定价 FED。\n\n目前10月加息概率已经从一周前的约 64%降到24%左右，市场基本开始交易10月暂停。\n\n这里需要注意一个时间点：\n\n今年剩下的 FOMC 只有 10月27-28日和12月8-9日，11月没有议息会议。\n\n所以真正应该观察的是：\n\n10月暂停 → 12月是否还需要加 → 整个加息周期最终还剩几次。\n\n现在市场真正开始提前交易的，就是本轮加息周期可能缩短。\n\n这对成长股和高估值资产是直接的边际利好。\n\n但我暂时不会因此直接转向全面 Risk-on。\n\n因为另外一个风险还没有解决：\n\n长端美债收益率依然很高。\n\n10Y仍然在5%以上，而且长端收益率受到期限溢价、国债供给等因素影响，并没有随着加息预期下降同步大幅回落。\n\n所以目前更像：\n\n短端开始交易 FED 转鸽，长端依旧交易财政/通胀/供给压力。\n\n这两个逻辑目前同时存在。\n\n2. 第二条 Reverse：原油\n\n原油也开始出现事实上的回落。\n\n周一 Brent 下跌约 1.9%至100.32美元，WTI 下跌约 1.8%至89.43美元。\n\n原因包括中东原油出口恢复、G7释放供应，以及沙特下调亚洲OSP。\n\n这意味着此前市场交易的：\n\n油价上涨 → 通胀上升 → FED更鹰 → 航空/邮轮成本上升\n\n开始出现反向交易：\n\n油价回落 → 通胀压力下降 → FED加息压力下降 → 高燃油成本行业利润预期修复。\n\n这里我会重点观察两组：\n\n邮轮\n嘉年华 \n$CCL\n\n皇家加勒比 \n$RCL\n\n挪威邮轮 \n$NCLH\n\n\n航空\n达美航空 \n$DAL\n\n联合航空 \n$UAL\n\n美国航空 \n$AAL\n\n西南航空 \n$LUV\n\n\n这些公司的共同点很简单：燃油都是非常重要的成本项。\n\n之前油价下跌时，$AAL、$UAL、$DAL 曾经同时出现超过2%的上涨，$CCL、$NCLH、$RCL 也同步上涨，说明市场确实会交易这条成本端 Reverse。\n\n所以接下来我的观察框架很明确：\n\n① NFP Reverse\n就业降温 → 10月加息概率暴跌 → 市场开始交易加息周期缩短\n\n② Oil Reverse\n原油回落 → 通胀预期缓和 → 航空/邮轮成本预期改善\n\n如果后面油价继续向下，同时10Y也开始真正回落，那么这两条 Reverse 会从局部行业交易进一步扩散到整个风险资产。\n\n目前最大的确认信号，依然是 10Y。\n\n——————\n\n但是 最大框架不变，只是周期上出现了些许调整。",
+"likes": 9
 },
 {
 "id": "2107343712753996072",
@@ -6217,6 +6247,42 @@
 "likes": 14
 },
 {
+"id": "2107448349549064281",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Uber同意以23億美元現金收購ezCater。",
+"risk": "",
+"s": {
+"UBER": "neutral"
+},
+"text": "$UBER\n has agreed to acquire corporate catering company ezCater for $2.3 Billion in cash",
+"likes": 207
+},
+{
+"id": "2107450773596504302",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：富國銀行把Meta目標價從796美元上調至1000美元，維持加碼評等。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "Wells Fargo today raised its price target on Meta Platforms \n$META\n up to $1,000 from $796 while maintaining its Overweight rating",
+"likes": 450
+},
+{
+"id": "2107458288069890451",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：標普500收盤與盤中歷史高點分別為775.95與779.37。",
+"risk": "",
+"s": {
+"SPY": "neutral"
+},
+"text": "For those people who are curious and are looking to celebrate today’s National holiday (ALL TIME HIGH DAY)\n\nThe S&P 500’s \n$SPY\n all time high closing price is $775.95\n\nThe S&P 500’s \n$SPY\n intra day all time high is $779.37",
+"likes": 150
+},
+{
 "id": "2107463018523267154",
 "author": "StockMKTNewz",
 "date": "2026-10-06",
@@ -6277,6 +6343,18 @@
 "likes": 142
 },
 {
+"id": "2107470984098050157",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：ASTS絕對不能賣，30%股份被放空，一旦飆升會瘋狂軋空，現在才剛開始。",
+"risk": "高放空比例波動",
+"s": {
+"ASTS": "bull"
+},
+"text": "不 \n$ASTS\n 我们绝对不可以跑，里面有30%的股票被做空了，一旦开始飙升就会疯狂轧空，百分之几十的上涨！\n\n现在才刚刚开始。",
+"likes": 41
+},
+{
 "id": "2107473730150760869",
 "author": "octopusycc",
 "date": "2026-10-06",
@@ -6299,6 +6377,32 @@
 },
 "text": "$AMZN\n trying to hold its 200-daily moving average.\n\nHalloween and Christmas holiday catalysts.",
 "likes": 136
+},
+{
+"id": "2107486630097387602",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：NBIS今天表現驚人。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n WHAT A DAY!!!",
+"likes": 290
+},
+{
+"id": "2107488927087260072",
+"author": "michaelsikand",
+"date": "2026-10-06",
+"zh": "Michael Sikand：市場低估高通轉型，資料中心路線圖從0到150億美元，人形機器人居領先地位。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"META": "neutral",
+"QCOM": "bull"
+},
+"text": "Is the market underestimating \n$QCOM\n? I asked CFO Akash Palkhiwala to explain its audacious pivot.\n\n- $0 to $15B data center roadmap for \n$META\n \n$AMZN\n\n\n- How the next iPhone moment could unlock unpriced growth with wearables\n\n- Why \n$QCOM\n is in \"pole position\" for humanoid robots",
+"likes": 147
 },
 {
 "id": "2107492507646935225",
@@ -6493,5 +6597,245 @@
 },
 "text": "The S&P 500 hit a new all time high today, with marketwide participation\n\nBullish options flow leaders: \n$AVGO\n \n$AMZN\n \n$NBIS\n \n\nBearish flow: \n$NVDA\n \n$MU\n \n$WDC\n \n\n\nhttps://\nunusualwhales.com/flow/overview",
 "likes": 53
+},
+{
+"id": "2107566728553328973",
+"author": "michaelsikand",
+"date": "2026-10-06",
+"zh": "Michael Sikand：PENG財報大幅優於預期、盤後爆發，記憶體營收年增158%。",
+"risk": "",
+"s": {
+"PENG": "bull"
+},
+"text": "$PENG\n is exploding on a monster beat after hours! \n\nCongrats to those who followed me on this trade notification on my Flagship portfolio on \n@joinautopilot\n this morning.\n\n• Revenue $567M vs $521M Est\n• EPS $1.00 vs Est. $0.77 \n• Integrated Memory: $341M (+158% YoY) \n\nHope to",
+"likes": 103
+},
+{
+"id": "2107567122973147137",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：NBIS相關玩笑貼文。",
+"risk": "",
+"s": {
+"NBIS": "neutral"
+},
+"text": "$NBIS\n\n\nThe duality of FinX: a bullish Pikachu and a buff Arkady.",
+"likes": 41
+},
+{
+"id": "2107568720075706861",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：PENG財報大勝預期，FY27營收指引24.3億美元、上調至年增40%，盤後大漲。",
+"risk": "",
+"s": {
+"PENG": "bull"
+},
+"text": "$PENG\n IS UP AH AFTER IT SMASHED EARNINGS!!!\n\nQ4 FY26\n\nRevenue: $567M vs. $521M est. (+68% YoY)\nNon-GAAP EPS: $1.00 vs. $0.77 est. (up from $0.43)\nNon-GAAP gross margin: 28.8% vs. 26% est.\nNon-GAAP operating income: $89.8M (+129%)\n\nSegments\n\nIntegrated Memory: $341M (+158%)\nAdvanced Computing: $154M (+11%)\nOptimized LED: $72M (+7%)\n\nFY27 guidance\n\nRevenue: ~$2.43B vs. $2.21B est. (+40%, raised from a preliminary +30%)\nNon-GAAP EPS: $4.45 vs. $3.38 est. (+55%)\nNon-GAAP gross margin: ~28%",
+"likes": 68
+},
+{
+"id": "2107569142824136731",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：演算法交易紀錄，QCOM停損出場虧損5.21%。",
+"risk": "",
+"s": {
+"QCOM": "neutral"
+},
+"text": "平仓亏损 1 \n$QCOM\n 189.82→179.93 -5.21%\n\n 持仓 IBM 223.69→221.29 -1.1% · MCD 231.38→232.45 +0.5% · CRWV 88.15→91.72 +4.0% · INTC 116.23→112.5 -3.2% · IREN 40.84→41.28 +1.1% · SMCI 43.23→43.46 +0.5% · NVO 37.16→37.53 +1.0% · BAC  54.19→54.09 -0.2%\n\n balder-algo-logs · 龙气 · 10-06 · algo log · not advice",
+"likes": 6
+},
+{
+"id": "2107575801315012688",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：對比今天MU、SNDK與NBIS、PENG的走勢。",
+"risk": "",
+"s": {
+"MU": "neutral",
+"NBIS": "neutral",
+"PENG": "neutral",
+"SNDK": "neutral"
+},
+"text": "$MU\n \n$SNDK\n today vs \n$NBIS\n \n$PENG",
+"likes": 273
+},
+{
+"id": "2107581364023230753",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：蘋果將與LG合作推出門鈴、溫控器等智慧家庭產品。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "APPLE IS ABOUT TO LAUNCH A DOORBELL\n\nApple’s \n$AAPL\n upcoming push into smart home devices will include a doorbell, thermostat and other accessories developed through a partnership with LG Electronics\n\nThe products will be part of an ecosystem of devices that work with Apple’s new smart home products - Bloomberg",
+"likes": 1084
+},
+{
+"id": "2107582530115318056",
+"author": "ren_stocks",
+"date": "2026-10-06",
+"zh": "Ren：B200已無空機可租、租價九個月漲約30%，算力極度吃緊。",
+"risk": "",
+"s": {
+"NBIS": "bull",
+"NVDA": "bull"
+},
+"text": "$NBIS\n \n$NVDA\n\n\nThere are no B200s left to rent. Read that again.\n\nOn-demand availability for Nvidia's B200 started the year above 60%. By late March it was at zero, it got a small breather in June when about 5% of capacity opened up, and since mid-August it has been flat at 0.0%. \n\nEvery chip that comes online is taken before it reaches the on-demand pool.\n\nThe B200 rental index went from about $4.40 an hour in January to $5.78 now, a gain of roughly 30% in nine months on hardware that is supposed to get cheaper as it ages. \n\nOne-year contract pricing tells the same story and is pushing past $6.\n\nThe older chips are the part I find most bullish. \n\nAn H100 on a one-year contract was around $1.70 a year ago and is near $2.80 today. \n\nThat is a chip from 2022 renting for about 65% more than it did last October, and even the A100 is drifting higher. The whole bear case on neoclouds rested on GPUs losing value fast enough to wreck the returns on these buildouts, yet the opposite is happening.\n\nMega bullish",
+"likes": 154
+},
+{
+"id": "2107584539224948911",
+"author": "Balder13946731",
+"date": "2026-10-06",
+"zh": "Balder：10/6美股復盤，三大指數收高，光通訊股大漲，記憶體與測試設備股重挫。",
+"risk": "",
+"s": {
+"SPY": "neutral"
+},
+"text": "【美股复盘 · 10月6日】\n\n**大市**\n美股三大指数靠稳造好，惟细价股表现反复偏软。标普( \n$SPY\n )全日收报779.09，升0.55%；纳指(QQQ)收报759.69，升0.46%；道指(DIA)收报514.56，升0.48%。相较之下，罗素小型股(IWM)遭遇沽压，收报281.37，跌0.71%，未能与大市同步。大市整体市宽偏强，104只观察股中，69只上升，35只下跌，反映资金仍倾斜于大型蓝筹及科技权重股。\n\n**板块**\n板块走势呈现两极分化。通讯网络设备及光纤概念股受资金追捧，表现一枝独秀。其中Ciena(CIEN)急升13.85%领跑大市，Nebius(NBIS)及Applied Optoelectronics(AAOI)分别升7.44%及7.07%，诺基亚(NOK)与康宁(GLW)分别造好7.55%及6.02%。此外，CoreWeave(CRWV)及Arista Networks(ANET)亦录得4.95%及4.09%升幅。另一边厢，环球存储芯片及半导体测试设备股暴跌，拖累相关板块急泻。Aehr Test Systems(AEHR)重挫11.74%领跌，希捷(STX)及西部数据(WDC)分别泻9.18%及6.93%，SK海力士(SKHY)及闪迪(SNDK)亦挫6.39%及2.56%；受韩国半导体权重股弱势拖累，MSCI韩国ETF(EWY)全日下挫2.64%。\n\n**焦点**\n个股焦点方面，网络基建巨头思科(CSCO)逆市造好，收升4.54%；回顾2000年科网泡沫时期，该股曾为全市场之网络基石，惟泡沫爆破后足足耗时24年方重新摸到当年高点，反映科技龙头若遭套牢，盲目死扛或需承担极大时间成本。此外，尽管市场对部分人工智能大模型之炒作渐生审美疲劳，惟真正具备深厚护城河之硬件设备仍受热议；如ASML之EUV光刻机，造价两亿美元起步，单次发货需拆解为逾四十个集装箱，其内部光学反射镜之平整度堪称极致，展现出残暴之行业壁垒。受底层基建逻辑带动，涉及通信网络之AST SpaceMobile(ASTS)及美满电子(MRVL)今日获买盘吸纳，分别收升8.00%及5.81%。反观半导体设备大厂应用材料(AMAT)及传统芯片巨头英特尔(INTC)表现疲弱，分别跌2.21%及3.19%。同日，赛富时(CRM)与莫德纳(MRNA)亦见沽压，分别下挫2.09%及7.75%。\n\n**小结**\n总括而言，美股大市呈现高位整固形态，网络通信股与存储芯片股形成强烈对比，板块轮动支撑指数靠稳。分析指，当前大市市宽尚算健康，惟存储芯片等硬件板块之持续弱势或成隐忧。后市走势料将受制于资金在各板块间的博弈，投资者宜留意标普(SPY)能否企稳现有水平，同时需警惕罗素小型股(IWM)失守关键位对大市整体气氛之拖累；操作上需审慎甄别科技股之实质护城河，切忌对部分弱势龙头抱有盲目死守之迷信。",
+"likes": 5
+},
+{
+"id": "2107590835994804475",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：Dan Ives進入2027年的五大科技股為輝達、微軟、Palantir、蘋果、CrowdStrike。",
+"risk": "",
+"s": {
+"AAPL": "neutral",
+"CRWD": "neutral",
+"MSFT": "neutral",
+"NVDA": "neutral",
+"PLTR": "neutral"
+},
+"text": "Dan Ives just said his top 5 tech plays going into 2027 are\n\nNvidia \n$NVDA\n \nMicrosoft \n$MSFT\n \nPalantir \n$PLTR\n \nApple \n$AAPL\n \nCrowdStrike \n$CRWD",
+"likes": 621
+},
+{
+"id": "2107597396876169252",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：據報微軟Xbox拿下GTA 6獨家串流權。",
+"risk": "",
+"s": {
+"MSFT": "bull"
+},
+"text": "Microsoft \n$MSFT\n owned Xbox reportedly managed to land a deal for the exclusive game streaming rights for Grand Theft Auto VI - The Verge",
+"likes": 210
+},
+{
+"id": "2107600658538914275",
+"author": "StockMKTNewz",
+"date": "2026-10-06",
+"zh": "Evan：據報SpaceX擬發債400億美元購買輝達晶片。",
+"risk": "",
+"s": {
+"NVDA": "bull",
+"SPCX": "neutral"
+},
+"text": "SpaceX \n$SPCX\n is reportedly looking to raise $40 Billion by selling debt to buy Nvidia \n$NVDA\n chips - Financial Times",
+"likes": 1346
+},
+{
+"id": "2107620509605409232",
+"author": "jukan05",
+"date": "2026-10-06",
+"zh": "Jukan：Meritz預期部分手機DRAM價格2027年Q1季增50%以上，蘋果需吸收漲價。",
+"risk": "蘋果成本上升",
+"s": {
+"AAPL": "neutral",
+"DRAM": "bull"
+},
+"text": "Meritz Securities: Some mobile DRAM prices are expected to surge +50% in 1Q27.\n\nFull comment: The race toward AGI is driving competitive, structural growth in server demand. Even so, B2C applications led by smartphones remain the last segment still resisting price increases. Our channel checks, however, indicate that mobile memory prices for a key customer (Apple) will rise by a staggering 50% or more QoQ starting in 1Q27, as memory makers keep shifting production from LPDDR to server DRAM and HBM. The key customer is building its 20th anniversary flagship smartphone next year, so it will have to absorb the price surge.\n\n\n$AAPL\n \n$DRAM",
+"likes": 173
+},
+{
+"id": "2107629730317074555",
+"author": "unusual_whales",
+"date": "2026-10-07",
+"zh": "Unusual Whales：訂閱以取得Palantir動態。",
+"risk": "",
+"s": {
+"PLTR": "neutral"
+},
+"text": "To get \n$PLTR\n updates, subscribe to Unusual Whales.\n\nCheck all options info right on site.\n\nSee more:",
+"likes": 9
+},
+{
+"id": "2107653638709489678",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：美銀預期每顆GPU記憶體容量持續增加，Rubin Ultra達1000GB，最吃緊的零件用量反而變多。",
+"risk": "",
+"s": {
+"MU": "bull",
+"SKHY": "bull",
+"SNDK": "bull"
+},
+"text": "$SKHY\n \n$MU\n \n$SNDK\n\n\nMemory per GPU is going up, and the math is getting silly.\n\nThe fear with memory at these prices has always been \"de-spec,\" the idea that chip designers respond to expensive memory by using less of it. \n\nBofA's memory team is assuming the opposite. \n\nRubin moves from 288GB to 384GB, a third more per chip, and Rubin Ultra goes to 1,000GB, which is about 3.5x what ships today.\n\nSo the most supply-constrained component in the stack is getting designed in at higher content, into more chips, every generation. \n\nThat is how you get to their new 2030 forecast of $2.0 trillion in DRAM and NAND sales, raised from $1.8 trillion. For scale, the 2018 cloud boom peaked at $170 billion, and last year did about $210 billion.\n\nThe industry is already running above a $1 trillion annual pace, based on $278 billion of sales in the third quarter alone. \n\nGetting to $2 trillion from here is a doubling in four years, with bit growth in the high teens and the mix shifting toward HBM and enterprise SSDs.\n\nBullish memory",
+"likes": 238
+},
+{
+"id": "2107669764395176397",
+"author": "michaelsikand",
+"date": "2026-10-07",
+"zh": "Michael Sikand：PENG把AI基建重心轉向新雲端，新客戶6家中有4家是新雲端，是更大的機會。",
+"risk": "",
+"s": {
+"PENG": "bull"
+},
+"text": "$PENG\n just unlocked this brand new asymmetric lever and it's genius.\n\nPreviously the company was pushing sovereign AI as the main customer set for their AI infra division but per this ER they're now focused on neoclouds which is a WAY bigger opportunity. 4 of the 6 new AI infrastructure customers in Q4 were neoclouds.\n\nThese neoclouds are basically hiring \n$PENG\n as the AI factory in a box. Many of these neoclouds aren't full stack and instead just finance shops. They line up the multi-billion dollar compute deal with a hyperscaler or lab and hire \n$PENG\n to get them the hardware, set up the infra and maintain it for 5 years. One neocloud just hired them to build and run a 36,000 GPU factory in Norway backed by a $10B lab commit.\n\nThis is killer for \n$PENG\n because services made about a 49% gross margin last reported quarter, roughly double the 24% on hardware, and those contracts stick around for years. \n\nOnly about 10% of \n$PENG\n's revenue in Q4 came from services. But $1 of service revenue generates the same profit as $2 for hardware, meaning this is a strong EPS lever if it scales with these huge cluster deals from neoclouds.",
+"likes": 133
+},
+{
+"id": "2107674071366537708",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：AMD執行長將與三星半導體負責人會面。",
+"risk": "",
+"s": {
+"AMD": "neutral"
+},
+"text": "Advanced Micro Devices’ \n$AMD\n CEO plans to meet with the head of Samsung Electronics’s semiconductor business - Bloomberg",
+"likes": 373
+},
+{
+"id": "2107706664292159831",
+"author": "jukan05",
+"date": "2026-10-07",
+"zh": "Jukan：陳立武表示英特爾將持續與Terafab合作。",
+"risk": "",
+"s": {
+"INTC": "neutral"
+},
+"text": "Lip-Bu Tan: Intel will continue working with Terafab.\n\n\n$INTC",
+"likes": 426
+},
+{
+"id": "2107769990820852154",
+"author": "jukan05",
+"date": "2026-10-07",
+"zh": "Jukan：美光台灣工會因獎金爭議獲得罷工授權。",
+"risk": "台灣廠罷工",
+"s": {
+"MU": "neutral"
+},
+"text": "MICRON TAIWAN UNION WINS MANDATE TO STRIKE OVER BONUS DISPUTE\n\n\n$MU",
+"likes": 197
+},
+{
+"id": "2107792302152298790",
+"author": "unusual_whales",
+"date": "2026-10-07",
+"zh": "Unusual Whales：Bloom Energy今年漲逾230%，Q2營收年增166%、所有大型雲端都已核准其系統。",
+"risk": "估值偏高",
+"s": {
+"BE": "bull"
+},
+"text": "Bloom Energy, \n$BE\n, is up more than 230% this year.\n\nAI data centers need power, and Bloom sells fuel cells that can deliver it on-site, skipping years-long waits for the grid.\n\nIt powered one Oracle data center in just 55 days.\n\nQ2 revenue jumped 166% to $1.07 billion, its first $1 billion quarter ever.\n\nIt expects 2026 sales to roughly double to as much as $4.2 billion.\n\nEvery major U.S. hyperscaler has now approved its systems.\n\nIts financing deal with Brookfield grew from $5 billion to $25 billion.\n\nThe stock now trades at roughly 108x forward earnings.",
+"likes": 158
 }
 ]
