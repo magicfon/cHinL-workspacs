@@ -5738,6 +5738,30 @@
 "likes": 109
 },
 {
+"id": "2107118750688292971",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：台積電創歷史新高。",
+"risk": "",
+"s": {
+"TSM": "bull"
+},
+"text": "Taiwan Semiconductor \n$TSM\n stock hit new ALL TIME HIGHS today",
+"likes": 831
+},
+{
+"id": "2107119415334474006",
+"author": "StockMKTNewz",
+"date": "2026-10-05",
+"zh": "Evan：Lululemon再創52週新低。",
+"risk": "",
+"s": {
+"LULU": "bear"
+},
+"text": "Lululemon \n$LULU\n stock hit new 52 WEEK LOWS again today",
+"likes": 255
+},
+{
 "id": "2107132957165048154",
 "author": "unusual_whales",
 "date": "2026-10-05",
@@ -6780,6 +6804,18 @@
 "likes": 1346
 },
 {
+"id": "2107619702310879702",
+"author": "unusual_whales",
+"date": "2026-10-06",
+"zh": "Unusual Whales：蘋果將於10/13推出與LG合作的門鈴、溫控器等智慧家庭產品。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Apple, \n$AAPL\n, is going to push into smart home devices will include a doorbell, thermostat and other accessories developed through partnership with LG Electronics, set to be introduced on October 13, per Bloomberg.",
+"likes": 900
+},
+{
 "id": "2107620509605409232",
 "author": "jukan05",
 "date": "2026-10-06",
@@ -7004,6 +7040,18 @@
 "likes": 149
 },
 {
+"id": "2107850249515434275",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：亞馬遜旗下Ring推出首款智慧門鎖，2027年Q1上市。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n owned Ring unveiled its first smart lock\n\nThe Ring Smart Lock will be available in the Q1 of 2027 and has a physical dial that can recharge the internal battery to restore electronic functions - Bloomberg",
+"likes": 174
+},
+{
 "id": "2107852951117295824",
 "author": "unusual_whales",
 "date": "2026-10-07",
@@ -7014,6 +7062,18 @@
 },
 "text": "BREAKING: Webull, \n$BULL\n, is down nearly 30% after a congressional panel said its China ties create a national security risk.\n\nThe bipartisan House Select Committee on China says the trading platform is tied to the Chinese government \"in structural ways.\"",
 "likes": 265
+},
+{
+"id": "2107859442847088920",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：迪士尼表示今年超級盃可在Disney+觀看。",
+"risk": "",
+"s": {
+"DIS": "neutral"
+},
+"text": "Disney \n$DIS\n said that this year's Super Bowl will be available to watch on its Disney+ streaming service - CNBC",
+"likes": 84
 },
 {
 "id": "2107871605158502616",
@@ -7144,5 +7204,141 @@
 },
 "text": "DEPARTMENT OF WAR'S OFFICE OF STRATEGIC CAPITAL ANNOUNCES $1.5 BILLION CONDITIONAL LOAN COMMITMENT TO WOLFSPEED \n$WOLF\n - Bloomberg",
 "likes": 6
+},
+{
+"id": "2107929849725665479",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：Wolfspeed獲國防部30年15億美元貸款承諾、盤後大漲25%，極度看多。",
+"risk": "",
+"s": {
+"WOLF": "bull"
+},
+"text": "$WOLF\n GOD CANDLE AH +25%\n\nWolfspeed just got a 30-year, $1.5B loan commitment from the Department of War.\n\nThat is close to the company’s entire market cap!!!\n\nA year ago this company was restructuring its debt, talk about a comeback story!\n\nThe Pentagon’s Office of Strategic Capital is lining up to fund its next buildout and taking warrants for up to 7.5% of the equity, which tells you Washington wants a stake in the outcome and not only its money back.\n\nMega bullish for \n$WOLF",
+"likes": 93
+},
+{
+"id": "2107946113105817690",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：博通正為OpenAI客製AI晶片安排逾500億美元融資。",
+"risk": "",
+"s": {
+"AVGO": "neutral"
+},
+"text": "Broadcom \n$AVGO\n has been working to arrange more than $50 billion in financing for OpenAI’s custom AI chip - WSJ",
+"likes": 355
+},
+{
+"id": "2107959672707907873",
+"author": "unusual_whales",
+"date": "2026-10-07",
+"zh": "Unusual Whales：博通為與OpenAI合作的客製晶片安排逾500億美元融資。",
+"risk": "",
+"s": {
+"AVGO": "neutral"
+},
+"text": "Broadcom, \n$AVGO\n, is arranging more than $50 billion in financing for the custom artificial intelligence chip it's developing with OpenAI, per Bloomberg",
+"likes": 342
+},
+{
+"id": "2108004019327381611",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：Netflix似乎開始轉強，但不確定還能不能相信。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "感觉 \n$NFLX\n 有开始转强的迹象，我还能相信他吗",
+"likes": 7
+},
+{
+"id": "2108010509652070904",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：微軟發表無人在意；HPQ短線買權已出場，流動性太差以後不做。",
+"risk": "選擇權流動性差",
+"s": {
+"HPQ": "neutral",
+"MSFT": "neutral"
+},
+"text": "Nobody cares \n$MSFT\n posts.\n\n不过好在 \n$HPQ\n 还是上涨了一波，短线Call已经离场，不是很好的体验，主要是流动性太差了。\n\n以后不做这种流动性太差的期权。",
+"likes": 8
+},
+{
+"id": "2108011595448352919",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：博通拿500億美元融資支持OpenAI，認為OpenAI相關股（軟銀、甲骨文、博通）處境不佳。",
+"risk": "OpenAI融資風險",
+"s": {
+"AVGO": "bear",
+"NVDA": "neutral",
+"ORCL": "bear"
+},
+"text": "$AVGO\n 拨出500亿美元来融资支持OpenAI，前段时间 \n$NVDA\n 只出了200亿美元。\n\n说实话，现在OpenAI系的都有点惨。软银 \n$ORCL\n 和 \n$AVGO",
+"likes": 9
+},
+{
+"id": "2108013237870747812",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：台積電月報前隱含波動率異常低，計畫明早高開就出場，再找低點做GOOG。",
+"risk": "",
+"s": {
+"GOOG": "neutral",
+"TSM": "neutral"
+},
+"text": "今天晚上10:30 PM PT \n$TSM\n 月度报告。\n\n\n$TSM\n 已经好几个月月度报告没有正向收益了 但是好处是 \n$TSM\n 的IV非常非常低。\n\n尽管非常接近财报 \n$TSM\n 比M7里大多数股票的IV都低。\n\n这很不寻常，因为其RV其实很高。\n\n明早高开就跑路，跑完如果 \n$GOOG\n 有低点就做 \n$GOOG\n 的Gemini at work.\n\n目前剧本是这么安排的。",
+"likes": 13
+},
+{
+"id": "2108056379009249498",
+"author": "ren_stocks",
+"date": "2026-10-08",
+"zh": "Ren：Nebius約7季就達到每季6億美元營收，遠快於Google雲，不認為已見頂，續看多。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nPeople keep telling me the top is in. Cool, look at this chart.\n\nNebius hit roughly $600M a quarter in about 7 quarters. \n\nGoogle Cloud took around 30 quarters to get there. AWS and Azure were around $1B and $1.5B at that age, and Nebius is closing in on them way faster.\n\nAWS is doing about $40B a quarter, Azure about $30B, Google Cloud about $25B. Nebius is a tiny dot in the bottom-left corner of that chart .\n\nTop is in? We're 7 quarters into this thing. \n\nI'll take my chances and be a bull here",
+"likes": 233
+},
+{
+"id": "2108068740969766925",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：台積電月報果然沒什麼反應。",
+"risk": "",
+"s": {
+"TSM": "neutral"
+},
+"text": "$TSM\n 月报果然没什么反应。",
+"likes": 8
+},
+{
+"id": "2108166332160340140",
+"author": "StockMKTNewz",
+"date": "2026-10-08",
+"zh": "Evan：台積電9月營收160.6億美元，年增54.6%。",
+"risk": "",
+"s": {
+"TSM": "bull"
+},
+"text": "Taiwan Semiconductor \n$TSM\n just reported September revenue of $16.06B up 54.6% YoY",
+"likes": 89
+},
+{
+"id": "2108170008417440038",
+"author": "StockMKTNewz",
+"date": "2026-10-08",
+"zh": "Evan：Spotify與Joe Rogan續簽多年合約，總值約2.5億美元。",
+"risk": "",
+"s": {
+"SPOT": "neutral"
+},
+"text": "Spotify \n$SPOT\n has re-signed Joe Rogan to another multi-year deal\n\nThe deal reportedly has similar terms as their previous one with the deal being worth an estimated total of $250 Million - WSJ",
+"likes": 20
 }
 ]
