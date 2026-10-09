@@ -6992,5 +6992,28 @@
 },
 "text": "I think we’ll go back to regularly scheduled programming now\n\nIt’s just that ATM was holding \n$AAOI\n back for the longest time",
 "likes": 114
+},
+{
+"id": "2108272287908860377",
+"date": "2026-10-08",
+"zh": "媒體炒作 OpenAI 營收數字，但作者認為這不會終結 3–5 年的雷射短缺（AAOI）或記憶體短缺（MU）。",
+"risk": "市場情緒受 AI 營收報導干擾",
+"s": {
+"AAOI": "bull",
+"MU": "bull"
+},
+"text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with \n$AAOI\n or memory shortage with \n$MU\n?\n\nHint: it doesn’t.",
+"likes": 1704
+},
+{
+"id": "2108329503428895094",
+"date": "2026-10-08",
+"zh": "正在和 Google TPU 設計師喝咖啡（貼文內容截斷）。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Having coffee with a $GOOGL TPU designer rn\n\nA…",
+"likes": 99
 }
 ]
