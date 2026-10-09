@@ -6927,6 +6927,30 @@
 "likes": 395
 },
 {
+"id": "2107815866696151077",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：TD Cowen把Marvell調升至買進，目標價350美元。",
+"risk": "",
+"s": {
+"MRVL": "bull"
+},
+"text": "TD Cowen today upgraded Marvell \n$MRVL\n to Buy from Hold with a $350 price target",
+"likes": 103
+},
+{
+"id": "2107817404529004860",
+"author": "StockMKTNewz",
+"date": "2026-10-07",
+"zh": "Evan：CoreWeave計畫與Adani合作在印度設首座資料中心。",
+"risk": "",
+"s": {
+"CRWV": "neutral"
+},
+"text": "CoreWeave \n$CRWV\n is planning to launch its first data center in India  part of a venture involving conglomerate Adani Group - Bloomberg",
+"likes": 245
+},
+{
 "id": "2107818498491617469",
 "author": "StockMKTNewz",
 "date": "2026-10-07",
@@ -7086,6 +7110,18 @@
 },
 "text": "Disney \n$DIS\n said that this year's Super Bowl will be available to watch on its Disney+ streaming service - CNBC",
 "likes": 84
+},
+{
+"id": "2107863012111499494",
+"author": "KawzInvests",
+"date": "2026-10-07",
+"zh": "KawzInvests：AEHR獲主要雲端客戶約600萬美元追加訂單，用於2027年量產的新處理器，賣壓可能源於誤傳財報日。",
+"risk": "",
+"s": {
+"AEHR": "bull"
+},
+"text": "$AEHR\n announced ~$6M in follow-on orders today from its lead hyperscale customer.\n\nThis customer already uses Sonoma to test one AI processor in high-volume production. Now it's ordering more equipment for a second, newer processor, with production expected to ramp in 2027.\n\n“These follow-on production orders demonstrate the continued expansion of our relationship with this hyperscale customer”\n\nI wonder how much of the selling is people reacting to the wrong earnings date on Google. Pretty funny if that's what's going on.",
+"likes": 85
 },
 {
 "id": "2107871605158502616",
@@ -7321,6 +7357,18 @@
 "likes": 395
 },
 {
+"id": "2107960223331999818",
+"author": "ren_stocks",
+"date": "2026-10-07",
+"zh": "Ren：靠波段操作NBIS賺錢。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nPeople say \"free\" money doesn't exist.\n\nThey clearly don't know how to swing \n$NBIS\n \n\nNFA mfs!",
+"likes": 98
+},
+{
 "id": "2108004019327381611",
 "author": "Balder13946731",
 "date": "2026-10-08",
@@ -7525,6 +7573,18 @@
 "likes": 262
 },
 {
+"id": "2108220134854987799",
+"author": "StockMKTNewz",
+"date": "2026-10-08",
+"zh": "Evan：Netflix發布FTX崩潰電影首支預告。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "Netflix \n$NFLX\n just released the first trailer for its upcoming movie covering the collapse of Sam Bankman Fried and FTX",
+"likes": 569
+},
+{
 "id": "2108236595619111355",
 "author": "Balder13946731",
 "date": "2026-10-08",
@@ -7574,6 +7634,18 @@
 "likes": 50
 },
 {
+"id": "2108270457166430529",
+"author": "StockMKTNewz",
+"date": "2026-10-08",
+"zh": "Evan：蘋果確認10/13舉辦「Welcome Home」發表會。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Apple \n$AAPL\n confirmed it will be having a product release event in October 13th\n\nThe event is called “Welcome Home”",
+"likes": 102
+},
+{
 "id": "2108270703627616590",
 "author": "unusual_whales",
 "date": "2026-10-08",
@@ -7597,6 +7669,19 @@
 },
 "text": "Guys I actually can't seeing news like \n$AAOI\n deploying \n$BE\n fuel cells at its Taiwan fabs.\n\nThis is like the two high beta superheroes teaming up a surprise crossover event",
 "likes": 88
+},
+{
+"id": "2108275775946576024",
+"author": "StockMKTNewz",
+"date": "2026-10-08",
+"zh": "Evan：博通與AMD盤中各跌約5%。",
+"risk": "",
+"s": {
+"AMD": "neutral",
+"AVGO": "neutral"
+},
+"text": "Broadcom \n$AVGO\n stock is now down by 5% so far today \n\n\n$AMD\n stock is now down by almost 5% so far today",
+"likes": 407
 },
 {
 "id": "2108277917205598655",
@@ -7634,5 +7719,125 @@
 },
 "text": "Apple \n$AAPL\n is planning a SECOND new product launch later this month on or around October 27th\n\n\"The end-of-month announcements will also include versions of the 14-inch MacBook Pro and iMac with M6 chips\" - Bloomberg",
 "likes": 16
+},
+{
+"id": "2108303658526138403",
+"author": "michaelsikand",
+"date": "2026-10-08",
+"zh": "Michael Sikand：MANGOS ETF一週募得6000萬美元，涵蓋OpenAI、Anthropic與Meta、輝達等。",
+"risk": "",
+"s": {
+"GOOG": "neutral",
+"META": "neutral",
+"MN": "neutral",
+"NVDA": "neutral",
+"SPCX": "neutral"
+},
+"text": "It took me 6 months to build $60M AUM.\n\n\n@CorgiInvest\n just mogged that in under a week with their MANGOS ETF \n$MN\n \n\nThis concentrated ETF seeks to give investors OpenAI and Anthropic exposure alongside \n$META\n, \n$NVDA\n, \n$GOOG\n, \n$SPCX",
+"likes": 46
+},
+{
+"id": "2108309225906823208",
+"author": "Balder13946731",
+"date": "2026-10-08",
+"zh": "Balder：10/8美股復盤，科技股重挫、半導體與光通訊領跌，能源與家居股逆勢上漲。",
+"risk": "",
+"s": {
+"DIA": "neutral"
+},
+"text": "【美股复盘 · 10月8日】\n\n大市：环球息口高企忧虑发酵，叠加能源价格攀升，美股周四走势分化。传统经济股表现靠稳，带动道指( \n$DIA\n )全日微升，收报511.65，升0.12%，于四大指数中表现一枝独秀。惟科网股沽压沉重，拖累纳指(QQQ)显著受压，全日收报747.58，急挫1.34%。标普(SPY)则反复偏软，收报773.97，跌0.42%；罗素小型股(IWM)微跌0.03%，收报277.63。大市交投气氛偏弱，市宽明显转差，104只观察股份中，仅33只上升，下跌股份多达71只。\n\n板块：资金避险情绪升温，防守类及能源板块逆市造好。受惠于油价走强预期，石油股成资金避风港，西方石油(OXY)升3.56%，雪佛龙(CVX)及埃克森美孚(XOM)分别升3.12%及2.71%。零售家装巨头亦见发力，劳氏(LOW)及家得宝(HD)分别涨4.03%及3.39%。另一边厢，半导体及光通讯板块沦为重灾区，做空半导体的ETF(SOXS)急飙10.24%，反映芯片股抛售尤为惨烈，领跌个股中安谋(ARM)重挫6.48%，光通讯设备商高意(COHR)及应用光电(AAOI)更分别急泻9.63%及13.58%。大市转弱亦令做空纳指的ETF(SQQQ)录得4.13%升幅。\n\n焦点：大行早前曾唱好科技股季绩将大面积超预期，惟宏观无风险利率高企令市场对高估值的容错率极低，导致资金趁高获利。新晋AI题材渐露疲态，有获巨头背书的AI初创IPO认购惨淡，反映机构资金对纯算力概念转趋审慎。政策层面，市场传出华府或收紧科技大厂外籍工程师的绿卡项目，引发外界对底层研发迭代受阻的忧虑。然而，部分软件及老牌科技股相对抗跌，奥多比(ADBE)及雪花(SNOW)分别逆市上扬3.56%及3.17%，国际商业机器(IBM)亦靠稳，全日收升2.77%。\n\n小结：分析指，近期云端巨头频频斥资锁定核电资源，由轻资产模式转向重基建，加上企业端AI降本增效的红利仍需高昂的云服务开支来支撑，相关成本正促使市场重新审视AI供应链的盈利模型。随着纳指受压且科网股沽压未止，大市风格或正经历新旧经济股的轮动切换。后市需密切留意无风险利率走势，以及龙头科技股接下来的业绩指引能否提供支撑，料短期内美股走势仍以反复震荡寻底为主。",
+"likes": 0
+},
+{
+"id": "2108360620173070726",
+"author": "StockMKTNewz",
+"date": "2026-10-09",
+"zh": "Evan：過去十年表現最好的Vanguard ETF為VGT、MGK、VONG。",
+"risk": "",
+"s": {
+"MGK": "neutral",
+"VGT": "neutral",
+"VONG": "neutral",
+"VOO": "neutral"
+},
+"text": "Here are the top 3 best performing Vanguard ETFs over the last decade\n\n \n$VGT\n \n \n$MGK\n \n \n$VONG\n \n\nVanguard only has 7 ETFs that beat its S&P 500 ETF \n$VOO\n over the last decade",
+"likes": 104
+},
+{
+"id": "2108381766599762167",
+"author": "ren_stocks",
+"date": "2026-10-09",
+"zh": "Ren：市場因OpenAI年化營收傳聞恐慌拋售，但彭博稱OpenAI年底將達700億美元，需求並未消失。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"BE": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$SNDK\n \n$AAOI\n \n$BE\n\n\nFunny how fast the story changes.\n\nJust a few hours ago everyone was panicking and dumping AI stocks because OpenAI was \"only\" approaching $50B in annualized revenue instead of the $70B that got reported. \n\nToday Bloomberg says OpenAI expects to be at $70B by the end of the year.\n\nSo the number people panicked about them not having is the number they expect to hit in less than three months.\n\nThe FT story was really about how revenue gets counted, and the market still sold off like demand had disappeared. It hasn't. \n\nThe labs keep growing and they keep needing more compute, and I don't see that changing anytime soon.\n\nThis happens every single time, so know what you own and don’t sell into a FUD.\n\nYou are not bullish enough",
+"likes": 513
+},
+{
+"id": "2108407095301214252",
+"author": "ren_stocks",
+"date": "2026-10-09",
+"zh": "Ren：Bloom為AOI台灣擴產供應燃料電池，顯示光模組需求強勁，對兩者都是利多。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"BE": "bull"
+},
+"text": "THIS IS HUGE NEWS FOR BOTH \n$AAOI\n and \n$BE\n\n\nBloom is supplying fuel cells for an expansion project at AOI's Taiwan subsidiary, through its local partner Leadray Energy. \n\nSo AOI is bringing its own power on-site instead of just plugging into the grid.\n\nWhen a transceiver maker is sorting out its own electricity to get new capacity running sooner, it tells you how much optics demand is out there right now.\n\nAnd who their turn to? Of course to Bloom!\n\nBullish for both \n$BE\n and \n$AAOI",
+"likes": 115
+},
+{
+"id": "2108413263474225530",
+"author": "michaelsikand",
+"date": "2026-10-09",
+"zh": "Michael Sikand：LITE因OpenAI營收傳聞下跌7%是雜音，看到2000美元。",
+"risk": "",
+"s": {
+"LITE": "bull"
+},
+"text": "Yeah and it sold off by 7% because of some whisper OAI revenue projections media FUD BS. \n$LITE\n to $2k.",
+"likes": 32
+},
+{
+"id": "2108439296730710505",
+"author": "jukan05",
+"date": "2026-10-09",
+"zh": "Jukan：日經報導iPhone 18 Pro需求不如預期，本月零件訂單削減至少15%。",
+"risk": "iPhone需求疲弱",
+"s": {
+"AAPL": "bear"
+},
+"text": "NIKKEI: APPLE CUTS IPHONE 18 PRO ORDERS DUE TO SOFT DEMAND\n\n\"Component orders for this month have been cut by at least 15% from the volumes originally requested due to weaker-than-expected market demand for the iPhone 18 Pro series.\"\n\n\n$AAPL",
+"likes": 367
+},
+{
+"id": "2108501977852248393",
+"author": "unusual_whales",
+"date": "2026-10-09",
+"zh": "Unusual Whales：Meta禁止TikTok在其平台投放廣告。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "Meta, \n$META\n, has banned TikTok from advertising on its apps.",
+"likes": 183
+},
+{
+"id": "2108521941640368163",
+"author": "ren_stocks",
+"date": "2026-10-09",
+"zh": "Ren：Lumentum執行長稱產能已售罄到2029年初，盤後漲6.5%，雷射新產能需3–5年。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull"
+},
+"text": "$LITE\n is up 6.5% after hours.\n\nThe Lumentum CEO went on Bloomberg and said they're \"completely sold out\" through early 2029, with \"no end in sight.\" \n\nSix months ago he was talking about sold out through 2028, so the line keeps moving further out. \n\nThey've already grown their main Japan factory roughly 12x in two years and they're still nowhere close. \n\nNew laser capacity takes 3 to 5 years to build, and the hyperscalers are now helping fund it with long-term commitments.\n\nCustomers don't sign up to share capex risk unless they're scared of not getting supply.\n\nWhen the biggest laser maker in the world can't keep up, the overflow has to go somewhere.\n\nThinking of you \n$AAOI\n !\n\nHuge interconnect re-rate incoming.",
+"likes": 40
 }
 ]
