@@ -1,0 +1,4277 @@
+[
+ {
+  "author": "Balder13946731",
+  "id": "2107865433848377382",
+  "date": "2026-10-07",
+  "text": "今天MSFT和NVDA发新的AI电脑。\n\n别全信台上说的为了隐私和低延迟。你看一眼今天5.3%的10年期美债收益率，就知道云端建数据中心的资金和电网压力有多恐怖。巨头现在拼命把模型往终端推，本质上就是一次精明的成本转移：把最费钱的推理消耗、硬件折旧和散热，直接甩给你家的电表。\n\n你花大价钱买机器，自己掏电费跑模型，最后还得按月交20刀的订阅费。这套玩法到底能给这几家Hyperscalers下半年抠出多少Capex，我确实还没算清楚，先看着吧。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2107927943377047768",
+  "date": "2026-10-07",
+  "text": "这根 K 线的实际上行力度刚好越过了我们的容错边界。今早我们公布的锚点是 7,774，预期区间为 7,747–7,801。实际收盘价落在 7,801.77，向上突破上沿 1 点，区间判断落空。\n\n下一交易日的区间在 7,775–7,829。\n\n未来 20 天，不深跌的概率是 84%，摸回高点的概率是 87%。向下看，再跌一档的概率为 13%，跌破 10% 的概率是 3%。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2107928093092655281",
+  "date": "2026-10-07",
+  "text": "今天这根K线最关键的一点，是收盘超出了预期的阻力。早盘我们以 30,981 为锚点，给出的区间是 30,822–31,140。实际收盘在 31,160.08，向上突破上沿 20 点，今天的区间判断落空了。\n\n下一交易日的区间设定在 31,000–31,320。\n\n看未来 20 天的路径，摸回高点的概率为 90%，不深跌的概率是 77%。向下看，再跌一档的概率是 17%，跌破 10% 的概率只有 6%。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2107931537220293038",
+  "date": "2026-10-07",
+  "text": "平仓获利 1/2 · 最佳 +5.68% \n$SMCI\n 43.23→45.69 +5.68%\n\n 平仓亏损 1\n IREN 40.84→38.67 -5.31%\n\n 持仓 IBM 223.69→220.51 -1.4% · MCD 231.38→230.88 -0.2% · CRWV 88.15→88.45 +0.3% · INTC 116.23→113.12 -2.7% · NVO 37.16→38.26 +3.0% · BAC 54.19→53.52 -1.2% · ASTS  59.2→60.65 +2.4% · MRNA  196.19→196.48 +0.1%\n\n balder-algo-logs · 龙气 · 10-07 · algo log · not advice",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2107946914817929581",
+  "date": "2026-10-07",
+  "text": "【美股复盘 · 10月7日】\n\n大市\n美股三大指数走势反复偏软，大市全日沽压未除。道指( \n$DIA\n )走势落后，全日收报511.02，跌0.69%；标普(SPY)未能收复780关口，收报777.22，跌0.24%；纳指(QQQ)表现相若，失守760关，收报757.73，微跌0.25%。反映中小型股表现的罗素小型股(IWM)急泻，收报277.70，重挫1.29%。大市市宽明显转弱，于104只观察股中，仅30只造好，多达74只录得跌幅。宏观焦点方面，尽管科技巨头相继推出新型人工智能电脑，试图将算力成本转移至终端，惟高昂的云端基建支出及引发的电网负荷忧虑，仍令市场入市态度趋向审慎。\n\n板块\n板块表现方面，工业及基建类股份领跌大市，其中重工巨头卡特彼勒(CAT)遭遇庞大沽压，全日急跌5.75%。科技板块内部出现分化，尽管市场传出太空探索公司大举采购芯片并与巨头深度绑定，惟未能全面提振相关供应链。部分受制于资本开支忧虑及高估值的光模块及硬件股出现回调，应用光电(AAOI)下挫5.85%。防守类医药及生物科技股份则逆市造好，莫德纳(MRNA)及礼来(LLY)分别升4.81%及2.70%，诺和诺德(NVO)亦靠稳升1.95%。\n\n焦点\n个股焦点方面，存储芯片及相关硬件股表现一枝独秀，美光科技(MU)全日受资金追捧，收市急升4.06%，带动闪迪(SNDK)上扬1.92%；服务器制造商超微电脑(SMCI)及慧与科技(HPE)亦见显著反弹，分别升3.41%及2.28%。此外，半导体反向ETF(SOXS)涨3.44%，流媒体巨头奈飞(NFLX)与亚马逊(AMZN)分别造好，升1.47%及1.42%。另一方面，太空及加密货币概念股表现失色，Iris Energy(IREN)暴跌6.27%，Coinbase(COIN)下挫3.92%；Rocket Lab(RKLB)及AST SpaceMobile(ASTS)分别挫4.18%及3.91%。其他弱势股中，Nebius Group(NBIS)跌5.09%，网络安全股CrowdStrike(CRWD)表现疲弱，全日跌4.81%，安森美(ON)及IonQ(IONQ)亦分别跌4.40%及4.50%。\n\n小结\n总结全日市况，美股缺乏明确突破催化剂，资金于高位出现套现换马迹象。大厂开源顶级模型的商业博弈以及争夺电力资源等现象，反映人工智能赛道的竞争已进入深水区。分析指，当前大型科技股正面临资本开支及商业模式变现的严峻考验，而传统工业股走弱则反映市场对实体经济前景抱有疑虑。后市需密切关注企业盈利表现及债息走势，大市短期内料维持震荡格局，投资者宜留意标指在前期关键位能否建立有效支撑。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108004019327381611",
+  "date": "2026-10-08",
+  "text": "感觉 \n$NFLX\n 有开始转强的迹象，我还能相信他吗",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108009760134156378",
+  "date": "2026-10-08",
+  "text": "Haiku 5.5发布，其在性能和价格上全面击溃各类中国开源模型🫪",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 30
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108010509652070904",
+  "date": "2026-10-08",
+  "text": "Nobody cares \n$MSFT\n posts.\n\n不过好在 \n$HPQ\n 还是上涨了一波，短线Call已经离场，不是很好的体验，主要是流动性太差了。\n\n以后不做这种流动性太差的期权。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108011595448352919",
+  "date": "2026-10-08",
+  "text": "$AVGO\n 拨出500亿美元来融资支持OpenAI，前段时间 \n$NVDA\n 只出了200亿美元。\n\n说实话，现在OpenAI系的都有点惨。软银 \n$ORCL\n 和 \n$AVGO",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108012217065230747",
+  "date": "2026-10-08",
+  "text": "我没有告诉大家我什么时候跑路或者买入，是因为这个股票的期权策略容量实在太小了 我告诉大家我自己就没法跑了。我没让人来当退出流动性已经是仁至义尽了。不过我认为应该没有人在这笔交易里亏钱了 适合正股不适合期权。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 8
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108013237870747812",
+  "date": "2026-10-08",
+  "text": "今天晚上10:30 PM PT \n$TSM\n 月度报告。\n\n\n$TSM\n 已经好几个月月度报告没有正向收益了 但是好处是 \n$TSM\n 的IV非常非常低。\n\n尽管非常接近财报 \n$TSM\n 比M7里大多数股票的IV都低。\n\n这很不寻常，因为其RV其实很高。\n\n明早高开就跑路，跑完如果 \n$GOOG\n 有低点就做 \n$GOOG\n 的Gemini at work.\n\n目前剧本是这么安排的。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108016794262982884",
+  "date": "2026-10-08",
+  "text": "当大家以为什么中国厂商，Grok、Muse，Gemini，OpenAI似乎要赶上Anthropic时，在产品矩阵和市场份额上，他居然领先得更多了\n\nAnthropic在AI上的领先已经接近断档式了，他在性能、价格和性价比都是无可争议的第一，形成帕累托最优碾压。\n\n其极有可能很快推出Fable 5.5.\n\n而且他手上极有可能还有1-2档模型没有放出来。\n\nOpenAI数学上非常强大，但是在写程序上依然落后于Anthropic很多。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 109
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108068740969766925",
+  "date": "2026-10-08",
+  "text": "$TSM\n 月报果然没什么反应。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108171624998723586",
+  "date": "2026-10-08",
+  "text": "花旗盘前刚发研报，预计接下来90%的科技股财报都会超预期，并直接点名由英伟达领衔。\n\n看多情绪算是很完美了。Firmus 这家 AI 初创做了一单 55 亿美元的 IPO，他们身上可是顶着「英伟达亲自背书加投资」的纯正光环的。\n\n结果机构资金根本不买账，认购极度惨淡，连发行价都定不出来。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 72
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108195962632147266",
+  "date": "2026-10-08",
+  "text": "昨天的区间差了一点：给的是 7,747 到 7,801，收在 7,802，超出上沿 1 点。方向没错，只是边界上的误差。\n\n现价 7,781，距近期高点 7,819 为 -0.48%。和上一期相比，20 天内摸回高点的 87%、不深跌的 84% 都纹丝未动。\n\n今日预期区间 7,754 到 7,808。高点在区间上沿之外一小步，今天未必够得着。区间内的来回不改变任何判断。\n\n下一个催化是 10 月 13 日的 CPI 和 JPM 财报，10 月 16 日是月度期权到期。在那之前概率没动，就别替它加戏。\n\n\nhttp://\nbalder-ai.com/playbook",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108196120669364551",
+  "date": "2026-10-08",
+  "text": "昨天的区间没守住：给的是 30,822 到 31,140，收盘 31,160，高出上沿 20 点。只是向上小幅越界，并不是方向看错。\n\n纳斯达克 100 现报 30,967，距近期高点 31,224 为 -0.82%，比上一期的价格低 13 点。概率几乎原封不动：20 天内摸回高点仍是 90%，不深跌的路径合计 77%。\n\n今日预期区间 30,809 到 31,125。价格在区间里来回，信息量不大。真正要等的是 10 月 13 日的 CPI，以及 10 月 16 日的月度期权到期。在这之前没有新变量，就没必要改剧本。\n\n\nhttp://\nbalder-ai.com/playbook-ndx",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108233527699653063",
+  "date": "2026-10-08",
+  "text": "宣布休战居然就来了根大阳线",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108236595619111355",
+  "date": "2026-10-08",
+  "text": "其实这个月报 \n$TSM\n 是远超预期的，但是没有买盘，昨天没有大单进场，IV也毫无波澜。所以今天反而下跌也不意外。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108528422121259075",
+  "date": "2026-10-09",
+  "text": "我发现大家全在盯着HBM，天天算海力士能从英伟达手里拿多少订单。但我看下来，存储厂这轮真正的暴利机关，其实埋在没人关心的普通内存里。\n\nHBM本身就是个产能黑洞，做一颗消耗的晶圆面积差不多是同容量DDR5的三倍。现在为了吃下AI的单子，这几家基本把能动用的产线全填进HBM了。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 24
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108553753943240777",
+  "date": "2026-10-09",
+  "text": "跌破了，先不。他如果在55停止是可以的，目前有点无底洞了",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108558337537372166",
+  "date": "2026-10-09",
+  "text": "昨天收在 7,765，落在给出的 7,754 到 7,808 之内，这一期没有要改的地方。\n\n现价 7,787，比上一期多 6 点，距近期高点 7,819 为 -0.41%。今天预期区间 7,760 到 7,814。\n\n概率一格没动：20 天内摸回近期高点 87%，不深跌 84%。价格在高点下方小幅来回，改变不了这两个数。\n\n接下来真正可能动它的是 10",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108558475907518647",
+  "date": "2026-10-09",
+  "text": "昨天的判断偏乐观了：给的区间是 30,809 到 31,125，收盘 30,726，低于下沿 83 点。这是最近几期里第一次向下越界。\n\n纳斯达克 100 现报 30,805，比上一期低 162 点，距近期高点 31,224 为 -1.34%，回撤比上一期多了 0.52 个百分点。概率却没动：20 天内摸回高点仍是 90%，不深跌的路径合计 77%。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108565952959049988",
+  "date": "2026-10-09",
+  "text": "期权异动可以看",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108572269702504771",
+  "date": "2026-10-09",
+  "text": "$ASTS\n 主要的误判是，他和 \n$SPCX\n 不是一伙的，他们其实是竞争对手🫪 所以 \n$SPCX\n 的利好总是沉重打击了 \n$ASTS",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 39
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108578477284925629",
+  "date": "2026-10-09",
+  "text": "没",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108578891195654596",
+  "date": "2026-10-09",
+  "text": "相对强弱还是走弱就跑路了",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108580603096658427",
+  "date": "2026-10-09",
+  "text": "$TSLA\n 明天发 Robotaxi，今天盘中涨超2%。\n推特上全是各种概念图和猜想，但最硬的动作其实在车管所：数据出来，一天之内 Cybercab 直接集中注册了 150 辆新车，这些实车的牌照都已经办下来了。\n华尔街还在做模型算这业务到底是个纯PPT还是真生意。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108652705195700679",
+  "date": "2026-10-09",
+  "text": "收盘的实际落点没有偏离早间的测算边界。今日收盘 7,811.54，准确命中了今早我们公布的 7,760–7,814 区间，并运行在锚点 7,787 之上。\n\n下一交易日的区间为 7,785–7,838。\n\n从未来 20 天的概率分布看，向上修复的动能占据主导。摸回高点的概率有 87%，不深跌的概率为 84%。向下的空间相对有限，再跌一档为 13%，跌破 10% 的概率是 3%。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2108652898800603274",
+  "date": "2026-10-09",
+  "text": "今天这根日线没有制造任何意外。实际收盘 30,883.15，落在早盘给出的 30,641–30,969 区间内，印证了 30,805 这一锚点。\n\n下一交易日的运行区间上移至 30,728–31,038。该范围内没有够得着的关键位置。\n\n未来 20 天的路径指向相对清晰。摸回高点的概率有 90%，不深跌的概率是 77%。向下的发生概率被显著压缩，再跌一档的概率为 17%，跌破 10% 的概率只有 6%。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109005088115273880",
+  "date": "2026-10-10",
+  "text": "每次英伟达一有波动，市场就开始炒巨头自研芯片的逻辑，指望大厂能把老黄的定价权给掀了。说实话，这算盘打得太天真。\n\n你想摆脱老黄60%的毛利剥削？可以，转身先去给博通交过路费。Google 的 TPU 搞了这么多年，底层的物理设计和封装全靠博通在兜底。真以为大厂的自研芯片是凭空捏出来的？\n\nHock Tan",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 45
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109256660258795802",
+  "date": "2026-10-11",
+  "text": "Everyone's waiting to see AI turn up in the electricity bill. It'll turn up in the price of a laptop first.\n\nAn HBM bit eats roughly three times the wafer capacity of a plain DRAM bit, and Hynix and Samsung have spent two years converting lines over to make them, so commodity DRAM supply has been shrinking right into the best demand year memory has ever had. You haven't felt it because PCs and phones buy on contract — that repricing lands a couple of quarters late, inside somebody's gross margin. Dell's, for one. Memory is a real chunk of the BOM there, the operating margin is mid single digits, and the guy outbidding them for the same wafer is financing his cluster with money that doesn't care what it costs. There isn't much of a negotiation in that.\n\nCleanest money in AI is still memory. Hynix helped build this shortage and is selling into it.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109276896206958684",
+  "date": "2026-10-11",
+  "text": "Terafab还要自己制造芯片制造设备🫪 它是中国吗？什么都要自己造。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109286718906183759",
+  "date": "2026-10-11",
+  "text": "Jensen owns roughly 3.5% of Nvidia and gets roughly 3.5% of the votes. No founder class, no Class B, nothing — one share one vote, same as you.\n\nThen look at the people buying his chips. Zuck holds something like 13% of Meta's economics and ~61% of the votes. Page and Brin walked away from operating roles years ago and still sit on supervoting stock that effectively controls Alphabet. Musk spent two years saying out loud he wasn't going to build AI inside Tesla without ~25% voting control, and shareholders handed him a package engineered to walk him there.\n\nSo everyone on the demand side bolted the doors from the inside. The one company that actually has pricing power never bothered.\n\nSay you're on Nvidia's board and you've decided Jensen has to go. Who are you calling to make the chips?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109303730428661872",
+  "date": "2026-10-11",
+  "text": "英伟达 10-K 里有个数字我觉得一直被低估：员工流失率 2% 出头，全科技行业最低的那一档。三万多人的公司，2020 年初进去那批，当年一个三十万美金的四年 RSU 包，拿到今天是千万级别。\n\n正常公司靠还没 vest 的股票锁人。这批人早就不缺钱了，真正按住他们的是那根还在往上走的线——「明年还能再翻一倍」这个念头，比任何合同都管用。\n\n所以它都不用跌。横一年就够了，三万多个已经财务自由的人会同时想起来：我可以去创业、可以去 OpenAI、也可以回家躺着 假设你是 Jensen，手上唯一的留人工具就是那张图。 \n$NVDA",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "Balder13946731",
+  "id": "2109327248448999656",
+  "date": "2026-10-11",
+  "text": "Same food in US  and EU  are very different:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 13
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2107901188507410914",
+  "date": "2026-10-07",
+  "text": "Ladies and gentlemen, we did it again.\n\nIf you want to win in 2026, follow us.\n\nThe next one is coming soon.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 293
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2107925602074276344",
+  "date": "2026-10-07",
+  "text": "They were right AGAIN. Nobody does it like this, folks.\n\nStill not a member of The Assembly? Very sad. You'll regret it.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 61
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108043243287896216",
+  "date": "2026-10-08",
+  "text": "BREAKING: Anduril and the US Navy are putting $6.6 BILLION into a new submarine shipyard, and taxpayers are getting a 40% stake in it.\n\n$3.7B from Anduril. Up to $2.9B from the Navy, paid on results.\n\nStocks to watch:\n\nHII: Huntington Ingalls\nNewport News receives the components for final assembly.\n\nGD: General Dynamics\nOwns Electric Boat, the other prime that gets them.\n\nBWXT: BWX Technologies\nSole supplier of naval nuclear reactors. More subs means more reactors.\n\nCW: Curtiss-Wright\nSupplies pumps, valves and control systems on every Virginia-class built.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 129
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108084204940468575",
+  "date": "2026-10-08",
+  "text": "A $400,000 mortgage at today's 7.59%.\n\nTotal interest over 30 years: $615,758.\n\nYou pay $1,015,758 for a $400,000 house.\n\nAt 3% the interest was $207,110. So the rate change alone costs you $408,648, which is more than the house",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1232
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108164320408338582",
+  "date": "2026-10-08",
+  "text": "BREAKING: The Pentagon has ordered CENTCOM to finish preparing for large-scale combat operations against Iran, per Axios.\n\nTrump hasn't decided yet.\n\nBut sources told Axios any action would likely come before the midterms.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 153
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108218471364567510",
+  "date": "2026-10-08",
+  "text": "BREAKING: President Trump just filed hundreds of new stock trades.\n\nOne jumped out immediately.\n\nOn August 21 he bought between $5 million and $25 million of Meta stock.\n\n\n$META\n is up 31% since.\n\nThat's $1.5M to $7.7M of profit. On one trade. In 7 weeks.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 406
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108423093157003495",
+  "date": "2026-10-09",
+  "text": "Reminder that the Trump administration bought this stock at $17.17.\n\nYou can buy it right now at $12.78. 25.6% cheaper.\n\nYou're welcome.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1623
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108474312114262386",
+  "date": "2026-10-09",
+  "text": "Important. Read this.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108547529478488316",
+  "date": "2026-10-09",
+  "text": "JUST IN: Trump says he's depressed after seeing the back of his own head on screen.\n\n\"This is not good.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 161
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108582888916861070",
+  "date": "2026-10-09",
+  "text": "BREAKING: Trump has declared anyone who says \"Artificial Intelligence\" to be \"THE ENEMY.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 132
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108762512845930656",
+  "date": "2026-10-10",
+  "text": "ABSOLUTELY INSANE…\n\nAmericans feel worse about the economy right now than they did in 2008.\n\nWorse than during COVID.\n\nWorse than at any point since 1951, when they started asking.\n\nCurrent Conditions Index: 44.7. Down 12.2% this month.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 276
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108780442732102077",
+  "date": "2026-10-10",
+  "text": "I'M ONLY SAYING THIS ONCE…\n\nThere is one stock Nancy Pelosi is buying that deserves your attention right now.\n\nThe full article is on our Substack, link in bio.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 123
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108880822006587536",
+  "date": "2026-10-10",
+  "text": "If you’re still not a member, what the hell are you even doing?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 30
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2108896202779697187",
+  "date": "2026-10-10",
+  "text": "BREAKING: President Trump releases a statement claiming that he should have won the Nobel Peace Prize.\n\nAccording to him, he saved more lives than anyone in history.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 94
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2109127077039419537",
+  "date": "2026-10-11",
+  "text": "Fucking insane lol.\n\nI’m never deleting this app.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6837
+ },
+ {
+  "author": "DJTRadar",
+  "id": "2109289397275197638",
+  "date": "2026-10-11",
+  "text": "BREAKING: Trump says Russia and Ukraine have agreed to an immediate \"energy ceasefire.\"\n\n4 days ago he said Ukraine hitting Russian refineries was what was pushing US gas prices higher.\n\nGas is at $4.41, the most expensive it's ever been for this time of year.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 135
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108252321402724524",
+  "date": "2026-10-08",
+  "text": "再次开始定价增长恐慌，看看这个能维持多久",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 18
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108254715880542320",
+  "date": "2026-10-08",
+  "text": "黄哥牛逼",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 30
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108282326216257538",
+  "date": "2026-10-08",
+  "text": "no,如果ai债导致的长债收益率飙升的局面得以缓解，其他的东西都会飞涨",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108292419502620728",
+  "date": "2026-10-08",
+  "text": "谢谢，我非常喜欢做医疗保健行业，你觉得没有行情是因为你只会做科技，但是我会关注所有板块。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 31
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108293795746066496",
+  "date": "2026-10-08",
+  "text": "I seldom hold something for more than a month.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108293897105641863",
+  "date": "2026-10-08",
+  "text": "政府上调hum的合同的星级了",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108294167168483469",
+  "date": "2026-10-08",
+  "text": "https://\nfranktrading.substack.com/p/107?r=2wn5pz 我之前有写文章详细研究过美国医保行业，感兴趣可以看看",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108296553433894935",
+  "date": "2026-10-08",
+  "text": "期权，这种事件押注我都喜欢期权操作。不过，升星是切实的重大利好，很难fade。以及，我们可以通过盘后sell short正股的方式锁定利润，也不怕fade。",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108299485676003457",
+  "date": "2026-10-08",
+  "text": "call，如果盘后涨的多可以直接裸short股票",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108598189293289500",
+  "date": "2026-10-09",
+  "text": "$DIA\n 已经起飞\n谢谢大家",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 13
+ },
+ {
+  "author": "Franktradinglog",
+  "id": "2108604361853309389",
+  "date": "2026-10-09",
+  "text": "诶看起来不错啊我也想买点",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2107876207446384655",
+  "date": "2026-10-07",
+  "text": "Correction: I think the \n$TER\n news is driving more of the \n$AEHR\n selloff than the earnings date confusion. Teradyne’s Titan HP introduces competition for Aehr’s Sonoma in burn-in testing after chips are packaged. But Aehr also offers wafer-level burn-in, which catches defective chips before expensive packaging. Titan HP doesn’t replace that earlier testing step.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 45
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2107915991833563573",
+  "date": "2026-10-07",
+  "text": "$MRVL\n's investor day gave us a five-year roadmap for the photonics supply chain.\n\nManagement is targeting more than $30 in non-GAAP EPS by FY2031.\n\nAt yesterday’s Investor Day, Xi Wang described Marvell’s position in 1.6T optical connectivity:\n\n“Today, we are at 1.6T generation, shipping in high volume, leading our competitor by two years and counting.”\n\nThat buildout also needs lasers, transceivers and silicon photonics manufacturing. The opportunity extends across \n$LITE\n \n$COHR\n \n$AAOI\n \n$CIEN\n \n$TSEM\n and \n$ALAB\n.\n\nWe followed Marvell’s roadmap through the supply chain and modeled what these businesses could be worth by 2030, accounting for their different growth markets, valuations and dilution.\n\nFull breakdown below ↓",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 87
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2107915995268669655",
+  "date": "2026-10-07",
+  "text": "Full breakdown: \nhttps://\nasymmetricalbets.substack.com/p/biggest-bene\nficiaries-of-marvell?r=7mqn0f&utm_campaign=post-expanded-share&utm_medium=web\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108208776578752524",
+  "date": "2026-10-08",
+  "text": "Really good visual from \n@LIWEI_TWCapital\n on \n$TER\n vs \n$AEHR\n.\n\nI get the concern around TER expanding into burn-in. Still think the AEHR selloff has been excessive, especially when you look at where the two actually compete.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 47
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108210234883965117",
+  "date": "2026-10-08",
+  "text": "No problem sir",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108242491967185175",
+  "date": "2026-10-08",
+  "text": "If you were wondering why \n$QQQ\n just printed that disgusting candle, this FT headline looks like the trigger.\n\nOpenAI reportedly told investors its annualized revenue was approaching $50B at the end of September, roughly $20B below the $70B previously reported.\n\nThanks OpenAI",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 56
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108927425904013492",
+  "date": "2026-10-10",
+  "text": "$CRDO\n’s ALC demo at OCP next week could be a meaningful milestone for its microLED business.\n\nMicroLEDs emit a broader mix of wavelengths than lasers. That creates a challenge with chromatic dispersion (different wavelengths travel through fiber at different speeds, spreading out the signal and making it harder to read). That’s the concern behind skepticism about reach beyond 10m.\n\nFor Credo, demonstrating stable performance at 30m would help validate its approach and give investors more confidence in the product’s potential.\n\nManagement has described ALCs as a multibillion-dollar opportunity, with an eventual market potentially more than twice the size of AECs (active electrical cables). \n$LITE\n \n$SMTC\n $AMSSY \n$APH",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 42
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108933141624758781",
+  "date": "2026-10-10",
+  "text": "Customers are already trying to secure supply for 2030. That gives \n$LITE\n a lot of say on pricing.\n\nI still think the Street is behind on how much margins could expand in 2027.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 77
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2108939331683381535",
+  "date": "2026-10-10",
+  "text": "B200 rental prices hit $6.57 per GPU-hour, up ~78% from the March low. \n\nThe price literally doesn’t fit on the chart anymore lol. \n@SemiAnalysis_\n, we’re gonna need a bigger chart here, guys.\n\nLooks like the rental price hikes aren’t done yet. How high will they go?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 120
+ },
+ {
+  "author": "KawzInvests",
+  "id": "2109348071121277415",
+  "date": "2026-10-11",
+  "text": "Let’s gooooo P",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107890348722635103",
+  "date": "2026-10-07",
+  "text": "PRESIDENT TRUMP JUST SAID:\n\n- YOU HAVE A FED BOARD THAT WOULD LIKE TO SEE THE COUNTRY DO BADLY, IN MY OPINION",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 229
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107917250670002215",
+  "date": "2026-10-07",
+  "text": "Lululemon \n$LULU\n stock hit new 52 WEEK LOWS again today",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 305
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107920201581019613",
+  "date": "2026-10-07",
+  "text": "Microsoft \n$MSFT\n CEO Satya Nadella just posted this:\n\n“We’re supercharging Copilot on Windows with Hybrid Intelligence.\n\nWith your permission, Copilot can tap into the context on your PC, take action for you, and use local models when it makes sense”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 249
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107922099176157654",
+  "date": "2026-10-07",
+  "text": "Microsoft \n$MSFT\n revealed pricing and availability for the new flagship laptop Surface Laptop Ultra built on Nvidia \n$NVDA\n chips starting at $2,599 - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 192
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107926087111991672",
+  "date": "2026-10-07",
+  "text": "San Francisco approved a 45 day temporary ban on new data centers within its borders - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 68
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107927736924995619",
+  "date": "2026-10-07",
+  "text": "Palantir \n$PLTR\n CEO Alex Karp and Zeta Global \n$ZETA\n CEO David Steinberg will be talking tomorrow at the Zeta Live event talking about\n\n\"Building the Sovereign Intelligent Enterprise\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 105
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107928791977005535",
+  "date": "2026-10-07",
+  "text": "DEPARTMENT OF WAR'S OFFICE OF STRATEGIC CAPITAL ANNOUNCES $1.5 BILLION CONDITIONAL LOAN COMMITMENT TO WOLFSPEED \n$WOLF\n - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 542
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107930062154768624",
+  "date": "2026-10-07",
+  "text": "The squad!!!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107930890860896722",
+  "date": "2026-10-07",
+  "text": "RIVIAN JUST RECEIVED A $1 BILLION LOAN FROM VOLKSWAGEN\n\nThe 10-year loan funded October 7 at a fixed 6.03% yeild\n\nIt's non-recourse meaning Rivian doesn't guarantee it, and if it defaults, the lender can only go after the collateral: Rivian's 50% stake in the joint venture.\n\nRivian plans to use the cash for general corporate purposes.\n\nPrincipal repayment starts in year 3 at $100 million a year, with the rest due October 2036.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 343
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107935805553402087",
+  "date": "2026-10-07",
+  "text": "This is what $180 Million gets you in Texas\n\nA ranch the size of Philadelphia",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 788
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107942393378910696",
+  "date": "2026-10-07",
+  "text": "Costco \n$COST\n just reported September sales of $30.02 Billion up 13% from the same month last year",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 307
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107946113105817690",
+  "date": "2026-10-07",
+  "text": "Broadcom \n$AVGO\n has been working to arrange more than $50 billion in financing for OpenAI’s custom AI chip - WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 411
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2107978257614192828",
+  "date": "2026-10-07",
+  "text": "Shoutout to code WOLF",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108166332160340140",
+  "date": "2026-10-08",
+  "text": "Taiwan Semiconductor \n$TSM\n just reported September revenue of $16.06B up 54.6% YoY",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 879
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108167402068250753",
+  "date": "2026-10-08",
+  "text": "Pretty cool city tbh",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108170008417440038",
+  "date": "2026-10-08",
+  "text": "Spotify \n$SPOT\n has re-signed Joe Rogan to another multi-year deal\n\nThe deal reportedly has similar terms as their previous one with the deal being worth an estimated total of $250 Million - WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 662
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108178300426481920",
+  "date": "2026-10-08",
+  "text": "A ad for an AI tool and a anti AI ad right next to each other … capitalism",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 81
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108187481145254305",
+  "date": "2026-10-08",
+  "text": "I am at the Zeta Global \n$ZETA\n event today … listening to Palantir \n$PLTR\n CEO Alex Karp",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 117
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108213498736001343",
+  "date": "2026-10-08",
+  "text": "Nvidia \n$NVDA\n posted this today\n\n“NVIDIA is committing $1 billion over the next five years to help U.S. scientists advance research in quantum computing, healthcare, and energy.”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 419
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108217547870880081",
+  "date": "2026-10-08",
+  "text": "@stocktalkweekly\n get scared \n\nI am training with Russ today",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 42
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108220134854987799",
+  "date": "2026-10-08",
+  "text": "Netflix \n$NFLX\n just released the first trailer for its upcoming movie covering the collapse of Sam Bankman Fried and FTX",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 726
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108233438767800795",
+  "date": "2026-10-08",
+  "text": "The battle of the AIs continues\n\nGoogle overtakes Anthropic???",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 102
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108237482982797364",
+  "date": "2026-10-08",
+  "text": "OPENAI REPORTEDLY TOLD INVESTORS ITS REVENUES WERE APPROACHING $50 BILLION ON AN ANNUALISED BASIS AT END OF SEPTEMBER - Financial Times",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 288
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108238096085237941",
+  "date": "2026-10-08",
+  "text": "The market is not a fan of this of this headline \n\nThe pre IPO market for OpenAI on my sponsors over at Liquid is moving lower in reaction to this headline",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 26
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108275775946576024",
+  "date": "2026-10-08",
+  "text": "Broadcom \n$AVGO\n stock is now down by 5% so far today \n\n\n$AMD\n stock is now down by almost 5% so far today",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 484
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108277917205598655",
+  "date": "2026-10-08",
+  "text": "Starbucks \n$SBUX\n has reportedly explored talks about acquiring Chipotle \n$CMG\n - Financial Times",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 217
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108285103260443032",
+  "date": "2026-10-08",
+  "text": "Deepseek may be about to go public in Q4 or Q1 of 2027\n\nDeepseek's last funding round valuation was $75 Billion",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 67
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108289323347087488",
+  "date": "2026-10-08",
+  "text": "Coca-Cola \n$KO\n is reportedly planning to sell its Costa Coffee brand - Semafor",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 234
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108289900735070387",
+  "date": "2026-10-08",
+  "text": "Apple \n$AAPL\n is planning a SECOND new product launch later this month on or around October 27th\n\n\"The end-of-month announcements will also include versions of the 14-inch MacBook Pro and iMac with M6 chips\" - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 197
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108290644057657637",
+  "date": "2026-10-08",
+  "text": "Im glad he used a lot of wood",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108292071627100670",
+  "date": "2026-10-08",
+  "text": "SpaceX \n$SPCX\n just posted this:\n\n\"We announced an agreement to acquire a nationwide low-band spectrum license portfolio that will pave the way for Starlink to become a major mobile carrier in the US\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1100
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108292171636085077",
+  "date": "2026-10-08",
+  "text": "The Starbucks slop bowl may be the future",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108295182126919899",
+  "date": "2026-10-08",
+  "text": "Verizon \n$VZ\n stock is down 5% in after-hours on this news",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 233
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108296929067102318",
+  "date": "2026-10-08",
+  "text": "Elon Musk just posted this: \n\n\"This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 279
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108303599885258807",
+  "date": "2026-10-08",
+  "text": "This is how every stock in the S&P 500 performed today",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 55
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108306720846131349",
+  "date": "2026-10-08",
+  "text": "Would you be interested in trading a 2x short AppLovin ETF",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108309217522373062",
+  "date": "2026-10-08",
+  "text": "There is currently an 84% chance that the Fed makes NO CHANGES to interest rates later this month",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 67
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108333646205669484",
+  "date": "2026-10-08",
+  "text": "Meta Platforms \n$META\n banned advertisements from ByteDance and TikTok on its platform in the US and other countries - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 279
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108335064962498674",
+  "date": "2026-10-08",
+  "text": "ChatGPT is currently up by 74.9% in the Rallies AI Stock market arena beating the S&P 500 by almost 60% since March",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 131
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108340360673960355",
+  "date": "2026-10-08",
+  "text": "Zeta Global CEO David Steinberg posted this today:\n\n\"Introducing AthenaOS, our enterprise intelligence operating system that starts with what you want to achieve, and Athena MCP, bringing Zeta intelligence into the tools businesses already use. Day one integrations with ChatGPT, Claude, Palantir and Gemini.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 55
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108343658365764001",
+  "date": "2026-10-08",
+  "text": "Firmus Grid decided to stop its plans to go public through an IPO in Australia \n\nThe IPO would have been Australia’s largest IPO in almost 30 years\n\nFirmus reportedly cited market conditions as its reason for delaying the IPO - WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 22
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108345342861226054",
+  "date": "2026-10-08",
+  "text": "I am currently down JUST 52% on my TE shares",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 47
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108360620173070726",
+  "date": "2026-10-09",
+  "text": "Here are the top 3 best performing Vanguard ETFs over the last decade\n\n \n$VGT\n \n \n$MGK\n \n \n$VONG\n \n\nVanguard only has 7 ETFs that beat its S&P 500 ETF \n$VOO\n over the last decade",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 120
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108533582062825638",
+  "date": "2026-10-09",
+  "text": "Delta \n$DAL\n CEO Ed Bastian was asked by WSJ about Starlink today ... here is what he said\n\nQuestion - Funny you mentioned Starlink. Does that get to you at all when you see Elon Musk out there criticizing you?\n\nAnswer - \"I don’t read it.\n\nAll kidding aside, we know what we’re doing in the space, and we’ve been the pioneer in Wi-Fi. We set that standard launching free, fast Wi-Fi that forced the industry to adopt it.\n\nStarlink’s a great product, and we know it well. We were involved in the early years of bringing it to aviation, and they had a different business model than we had. We’re happy with where we sit.\"\n\nQ - Your competitors are kind of making hay of all this. You don’t see this being a competitive disadvantage?\n\nA - I think it’s easy to advertise, but you actually have to show up and deliver.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 135
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108535475850076536",
+  "date": "2026-10-09",
+  "text": "Porsche has sold a total of 178,532 so far in 2026 down 16% YoY - WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 646
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108541554294198523",
+  "date": "2026-10-09",
+  "text": "Barclays today initiated coverage on SpaceX \n$SPCX\n stock with an Overweight rating and a $254 price target\n\nBarclays today initiated coverage on Palantir \n$PLTR\n  stock with an Overweight rating and a $265 price target",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 213
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108543221907468376",
+  "date": "2026-10-09",
+  "text": "OpenAI recovered that initial move lower",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 12
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108546568454295756",
+  "date": "2026-10-09",
+  "text": "Shoutout to Bilal!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108549473337331937",
+  "date": "2026-10-09",
+  "text": "134 stocks in the S&P 500 are down by more than 40% from their most recent all time highs",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 378
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108550202944524535",
+  "date": "2026-10-09",
+  "text": "Softbank is reportedly looking to raise up to $100 Billion from Gulf investors to fund a new wave of AI investments - Financial Times",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 151
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108551110609002981",
+  "date": "2026-10-09",
+  "text": "Shoutout to the WOLF PACK",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108552417247895867",
+  "date": "2026-10-09",
+  "text": "The  stock market just opened trading today and is starting out Green",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 367
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108554662118916323",
+  "date": "2026-10-09",
+  "text": "Verizon \n$VZ\n and AT&T \n$T\n are both starting trading today down by more than 5%",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 218
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108563677121020281",
+  "date": "2026-10-09",
+  "text": "Shoutout to Cade and Johnny",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108566171066728508",
+  "date": "2026-10-09",
+  "text": "I gave my AI Agent $10,000 on Monday and told it to beat the NASDAQ 100 over the long term\n\nWeek 1 has gotten us off to a good start, but its still way too early\n\nFor anyone curious my single stock portfolio was down by ~3% this past week (Yes I suck)\n\nSo week 1, outperforming the Nasdaq slightly and destroying me ... pain\n\n\n@agencytrades\n is the tool im using to have the AI run my portfolio ... OpenAI is the actual AI I have running the port\n\nAgency is a tool we created and am beta testing right now ... Our goal is to be the place where AI Agent actually outperform the market \n\nIf you want to join the waitlist and have the AI run some money for you the link is right below\n\n\nhttp://\nAgency.trading",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 49
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108572754647630290",
+  "date": "2026-10-09",
+  "text": "Netflix \n$NFLX\n is reportedly planning to cut 5% of its workforce as soon as next week - Puck News",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 543
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108581330158248346",
+  "date": "2026-10-09",
+  "text": "Nvidia \n$NVDA\n is set to invest in d-Matrix, a maker of AI server chips - The Information",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 219
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108583907738419432",
+  "date": "2026-10-09",
+  "text": "\"Vinod Khosla Backs An AI Startup Building A Mind-Reading Baseball Cap\" - Forbes",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108602606797111795",
+  "date": "2026-10-09",
+  "text": "Anduril just posted this:\n\n“It's time to build.”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 293
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108608419301073353",
+  "date": "2026-10-09",
+  "text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nModerna \n$MRNA\n\nLumentum \n$LITE\n \nSentinelOne \n$S\n \nHumana \n$HUM\n\nFortinet \n$FTNT\n\nOkta \n$OKTA\n\nPetrobras \n$PBR\n\nTeva Pharmaceutical Industries \n$TEVA\n\nPetrobras \n$PBR.A\n\nXP Inc \n$XP\n\nShell \n$SHEL\n\nDynatrace \n$DT\n\nFrontline \n$FRO\n\nHF Sinclair \n$DINO\n\nSuncor Energy \n$SU\n\nAbbVie \n$ABBV\n\nValero Energy \n$VLO\n\nSasol \n$SSL\n\nAtlassian \n$TEAM\n\nHinge Health \n$HNGE\n\nPhillips 66 \n$PSX\n\nMarathon Petroleum \n$MPC\n\nExpeditors International \n$EXPD\n\nF5 \n$FFIV\n\nInternational Seaways \n$INSW\n\nCVR Energy \n$CVI",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 244
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108662374316355630",
+  "date": "2026-10-09",
+  "text": "Congrats \n@RampCapitalLLC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108892792785424620",
+  "date": "2026-10-10",
+  "text": "Palantir \n$PLTR\n closed the week worth more than $500 Billion",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 181
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108896560545460523",
+  "date": "2026-10-10",
+  "text": "I respect it",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108897043691262057",
+  "date": "2026-10-10",
+  "text": "Wen IPO",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108900925675049162",
+  "date": "2026-10-10",
+  "text": "Nvidia \n$NVDA\n makes more than $7 Million of revenue per employee \n\nSide note I put this into Google and the Gemini AI response included the nice chart below which I think may be new, the AI responses are getting better",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 102
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108915009879412960",
+  "date": "2026-10-10",
+  "text": "The top 10 largest stocks in the world are now worth a combined $31.21 Trillion up from $30.96T last week",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 595
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108920772265959475",
+  "date": "2026-10-10",
+  "text": "Here is my interview with the CEO of Yahoo",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108925439989141625",
+  "date": "2026-10-10",
+  "text": "LONG TERM INVESTORS ONLY\n\nWhat is 1 stock I need to do more research into this weekend?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 499
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108933658161934470",
+  "date": "2026-10-10",
+  "text": "Salesforce \n$CRM\n CEO Marc Benioff recently posted this:\n\n\"The era of Super Intelligence is here. AIForce is officially SIForce.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 134
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108936774852428248",
+  "date": "2026-10-10",
+  "text": "He should come to the Jets \n\nRevive his carrer and get to the Super Bowl within the next 5 years",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108941154196541811",
+  "date": "2026-10-10",
+  "text": "Its going to be the Jets",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108949844631101915",
+  "date": "2026-10-10",
+  "text": "Turkey  has banned social media platforms from providing services to children under the age of 15 in the country - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 134
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108979660793029098",
+  "date": "2026-10-10",
+  "text": "The average American  pays 38.3% more for electricity in 2026 than they did in 2020 - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 192
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108988136525271084",
+  "date": "2026-10-10",
+  "text": "Here is where data centers are currently online in the United States  - Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 112
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2108991947939414499",
+  "date": "2026-10-10",
+  "text": "I gave my AI some of my money to test if it was a better investor than me, it made Broadcom \n$AVGO\n the 3rd biggest holding in that port",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109001476614066415",
+  "date": "2026-10-10",
+  "text": "Nvidia \n$NVDA\n is reportedly in early talks to invest in or outright acquire Reflection AI",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 249
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109004118392209652",
+  "date": "2026-10-10",
+  "text": "For people who like news about IPOs you should be following \n@IPONewsroom_\n !",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109020536512582116",
+  "date": "2026-10-10",
+  "text": "On this week in 2006 Google \n$GOOGL\n acquired YouTube for $1.65 Billion\n\nGoogle has made more than $100 Billion of Revenue just from YouTube ads over the last 3 years  \n\nYouTube is estimated to have ~2.7B Monthly Active Users ... That means ~33% of the world uses YouTube at least once a month",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 539
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109022355993268440",
+  "date": "2026-10-10",
+  "text": "This is how every stock in the S&P 500 performed over this past week",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 79
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109026198185509078",
+  "date": "2026-10-10",
+  "text": "Cathie Wood told \n@WOLF_Financial\n that she thinks self driving cars are still dramatically underappreciated by investors",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 155
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109263013870010652",
+  "date": "2026-10-11",
+  "text": "Tesla \n$TSLA\n recently posted this:\n\n“One month after launch, we've scaled to 300+ Cybercabs serving Austin – an 8x increase in 30 days”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 179
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109269834093449484",
+  "date": "2026-10-11",
+  "text": "So you’re saying that’s where we should send some \n@WOLF_Financial\n merch to if we want it to maybe get to you",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 36
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109274917497868447",
+  "date": "2026-10-11",
+  "text": "My ETF portfolio is up by 17.4% so far this year\n\nMy Single Stock portfolio is up by 5.7% so far this year\n\nI think my next add will be to my ETF portfolio",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 532
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109278668392714750",
+  "date": "2026-10-11",
+  "text": "QQQ QTOP and VOO are the largest 3 holdings and most of the port",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 18
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109284873303449850",
+  "date": "2026-10-11",
+  "text": "WE HAVE A VERY BUSY WEEK INCOMING\n\n- Earnings Season is BACK\n- CPI, PPI and more\n- MULTIPLE conferences and events\n\nBelow is my full catalyst watch for the week that gets sent to readers of my free daily recap every Sunday morning",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 35
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109285647693279594",
+  "date": "2026-10-11",
+  "text": "Try again",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109287805495173474",
+  "date": "2026-10-11",
+  "text": "President Trump just posted this:\n\n\"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it! Thank you for your attention to this matter.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 459
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109298787550208060",
+  "date": "2026-10-11",
+  "text": "There is currently 1 American  company worth more than $5 Trillion\n\nThere are currently 12 American  companies worth more than $1 Trillion\n\nThere are currently 21 American  companies worth more than $500 Billion\n\nThere are currently 117 American  companies worth more than",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 249
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109363083932266963",
+  "date": "2026-10-11",
+  "text": "I will be interviewing Tom Lee tomorrow at 1:30PM ET LIVE on the \n@WOLF_Financial\n page\n\nWhat should I ask Tom?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 45
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109365559385309684",
+  "date": "2026-10-11",
+  "text": "\"I've always believed markets are smarter than I am.\" - Stanley Druckenmiller",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 52
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109368703494033636",
+  "date": "2026-10-11",
+  "text": "I will be interviewing the CEO of Apptronik this week\n\nWhat would you want me to ask him?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 36
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109369802007650651",
+  "date": "2026-10-11",
+  "text": "This is what $35 Million gets you on the water in Maui Beach, Hawaii\n\nJim Carrey's 4,717 square foot house on almost 1 acre of land",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 42
+ },
+ {
+  "author": "StockMKTNewz",
+  "id": "2109376879312424971",
+  "date": "2026-10-11",
+  "text": "The Jets are BACK",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108013004101222592",
+  "date": "2026-10-08",
+  "text": "Save this. This is the most important post you'll ever see. \n\nWith BOTH the 10-year yields and the U.S. dollar rising, here is how to plan for the worst-case scenario. I've experienced this market scenario already in my life.\n\nMarkets kept making all-time highs for 4 - 5 months, and then a -57% crash happened in the markets. But rising yields and dollar rising does NOT crash the markets alone. Something UNDERNEATH is typically the trigger.\n\nThe 2026 - 2027 triggers would be:\n\n1. Private credit - this is the scarier one in my opinion. Seven major platforms (Blue Owl, Apollo, Ares, BlackRock, and Blackstone) have capped or blocked investor withdrawals. $4.6 billion is trapped basically. \n\n2. Auto loan delinquencies hit a record - 5.5% at 90+ days, worse than 2008 peak (5.3%). The consumer is cracking at the bottom.\n\n3. Commercial real estate is at record deliquicieis - office CMBS delinquiency at 12.3%, higher than 2008 crisis. \n\n4. Corporate bankruptcies at 16 year highs - 372 large filings through mid-2026. Small business bankrupties up 50% as well.\n\n5. S&P 500 is looking a lie right now - every sector fell in Sept except for tech - banks, utilities, equal weight S&P 500, only a few BIG tech names are holding up the markets \n\n6. Six banks have failed in 2026 - small ones, but the most in any year this decade. \n\nI find that the pattern is the same throughout our history; rates stay high, something that was relying on cheap money can't handle it, then that thing breaks, the break spreads to other things, and by the time the Fed cuts rates to fix it, the damage is already done.\n\nSo how do you prepare for this since we cannot TIME a top?\n\n1. Raise cash gradually - don't sell everything. Don't go all-in on a few names. Raise cash from work and you'll have the opportunity of a life time waiting for you when the dip comes\n\n2. Buy the 10 year - a 5.35% risk free yield is the highest in 24 years. You can park cash in short term Treasuries (SHV, BIL, SGOV) and get paid 5%+ while you wait. My wife and I have started buying 10 year as well.\n\n3. Watch the leaders, not the index - the S&P is being held up by 5-7 names. When \n$NVDA\n, \n$AAPL\n, \n$MSFT\n start breaking lower on volume, that's your signal the last pillar is cracking. The rest of the market is already weak.\n\n4. Avoid the junk, or size appropriately - small caps, unprofitable tech, high debt companies, anything that needs to refinance soon. The Russell 2000 has a third of its constituents classified as zombie companies. These get destroyed when credit tightens.\n\n5. Quality over momentum - if you're staying long, own companies with no debt, strong cash flow, and pricing power. Think \n$GOOGL\n, \n$AMGN\n, $BRK. Companies that don't need to borrow money at 5%+ don't care about rates.\n\n6. Don't short the top - the market can stay irrational longer than you can stay solvent. In 2007 the S&P rallied 5% for 4 months after the 10Y peaked. Being early on a short is the same as being wrong. Can hedge with defensives instead and/or raise cash.\n\n7. Have a plan before you need one - decide now what you'll do if the S&P drops 10%, 20%, 30%. Write it down. When panic hits, you execute the plan instead of making emotional decisions.\n\nThe goal isn't to predict the crash. It's to survive it with enough capital to buy the bottom and become a multi-millionaire.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5174
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108013668571255269",
+  "date": "2026-10-08",
+  "text": "I got you <3 I want to make sure everyone that follows me survives and never has to worry ever again.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 9
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108013682735435833",
+  "date": "2026-10-08",
+  "text": "Lets do it.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108014664743534781",
+  "date": "2026-10-08",
+  "text": "Avoiding for now until it can show me some strength. Not sure if it'll go down, but if it does down to $50, ill be interested. But again, thats just what I think would be a fair price.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108014885229752401",
+  "date": "2026-10-08",
+  "text": "For the core, no need on my end since it's so amazingly constructed. \n\nFor the 10X, I will be adjusting the $2.5K positions we have to hold more defensives in the future.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108015540967297362",
+  "date": "2026-10-08",
+  "text": "We need to be prepared.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 61
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108015908216340901",
+  "date": "2026-10-08",
+  "text": "My first experience was about 17 months of falling, 49 months to recover, so total of 5.5 years.\n\nSecond experience was 9.5 months of falling, 15 months to recover, so about 2 years total.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 54
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108015948255121857",
+  "date": "2026-10-08",
+  "text": "Thanks Dividend Dog - I wish you many profits.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017649196429695",
+  "date": "2026-10-08",
+  "text": "Yes it was a pretty bad time for sure. But it gave me the opportunity to buy every month, rain or shine at great prices for the future. So there is a happy ending to it tbh.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 26
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017709883818244",
+  "date": "2026-10-08",
+  "text": "Thanks Raga <3",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017730242883892",
+  "date": "2026-10-08",
+  "text": "You got this!!!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017747749945760",
+  "date": "2026-10-08",
+  "text": "Boom.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017766154518909",
+  "date": "2026-10-08",
+  "text": "You can do it!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108017787730075655",
+  "date": "2026-10-08",
+  "text": "Love you Bradley!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108018234448605656",
+  "date": "2026-10-08",
+  "text": "thanks Boss Dog <3",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108020518528135621",
+  "date": "2026-10-08",
+  "text": "My timing cycle still has us staying cautiouslly bullish. but from my eye test, I am being a bit more conservative.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 33
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021117667647806",
+  "date": "2026-10-08",
+  "text": "agreed - but if we couple that as a ripple effect into others, that is the problem.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021173938438240",
+  "date": "2026-10-08",
+  "text": "Of course, we're always ready",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 9
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021190602482095",
+  "date": "2026-10-08",
+  "text": "thanks Chris <3",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 25
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021276636070333",
+  "date": "2026-10-08",
+  "text": "Lets do it",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021412766306672",
+  "date": "2026-10-08",
+  "text": "haha thanks so much BO <3",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108021459788681230",
+  "date": "2026-10-08",
+  "text": "Haha lets go for it!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108033019529535924",
+  "date": "2026-10-08",
+  "text": "Very old lol.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108037298491478496",
+  "date": "2026-10-08",
+  "text": "It would have to be when earnings season slows down, so any of the quarters",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 9
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108039473137348907",
+  "date": "2026-10-08",
+  "text": "What are the positions and your entire portfolio?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108073363004645545",
+  "date": "2026-10-08",
+  "text": "So I have two portfolios. \n\nOne is the core portfolio. This has both big tech and strongest defensive names thats been 2X'ing, and 3X'ing the S&P 500 since our start together. I do NOT hold any risky names in this portfolio.\n\nMy second is the 10X portfolio. 90% of my portfolio is",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108114061829566477",
+  "date": "2026-10-08",
+  "text": "I always adjust based on timing cycles, with micro adjustments along the way in-between. Thats why we keep ahead.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108114559496302993",
+  "date": "2026-10-08",
+  "text": "No reason to sell since you have great entries into indicies that automatically adjust to the best companies quarertly and yearly.\n\nIf you had individual stocks, then you can consider trimming. but index's, no need.\n\nJust use your capital from work and invest rain or shine if the markets go down in the future.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108115206920675812",
+  "date": "2026-10-08",
+  "text": "Don't overthink it brother; for example if the market drops 20-30%, you want cash available to buy. Instead\nof that cash earning 0% in a bank account, short term Treasuries pay you 5%+ while you sit. When the opportunity comes, you sell the Treasuries and deploy into stocks at lower prices. You're getting paid to be patient. \n\nI wouldn't park my entire networth into short-term treasuires though tbh. A portion is okay. I typically have high growth mixed with defensives as my hedge",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 22
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108115622857154971",
+  "date": "2026-10-08",
+  "text": "I believe yes in both times sister anita; In 2000 it was internet/tech companies posting record earnings every quarter. I remember CSCO was the most valuable company in the world. \n\nAnd then in 2007 it was financials posting record profits fueled by housing. both sectors I remember had real earnings growth right up until the moment they didn't. \n\nThe earnings don't slowly decline. They fall off a cliff\nonce the cycle breaks. So for AI, it's real today but the question is whether the current prices already assume 5 more years of that growth",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108115657732890691",
+  "date": "2026-10-08",
+  "text": "Thanks so much UFO <3",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108116567901040924",
+  "date": "2026-10-08",
+  "text": "I do love that central banks are buying at the fastest pace in decades and the US debt just crossed $37 trillion. If you think the dollar weakens from here, gold and silver are a legitimate hedge.\n\nBut I'd push back on calling it a no brainer brother. Remember this, gold returned 0% from 2011 to 2020 while the S&P tripled. It pays no yield, no dividends, and in a real deflationary crash (like 2008), gold initially sold off too as everyone liquidated everything for cash.\n\nthe practical move is allocation, not all or nothing in my opinion brother. A 5-10% position in gold (GLD, IAU) or miners (GDX) as portfolio insurance makes sense. \n\nFor me, I'm never extreme. I'm always balanced with tilts in certain directions, and a cautious bull at all-times.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 45
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108128213771989495",
+  "date": "2026-10-08",
+  "text": "thanks so much my friend",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108162984946303125",
+  "date": "2026-10-08",
+  "text": "My entire holdings is in the google sheets provided to you my friend and the rest of our community",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108425665427157337",
+  "date": "2026-10-09",
+  "text": "Never time a top. Markets can continue heading higher irrationally. \n\nAnd the top will most likely be in either through one of the triggers, or once earnings for AI fall-off a cliff.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108425733614002497",
+  "date": "2026-10-09",
+  "text": "Let’s win brother!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108426200087724370",
+  "date": "2026-10-09",
+  "text": "i’ll have to take a look at past historicals but hopefully crypto can hold its pivot lows",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108426291624181833",
+  "date": "2026-10-09",
+  "text": "It’s okay, I think there may be better opportunities tbh but you’re fine brother",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108426470536458711",
+  "date": "2026-10-09",
+  "text": "Scary times!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "asklivermore",
+  "id": "2108429980212588915",
+  "date": "2026-10-09",
+  "text": "you’re the man!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "jukan05",
+  "id": "2107969052966891623",
+  "date": "2026-10-07",
+  "text": "October 8, 2026, 07:44:36\nCompany: Samsung Electronics (Market Cap: KRW 1,572.6489 trillion)\nStock Code: A005930\nReport: Preliminary Consolidated Operating Results (Fair Disclosure)\nRevenue: KRW 195.0 trillion (Consensus: KRW 200.8422 trillion / −3%)\nOperating Profit: KRW 107.4 trillion (Consensus: KRW 106.7467 trillion / +1%)\nNet Income: — (Consensus: KRW 88.4415 trillion)\n\nDisclosure link: \nhttps://\ndart.fss.or.kr/dsaf001/main.d\no?rcpNo=20261008800004\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 193
+ },
+ {
+  "author": "jukan05",
+  "id": "2107986610747015229",
+  "date": "2026-10-08",
+  "text": "LMAO",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 196
+ },
+ {
+  "author": "jukan05",
+  "id": "2108048751575355811",
+  "date": "2026-10-08",
+  "text": "China is absolutely insane. As if a pork glut weren’t enough, now it has an electricity glut too…\n\nJust think about how insane this sentence sounds: “Data centers are the solution to electricity oversupply.”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3358
+ },
+ {
+  "author": "jukan05",
+  "id": "2108069382228435123",
+  "date": "2026-10-08",
+  "text": "TSMC September revenue: NT$511,857 million\n(-0.6% MoM, +54.6% YoY)",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 346
+ },
+ {
+  "author": "jukan05",
+  "id": "2108110513033093369",
+  "date": "2026-10-08",
+  "text": "This hacker is truly legendary. A complete amateur.\n\n1. He left directory listing enabled on his own server, so researchers could figure out who he was with barely any effort.\n2. They found files like CLAUDE.md and went through his Claude Code sessions.\n3. There were questions like, “Where can I sell this data?”\n4. He’d also asked, “Can you write my résumé?” That pretty much handed them all his personal information.\n5. Apparently, he’s a student at South China University of Technology living in Guangdong. His name, phone number, and where he lives have all been identified.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10466
+ },
+ {
+  "author": "jukan05",
+  "id": "2108127841439383827",
+  "date": "2026-10-08",
+  "text": "This amateur asked Claude to write on his résumé that he’d hacked Korean banks",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1075
+ },
+ {
+  "author": "jukan05",
+  "id": "2108156236659347754",
+  "date": "2026-10-08",
+  "text": "lol",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "jukan05",
+  "id": "2108170820443160773",
+  "date": "2026-10-08",
+  "text": "\"Expect Apple to adopt A14 in 2028, accelerating its typical three-year node cadence\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 190
+ },
+ {
+  "author": "jukan05",
+  "id": "2108184235656020319",
+  "date": "2026-10-08",
+  "text": "So… Samsung has cut its smartphone production by 30%? And mobile memory prices have risen so much that there’s no profit margin left?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 604
+ },
+ {
+  "author": "jukan05",
+  "id": "2108378655902896636",
+  "date": "2026-10-09",
+  "text": "NVDA??",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 218
+ },
+ {
+  "author": "jukan05",
+  "id": "2108418874882560086",
+  "date": "2026-10-09",
+  "text": "A horrible orientalist steeped in wokeism.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "jukan05",
+  "id": "2108439296730710505",
+  "date": "2026-10-09",
+  "text": "NIKKEI: APPLE CUTS IPHONE 18 PRO ORDERS DUE TO SOFT DEMAND\n\n\"Component orders for this month have been cut by at least 15% from the volumes originally requested due to weaker-than-expected market demand for the iPhone 18 Pro series.\"\n\n\n$AAPL",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 494
+ },
+ {
+  "author": "jukan05",
+  "id": "2108703486355640484",
+  "date": "2026-10-09",
+  "text": "So… you think microLEDs will take share from ELS faster than ELS shipments grow? I disagree.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10
+ },
+ {
+  "author": "jukan05",
+  "id": "2108747114906046632",
+  "date": "2026-10-10",
+  "text": "Yes",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6
+ },
+ {
+  "author": "jukan05",
+  "id": "2108753810130903062",
+  "date": "2026-10-10",
+  "text": "Korean media report that ASML has raised prices by 10% across all DUV and EUV replacement parts supplied to Samsung and SK hynix.\n\nPrices for newly ordered ASML equipment are also reportedly likely to rise.\n\n\n$ASML",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 482
+ },
+ {
+  "author": "jukan05",
+  "id": "2108771315276796247",
+  "date": "2026-10-10",
+  "text": "Synopsys has little choice but to collaborate with Chinese AI labs if it wants to defend its market share in China.\n\nLocal Chinese EDA companies are already aggressively partnering with domestic AI labs to chip away at Synopsys’ and Cadence’s market share.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 252
+ },
+ {
+  "author": "jukan05",
+  "id": "2108782164016079257",
+  "date": "2026-10-10",
+  "text": "IMO, Netflix needs to invest heavily in AI video generation ASAP. Otherwise, it’s going to get eaten alive by AI-generated short-form dramas made with Chinese video generation models.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 708
+ },
+ {
+  "author": "jukan05",
+  "id": "2108788005951717387",
+  "date": "2026-10-10",
+  "text": "Just look at how Chinese AI short-drama apps keep topping the App Store charts… The quality may suck, but if they deliver that dopamine hit, people will gladly pay.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 69
+ },
+ {
+  "author": "jukan05",
+  "id": "2108834190372528595",
+  "date": "2026-10-10",
+  "text": "The RTX 5090 has been discontinued. GB202 will now be supplied exclusively to the RTX Pro lineup.\n\nIt’s over.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 88
+ },
+ {
+  "author": "jukan05",
+  "id": "2108850469774787030",
+  "date": "2026-10-10",
+  "text": "[Exclusive] Apple Increases iPhone Duo Orders by 30%; Total iPhone 18 Pro Series Orders Unchanged\n\n• According to Apple supply chain sources, Apple has adjusted orders for its fall 2026 iPhone lineup.\n\n• iPhone Duo orders have increased by 30%, though total orders remain below 10 million units.\n\n• iPhone 18 Pro orders have been cut by 10–15%, while Pro Max orders have increased by 10–15%. Total orders for the iPhone 18 Pro series remain unchanged.\n\n• This suggests stronger sales of higher-value products, which supply chain sources view as positive for earnings across Apple’s supply chain.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 535
+ },
+ {
+  "author": "jukan05",
+  "id": "2108850481317736842",
+  "date": "2026-10-10",
+  "text": "https://\nstcn.com/article/detail\n/4211053.html\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 9
+ },
+ {
+  "author": "jukan05",
+  "id": "2109021803041665496",
+  "date": "2026-10-10",
+  "text": "I don’t think Nvidia’s intent with this acquisition is to compete with OpenAI or Anthropic. If it were, why would Nvidia invest in OpenAI’s current funding round?\n\nIt’s probably about improving Nemotron’s terrible performance.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 364
+ },
+ {
+  "author": "jukan05",
+  "id": "2109022676958523595",
+  "date": "2026-10-10",
+  "text": "Let’s say this acquisition is intended to turn Nvidia into an AI lab itself. That would only push OpenAI and Anthropic to accelerate their shift away from Nvidia, which would be even less in Nvidia’s interest.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 46
+ },
+ {
+  "author": "jukan05",
+  "id": "2109024675057844606",
+  "date": "2026-10-10",
+  "text": "Nvidia is now perched precariously atop an empire built with money.\n\nI don’t think Nvidia can afford to both buy control of the supply chain and build a lab on par with OpenAI from scratch. To do both, it would have to give up its current grip on the supply chain.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 7
+ },
+ {
+  "author": "jukan05",
+  "id": "2109026867801891317",
+  "date": "2026-10-10",
+  "text": "Would shareholders be happy if Nvidia gave up share buybacks to become an AI lab itself?\n\nIt would be an incredibly difficult path, and if Nvidia actually goes down that road, the entire AI trade could unravel.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "jukan05",
+  "id": "2109068973904211996",
+  "date": "2026-10-10",
+  "text": "Just arrived in SF, and I can never quite get used to the vibe here. There’s a sense of freedom here that borders on neglect.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 339
+ },
+ {
+  "author": "jukan05",
+  "id": "2109069642065129484",
+  "date": "2026-10-10",
+  "text": "Let me rephrase that: it feels more like a sense of vulnerability.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 20
+ },
+ {
+  "author": "jukan05",
+  "id": "2109070385446797474",
+  "date": "2026-10-10",
+  "text": "I’ve packed my schedule with memory sessions lol.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "jukan05",
+  "id": "2109142036448465111",
+  "date": "2026-10-11",
+  "text": "Daishin Securities (Korea):\nDiscussions on mass-producing lower-stack HBM (4-high/6-high) have effectively been called off. The shift from 12-high to 8-high has also been scaled back.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 351
+ },
+ {
+  "author": "jukan05",
+  "id": "2109145490818482521",
+  "date": "2026-10-11",
+  "text": "My agent made a mistake.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "jukan05",
+  "id": "2109298333571572164",
+  "date": "2026-10-11",
+  "text": "Doesn’t China make all its analog chips domestically too? Isn’t that a bit different from the open-source case?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 24
+ },
+ {
+  "author": "jukan05",
+  "id": "2109322543526207614",
+  "date": "2026-10-11",
+  "text": "Could you recommend some coffee shops in San Jose?\n\nSomewhere I can work on my laptop would be even better.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 76
+ },
+ {
+  "author": "jukan05",
+  "id": "2109369944337244610",
+  "date": "2026-10-11",
+  "text": "Whenever I try to rest, I get anxious and keep wondering whether I should really be taking a break. I also worry that other people are getting ahead while I’m resting.\n\nHonestly, I feel so guilty whenever I take a break that it’s hard to truly relax.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 67
+ },
+ {
+  "author": "jukan05",
+  "id": "2109370611906523319",
+  "date": "2026-10-11",
+  "text": "I don’t drink alcohol :(",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107871605158502616",
+  "date": "2026-10-07",
+  "text": "$AEHR\n this selloff makes no sense.\n\nJust drew from cash to bump up my \n$AEHR\n position in my \"Photonics Is Next\" portfolio on \n@joinautopilot\n.\n\n\n$AEHR\n surged 15% and 25% from the close after its last two earnings reports, making it a favorite for traders.\n\nHowever, there was misinformation yesterday that \n$AEHR\n earnings were happening. Basically every finance site has the date as 10/6 and traders moved out in droves when they realized it was wrong.\n\nThe stock crashed on a massive AI rally yesterday and is down another 4% today despite announcing another order from its lead hyperscaler test customer today.\n\nThis customer already uses Sonoma to test one AI processor in high-volume production. Now it's ordering more equipment for a second, newer processor, with production expected to ramp in 2027.\n\nSolid trade logic if I've ever seen it where the market is confused and a great PR is getting ignored.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 200
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107871938291151256",
+  "date": "2026-10-07",
+  "text": "Follow the portfolio.\n\n\nhttps://\nlink.joinautopilot.com/eXKr/T2_Michae\nl_Sikand_X\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 8
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107876147354898825",
+  "date": "2026-10-07",
+  "text": "What does that have to do with the price of cheese?\n\nThe stupidest thing you can do with stocks is judge them purely by their percentage move.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107895984730874204",
+  "date": "2026-10-07",
+  "text": "Society after \n$SPCX\n and \n$TSLA\n merge",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 144
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107911954786598978",
+  "date": "2026-10-07",
+  "text": "$MRVL\n is the first company that's given visibility into photonics through 2030.\n\nRevenue was $8.2B last year and the fiscal 2031 target is $70B to $90B. The TAM is 4x last investor day. Interconnect becomes the biggest segment at ~$37.5B\n\nNow think about what this means for the suppliers. Nobody else in the photonics supply chain has guided out to 2030, but they all ride the same curves.\n\n\n$LITE\n's CEO says they'll only be able to supply 30% of what customers want next year. Coherent's booked through the end of 2027.\n\nSo \n@AsymmetricBets_\n ran Marvell's model on the 6 biggest beneficiaries: \n$LITE\n \n$COHR\n \n$AAOI\n \n$CIEN\n \n$TSEM\n \n$ALAB\n\n\nEach one grows at its own market's rate, gets valued off historical multiples and has dilution baked in.\n\nBear, base and bull 2030 targets for all 7 are on my Substack below.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 261
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107912046285398313",
+  "date": "2026-10-07",
+  "text": "Article: \nhttps://\nasymmetricalbets.substack.com/p/biggest-bene\nficiaries-of-marvell\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 7
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107954657142391040",
+  "date": "2026-10-07",
+  "text": "I agree with your take. I see little downside with Amazon in at $160's / share. Investors giving almost no credit for AI, wearables, robotoics and auto can do they heavy lifting to keep things steady next year.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107955057623015559",
+  "date": "2026-10-07",
+  "text": "I got those entries",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 7
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107956361497890879",
+  "date": "2026-10-07",
+  "text": "Thank you brotha!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107994199710978431",
+  "date": "2026-10-08",
+  "text": "yep some days a top name will just refuse to rally",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2107996499317768496",
+  "date": "2026-10-08",
+  "text": "Looks cheap here ngl",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108000482451247474",
+  "date": "2026-10-08",
+  "text": "S&P might be at ATH but seriously who gives a shit until memory gets there too?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 249
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108062341229326560",
+  "date": "2026-10-08",
+  "text": "he was at the urinal next to me at gtc one of us",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108196464979779909",
+  "date": "2026-10-08",
+  "text": "$QCOM\n CFO: THE NEXT BIG DEVICE IS COMING\n\n\"Over the next 6-9 months there's a whole series of devices that are going to come out... one of these devices will hit the consumer sweet spot and then it takes off.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 107
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108241588422062564",
+  "date": "2026-10-08",
+  "text": "selfie quality looking android",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108259246039331187",
+  "date": "2026-10-08",
+  "text": "When people who don't invest ask me about stocks, I like to explain how \n$NVDA\n is a cheaper stock than \n$KO\n. A lot of ppl just assume it's \"too late\" to get in on tech after all these years but some of these companies are trading at their cheapest valuations ever.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 85
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108271139214725263",
+  "date": "2026-10-08",
+  "text": "fucking humor goat",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108271201844130106",
+  "date": "2026-10-08",
+  "text": "bro can not stop",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108274523166634313",
+  "date": "2026-10-08",
+  "text": "Guys I actually can't seeing news like \n$AAOI\n deploying \n$BE\n fuel cells at its Taiwan fabs.\n\nThis is like the two high beta superheroes teaming up a surprise crossover event",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 272
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108282615858077909",
+  "date": "2026-10-08",
+  "text": "Don't fret the OpenAI news. Likely Sama or Friar come out and clarify things. I look forward to when these companies are public and we stop tweaking on rumor circus. Everytime a headline like this leads to a dump the market buys back infra because it overshot on wrong info.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 108
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108303658526138403",
+  "date": "2026-10-08",
+  "text": "It took me 6 months to build $60M AUM.\n\n\n@CorgiInvest\n just mogged that in under a week with their MANGOS ETF \n$MN\n \n\nThis concentrated ETF seeks to give investors OpenAI and Anthropic exposure alongside \n$META\n, \n$NVDA\n, \n$GOOG\n, \n$SPCX",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 52
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108338691412562092",
+  "date": "2026-10-08",
+  "text": "such a great kid",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108345102599131538",
+  "date": "2026-10-08",
+  "text": "Sounds like everyone in the finance niche on X has seen a steep drop in views/engagement. Unsure if an algo change or if based on low market sentiment / people disengaging from finance after July's massacre. Maybe all of it combined.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 126
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108345719384056317",
+  "date": "2026-10-08",
+  "text": "just like the mood?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108347993070154102",
+  "date": "2026-10-09",
+  "text": "tragedy",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108348054982291550",
+  "date": "2026-10-09",
+  "text": "did the Mag 7 really take over tho?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108350277795611001",
+  "date": "2026-10-09",
+  "text": "I suppose, can't help but feel the feed is so dry too?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108362844307894472",
+  "date": "2026-10-09",
+  "text": "what do you stack it up to, algorithm or market sentiment being abysmal?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108363245887336474",
+  "date": "2026-10-09",
+  "text": "The leveraged trades are certainly a way to keep people engaged",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108363381463990602",
+  "date": "2026-10-09",
+  "text": "I'd be curious to hear x creators from other niches, was it just finance? This shit is whack. You'll get like 10k views and 30 likes lol.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108363548900622770",
+  "date": "2026-10-09",
+  "text": "do you think algo change or genuine audience flight after july from stock content?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108364359999295892",
+  "date": "2026-10-09",
+  "text": "highs and lows for sure",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108365009181171807",
+  "date": "2026-10-09",
+  "text": "insane he actually rugged us in more ways than one",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108365244842270892",
+  "date": "2026-10-09",
+  "text": "Anyone who says this didn't put together generational returns this year.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108365626725236982",
+  "date": "2026-10-09",
+  "text": "That's a decent argument. Everyone got really aggressive monetizing just as many of the names that drew people in imploded.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108365704890392952",
+  "date": "2026-10-09",
+  "text": "probably just exhaustion",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108366073989132788",
+  "date": "2026-10-09",
+  "text": "yep, if there isn't easy money being made no one is showing up",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108368864090419427",
+  "date": "2026-10-09",
+  "text": "ignore the haters bro lmao",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108413263474225530",
+  "date": "2026-10-09",
+  "text": "Yeah and it sold off by 7% because of some whisper OAI revenue projections media FUD BS. \n$LITE\n to $2k.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 38
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108427919680999449",
+  "date": "2026-10-09",
+  "text": "Honored to have my content included in your savvy analysis!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108428085104435455",
+  "date": "2026-10-09",
+  "text": "In the full interview, I suggested to Akash how cars are just robots. Seamless transition with similar chip content and pricing carry over.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108550289288831224",
+  "date": "2026-10-09",
+  "text": "Got to keep riffing off the cuff I guess",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108555002038063158",
+  "date": "2026-10-09",
+  "text": "Somethings got to replace this god awful phone we keep staring at all day...",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108555263200678142",
+  "date": "2026-10-09",
+  "text": "Harrods bro. So hype.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108558853553987846",
+  "date": "2026-10-09",
+  "text": "$QCOM\n CFO ON DATA CENTER AMBITIONS\n\n“$50B. There’s no reason why we’re not going to get the number.”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 79
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108574882963603906",
+  "date": "2026-10-09",
+  "text": "The highest leverage thing a young person can do in the age of AI is master content creation.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 80
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108585413904642538",
+  "date": "2026-10-09",
+  "text": "God forbid a white boy get a little motion? \n$LITE",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 198
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108644945557143580",
+  "date": "2026-10-09",
+  "text": "Wow no wonder \n$BE\n stock has been ripping. These fuel cells taste incredible.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 316
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108975992752705614",
+  "date": "2026-10-10",
+  "text": "yeah babyyy",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108982144626471108",
+  "date": "2026-10-10",
+  "text": "The Fed deciding whether to hike or hold interest rates.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 35
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108982435006591290",
+  "date": "2026-10-10",
+  "text": "Wow looks like they checked the yields",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2108999126021206223",
+  "date": "2026-10-10",
+  "text": "many strikes\n\n30 april\n30 1/28 \n25 1/27",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2109000297792369104",
+  "date": "2026-10-10",
+  "text": "I think the opportunity cost of not being in networking is higher than not being in memory right now.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 239
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2109029273969586208",
+  "date": "2026-10-10",
+  "text": "see my bio",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2109307788174241814",
+  "date": "2026-10-11",
+  "text": "$QCOM\n CFO ON $60B \n$AMZN\n DEAL\n\n“I think what is required in data center has gone beyond the GPU. Being able to deliver high performance, low power computing that solves different problem statements beyond just processing strength\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 58
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2109325515232555112",
+  "date": "2026-10-11",
+  "text": "I laugh when people say were in some speculative bubble. Have you seen how insanely disciplined this stock market has become? \n\nSure its at ATH but that's because it dumped every speculative stock and focused on the big profitable companies with undeniable fundamentals.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 86
+ },
+ {
+  "author": "michaelsikand",
+  "id": "2109344721932099610",
+  "date": "2026-10-11",
+  "text": "I'll happily take shit for missing cyber but missing the obesity trade will always haunt me.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 166
+ },
+ {
+  "author": "octopusycc",
+  "id": "2108159091592118587",
+  "date": "2026-10-08",
+  "text": "Gate的活动还是太有品了\n\n在Raffles Singapore\n\n感谢戈多邀请\n\n\n@Gate_zh\n \n@Han_Gate\n \n\n@Godot_gate\n \n@JoeyJia11\n \n@luxiong_Gate\n \n\n#Gate",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 22
+ },
+ {
+  "author": "octopusycc",
+  "id": "2108190801734091100",
+  "date": "2026-10-08",
+  "text": "Coinbase 现货保证金Update！",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 9
+ },
+ {
+  "author": "octopusycc",
+  "id": "2108213589073178977",
+  "date": "2026-10-08",
+  "text": "没事 倒一冠军也是冠军！\n反着做别墅靠海啊",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "octopusycc",
+  "id": "2108362207834878078",
+  "date": "2026-10-09",
+  "text": "越来越注重健康的加密！\n\n这种人文关怀还是太好了\n\n为加密健康工作五十年好不好！\n\n\n@Yuki27__\n \n@heyibinance",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 12
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109173100311122183",
+  "date": "2026-10-11",
+  "text": "Defying the heavens.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109184065824059778",
+  "date": "2026-10-11",
+  "text": "最近看 Agent，我越来越关注一个问题：当它们开始自己接任务、做交易、互相协作，出了分歧，谁来判断？\n\n比如一个 Agent 雇另一个做研究，报告交了，付款方觉得质量不达标，交付方觉得自己已经完成要求。\n\n双方都能拿出理由，但钱还锁在合约里。“有没有转账”容易验证，“这份报告值不值得付款”就复杂得多。\n\nAgent 能做的事情越多，这类涉及质量、条件和履约的争议也会越多。单靠提前写好的合约规则，很难覆盖所有情况。\n\n这也是我关注 \n@GenLayer\n 的原因。\n\n它想做一套“链上裁决”：通过多个验证者对这类问题进行判断，有分歧可以进入申诉流程，最终形成能用于链上结算的结果。\n\n我觉得这个方向有意思。以后 Agent 之间做生意，除了支付和执行，还需要一套双方都能接受的争议处理机制。否则一旦卡在“到底做没做完”，整个协作流程就可能停下来。\n\n当然，现在还在测试网，实际效果需要继续观察。先参与一下，看看这套判断和裁决逻辑怎么跑，也算提前了解 Agent 经济的一块基础设施。\n\n绑推特进 Portal 就能参与\n\nhttps://\nportal.genlayer.foundation/go/octopusycc",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 15
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109256577916289408",
+  "date": "2026-10-11",
+  "text": "包房巧遇 \n@Han_Gate\n 还是非常儒雅随和的\n\n看看潘子能不能延续巴林站的好状态！",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109259761502105777",
+  "date": "2026-10-11",
+  "text": "潘子刷紫了！",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 8
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109278915151732809",
+  "date": "2026-10-11",
+  "text": "我们是冠军！\n\n潘子还是太有统治力了\n\n\n@Gate\n \n@Gate_zh\n \n@Han_Gate\n \n@Godot_gate\n \n@luxiong_Gate",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "octopusycc",
+  "id": "2109306581078925693",
+  "date": "2026-10-11",
+  "text": "Max \n@Max33Verstappen\n  在新加坡创造了统治级表现！\n\n汽车人太强",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107904468142768597",
+  "date": "2026-10-07",
+  "text": "Rotating between \n$SNDK\n and \n$NBIS\n has been really profitable these past few days.\n\nMy subs caught it too, and they're putting on a show in our  Liquid Tournament.\n\nThree days in and the top 3 are already up 48%, 45% and 36%. These dudes are incredible.\n\n$1,000 in prizes:\n $600\n $300\n $100\n\nIt runs until Sunday 11 and you can still get in. Sign up on \n@liquidtrading\n with code RENSTOCKS, or DM me your handle if you're already on it.\n\nCome trade with us. \n\nThe leaderboard is still up for grabs.\n\nBullish",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 39
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107912065574904213",
+  "date": "2026-10-07",
+  "text": "Let’s go!!!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107924404197879815",
+  "date": "2026-10-07",
+  "text": "$LITE\n \n\nLeopold is back?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 102
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107929849725665479",
+  "date": "2026-10-07",
+  "text": "$WOLF\n GOD CANDLE AH +25%\n\nWolfspeed just got a 30-year, $1.5B loan commitment from the Department of War.\n\nThat is close to the company’s entire market cap!!!\n\nA year ago this company was restructuring its debt, talk about a comeback story!\n\nThe Pentagon’s Office of Strategic Capital is lining up to fund its next buildout and taking warrants for up to 7.5% of the equity, which tells you Washington wants a stake in the outcome and not only its money back.\n\nMega bullish for \n$WOLF",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 94
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107930443819728945",
+  "date": "2026-10-07",
+  "text": "Thanks my friend!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107931311486664754",
+  "date": "2026-10-07",
+  "text": "We kinda of did!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107960223331999818",
+  "date": "2026-10-07",
+  "text": "$NBIS\n\n\nPeople say \"free\" money doesn't exist.\n\nThey clearly don't know how to swing \n$NBIS\n \n\nNFA mfs!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 98
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107963281298100546",
+  "date": "2026-10-07",
+  "text": "This is me when I face the bears.\n\nCome at me, bro!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 38
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107963317083931064",
+  "date": "2026-10-07",
+  "text": "Made it a post, lmao.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2107964013334466895",
+  "date": "2026-10-07",
+  "text": "I feel like you would be a great add to my Discord, Lmao. Want to join?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108006016830902377",
+  "date": "2026-10-08",
+  "text": "Oh dude… I know I try to post when IT IS the local top.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108006406708437194",
+  "date": "2026-10-08",
+  "text": "Same here but add 2 0s",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108012706775126223",
+  "date": "2026-10-08",
+  "text": "lol… a bit more than that… I won’t do this once macro turns ugly",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108025455559246324",
+  "date": "2026-10-08",
+  "text": "Holy hell, otherworldly numbers for Samsung!!\n\nSamsung just guided Q3 operating profit to ₩107.4 trillion.\n\nThat's about $80 billion in three months, or roughly $870 million every single day.\n\nNo technology company has ever earned this much in one quarter. The previous record was \n$NVDA\n at $63.7 billion.\n\nIt's also about 9x what Samsung made a year ago, driven by AI memory demand.\n\nYou are not bullish enough",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 327
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108314601297154295",
+  "date": "2026-10-08",
+  "text": "No oops if you sold yesterday!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108381766599762167",
+  "date": "2026-10-09",
+  "text": "$NBIS\n \n$SNDK\n \n$AAOI\n \n$BE\n\n\nFunny how fast the story changes.\n\nJust a few hours ago everyone was panicking and dumping AI stocks because OpenAI was \"only\" approaching $50B in annualized revenue instead of the $70B that got reported. \n\nToday Bloomberg says OpenAI expects to be at $70B by the end of the year.\n\nSo the number people panicked about them not having is the number they expect to hit in less than three months.\n\nThe FT story was really about how revenue gets counted, and the market still sold off like demand had disappeared. It hasn't. \n\nThe labs keep growing and they keep needing more compute, and I don't see that changing anytime soon.\n\nThis happens every single time, so know what you own and don’t sell into a FUD.\n\nYou are not bullish enough",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 571
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108391266966745320",
+  "date": "2026-10-09",
+  "text": "As good as it gets",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108407095301214252",
+  "date": "2026-10-09",
+  "text": "THIS IS HUGE NEWS FOR BOTH \n$AAOI\n and \n$BE\n\n\nBloom is supplying fuel cells for an expansion project at AOI's Taiwan subsidiary, through its local partner Leadray Energy. \n\nSo AOI is bringing its own power on-site instead of just plugging into the grid.\n\nWhen a transceiver maker is sorting out its own electricity to get new capacity running sooner, it tells you how much optics demand is out there right now.\n\nAnd who their turn to? Of course to Bloom!\n\nBullish for both \n$BE\n and \n$AAOI",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 157
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108409010512879997",
+  "date": "2026-10-09",
+  "text": "Why was this in my spam, lmao",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108410241322819974",
+  "date": "2026-10-09",
+  "text": "$NBIS\n\n\nThe bear case for the past year has been that GPUs turn into paperweights in 2 to 3 years, so the neocloud depreciation math is fake, just like the FT report today.\n\nHere's what the rental market actually did.\n\nAn H100 rents for about $2.63 an hour right now. That's roughly where it was in April 2025, and about 30% above the low near $2 late last year. This chip is about three years old and a generation behind Blackwell, and renting one costs more today than it did last winter.\n\nH200 went from about $2.70 in May to $3.29. B200 bottomed around $4.40 in January and it's back at $5.69.\n\nIf old GPUs were dying, you'd see rental prices falling off a cliff. Instead people are still paying up for whatever compute they can get. \n\nThat matters a lot for the neoclouds, because a GPU that keeps earning for years longer than the bears assume is a much better business than the one they've been modeling.\n\nYou are not bullish enough",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 204
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108428874602217829",
+  "date": "2026-10-09",
+  "text": "$NVDA\n\n\nWhat an incredible journey. Jensen Huang went from washing dishes at Denny's to receiving the National Medal of Science.\n\nHe was 9 when his parents sent him and his brother from Taiwan to the US. He ended up at a boarding school in rural Kentucky, where one of his chores was cleaning the bathrooms. In 1993, at 30, he was back in a Denny's booth, sketching out Nvidia with his two co-founders.\n\nHis parents were there to watch him get the medal. Imagine how proud they must be.\n\nThey sent their kid across the world with no idea how it would turn out, and decades later they got to stand next to him while he received the country's top science honor.\n\nJensen literally changed the course of history. People have been talking about AI since the 1950s, but using it at scale the way we can today is only possible thanks to a \"video game chip company\" that took a leap of faith, betting its chips could do science and then AI long before anyone took it seriously.\n\nNow most of the AI world runs on his hardware, and he's the closest thing this industry has to a president.\nI don't think there's a better founder story out there.\n\nI hope one day I can accomplish just a fraction of what he has.\n\nIn Jensen we trust to keep pushing humanity forward",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 129
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108516002883330209",
+  "date": "2026-10-09",
+  "text": "If you aren't following me on Liquid, I don't even know what you're doing.\n\n2 weeks in, +328% in returns, 87% win rate over 15 trades.\n\nSome people here talk about being great traders, yet they have a sub 40% win rate on Liquid \n\nLearn to trade the news and when not to trade, NFA.\n\nStep 1) find a news worth a trade: \nOpenAI FUD.\n\nStep 2) Open a levered position:\nLong \n$NBIS\n at 8x and close the position in mere minutes.\n\nStep 3)\n\n????\n\nStep 4)\n\nProfit\n\nThe results speak for themselves.\n\nFollow me there \n@renstocks\n to tag along.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 65
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108516048395960389",
+  "date": "2026-10-09",
+  "text": "Updated just for you",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108516517491147187",
+  "date": "2026-10-09",
+  "text": "LITE is oversold until 2029? New trade. Already closed it.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 7
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108517319446257683",
+  "date": "2026-10-09",
+  "text": "90% win rate gambling? Seems rigged",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 0
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108518841085206950",
+  "date": "2026-10-09",
+  "text": "Thanks for caring!",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2108521941640368163",
+  "date": "2026-10-09",
+  "text": "$LITE\n is up 6.5% after hours.\n\nThe Lumentum CEO went on Bloomberg and said they're \"completely sold out\" through early 2029, with \"no end in sight.\" \n\nSix months ago he was talking about sold out through 2028, so the line keeps moving further out. \n\nThey've already grown their main Japan factory roughly 12x in two years and they're still nowhere close. \n\nNew laser capacity takes 3 to 5 years to build, and the hyperscalers are now helping fund it with long-term commitments.\n\nCustomers don't sign up to share capex risk unless they're scared of not getting supply.\n\nWhen the biggest laser maker in the world can't keep up, the overflow has to go somewhere.\n\nThinking of you \n$AAOI\n !\n\nHuge interconnect re-rate incoming.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 85
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2109149103435264263",
+  "date": "2026-10-11",
+  "text": "I had the chance to sit and dig deep into Bank of America's latest AI data center forecast, and it's the most bullish table I've seen this year.\n\nBofA sees AI data center systems going from ~$280B in 2025 to ~$2.2T by 2030. \n\nThat's roughly 8x in five years and a 40% CAGR from 2026. By then, AI makes up 86% of all data center spend, up from 55% last year, while non-AI data centers grow just 7% a year.\n\nBofA has the memory market going from $110B in 2025 to ~$494B in 2026, taking memory from 22% of data center spend to 59% in a single year. DRAM alone passes $1T by 2030.\n\nInterconnect is the fastest-growing part of the stack. \n\nAI networking grows 43% a year to ~$394B, AI switching 51%, and optical reaches $111B. Co-packaged optics goes from basically zero to $14B by 2030.\n\nAI CPUs for agentic workloads grow from $18.5B to $180B, a 44% CAGR.\n\nEvery AI layer on this table compounds three to four times faster.\n\nI’m positioning myself to capture most of the up and coming upside.\n\nYou simple are not bullish enough for the AI trade.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 122
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2109149373061894415",
+  "date": "2026-10-11",
+  "text": "$NBIS\n \n$MU\n \n$LITE\n \n$COHR\n \n$AAOI\n $SIVE\n\nI had the chance to sit and dig deep into Bank of America's latest AI data center forecast, and it's the most bullish table I've seen this year.\n\nBofA sees AI data center systems going from ~$280B in 2025 to ~$2.2T by 2030. \n\nThat's roughly 8x in five years and a 40% CAGR from 2026. By then, AI makes up 86% of all data center spend, up from 55% last year, while non-AI data centers grow just 7% a year.\n\nBofA has the memory market going from $110B in 2025 to ~$494B in 2026, taking memory from 22% of data center spend to 59% in a single year. DRAM alone passes $1T by 2030.\n\nInterconnect is the fastest-growing part of the stack. \n\nAI networking grows 43% a year to ~$394B, AI switching 51%, and optical reaches $111B. Co-packaged optics goes from basically zero to $14B by 2030.\n\nAI CPUs for agentic workloads grow from $18.5B to $180B, a 44% CAGR.\n\nEvery AI layer on this table compounds three to four times faster.\n\nI’m positioning myself to capture most of the up and coming upside.\n\nYou simple are not bullish enough for the AI trade.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 356
+ },
+ {
+  "author": "ren_stocks",
+  "id": "2109320173995880876",
+  "date": "2026-10-11",
+  "text": "$NBIS\n\n\nNot all neoclouds are created the same way not all neocloud capacity is worth the same, and this chart shows it.\n\nEvery gigawatt Nebius signs away in a long-term hosting deal brings in roughly $20-25B. \n\nThe same gigawatt sold short-term on its own platform brings in $40-50B. Same power, same data center, about double the revenue.\n\nServerless inference is the purest version of that. \n\nInstead of renting a cluster for five years, customers pay per token for exactly what they use, while Nebius runs the hardware, the software and the optimization in between.\n\nWhy I think it's the next big leg for \n$NBIS\n:\n\n+ Training is lumpy and driven by a few giant customers. Inference is every company shipping an AI product, every single day.\n+ Usage-based pricing scales with adoption. More agents means more tokens, which means more revenue from the same gigawatt.\n+ The software is the moat. Uptime guarantees, speculative decoding and auto-scaling are hard to copy for someone who's just renting out racks.\n+ It spreads revenue across thousands of customers instead of a couple of hyperscalers.\n\nThe big contracts pay for the build but inference is where the money is.\n\nBet on the companies that are pushing for more server-less inference.\n\nFor me, that’s \n$NBIS",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 86
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2107992118161445141",
+  "date": "2026-10-08",
+  "text": "President Donald Trump has approved the use of a firing squad for the execution of Nidal Hasan, who was convicted of killing 13 people and wounding 32 others in the 2009 mass shooting at Fort Hood in Texas.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 33
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2107998912896278683",
+  "date": "2026-10-08",
+  "text": "Trump told supporters in Nebraska that the economic fallout from the war with Iran is \"just artificial\" and \"a small price to pay,\" adding that Iran could \"take out\" a major American city like Los Angeles or San Diego.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 18
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108005216377561499",
+  "date": "2026-10-08",
+  "text": "BREAKING: The Pentagon has told U.S. Central Command to finish preparations for the potential resumption of large-scale combat operations against Iran, per Axios.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2900
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108014012361552130",
+  "date": "2026-10-08",
+  "text": "Fewer Americans are interested in hearing CEOs' opinions on political or social issues, especially if it has nothing to do with the company's business, according to a new study from Stanford University reported by Bloomberg.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 37
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108022317112574221",
+  "date": "2026-10-08",
+  "text": "U.S. consumers have collectively spent about $107 billion more on gasoline and diesel during the Iran conflict than they would have without the war, according to estimates by the Climate Solutions Lab at Brown University.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108023734477242682",
+  "date": "2026-10-08",
+  "text": "There is 46% chance the 10-year Treasury yield goes above 5.5% before 2027.\n\nSee more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108029111801348554",
+  "date": "2026-10-08",
+  "text": "The era of effortless gains from riding the AI spending wave is ending, according to Bank of America.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 22
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108032896120586571",
+  "date": "2026-10-08",
+  "text": "There is a 7% chance of a US recession by end of 2026.\n\nSee more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 12
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108037416808300968",
+  "date": "2026-10-08",
+  "text": "The economy has now gone 78 straight months without a recession, the sixth-longest expansion since 1854, per NBER data.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108208871852687454",
+  "date": "2026-10-08",
+  "text": "BREAKING: Trump bought as much as $25 million in Meta stock and as much as $5 million in SpaceX debt.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4080
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108214807501648291",
+  "date": "2026-10-08",
+  "text": "BREAKING: Trump’s administration is suspending Microsoft, \n$MSFT\n, from a program to apply for green cards for workers who come to the U.S. to live and work using an H-1B visa as it accuses the company of fraud.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6665
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108220100134514809",
+  "date": "2026-10-08",
+  "text": "Starbucks has explored a takeover of Chipotle, per FT.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1029
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108225966124183788",
+  "date": "2026-10-08",
+  "text": "This is interesting.\n\nRay Dalio says earnings growth has helped stocks absorb rising bond yields, but that advantage is narrowing.\n\nDalio expects free cash flow to deteriorate even as earnings continue to improve.\n\nHe says the bond sell-off has further to run.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 359
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108230438611239172",
+  "date": "2026-10-08",
+  "text": "BREAKING: The Labor Department has suspended 8 major tech and outsourcing firms from the PERM program, the first step toward sponsoring foreign workers for green cards.\n\nThe government will no longer accept new or process pending PERM applications from:\n\nCognizant\nInfosys\nCapgemini\nTata\nWipro\nHCL\nMicrosoft\nAdobe\n\nMicrosoft and Adobe were suspended over \"multiple active federal investigations.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6833
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108234518096462191",
+  "date": "2026-10-08",
+  "text": "BREAKING; Trump says that the US will not attack Iran \"at any time prior\" to the US midterm elections",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 735
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108235471893774774",
+  "date": "2026-10-08",
+  "text": "President Trump will present the nation’s highest honors for scientific and technological achievement, the National Medal of Science and the National Medal of Technology and Innovation to SpaceX and Tesla CEO Elon Musk, Nvidia CEO Jensen Huang, Dell Technologies CEO Michael Dell and more.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 287
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108240504672670014",
+  "date": "2026-10-08",
+  "text": "170 billionaire families have spent a record $1.7 billion on the midterms, plus another $600 million in dark money, per Americans for Tax Fairness.\n\nBillionaire political spending has increased 53x since Citizens United.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2725
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108243062275326314",
+  "date": "2026-10-08",
+  "text": "BREAKING: OpenAI’s annualized revenue is actually approaching $50 billion, roughly $20 billion less than the $70 billion figure widely reported by media outlets in late September 2026, per FT",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2240
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108245286405668988",
+  "date": "2026-10-08",
+  "text": "BREAKING: Inflation on many everyday items was entirely due to tariffs, NY Fed has said per CNBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17372
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108250319368954328",
+  "date": "2026-10-08",
+  "text": "Nvidia, \n$NVDA\n, has committed  $1 billion to US science research that would focus on “super intelligence” and quantum computing.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 601
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108255352546529408",
+  "date": "2026-10-08",
+  "text": "\"Layoffs haven’t been this low since the 1960s,\" per MW",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 704
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108260889468219710",
+  "date": "2026-10-08",
+  "text": "BREAKING: Trump disclosed 517 stock and bond trades in August, worth up to $273 million combined.\n\nHis biggest buy: up to $25 million of Meta, \n$META\n, on Aug. 21.\n\nThat same day, he also bought up to $5 million of:\n\nAT&T\nConocoPhillips\nAbbott Laboratories\nNetflix\nChevron\n\nAnd sold up to $5 million each of AMD and Church & Dwight, while trimming Nvidia, Boeing, Home Depot and Dell.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 711
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108265670584791479",
+  "date": "2026-10-08",
+  "text": "Look at this.\n\nOn Aug. 18, Trump bought up to $5 million of SpaceX debt.\n\nTwo days later, he signed a sweeping policy to expand U.S. commercial space transportation.\n\nSpaceX, \n$SPCX\n, is the country's dominant launch provider.\n\nIts stock is up about 11% since.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 686
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108316002224345511",
+  "date": "2026-10-08",
+  "text": "Corporate America is feeling the bond sell-off as rising Treasury yields force companies to rethink their borrowing plans.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 12
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108317982082334862",
+  "date": "2026-10-08",
+  "text": "BREAKING: Iranian operatives used OpenAI models and fake personas to help plant news articles critical of the US war against Iran in multiple US media outlets, OpenAI has said.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5182
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108324307235672357",
+  "date": "2026-10-08",
+  "text": "The United States is strongly advising Americans against traveling to Russia as Washington monitors reports of a suspected pneumonic plague case in the Siberian region of Irkutsk.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108331101618090045",
+  "date": "2026-10-08",
+  "text": "Palmer Luckey's bank is on a tear. Erebor, the tech-focused bank founded by the Oculus creator and Anduril co-founder, has surged to more than $7 billion in deposits\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 23
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108339406532960480",
+  "date": "2026-10-08",
+  "text": "The total bill per household since the U.S.-Iran conflict began is around $1,760, according to an analysis from Moody's Analytics as of September 11.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 20
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108346201095516339",
+  "date": "2026-10-08",
+  "text": "About 71.5% of U.S. adults say they experienced fatigue on at least some days over the past three months, making exhaustion one of the most common health complaints in the country.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 19
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108349965827280920",
+  "date": "2026-10-09",
+  "text": "SpaceX has agreed to buy a nationwide low-band spectrum license portfolio, per Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2202
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108354506094199067",
+  "date": "2026-10-09",
+  "text": "A new Cato/Morning Consult poll of 4,150 registered voters finds 75% say tariffs will matter to their midterm vote, including 35% who say the issue is very important.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108361300677955966",
+  "date": "2026-10-09",
+  "text": "The 10-year Treasury yield climbed to 5.34% on Thursday, its highest level since 2002, as a global bond selloff pushed borrowing costs to multidecade highs across the U.S., France, Britain and Japan.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108367686317289881",
+  "date": "2026-10-09",
+  "text": "BREAKING: USA Today sues OpenAI for copyright infringement over AI training",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3833
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108371367011783127",
+  "date": "2026-10-09",
+  "text": "Peter Schiff is sounding the alarm on bonds again. The economist says the 10-year Treasury yield will soon break 5.5%, and if it does, mortgage rates will climb above 8%.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 19
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108376400218497062",
+  "date": "2026-10-09",
+  "text": "It cost 13.31 cents to produce a single nickel in fiscal year 2025, down slightly from 13.78 cents in fiscal year 2024.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108384705083314613",
+  "date": "2026-10-09",
+  "text": "The United States has sent Moscow a formal diplomatic warning, telling Russia that its failure to disclose details about the death of a lab worker at a plague research center in Siberia violates international health obligations.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 25
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108391499700502859",
+  "date": "2026-10-09",
+  "text": "Kenya has confirmed its first-ever case of Ebola, and it has proven fatal.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108399804736754106",
+  "date": "2026-10-09",
+  "text": "Wealth is not the same as money, he said.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108404693869420708",
+  "date": "2026-10-09",
+  "text": "Holy.\n\nWant to connect Claude with Unusual Whales?\n\nGet your options data, right to your chat.\n\nHere's how.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 116
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108414904118210796",
+  "date": "2026-10-09",
+  "text": "Trump added that he had considered such actions inappropriate at the time out of respect for the office of the presidency, but that his two impeachments changed his thinking.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 24
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108428996748747253",
+  "date": "2026-10-09",
+  "text": "Good night to everyone:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 87
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108490653315498307",
+  "date": "2026-10-09",
+  "text": "Good morning to everyone:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 54
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108494176279294155",
+  "date": "2026-10-09",
+  "text": "Iran’s foreign minister has said that talks with Washington are continuing through mediators, with messages still being exchanged, per Bloomberg.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 224
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108497951563935878",
+  "date": "2026-10-09",
+  "text": "The Trump administration is crafting plans that would allow the temporary sale of some previously restricted peptides, per WaPo",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 229
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108501977852248393",
+  "date": "2026-10-09",
+  "text": "Meta, \n$META\n, has banned TikTok from advertising on its apps.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 836
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108507010874696068",
+  "date": "2026-10-09",
+  "text": "Senator John Kennedy on race: \"Most Americans don't think that much about color anymore... They understand that to a bear, we all taste like chicken.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1817
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108512044144021744",
+  "date": "2026-10-09",
+  "text": "The World Health Organization has said that it had few clear answers about the recent death of a worker at a Russian institute that researched plague, per CNN",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 386
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108517077430555135",
+  "date": "2026-10-09",
+  "text": "OpenAI staff knew the ‘existential threat’ AI posed to publishers, per the NYT",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 461
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108522110507495547",
+  "date": "2026-10-09",
+  "text": "BREAKING: Foreclosure filings have risen 13% year-over-year, per HousingWire",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2758
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108527143542305142",
+  "date": "2026-10-09",
+  "text": "\"McDonald's prices have doubled in the last ten years.  The profits have gone mostly to shareholders, who got nearly $40 billion in dividends over the past decade,\" per MorePerfectUnion",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5504
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108532176933532137",
+  "date": "2026-10-09",
+  "text": "China is buying gold at a record pace.\n\nIt imported more than 1,000 tonnes of gold through August, already more than all of 2025, per Bloomberg.\n\nIt spent nearly $160 billion doing it, a record.\n\nThe central bank has bought gold for 22 straight months, now holding about 2,387 tonnes.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 964
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108537461739585995",
+  "date": "2026-10-09",
+  "text": "AI is creating jobs, just not for young workers.\n\nCompanies adopting AI are hiring more people overall, per a new Stanford and King's College London study across 41 countries.\n\nBut the gains go to the top:\n\nSenior employment: +6.7% over 5 years\nJunior employment: -3%\n\nThe share of junior workers at those companies fell 1.9 percentage points.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 395
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108542243003060547",
+  "date": "2026-10-09",
+  "text": "39% of Americans canceled at least one streaming subscription in the past six months, per Ipsos, that's up from 29% in March.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1131
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108547276327325808",
+  "date": "2026-10-09",
+  "text": "Elon Musk has said that he guesses that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1050
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108547276415078841",
+  "date": "2026-10-09",
+  "text": "Trump has blamed Democrats for high cost of living.\n\n\"I inherited high costs from the Democrats, or the 'Dumbocrats' as I call them.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1012
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108553841625223606",
+  "date": "2026-10-09",
+  "text": "BREAKING: Canada’s economy lost 68,300 jobs in September, far worse than forecasts for a gain of 9,200.\n\nThe unemployment rate rose to 6.5%.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 8835
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108559991636406581",
+  "date": "2026-10-09",
+  "text": "BREAKING: Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event, and they assume one in 2027, per Axios",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 12758
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108566123515887713",
+  "date": "2026-10-09",
+  "text": "France is on a “fiscally unsustainable path” and may have become “too big to save” for the European Central Bank, economist Paul Krugman has said",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4877
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108570429438779709",
+  "date": "2026-10-09",
+  "text": "Apple, \n$AAPL\n, has cut component orders for the iPhone 18 Pro models by at least 15% this month due to “weaker-than-expected” demand, per Bloomberg.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 562
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108574707079639061",
+  "date": "2026-10-09",
+  "text": "BREAKING: AI companies are planning for what happens AI causes a likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water, per Axios",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4200
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108576653437775955",
+  "date": "2026-10-09",
+  "text": "BREAKING: Today, the Trump Administration is sanctioning the ICC, Marco Rubio has said.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1155
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108578985516900669",
+  "date": "2026-10-09",
+  "text": "BREAKING: The US 10-year Treasury yields risk hitting 6% for the first time since 2000, Pimco has said.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2924
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108583012422107387",
+  "date": "2026-10-09",
+  "text": "Trucking industry hit by string of bankruptcy filings as diesel costs surge, per FOX",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4871
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108587541410775134",
+  "date": "2026-10-09",
+  "text": "Trump has said that people who use the term Artificial Intelligence, instead of Super Intelligence, are \"THE ENEMY\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 404
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108592323135467562",
+  "date": "2026-10-09",
+  "text": "Trump has created a commission to evaluate the mortgage fraud allegations made against Fed Governor Lisa Cook and has scheduled an in-person hearing at the White House on Nov. 5.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 265
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108597607799169267",
+  "date": "2026-10-09",
+  "text": "Robinhood’s, \n$HOOD\n, margin book grew to a record $21.6 billion in the second quarter, up 127% year over year and a 332% increase from the $5 billion seen in Q2 2024, per CNBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 687
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108602389297283375",
+  "date": "2026-10-09",
+  "text": "Wow.\n\nVerizon, \n$VZ\n, is having one of its worst days since 2002.\n\nWhy?\n\nSpaceX just landed a nationwide low-band spectrum deal, a major step toward turning Starlink into a full mobile carrier.\n\nVerizon has lost roughly $18 billion in market value today.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 984
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108607674246164897",
+  "date": "2026-10-09",
+  "text": "BREAKING: AI companies are privately predicting a catastrophic AI-driven event is highly possible within the next 6 to 12 months, per YF",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 6061
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108612455610106285",
+  "date": "2026-10-09",
+  "text": "Texas Democratic Senate candidate James Talarico has been off the campaign trail for 13 days while reportedly battling the flu, per NBC.\n\nTalarico hasn’t appeared at an in-person event in Texas since September 26.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1089
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108617992049402238",
+  "date": "2026-10-09",
+  "text": "BREAKING: The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, per CNBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 3240
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108623025285599407",
+  "date": "2026-10-09",
+  "text": "NYU math professor Tristan Buckmaster says OpenAI’s Tuesday drop of 722 AI-generated math papers has \"destroyed the careers of early career mathematicians.”",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5582
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108628058433572971",
+  "date": "2026-10-09",
+  "text": "JUST IN: The amount of money investors are borrowing from their brokerage firms to purchase securities has climbed to record levels, per CNBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2676
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108632021144867147",
+  "date": "2026-10-09",
+  "text": "Russia will supply Diesel fuel to America:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11388
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108632588302856389",
+  "date": "2026-10-09",
+  "text": "NEWS: Australian AI data center operator Firmus, which is backed by Nvidia, has withdrawn its planned mega initial public offering, per CNBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 363
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108701794339893604",
+  "date": "2026-10-09",
+  "text": "The National Medal of Science is the highest honor the United States bestows for scientific achievement.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108708589041000934",
+  "date": "2026-10-09",
+  "text": "The government will no longer accept new applications or process pending PERM applications from Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL, Capgemini, Microsoft and Adobe.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 31
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108716893976543716",
+  "date": "2026-10-10",
+  "text": "A combination would unite two restaurant giants into a company with nearly $50 billion in annual sales.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 14
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108723688564768933",
+  "date": "2026-10-10",
+  "text": "The Trump administration is suspending Microsoft from the federal program companies use to sponsor green cards for workers on H-1B visas, accusing the tech giant of fraud.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 16
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108729560703414504",
+  "date": "2026-10-10",
+  "text": "BREAKING: Kamala Harris’s husband has privately told people he would prefer she doesn’t run for president again, per WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10051
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108731993441894548",
+  "date": "2026-10-10",
+  "text": "The anchor trade of the month was a purchase of between $5 million and $25 million in Meta shares on August 21.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 15
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108739039650340913",
+  "date": "2026-10-10",
+  "text": "OpenAI identified almost 100 articles published or syndicated under the operation's bylines across roughly a dozen outlets focused on international affairs, geopolitics and the Middle East.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 27
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108747092927930736",
+  "date": "2026-10-10",
+  "text": "\"Sustained and needless abusive or cruel behavior\" toward Claude is now prohibited.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 21
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108753887544930466",
+  "date": "2026-10-10",
+  "text": "It would be the first U.S. military execution by firing squad since 1945.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 31
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108881981727539710",
+  "date": "2026-10-10",
+  "text": "Now this is a cool feature.\n\nWe made it so you can have your own console on Unusual Whales.\n\nEvery print, ranked and alerted from one command line.\n\nSee more: \nhttps://\nunusualwhales.com/console",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 46
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108890538518741190",
+  "date": "2026-10-10",
+  "text": "Now this is cool.\n\nWant to see Unusual Whales right in your ChatGPT?\n\nNow you can.\n\nFind out how below.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 84
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108902114466644141",
+  "date": "2026-10-10",
+  "text": "Now this is unusual.\n\nVerizon, \n$VZ\n, had one of its worst days since 2002.\n\nBut did someone know about the incoming SpaceX, \n$SPCX\n, news?\n\nTake a look.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 289
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108915200489673166",
+  "date": "2026-10-10",
+  "text": "You can get Unusual Whales right on Claude.\n\nYou heard that right.\n\nConnect it now to see the flow right in your chat.\n\nLearn more below.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 86
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108920737721381213",
+  "date": "2026-10-10",
+  "text": "More than 1 in 3 Americans can't name all 3 branches of the government, per Axios:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1666
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108928287468638695",
+  "date": "2026-10-10",
+  "text": "This is a must have feature.\n\nThe all new GEX heatmap is available right on Unusual Whales.\n\nGet every ticker, in real time, with key levels, call walls, and so much more.\n\nSee more: \nhttps://\nunusualwhales.com/stock/SPY/gree\nk-exposure?tab=Spot&type=heatmap&greek=gamma&dte=all\n…",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 75
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108935837207691585",
+  "date": "2026-10-10",
+  "text": "U.S. homes are now the least affordable on record.\n\nYou now need over $120,000 in income to afford a median-priced home, per the Atlanta Fed, more than the typical household earns.\n\n30-year mortgage rates hit 7.24% in mid-September.\n\nThe monthly payment on a $500,000 loan has jumped about $400, to roughly $3,400.\n\nHome sales have plunged to a 31-year low.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 7645
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108943387323740179",
+  "date": "2026-10-10",
+  "text": "Look at this new toolset.\n\nThe stock screener channel, from Unusual Whales.\n\nOne ticker, every layer of insight.\n\nSee more: \nhttps://\nunusualwhales.com/api",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 75
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108966035911319823",
+  "date": "2026-10-10",
+  "text": "OpenAI CEO Sam Altman has said that artificial intelligence will provide significant benefits that justify the tradeoff of accepting “some bad things,\" per Forbes",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 668
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108981135929729331",
+  "date": "2026-10-10",
+  "text": "Oracle, \n$ORCL\n, is down 52% in the past year.\n\nOn September 29, a director bought about $3.5 million of the stock.\n\nFormer Quest Diagnostics CEO Steve Rusckowski bought 25,000 shares at around $139.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 534
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108989808223903872",
+  "date": "2026-10-10",
+  "text": "BREAKING: The Pentagon acknowledged that the number of troops who have died in the Middle East during its operations against Iran is higher than previously reported, and updated the official count to include two more noncombat deaths, per WaPo",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4432
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108992039140659577",
+  "date": "2026-10-10",
+  "text": "BREAKING: Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices, per AP",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4210
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2108996235151429845",
+  "date": "2026-10-10",
+  "text": "Look at this.\n\nMeta, \n$META\n, insiders have made 172 trades in their own stock over the past six months.\n\nPurchases: zero.\n\nCFO Susan Li: ~$95 million sold\nCOO Javier Olivan: ~$24 million sold, often every week\nProduct chief Chris Cox: $13 million sold on Sept. 9\nCTO Andrew",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 729
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109011334041874493",
+  "date": "2026-10-10",
+  "text": "11% of U.S. adults now take a GLP-1 for weight loss, roughly 28 million people, up from just 3% in 2024, per Gallup.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5405
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109124580254064893",
+  "date": "2026-10-11",
+  "text": "Executives expect such an incident could quickly bring demands for tougher regulation and force policymakers to act under pressure, according to the report.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 25
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109132130190049486",
+  "date": "2026-10-11",
+  "text": "Canada's economy shed a net 68,300 jobs in September and the unemployment rate edged up, data showed on Friday, erasing all the employment gains recorded earlier this year.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 24
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109139679681417284",
+  "date": "2026-10-11",
+  "text": "\"August's data shows that foreclosure activity continues to trend above year-ago levels, particularly in completed foreclosures, which saw a notable annual increase,\" said Rob Barber, CEO of ATTOM.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 13
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109147229566963722",
+  "date": "2026-10-11",
+  "text": "\"France is on a fiscally unsustainable path,\" he wrote.\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 18
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109154779196981650",
+  "date": "2026-10-11",
+  "text": "More Perfect Union said: \"The profits have gone mostly to shareholders, who got nearly $40 billion in dividends over the past decade while customers suffer and workers are underpaid.\"\n\nRead more:",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 21
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109235361977401403",
+  "date": "2026-10-11",
+  "text": "BREAKING: Poland holds emergency meeting following possible assassination attempts on Prime Minister and defence minister",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 13858
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109244369626607796",
+  "date": "2026-10-11",
+  "text": "Now this is a cool feature.\n\nWe made it so you can have your own console on Unusual Whales.\n\nEvery print, ranked and alerted from one command line.\n\nSee more: \nhttps://\nunusualwhales.com/console",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 49
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109253429680099813",
+  "date": "2026-10-11",
+  "text": "Now this is cool.\n\nWant to see Unusual Whales right in your ChatGPT?\n\nNow you can.\n\nFind out how below.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 58
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109264250623717726",
+  "date": "2026-10-11",
+  "text": "Now this is unusual.\n\nVerizon, \n$VZ\n, had one of its worst days since 2002.\n\nBut did someone know about the incoming SpaceX, \n$SPCX\n, news?\n\nTake a look.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 155
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109277588346773838",
+  "date": "2026-10-11",
+  "text": "You can get Unusual Whales right on Claude.\n\nYou heard that right.\n\nConnect it now to see the flow right in your chat.\n\nLearn more below.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 92
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109298225488576541",
+  "date": "2026-10-11",
+  "text": "GameStop, \n$GME\n, CEO Ryan Cohen keeps buying his own stock.\n\nSept. 10: 1 million shares, $20.4 million\nSept. 21: 1.15 million shares, $26.4 million\nSept. 29: 450,000 shares, $10.6 million\n\nThat's about $57 million in less than a month.\n\nHe now owns nearly 41 million shares directly.\n\nFour GameStop directors have bought shares too.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1408
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109305775113822413",
+  "date": "2026-10-11",
+  "text": "Look at this new toolset.\n\nThe stock screener channel, from Unusual Whales.\n\nOne ticker, every layer of insight.\n\nSee more: \nhttps://\nunusualwhales.com/api",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 39
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109311268301742556",
+  "date": "2026-10-11",
+  "text": "Trump claims Russia and Ukraine have agreed to what he described as an \"energy ceasefire.\"\n\nZelensky has said it is \"news to me.\"",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1486
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109313324051513781",
+  "date": "2026-10-11",
+  "text": "\"Canada is preparing for a (long shot) US invasion,\" per BBC",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4644
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109319026128343460",
+  "date": "2026-10-11",
+  "text": "BREAKING: Kamala Harris is laying the groundwork for a third presidential run, per WSJ",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 4190
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109328423671693452",
+  "date": "2026-10-11",
+  "text": "Young men are reportedly turning on Republicans, per Cygnal.\n\nDemocrats now lead 52% to 42% among men ages 18 to 30 on the generic ballot, per POLITICO.\n\nAmong those most determined to vote, it's 57% to 40%.\n\nTheir top concern: the cost of living, the same issue that pushed many of them toward the GOP two years ago.\n\n43% say the rules in this country are set up against young men.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 2038
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109337963150922129",
+  "date": "2026-10-11",
+  "text": "Russia had more than 50,000 casualties in Ukraine last month, with as many as 28,000 personnel killed, vastly more than Ukrainian forces, per Bloomberg",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 1398
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109343523061531072",
+  "date": "2026-10-11",
+  "text": "Americans are scared of AI.\n\n75% say they feel more fear and concern than hope and excitement about AI, per a new CNN poll. Only 25% lean toward hope.\n\nIt crosses party lines:\n\nDemocrats: 85%\nIndependents: 77%\nRepublicans: 62%",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 679
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109358622891557048",
+  "date": "2026-10-11",
+  "text": "Moderna, \n$MRNA\n, is now up more than 600% this year.\n\nIt started 2026 at about $29, now at $225.\n\nIt’s one of the best-performing stock in the S&P 500.\n\nThe run:\n\nAugust: jumped 140% in a single day on positive late-stage melanoma vaccine data\nSeptember: kept climbing toward $200\nOn Oct 9: up 14% after reports the NIH will push to speed up personalized cancer vaccines",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 389
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109367745871810569",
+  "date": "2026-10-11",
+  "text": "BREAKING: Microsoft, \n$MSFT\n, CEO calls for an ‘emergency brake’ on AI.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 769
+ },
+ {
+  "author": "unusual_whales",
+  "id": "2109373722134011922",
+  "date": "2026-10-11",
+  "text": "The AI buildout is now the biggest investment boom in U.S. history.\n\nFinancing it will cost $10.3 trillion from 2025 to 2032, an average of 3.63% of U.S. GDP every year, per a new Brookings study.\n\nThat's bigger relative to the economy than the canal, railroad, electrification, highway and telecom booms.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 185
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2107884250829873544",
+  "date": "2026-10-07",
+  "text": "And they can also switch off networks very easily",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 8
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2107899051283005733",
+  "date": "2026-10-07",
+  "text": "what about Big whale",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 10
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2107901246304817423",
+  "date": "2026-10-07",
+  "text": "memory bois",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 30
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2107996370045194624",
+  "date": "2026-10-08",
+  "text": "This will be spicy",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 100
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108005109196267606",
+  "date": "2026-10-08",
+  "text": "LMAO\nDawg was sabotaging other research projects at Bytedance\nAlso won the NeurIPS best paper award in 2024 for VAR",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 551
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108022979645100388",
+  "date": "2026-10-08",
+  "text": "This note was a real banger\nLast 1 month's performance of some names\nAPACT - 72% \nKorea Circuit - 69%\nSimmtech - 44%",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 80
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108051135491875237",
+  "date": "2026-10-08",
+  "text": "they don't need to",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108072692964602042",
+  "date": "2026-10-08",
+  "text": "Samsung",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 284
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108078377441915344",
+  "date": "2026-10-08",
+  "text": "Funny Hock Tan anecdote",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 37
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108131887797645782",
+  "date": "2026-10-08",
+  "text": "BRUH",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 159
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108136786484682946",
+  "date": "2026-10-08",
+  "text": "RUUUBIN",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 163
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108145234538647827",
+  "date": "2026-10-08",
+  "text": "Still some thermal issues and only Sammy's HBM4 is usable rn",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 138
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108145636269084920",
+  "date": "2026-10-08",
+  "text": "AMD is getting the HBM4 that fails Nvidia's pin speed requirements for cheap LOL",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 388
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108166816099098943",
+  "date": "2026-10-08",
+  "text": "Blended revenue per GW will pass $60B+ (due to new hardware and efficiency gains), and dedicated inference capacity should be around 10GW-12GW by EOY27\nAs long as demand is there, $600B+ in combined lab ARR by the end of 2027 is possible\nAutomating more parts of knowledge work and coding will continue (persistent agents available to customers will run for weeks)\nBel/Model 3 class models can accelerate R&D and eat into global R&D spending. This is the next big opportunity imo. We will start hearing more about this from late Q1 or early Q2 2027.",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 236
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108242152153342139",
+  "date": "2026-10-08",
+  "text": "happy birthday, bro",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 11
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2108428998862876686",
+  "date": "2026-10-09",
+  "text": "Masa will finesse MBS again lol",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 360
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2109237719176229108",
+  "date": "2026-10-11",
+  "text": "Silicon Carbon batteries are already available\nPhones will cross 10000 mAh",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 274
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2109269370937733136",
+  "date": "2026-10-11",
+  "text": "@jukan05\n u turned into fried chicken, bro???",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 17
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2109304176526438749",
+  "date": "2026-10-11",
+  "text": "They will adopt FoCoS at ASE and FOPLP later at Powertech",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 78
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2109309005332197634",
+  "date": "2026-10-11",
+  "text": "LMAOOO",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 89
+ },
+ {
+  "author": "zephyr_z9",
+  "id": "2109365592046371228",
+  "date": "2026-10-11",
+  "text": "wdym??\nUse their compute?",
+  "is_repost": false,
+  "quoted_text": "",
+  "likes": 5
+ }
+]
