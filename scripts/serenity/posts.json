@@ -6569,7 +6569,7 @@
 "SMTC": "bull"
 },
 "text": "So on optical vs. photonics... Memory like \n$MU\n / \n$SKHY\n is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per \n$NVDA\n ER, Hyperscaler capex goes up in 2027. Then you have 68% of hyperscaler capex per Trendforce going to DRAM/NAND. \n\n-> 50-70% for next 3-5 years already allocated toward LTAs. \n\nSo supercycle is here... demand visibility is high and the price hikes are still ongoing. \n\nAs photonics like \n$SMTC\n to \n$AAOI\n, I expect to cook heavily in 2027 since we're already seeing widespread optical shortages in 2026. \n\nPlus, you're going from $67.7B in 2026 (per GS) to $131.4B TAM in 2027 for optical modules...\n\nWhich impacts the DSPs/TIAs/lasers/fiber suppliers  before CPO scale up really takes off in 2028. \n\nI don't think we'll ever see the same scale of memory price hikes, but I do think there's a lot room for more for  MC growth in optical supply chains (given smaller starting point eg. $1B CW laser supplier vs $1T memory maker).\n\nBut still there's room for price hikes on laser content (eg. $15–$20 for 4 70 mW lasers per GS note) since starting point is really cheap... and one component, like cheap InP substrates can break hundreds of billions worth of supply chains downstream. \n\nWe're already seeing laser price hikes tho from CIOE channel checks confirmed by both Innolight / $SIVE from the Serenity's follower channel checks. \n\nSo entering uncharted territory. \n\nTLDR: Messy thought but, memory has near term earnings power, midst of current supercycle. \n\nThe next \"memory\" ASP hikes I'm seeing is clearly legacy memory (DDR2/DDR3/SLC NAND) from cascading bottlenecks. It just looks to be an extension of the memory theme. \n\nMaybe MLCC looks similar in terms of earlier cycles. \n\nIf we were to track supercycle impact on the supply chain in the space...\n\nI'm confident next thematic one looks to be photonics entering 2027.",
-"likes": 1154
+"likes": 1155
 },
 {
 "id": "2101402656845808007",
@@ -6583,7 +6583,7 @@
 "SIVE": "bull"
 },
 "text": "Just floating out an idea to \n$AVGO\n:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike \n$MRVL\n (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments.  \n\nWhere many also seem to be aligned with your best friend \n$NVDA\n…\n\nMaybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply?",
-"likes": 1232
+"likes": 1233
 },
 {
 "id": "2101730902615486643",
@@ -6596,7 +6596,7 @@
 "SIVE": "neutral"
 },
 "text": "While everyone is focused on Bessent/He Lifeng talks today. Or \n$LITE\n / \n$MRVL\n / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I only get 50 comments. \n\nFeels bad anon",
-"likes": 1062
+"likes": 1065
 },
 {
 "id": "2101737329270665523",
@@ -6658,7 +6658,18 @@
 "SKHY": "bull"
 },
 "text": "The main duo \n$SKHY\n and Samsung are having a fun day. \n\nI'm still long memory (eg. \n$EWY\n / \n$DRAM\n ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think legacy memory a very interesting trade currently due to ASP hike potential.. \n\nIt also just so happens these same companies procure memory from even smaller memory companies (that might have higher sensitivity)...\n\nSo if you want to, you can track $PSMC wafer allocations, and find some interesting companies that likely replace \n$MU\n discontinued legacy memory through Alliance or supply directly to Samsung. \n\nWon't mention them on X, but just throwing out some research ideas.",
-"likes": 1041
+"likes": 1045
+},
+{
+"id": "2101909316957872324",
+"date": "2026-09-21",
+"zh": "ESMT 7 月淨利約 1.11 億美元、8 月營收月增 16.5%，產品對漲價高度敏感，作者認為股價應該更高。",
+"risk": "市場未必及時反映",
+"s": {
+"ESMT": "bull"
+},
+"text": "@DanilSer33 I personally think $ESMT should be a lot higher since July net income was absurd (~$111M, <2 annualized July RR). Growing revenue ~16.5% M/M is also absurd from July -> August.\n\nAnd I did track their products, which has high sensitivity to hikes... (which are heavily expected H2)\n\nMarkets aren't always efficient, and maybe just needs a reminder after Q3 earnings.",
+"likes": 59
 },
 {
 "id": "2102062423499047004",
@@ -6680,7 +6691,58 @@
 "SIVE": "bull"
 },
 "text": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n\n$AMD\n +9.13% | \n$INTC\n +14.16% | \n$ARM\n +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | \n$AAOI\n +3.39% | AMS OSRAM +24.61%\n\nLasers go brrr\n\n\n$EWY\n +4.08% | \n$DRAM\n +2.83% | \n$MU\n +2.23%\n\nMemory go brrr\n\n\n$NBIS\n +4.7% | \n$CRWV\n +5.03% | \n$IREN\n +1.73%\n\nCompute go brrr\n\nProbably most material developments were CPU:GPU ratio expectations + CPU demand (from new AI releases).  \n\nAs well as optical developments from ECOC 2026 (as seen with \n$MRVL\n PR + others)\n\nStill a lot to catch up on.",
-"likes": 1699
+"likes": 1698
+},
+{
+"id": "2102065409482727842",
+"date": "2026-09-21",
+"zh": "Soitec 實質壟斷矽光子用 SOI 晶圓，作者希望其利用地位提高售價，能否再創新高視長約規模而定。",
+"risk": "長約與定價不如預期",
+"s": {
+"SOI": "bull"
+},
+"text": "@gurkyboy $SOI is the perfect example of a complete monopoly over silicon photonics. (lot of folks float 95% figures like UBS or Shin Etsu that Soitec basically licenses), but practically speaking...\n\nIt's kinda 100% since it's used to manufacture all SOI Wafers, people just don't like to use the word monopoly in markets.\n\nDepends on all their LTAs that they're going to sign as well as pricing. I would appreciate it if they abused their position to secure higher pricing.\n\nWe'll see on the scale of their agreements if it deserves to be ATHs again",
+"likes": 75
+},
+{
+"id": "2102067535915123156",
+"date": "2026-09-21",
+"zh": "以 2027 年為期看好 SIVE 與 AAOI 的產能放量；NBIS 第四季受惠漲價；舊世代記憶體與 CPU 股近期可望強勢。",
+"risk": "AAOI 6 億 ATM 短期壓力",
+"s": {
+"AAOI": "bull",
+"AMD": "bull",
+"ARM": "bull",
+"ESMT": "bull",
+"INTC": "bull",
+"NBIS": "bull",
+"SIVE": "bull"
+},
+"text": "@wannabepanacea $SIVE and $AAOI, yes for a 2027 timeframe. That's the nuance.\n\nSivers you're coming on with 100M CW DFB laser capacity + 2 external foundries (maybe 300M in total), and all my supply chains mapping maps to larger hyperscaler suppliers.\n\nAAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe. With hyperscalers + demand eating up all their capacity. There's just a $600m ATM which presents overhang near term.\n\n$NBIS already got re-rated but it's very positive upcoming for Q4 2026 (esp. with price hikes).\n\nLegacy memory like $ESMT + (some I haven't named yet) + regular memory names like Samsung, I do think will strongly outperform near term. And obviously CPUs names like $INTC $AMD $ARM as of recent.",
+"likes": 180
+},
+{
+"id": "2102068786493026492",
+"date": "2026-09-21",
+"zh": "AXTI 單日漲 12.4%，磷化銦基板是美國光通訊擴建的瓶頸，若定價權提升仍有大幅重估空間。",
+"risk": "淪為中美談判籌碼",
+"s": {
+"AXTI": "bull"
+},
+"text": "@TradingTh3Trend Glad $AXTI also went up +12.4% today. It's probably being used like a chess piece in terms of Xi + Trump discussions right now.\n\nSince InP substrates would bottleneck the optical buildout by the US for AI.\n\nBut if they have more control over pricing... I do think there's a lot of room for rerating.",
+"likes": 91
+},
+{
+"id": "2102070202779492802",
+"date": "2026-09-21",
+"zh": "反駁看空報告：Nebius 融資方式比 CoreWeave 等新雲端更可持續，且已調漲租價 17–21%，ClickHouse、Avride 等子公司價值常被忽略。",
+"risk": "",
+"s": {
+"CRWV": "neutral",
+"NBIS": "bull"
+},
+"text": "@mengxiong715781 ridiculous report. The way $NBIS does financing is much more sustainable than $CRWV and other neoclouds.\n\nThere were also claims about falling GPU pricing but Nebius hiked rates by like 17-21% (oracle also hiked pricing for 4+ year equipment).\n\nSum of parts is also something many analysis miss, Clickhouse would likely drive a lot of value to nebius. As well as Avride (with Uber) + their other companies.",
+"likes": 85
 },
 {
 "id": "2102247915251224980",
@@ -6696,7 +6758,7 @@
 "NBIS": "neutral"
 },
 "text": "All right \n$META\n Muse is cooking. \n\nI can hear all the \n$AMD\n, \n$INTC\n, and \n$ARM\n CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form tasks… \n\nIntel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need, so there’s some signals there.\n\nI’m also curious how much \n$AMZN\n or \n$NBIS\n is involved with running Muse, or if Meta hosts everything inhouse.\n\nKinda an ADHD post but Meta beat my expectations with this release.\n\nWill keep trying it out",
-"likes": 1459
+"likes": 1460
 },
 {
 "id": "2102256045938852015",
@@ -6708,7 +6770,7 @@
 "HOOD": "bull"
 },
 "text": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like \n$HOOD\n / \n$COIN\n / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  \n\nThat aside... crypto is usually a great indicator for high-beta AI equities believe it or not (they tend to frontrun broader market drops or rallies). \n\nSo overall market risk appetite might be coming back despite the rate hikes.",
-"likes": 1091
+"likes": 1092
 },
 {
 "id": "2102371692106695149",
@@ -6732,7 +6794,7 @@
 "UPWK": "neutral"
 },
 "text": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like \n$UPWK\n or \n$PYPL\n, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyback/dividend appreciation from their cashflow. \n\nNow you can find 1.8x runrate P/E company like $ESMT that grew revenue 605.24% Y/Y. \n\nAnd the main thing you need to argue about is duration. \n\nOr a 16.2x trailing P/E Sumitomo, despite having way too many hyperscaler LTAs in AI from fiber to lasers. \n\nAI created much bigger medium-term anomaly, where \"value investing\" went towards high growth, \"deep value\" companies.",
-"likes": 796
+"likes": 797
 },
 {
 "id": "2102427727987179692",
@@ -6744,7 +6806,20 @@
 "SNDK": "bull"
 },
 "text": "I guess I need to start calling \n$SNDK\n or \n$LITE\n Super Intelligence stocks.\n\nThanks Trump.",
-"likes": 1002
+"likes": 1004
+},
+{
+"id": "2102569588433334309",
+"date": "2026-09-23",
+"zh": "記憶體長約延至 2031 年，博通、Nvidia 都預期受產能限制的高成長，Sivers 執行長稱雷射供需失衡至少 3–5 年。",
+"risk": "需逐年重新評估",
+"s": {
+"AVGO": "bull",
+"NVDA": "bull",
+"SIVE": "bull"
+},
+"text": "@ardninja Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.\n\n$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).\n\n$SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years.\n\nI think semi supply chain growth needs to be re-accessed year by year, but at least for the next year and half I see unprecedented growth.",
+"likes": 186
 },
 {
 "id": "2102625462069637371",
@@ -6769,7 +6844,7 @@
 "SIVE": "bull"
 },
 "text": "So update from \n$LITE\n + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- \n$NVDA\n Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ASPs (Sivers offers multi wave length DFB arrays, read through on higher valued products)\n- Demand for UHP lasers continues to exceed supply\n\nJust a status update in terms of how the optical bottleneck is going (laser prices going up, demand exceeds supply).  \n\nDigitimes also reported today Win Semi ( $SIVE foundry ) was expanding capacity for CW lasers.\n\n- \"CW products... are expected to gradually emerge in the second half of 2026\", with meaningful revenue contribution likely coming in 2027 and 2028.\n- Win has strengthened inventory management for InP substrates while moving toward 6-in InP wafers for ongoing process testing. Currently relies on Tier-1 International suppliers.  \n- Many of this was spent on DUV tools from \n$ASML\n but (Win Semi's orders spanned machinery, equipment, and fab engineering work)\n\nSo that answers a lot of questions about Sivers' partner \"how is this company securing InP substrates\", \"4in vs 6in\", \"production timing\"\n\nTLDR:\n- NPO > CPO (per Lite), multi-wavelength lasers going brrr for prices\n- demand > supply (continuation)\n- Not sure why people have been bear posting Win Semi when turns out they have everything needed to mass produce CW lasers.",
-"likes": 890
+"likes": 891
 },
 {
 "id": "2102766392336580670",
@@ -6780,7 +6855,7 @@
 "LPK": "neutral"
 },
 "text": "Yep, just saw the news on $LPK! I'll do some digging to see if I can find out who it is",
-"likes": 115
+"likes": 114
 },
 {
 "id": "2102790422007550083",
@@ -6793,7 +6868,26 @@
 "SMTC": "bull"
 },
 "text": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to \n$MU\n, \n$SKHY\n, Samsung, and others like \n$SMTC\n + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m range for optical components, CPUs, memory, and others that are inflecting due to AI.\n\nI don’t share these names publicly since risks/volatility is enormous. \n\nBut one or two going from $40M -> $400m makes the risk/reward worth it for me personally.",
-"likes": 1073
+"likes": 1080
+},
+{
+"id": "2102793298561970218",
+"date": "2026-09-23",
+"zh": "作者已進入論點追蹤期，上半年已提出主要標的；近期新增的只有 ESMT（舊世代記憶體）與 CCXI（人形機器人）。",
+"risk": "",
+"s": {
+"AAOI": "neutral",
+"ARM": "neutral",
+"AXTI": "neutral",
+"CCXI": "bull",
+"ESMT": "bull",
+"INTC": "neutral",
+"MU": "neutral",
+"NBIS": "neutral",
+"SIVE": "neutral"
+},
+"text": "@degenlurker_ It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS\n\nOnly two recent ones were $ESMT for legacy memory trade and $CCXI for humanoids but aside from that it’s just seeing if they get validated over time\n\nStuff like large body substrates or CXL or MLCC with newer discovery, I’ve already published earlier on",
+"likes": 159
 },
 {
 "id": "2103139052363133062",
@@ -6806,7 +6900,7 @@
 "NBIS": "bull"
 },
 "text": "Wow \n$NBIS\n relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on \n$IREN\n to \n$CRWV\n. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting to see Nebius up 6% even during sector drop…\n\nAfter Oracle was reportedly seeking payment protection if Project Jupiter misses its 2028 opening.\n\nWith Oracle:\n\n\"seeking to protect itself from potential cost increases related to a large DC ​project in New Mexico by sending a force majeure notice\" per Reuters. \n\nLot of new people like to piggyback after it’s up a lot, but there was a lot less people bullish back in 2025. \n\nEspecially during the period with a ton of institutional short sellers back in December. \n\nI still think markets might be underestimating sum of parts growth, even if its core business grows like crazy 2027+ onwards.",
-"likes": 1139
+"likes": 1147
 },
 {
 "id": "2103142262729556021",
@@ -6817,7 +6911,7 @@
 "IREN": "neutral"
 },
 "text": "Good times, I've made amends with \n$IREN\n though",
-"likes": 55
+"likes": 56
 },
 {
 "id": "2103142451020267583",
@@ -6828,7 +6922,20 @@
 "CCXI": "bull"
 },
 "text": "I still have \n$CCXI\n, they haven't even had the listing event yet, so volatility up until then is kinda meaningless to me.",
-"likes": 73
+"likes": 77
+},
+{
+"id": "2103144796110061704",
+"date": "2026-09-24",
+"zh": "IREN 完成 60 億 ATM 後股價表現可望轉佳，收購 Mirantis 補上軟體護城河是最大利多。",
+"risk": "ATM 仍完成約四成",
+"s": {
+"CRWV": "neutral",
+"IREN": "bull",
+"NBIS": "neutral"
+},
+"text": "@fichgarciapinto I would have a much more favorable view on $IREN after they finish their $6B ATM in terms of stock performance (I think they're like 41.5% through).\n\nI think Mirantis acqusition would materially shift a lot of perception of how they rank relative to $CRWV, $NBIS, Lambda, Tensorwave, and others in terms of cluster performance once they finish integration.\n\nI've always started software side of things is actually a moat (backing up what Coreweave CEO was saying), which was what $IREN lacked before.\n\nBut M&A to get that gap fixed is probably the most bullish part of what they've done.",
+"likes": 83
 },
 {
 "id": "2103151990146801812",
@@ -6843,7 +6950,73 @@
 "SNDK": "bull"
 },
 "text": "$AAOI\n has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following \n$AXTI\n like LTA prepayments and using that to fund buildout.\n\nOr taking private placements like \n$NVDA\n + Nebius for $2B and using that to fund buildout.\n\nOr convertible notes at 40% premiums.\n\nIt's really hard for the stock to break out of $100 or $150 or $200 if there's $600M of selling pressure at those levels (and maybe expectations of future ATMs). \n\nI had the same criticism with \n$IREN\n with their $6B ATM, which is why it's been rangebound for half a year. And I'll say the same thing with my own thesis names too.  \n\nI see \n$AAOI\n operationally very bullish for 2027, with $471m/month transceiver revenue. 400k ELSFP units/month entering 2028. \n\nThe revenue ramp is absurd and can compress to single digit forward P/E. \n\nBut I find it hard to get excited over funding infinite ATMs during the buildout, when you're sacrificing opportunity cost with names currently profitable like \n$SNDK\n or Samsung. \n\nI think a lot of retail investors conflate stock performance with how a company is doing operationally.\n\n \n$AAOI\n is capitalizing on a bottleneck with high demand visibility, but  stock has been going nowhere near-term with repeated ATMs. \n\nI do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs.",
-"likes": 1630
+"likes": 1682
+},
+{
+"id": "2103156967053394241",
+"date": "2026-09-24",
+"zh": "Lumentum 主要靠營運現金流擴產，預期 AAOI 在 2027 上半年放量後也會跟進；先前批評的是融資方式。",
+"risk": "2026 高資本支出期",
+"s": {
+"AAOI": "neutral",
+"COHR": "neutral",
+"LITE": "neutral",
+"NVDA": "neutral"
+},
+"text": "@ANoelGC I mean $LITE / $COHR did have $NVDA funding $2B for their buildout.\n\nBut Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ramp up around H1 2027.\n\n2026 is just that high capex buildout period. My criticism was over visibility and financing methods during this timeframe.",
+"likes": 105
+},
+{
+"id": "2103161145934963178",
+"date": "2026-09-24",
+"zh": "美伊傳討論分階段協議重開荷莫茲海峽，解釋大盤突然拉升；川普期中選舉前希望股市強勢。",
+"risk": "地緣協議破局",
+"s": {
+"QQQ": "neutral",
+"SPY": "neutral"
+},
+"text": "If you're curious about the random $SPY / $QQQ candle:\n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions in the Gulf, contain ​oil prices and help bring down politically sensitive US gasoline prices.\"\n\n- \"Trump has said he thinks the US and Iran could reach a deal after midterm elections to Congress on November.”\n\nWould make sense for Trump to want markets as strong as possible during Midterms elections…",
+"likes": 620
+},
+{
+"id": "2103232350348001701",
+"date": "2026-09-24",
+"zh": "Akamai 與 Anthropic 簽 116 億美元 7 年運算合約，需約 55 億美元資本支出預購記憶體等元件，利多 AMD 與美光。",
+"risk": "",
+"s": {
+"AKAM": "neutral",
+"AMD": "bull",
+"MU": "bull"
+},
+"text": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this…\n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory.\n\nSo much for Anthropic/OpenAI calling for an AI slowdown?",
+"likes": 816
+},
+{
+"id": "2103233602721132744",
+"date": "2026-09-24",
+"zh": "Akamai 合約最大受惠者是 CPU（AMD 彈性最大）與記憶體（美光等），元件採購經 Jabil。",
+"risk": "",
+"s": {
+"AKAM": "neutral",
+"AMD": "bull",
+"ARM": "bull",
+"INTC": "bull",
+"JBL": "bull",
+"MU": "bull"
+},
+"text": "@blkslymn Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1.\n\nSo your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung / $MU / SK Hynix are your obvious memory beneficiaries.\n\nComponent procurement is done through $JBL, which potentially benefits their own supply chain if they’re doing networking too.",
+"likes": 68
+},
+{
+"id": "2103237386054570314",
+"date": "2026-09-24",
+"zh": "Akamai 拿下 7 年大單，但真正受惠的可能是上游 CPU 與記憶體供應鏈。",
+"risk": "",
+"s": {
+"AKAM": "neutral"
+},
+"text": "@KhalidIshaq85 Okay thing about it for a second:\n\n$AKAM gets a big deal over 7 years. But in order to actually execute on the deal:\n\nThey gotta buy a ton of CPUs and memory… So these upstream component supply chains are probably the larger beneficiaries over the ones in the headline.\n\nBut can’t give advice in terms of buying something",
+"likes": 94
 },
 {
 "id": "2103490181525631382",
@@ -6855,7 +7028,7 @@
 "SUBWAY": "neutral"
 },
 "text": "People really need to stop thinking about 5% yields over 10 years or 30 years.\n\nEven the inflation of my $SUBWAY sandwich has gone up like 12% a year.\n\nToday it was like $20 after tax, when it used to be like $5… 12 years ago.\n\nThe best way to keep up with inflation of the things that matter, like Sandwiches, is equities like \n$SPY\n.",
-"likes": 1424
+"likes": 1446
 },
 {
 "id": "2104698369591706069",
@@ -6871,7 +7044,18 @@
 "TSM": "neutral"
 },
 "text": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from \n$AMD\n $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remember saying physical AI + world models would major shift way back when, so maybe I should have invested in private companies at the time... \n\nApart from that... other interesting news:\n\n- Some channel checks from ECOC was that \n$NVDA\n apparently secured 50% of \n$LITE\n Greensboro UHP laser capacity? And possibly contracts that allow them to secure the remaining capacity per Barclays. \n\nThat's $5B in lasers (annual capacity)... so it's hilarious to see Nvidia go out and bottleneck the rest of the industry by doing this. But this just puts more strategic value on other merchant laser suppliers + more visibility for Lumentum.\n\nIt's kinda game theory over allocation, since if you secure all the HBM, lasers, and others it inadvertently makes it much harder for competitors to scale their programs. \n\n- Then there's your massive $150B Nvidia authorized buybacks (just look at \n$AAPL\n when they did buybacks..) They're printing too much. \n\n- What's also interesting is that Samsung Electro-Mechanics is expanding their FC-BGA substrate capacity today... but customers are the one funding this. \n\nI also remembered \n$MRVL\n in SEC filings cited large body substrates as one of the core bottlenecks of their program (alongside \n$TSM\n sole source dependencies). So they also went out and did some other expansion agreements with related companies like AT&S recently. \n\n- OpenAI delaying Astra-6.1 October release over safety concerns just now. Nvidia also happened to launch an AI safety platform. \n\nI don't think this is meaningfully bearish that the models are just getting 2 good.",
-"likes": 1662
+"likes": 1692
+},
+{
+"id": "2104709202891735244",
+"date": "2026-09-28",
+"zh": "作者近況：頭痛不適；閒聊遇到自稱 SPCX 的 Cursor 執行長，並與業界主管討論波束成形技術。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "@Itachidata I've had better days, having constant headaches which is a bit rough. I did have some fun channel checks though recently.\n\nSome guy I met by the bathroom yesterday claimed to be $SPCX Cursor CEO. I'm not good with faces so idk if he was lying or not.\n\nAlso had some discussions about beamformer technology with an industry executive, it's apparently more important than I gave it credit for.",
+"likes": 145
 },
 {
 "id": "2105151002760679706",
@@ -6894,7 +7078,7 @@
 "STM": "neutral"
 },
 "text": "Bro, \n$AMZN\n semi ETF portfolio is probably going to end up more compelling than what \n$NVDA\n owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- \n$AAOI\n \n- Alchip\n- \n$MRVL\n (Celestial)\n- \n$ALAB\n\n- \n$CRDO\n \n- \n$JBL\n \n- \n$FLEX\n \n- \n$STM\n \n- \n$CBRS\n \n- \n$GNRC\n\n- \n$FN\n \n- TD SYNNEX\n- \n$QCOM\n \n- Gold Circuit Electronics\n\nAnd others..\n\nIf we look at the private placement amount for GCE in speciifc, it's like .36% of the company... Kinda small financially, meaningful strategically. Esp. since there were claims that GCE supplies ASIC-server PCBs to the four major hyperscaler CSPs...\n\nRegardless it's pretty funny to see Amazon to Nvidia start to own all the worlds leading companies. \n\nSince Amazon has exposure to the entire supply chain like PCBs now, optical fabric with Celestial, lasers with \n$AAOI\n, assembly from \n$FN\n to \n$JBL\n, ASIC partners like \n$QCOM\n / ALchip.",
-"likes": 1623
+"likes": 1671
 },
 {
 "id": "2105369040130847221",
@@ -6916,7 +7100,7 @@
 "JBL": "bull"
 },
 "text": "I actually thought \n$JBL\n earnings were great. \n\nBut usually if you disagree with how markets reacted, that just means there's a buying opportunity.",
-"likes": 61
+"likes": 62
 },
 {
 "id": "2105397070681248021",
@@ -6929,7 +7113,7 @@
 "MU": "neutral"
 },
 "text": "$GOOGL\n Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on \n$MU\n / \n$JBL\n  earnings later. \n\nI've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints?\n\nBut yeah, looks like Google is back.",
-"likes": 1195
+"likes": 1244
 },
 {
 "id": "2105709782854435274",
@@ -6946,7 +7130,7 @@
 "SMTC": "bull"
 },
 "text": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - \n$LITE\n, \n$AAOI\n, \n$COHR\n, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left alone)\n\n- Potential restrictions would likely keep laser market tight (combining US DSPs + lasers could meet the 65% US value threshold per MS)\n\n- Chinese modules could qualify if 65% of bill of materials is US content. Chinese modules using US DSPs and lasers are already near that level\n\n- Analysts expect the positive impact on laser pricing... to be more important than any broad redistribution of transceiver market share.\n\n- Analysts don't expect this to bottleneck hyperscaler AI buildouts, they name InP substrate supply as the key variable to watch (hello \n$AXTI\n ) \n\nTLDR:\n\nComponent suppliers in general are really positive. Like \n$SMTC\n probably winner here for TIAs/drivers (I don't think this was listed), maybe \n$MXL\n for DSPs too. \n\n\n$AAOI\n another large beneficiary. \n\n$SIVE is high-key alpha for laser beneficaries since they have \"tremendous capacity\" coming online, and that points to US foundries (they haven't formally disclosed location). \n\nSince previous slideshows show 2 US foundries 1 Taiwan foundry (Win Semi) in terms of their capacity partnerships. And it's process of elimination. \n\nFrom CIOE Channel checks it does look like they're starting to work with Chinese pluggable players, (so they'd avenues moving forward as US supply chain component beneficiaries). \n\nOf course \n$LITE\n / \n$COHR\n would be happy. \n\nTLDR: Western supply chains for Lasers / DSPs / TIAs / others are already bottlenecked but qualified capacity becomes even more important.",
-"likes": 1388
+"likes": 1490
 },
 {
 "id": "2105714014307397969",
@@ -6957,7 +7141,7 @@
 "CCXI": "bull"
 },
 "text": "Agility Robotics hasn’t gone public yet, I’m just waiting for listing announcement this quarter for \n$CCXI",
-"likes": 100
+"likes": 115
 },
 {
 "id": "2105943565918703696",
@@ -6968,7 +7152,7 @@
 "LITE": "bull"
 },
 "text": "$LITE\n CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by supply. By 2029-2030, we get to some level of balance.\"\n\nSource: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00)\n\nAny other players with laser capacity coming online are probably going to get more market attention soon.",
-"likes": 1637
+"likes": 1936
 },
 {
 "id": "2107143846027268373",
@@ -6980,7 +7164,7 @@
 "LITE": "neutral"
 },
 "text": "$AAOI\n is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms \n$LITE\n, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month transceiver revenue + 400K/month ELSFP",
-"likes": 2120
+"likes": 2359
 },
 {
 "id": "2107199278561333744",
@@ -6991,7 +7175,19 @@
 "AAOI": "bull"
 },
 "text": "I think we’ll go back to regularly scheduled programming now\n\nIt’s just that ATM was holding \n$AAOI\n back for the longest time",
-"likes": 114
+"likes": 139
+},
+{
+"id": "2108111907819499646",
+"date": "2026-10-08",
+"zh": "CCXI 預計 2026 年第四季掛牌，作者近期加碼，看好人形機器人與實體 AI，希望走勢類似 OKLO。",
+"risk": "掛牌前波動",
+"s": {
+"CCXI": "bull",
+"OKLO": "neutral"
+},
+"text": "@UjenA93UTP63896 $CCXI looks like it's going public Q4 2026. And my hope is that it sort of looks like $OKLO if they generate enough excitement.\n\nWatched the investor presentation the other day, just waiting for the public listing anytime soon (I personally added some the other day).\n\nBig fan of humanoids, pretty confident physical AI shift is coming next.\n\nI'm personally not looking too much about the price action while it's in its filing phase, fun usually begins after ticker change. We'll see what happens",
+"likes": 93
 },
 {
 "id": "2108272287908860377",
@@ -7003,7 +7199,32 @@
 "MU": "bull"
 },
 "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with \n$AAOI\n or memory shortage with \n$MU\n?\n\nHint: it doesn’t.",
-"likes": 1704
+"likes": 2556
+},
+{
+"id": "2108275499772649882",
+"date": "2026-10-08",
+"zh": "真正的泡沫在創投私人公司估值，供應鏈股不是泡沫，AAOI 等相對未來成長仍明顯低估。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"SNAP": "neutral"
+},
+"text": "@matttfoster Real bubble is in VC land with private companies like Instinct… $10B valuations off 100k users while $SNAP is worth less with close to 1 Billion MAU.\n\nSupply chain stocks aren’t a bubble though, if anything names like $AAOI and others are very undervalued relative to forward growth.\n\nAnd you have demand visibility from hyperscalers extending multiple years…",
+"likes": 228
+},
+{
+"id": "2108277973598232851",
+"date": "2026-10-08",
+"zh": "雲端巨頭是 AI 擴建的出資者，亞馬遜、Google 認為投報率極具吸引力，微軟稱擴建期仍有正自由現金流；OpenAI 募資 1680 億後交易對手風險降低。",
+"risk": "",
+"s": {
+"AMZN": "bull",
+"GOOGL": "bull",
+"MSFT": "bull"
+},
+"text": "@ps_georg Hyperscalers are the ones ultimately funding the AI buildout. As seen with $AMZN to $GOOGL earnings commentary, the ROI is seen as wildly attractive.\n\nEven $MSFT said they’d be FCF positive during the buildout period.\n\nI was more worried about counterparty risk until OpenAI went out and raised like $168B recently.",
+"likes": 120
 },
 {
 "id": "2108329503428895094",
@@ -7015,5 +7236,88 @@
 },
 "text": "Having coffee with a $GOOGL TPU designer rn\n\nA…",
 "likes": 99
+},
+{
+"id": "2108412203514925165",
+"date": "2026-10-09",
+"zh": "Lumentum 執行長稱產能幾乎售罄到 2029 年、需求能見度至 2031 年，對 SIVE、AAOI 等有新產能的雷射供應商意義重大。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull",
+"SIVE": "bull"
+},
+"text": "Woooow... $LITE CEO went out on Bloomberg today and stated:\n\nLumentum is \"effectively sold out through nearly 2029\".\n\nFrom our perspective, \"Completely Sold Out, there's no end in sight\".  With demand visibility from hyperscalers that carries them out into 2030, 2031.\n\nThe implications of these statements are enormous for photonics and remaining laser suppliers with capacity coming online like $SIVE, Sumitomo Electric, to $AAOI.\n\nWhat a crazy bottleneck that's unfolding.",
+"likes": 2113
+},
+{
+"id": "2108416144428421459",
+"date": "2026-10-09",
+"zh": "Lumentum 被 Nvidia 包下產能而售罄，其他買家只能找有新產能的供應商；SIVE 新增產能約全球六分之一，AAOI 也大幅擴產，供應商數增至 5–7 家。",
+"risk": "產品須通過驗證並量產",
+"s": {
+"AAOI": "bull",
+"AMD": "neutral",
+"LITE": "bull",
+"NVDA": "neutral",
+"SIVE": "bull"
+},
+"text": "@wosa42 Markets often miss second order implications until it shows up in direct statements.\n\n- If $LITE is completely sold out... (largely due to $NVDA bottlenecking everyone else, eg. securing Greensboro capacity), where else do your other companies like $AMD / hyperscalers / etc. get their supply procurement?\n\n- $SIVE is coming online with like 1/6th of the world's current laser capacity by themselves. (100M+ cw dfb lasers vs. 608M EML/CW globally per Trendforce).\n\nNot even including their partner foundries that they're targeting 2:1 for.\n\n- $AAOI is coming online with a ton of capacity too next year enough to produce 400k ELSFP + $471m/month of transceivers.\n\nThen combine that with other supply chain statements like \"Having 2-3 suppliers used to be the norm, now it is 5-7\" from Lightcounting.\n\nSo as long as your products actually work + can scale, it's hard to see anyone else with capacity not get qualified into your supply chains.\n\nSince optical component shortages are a massive bottleneck now.",
+"likes": 336
+},
+{
+"id": "2108896030326682074",
+"date": "2026-10-10",
+"zh": "有網友在 Reddit WSB 曬出 100 萬美元 AAOI 部位；作者認為質疑雷射沒有護城河的人代表時機仍早。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"RDDT": "neutral"
+},
+"text": "Looks like one of you posted on $RDDT WSB… with a $1M $AAOI position.\n\nI’m laughing at the comments, even more amusing when my name pops up\n\nMight still be early if people think there’s “no moat” in lasers and that AOI makes no money. (wait and see Q2 2027) https://t.co/vG6Zl4LZHf",
+"likes": 112
+},
+{
+"id": "2108900808956039390",
+"date": "2026-10-10",
+"zh": "Lumentum 售罄到 2029 年利多同業；作者認為市場低估 AAOI 2027 年放量規模，是作者目前最大持倉之一。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull"
+},
+"text": "@HimarsoClock Someone did ask “How is Serenity” this time around! So I’m happy.\n\nI’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI.\n\nNot advice, but I personally think markets haven’t fully caught onto the scale of AOI’s ramp in 2027 + current bottleneck severity. It’s one of my largest positions right now for a reason!\n\nAlso I’m looking forward to touching grass over the weekend. Apparently there was an OCP San Jose event…\n\nMaybe I’ll drop by if there’s a Kiss of Life group  like at ICML.",
+"likes": 147
+},
+{
+"id": "2108908962397786280",
+"date": "2026-10-10",
+"zh": "分析 SIVE 三大護城河：2027 年底 1 億顆以上 CW DFB 產能、客製雷射陣列驗證難以替換、Jabil 1.6T LRO 客戶背書。",
+"risk": "驗證與量產時程",
+"s": {
+"AAOI": "neutral",
+"AVGO": "neutral",
+"JBL": "bull",
+"LITE": "neutral",
+"MTSI": "neutral",
+"SIVE": "bull"
+},
+"text": "@Rian_2026 Good question! Just some informal thoughts... there's three \"moats\" to look at for $SIVE:\n\n- Capacity\n- Qualifications (especially for custom DFB lasers)\n- Technological\n\n1. For capacity, they're coming online with 100M+ CW DFB lasers Q4 2027 (global supply is roughly ~608M EML/CW lasers currently per Trendforce).\n\nObviously by 2027 global capacity is going to grow a lot, with $AAOI, $AVGO (3x expansion), and others coming online.\n\nBut if you extrapolate their 2:1 statement, that implies 300m lasers/year long term coming from their own supply + external foundries.\n\nThis is incredibly valuable during a shortage that was quoted to be 3-5 years, and $LITE stating they already have demand visibility into 2031...\n\nAnd when suppliers have started to qualify many more (eg. 5-7 vendors vs. 2-3 earlier) due to bottlenecks.\n\nI'm sure a lot of how they achieve that staggering amount is due to their manufacturing process/yields (which is a moat).\n\n2. For qualifications, if you look at 70mW/100mW pluggable lines with Chinese players, I'd argue this is more generic and moreso reverting back to a capacity  argument and manufacturing process to achieve those numbers.\n\nCustom DFB arrays that they've been working on with Ayar (they hinted at 2-3 others back in 2023 like Celestial) take years for optical i/o related things and would be a moat if they finish quals.\n\nSo it's not quite something you can hot swap or design out really easily for $MTSI or another company. But of course cpo scale up and such is mass volume in 2028, and we're still H2 2026.\n\n3. People can always compare raw specs like power output, but it's probably way way more nuanced so easier to just point toward customer statements.\n\nWith $JBL 1.6T LRO: \"I think that there's the potential for a relatively dramatic moat with our LRO part…\" from Jabil's EVP, especially related to power consumption. And $SIVE is my guess sole source in this line.\n\nJabil is probably the most important testament to how their lasers perform in mass production scenarios maybe around Q2 next year.\n\nAyar said something similar along the lines of \"we couldn't do it without Sivers\" for custom implementations.",
+"likes": 137
+},
+{
+"id": "2108916977616179207",
+"date": "2026-10-10",
+"zh": "AXTI 2025 年的瓶頸論點已獲驗證：確認供應 Lumentum、Coherent，2027 年底 InP 產能年化約 5.2 億美元；接下來看能否大幅漲價。",
+"risk": "漲價意願不足、地緣政治",
+"s": {
+"AXTI": "bull",
+"COHR": "neutral",
+"IQE": "neutral",
+"LITE": "neutral",
+"SNDK": "neutral"
+},
+"text": "@StanleyShih8 I think almost everything about my $AXTI thesis from 2025 was validated?\n\nFrom AXT's position in the InP substrate bottleneck... Being able to threaten the hyperscaler buildout (per Reuters)...\n\n$IQE has been flagging this as a major risk, VPEC and Taiwan epiwafer foundries have been crying over InP substrate bottlenecks.\n\nAnd there's even AXT direct confirmation of partnerships with $LITE and $COHR as the InP substrate supplier. AXT also stated $130m/quarter InP revenue capacity exiting 2027 (~$520m annualized) so that's a massive revenue inflection compared to previously.\n\nNow... the biggest question is: How much can AXT price hike?\n\nThe substrates they make are just such a tiny part of the BOM... but can threaten hyperscaler buildouts with optics.\n\nSo if they manage to price hike to $SNDK NAND degrees (which they can), then I think AXT could get re-rated a ton from here. But if they end up like Japanese ABF suppliers that are less willing to abuse their position, that's a different story.\n\nWill need to do more channel checks to see how that's coming along.\n\nBut at the very least, I would argue there should be some valuation baseline just due to their critical importance (eg. upstream refinery ownerships, crucible processing, etc) + existing capacity revenue without hikes.\n\nTLDR:\n- Bottleneck thesis was at like ~$500m MC\n- Upside now comes from price hikes due to duopoly position + ownership of upstream bottlenecks in the InP substrate manufacturing process. (which they can due to low cost of InP substrates in overall costs)\n- Uncharted territory, we'll see (also a central part of geopolitical tensions so there's always risk there).",
+"likes": 69
 }
 ]
