@@ -8372,6 +8372,18 @@
 "likes": 534
 },
 {
+"id": "2108988666223976831",
+"author": "Balder13946731",
+"date": "2026-10-10",
+"zh": "Balder：AI 熱潮下中西部地產商搶占變電站旁土地與併網名額，轉賣用電指標給 AWS、Meta 等大廠。",
+"risk": "電力不足拖累算力上線",
+"s": {
+"AMZN": "neutral"
+},
+"text": "有意思的是，现在这波AI狂潮里疯狂收割大厂的，是一帮中西部搞传统地产的老炮\n\n这帮人现在的野蛮玩法，就是天天盯着全美的输电网容量图，跑到得州或俄亥俄那些有冗余容量的高压变电站旁边低价买荒地，然后去电网死死占住并网许可的排队名额。\n\n只要批下来几十兆瓦的用电指标，这块破地转手就能加价几千万美金，直接倒卖给满世界找电的AWS或Meta。连机房都不用盖，纯卖路条。\n\n你要是大厂的基建VP，一万张H100已经发货了却因为没电点不亮，每天账面上都在计提极其恐怖的硬件折旧，那也只能咬着牙给这帮倒爷交这笔天价过路费。 \n$AMZN",
+"likes": 239
+},
+{
 "id": "2108991947939414499",
 "author": "StockMKTNewz",
 "date": "2026-10-10",
@@ -8429,7 +8441,7 @@
 "PLTR": "bear"
 },
 "text": "Look at this.\n\nPalantir, \n$PLTR\n, insiders have been cashing out all year.\n\nFeb. 20: CEO Alex Karp sold $65.9 million\nMar. 2: Peter Thiel sold about $290 million\nAug. 20: Karp sold another $86 million\n\nIn August alone, six Palantir executives sold about $95 million combined.\n\nNot one insider has bought a share this year.",
-"likes": 835
+"likes": 840
 },
 {
 "id": "2109149373061894415",
@@ -8532,7 +8544,7 @@
 "LITE": "bull"
 },
 "text": "Lumentum \n$LITE\n CEO Michael Hurlston said on Friday that it is \n\n\"completely sold out\" through early 2029, and it can \"only supply 30% of what we are being asked to supply\"",
-"likes": 520
+"likes": 551
 },
 {
 "id": "2109358622891557048",
@@ -8569,7 +8581,7 @@
 "QCOM": "bull"
 },
 "text": "$QCOM\n: So many futurisitc tailwinds for this name the market is giving no credit for like 100B parameter models on device, wearables, robotics, data center.\n\n\n$AMZN\n in at $160 creates a defensible floor.\n\nAsymmetrical bet.",
-"likes": 152
+"likes": 167
 },
 {
 "id": "2109464163038957781",
@@ -8593,7 +8605,7 @@
 "IREN": "bear"
 },
 "text": "$IREN\n pop won't hold long. Every stock with an Anthropic PR gave back its gains. Investors get excited on the brand halo and then model the capex and dilution.",
-"likes": 189
+"likes": 240
 },
 {
 "id": "2109475118015734080",
@@ -8605,7 +8617,7 @@
 "HOOD": "neutral"
 },
 "text": "$HOOD\n is trying to bring this exact same thing to investors but I wouldn't be criticized working with them.",
-"likes": 1
+"likes": 2
 },
 {
 "id": "2109611998355038691",
@@ -8655,5 +8667,242 @@
 },
 "text": "BROADCOM \n$AVGO\n CEO HOCK TAN SAYS SOME AI INVESTORS ARE BETTING LIKE THEY'RE IN A CASINO\n\nTan spoke Monday at an event in Singapore, per Bloomberg.\n\n- \"A lot of investors have no clue what they are investing in.\" \n- He warned a shortage of capital could be the next limit on AI growth\n- He compared companies spending on AI tokens to kids who burn through $10 of arcade tokens in 10 minutes\n\nOn the same panel, Intel \n$INTC\n CEO Lip-Bu Tan said AI hardware will stay in short supply for the next 2 to 3 years.",
 "likes": 24
+},
+{
+"id": "2109656415338213421",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Visa 今日創歷史新高。",
+"risk": "",
+"s": {
+"V": "bull"
+},
+"text": "Visa \n$V\n stock hit new ALL TIME HIGHS today",
+"likes": 367
+},
+{
+"id": "2109662245148065938",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：輝達與思科推出可插拔光模組 USFP，每通道 400Gb/s，頻寬密度為現有 4 倍。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n just posted this:\n\n“NVIDIA and Cisco introduce pluggable optics to scale AI factories.\n\nUSFP is the first module to support 400Gb/s per lane, delivering 4x the bandwidth density of today's optics.”",
+"likes": 431
+},
+{
+"id": "2109667508076843119",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：蘋果執行董事長庫克今日在北京會見中國副總理何立峰。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Apple \n$AAPL\n executive chairman Tim Cook met with Chinese  Vice Premier He Lifeng in Beijing today - Xinhua",
+"likes": 98
+},
+{
+"id": "2109668614131585497",
+"author": "KawzInvests",
+"date": "2026-10-12",
+"zh": "KawzInvests：轉述前英特爾執行長 Gelsinger，銅線成本已高於光通訊，2028–2029 年是 CPO 轉折點。",
+"risk": "",
+"s": {
+"COHR": "bull",
+"INTC": "neutral",
+"LITE": "bull"
+},
+"text": "Former Intel CEO Pat Gelsinger’s take on the transition from copper to optics in AI data centers:\n\n“To make my copper work at 5 m is more expensive than making optical work at 100 meters.”\n\n“I declared the death of copper about 25 years ago. Eventually, I’ll be right.”\n\nHe sees 2028–2029 as the turning point for CPO and NPO in AI scale-up networks. \n$INTC\n \n$LITE\n \n$COHR",
+"likes": 96
+},
+{
+"id": "2109677198789771466",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：NVDA 不僅稱霸伺服器 GPU，也將成為伺服器 CPU 霸主。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "$NVDA\n 不仅在服务器GPU称霸并且将成为服务器CPU的霸主。",
+"likes": 14
+},
+{
+"id": "2109692544133279927",
+"author": "KawzInvests",
+"date": "2026-10-12",
+"zh": "KawzInvests：Meta 的 Muse Wonder 模型表現領先 OpenAI 與 Google，僅次於 Opus 5.5。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "WOW \n$META\n\n\nMuse Wonder Full ahead of OpenAI and Google here. Only Opus 5.5 above it.",
+"likes": 75
+},
+{
+"id": "2109706898144727399",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：AI 代理對明早銀行股財報很有信心，JPM、GS、UNH 全部看多。",
+"risk": "財報結果不確定",
+"s": {
+"GS": "bull",
+"JPM": "bull",
+"UNH": "bull"
+},
+"text": "Agent对于明天早上银行股的财报，很有信心\n\n\n$JPM\n \n$GS\n \n$UNH\n 全是bullish🫪🫪",
+"likes": 11
+},
+{
+"id": "2109710188911706402",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：博通執行長陳福陽稱部分 AI 投資人像在賭場下注。",
+"risk": "AI 投資過熱",
+"s": {
+"AVGO": "neutral"
+},
+"text": "Broadcom, \n$AVGO\n, CEO Hock Tan says some AI investors are betting like they’re in a casino.\n\n“A lot of investors have no clue what they are investing in,” Tan said.",
+"likes": 362
+},
+{
+"id": "2109714718734664161",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：FT 報導祖克柏拒絕放緩 AI 發展的呼聲。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "JUST IN: Mark Zuckerberg says \n$META\n is rejecting calls for an AI slowdown, per FT",
+"likes": 546
+},
+{
+"id": "2109717508118716525",
+"author": "ren_stocks",
+"date": "2026-10-12",
+"zh": "Ren：每年買前一年 S&P 500 最佳股票的策略大勝指數，今年是 SNDK、年初至今漲 566%，主張押注贏家。",
+"risk": "",
+"s": {
+"SNDK": "bull"
+},
+"text": "This is absolutely incredible, and it reinforces the idea that winners tend to keep winning.\n\nIf you had put $100 into the previous year's best S&P 500 stock every January since 2012, it would be worth $176,114 today. \n\nThe same $100 in the S&P 500 is worth $800. That's 220x more money, and this year's pick was \n$SNDK\n, up 566% YTD.\n\nBank on your winners and stop adding to falling knives",
+"likes": 85
+},
+{
+"id": "2109720003570454615",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：傳輝達暫停 RTX 5090 生產，產能轉向 AI 資料中心與專業 GPU。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia, \n$NVDA\n, is reportedly halting GeForce RTX 5090 production in favor of AI data center and professional GPUs, per Tom's Hardware.",
+"likes": 398
+},
+{
+"id": "2109723735821553694",
+"author": "michaelsikand",
+"date": "2026-10-12",
+"zh": "Michael Sikand：與 KawzInvests 抵達 OCP 2026，AMD、微軟、輝達、Credo、Lumentum 在此展示新一代資料中心。",
+"risk": "",
+"s": {
+"AMD": "neutral",
+"CRDO": "neutral",
+"LITE": "neutral",
+"MSFT": "neutral",
+"NVDA": "neutral"
+},
+"text": "Just arrived at \n@OpenComputePrj\n 2026 with \n@KawzInvests\n. \n\nThis is where companies like \n$AMD\n, \n$MSFT\n, \n$NVDA\n, \n$CRDO\n, and \n$LITE\n show off how they're building the next generation of data centers. \n\nHuge thanks to the OCP team for the credentials in a sold out show.",
+"likes": 50
+},
+{
+"id": "2109727772449165487",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Rocket Companies 今日創 52 週新低。",
+"risk": "",
+"s": {
+"RKT": "bear"
+},
+"text": "Rocket Companies \n$RKT\n stock hit new 52 WEEK LOWS today",
+"likes": 44
+},
+{
+"id": "2109729448702480418",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：列出今日盤中創歷史新高的股票，包括 Visa、Palantir、Moderna、GameStop 等。",
+"risk": "",
+"s": {
+"ABBV": "neutral",
+"ACA": "neutral",
+"BBDO": "neutral",
+"BIIB": "neutral",
+"DDOG": "neutral",
+"DINO": "neutral",
+"DT": "neutral",
+"EXEL": "neutral",
+"FFIV": "neutral",
+"FRO": "neutral",
+"FTNT": "neutral",
+"GME": "neutral",
+"GTLB": "neutral",
+"HAE": "neutral",
+"HAFN": "neutral",
+"HNGE": "neutral",
+"INSW": "neutral",
+"MRNA": "neutral",
+"NTAP": "neutral",
+"NTNX": "neutral",
+"OKTA": "neutral",
+"PBR": "neutral",
+"PBR.A": "neutral",
+"PLTR": "neutral",
+"QLYS": "neutral",
+"RGA": "neutral",
+"RNR": "neutral",
+"SHEL": "neutral",
+"SSL": "neutral",
+"SU": "neutral",
+"TBBB": "neutral",
+"TEAM": "neutral",
+"V": "neutral",
+"VEON": "neutral",
+"XP": "neutral"
+},
+"text": "All these stocks hit new intra day all time highs at some point today\n\nVisa \n$V\n \nPalantir \n$PLTR\n\nModerna \n$MRNA\n\nPetrobras \n$PBR\n\nGameStop \n$GME\n\nDynatrace \n$DT\n\nShell \n$SHEL\n\nXP \n$XP\n\nFrontline \n$FRO\n\nPetrobras \n$PBR.A\n\nGitLab \n$GTLB\n\nHafnia \n$HAFN\n\nAbbVie \n$ABBV\n\nExelixis \n$EXEL\n\nOkta \n$OKTA\n\nDatadog \n$DDOG\n\nSuncor Energy \n$SU\n\nFortinet \n$FTNT\n\nNutanix \n$NTNX\n\nNetApp \n$NTAP\n\nAtlassian \n$TEAM\n\nHF Sinclair \n$DINO\n\nBiogen \n$BIIB\n\nHinge Health \n$HNGE\n\nSasol \n$SSL\n\nHaemonetics \n$HAE\n\nBBB Foods \n$TBBB\n\nInternational Seaways \n$INSW\n\nRenaissanceRe \n$RNR\n\nQualys \n$QLYS\n\nArcosa \n$ACA\n\nReinsurance Group of America \n$RGA\n\nF5 \n$FFIV\n\nVeon \n$VEON\n \nBanco Bradesco \n$BBDO",
+"likes": 65
+},
+{
+"id": "2109734748700700758",
+"author": "michaelsikand",
+"date": "2026-10-12",
+"zh": "Michael Sikand：英特爾以 AI 推論用 D 系列晶片進軍 GPU 市場，Dell、HPE、SMCI、華碩將銷售。",
+"risk": "",
+"s": {
+"DELL": "neutral",
+"HPE": "neutral",
+"INTC": "bull",
+"SMCI": "neutral"
+},
+"text": "$INTC\n IS COMING FOR THE GPU MARKET.\n\nIts new D-Series chips are built for AI inference, and \n$DELL\n, \n$HPE\n, \n$SMCI\n and ASUS are lined up to sell them.",
+"likes": 45
+},
+{
+"id": "2109737860098400424",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Palantir 確認 11 月 2 日盤後公布財報。",
+"risk": "",
+"s": {
+"PLTR": "neutral"
+},
+"text": "Palantir \n$PLTR\n just confirmed it will be reporting earnings after the markets close on Monday, November 2nd",
+"likes": 42
 }
 ]
