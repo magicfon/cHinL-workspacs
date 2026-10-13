@@ -8444,6 +8444,18 @@
 "likes": 840
 },
 {
+"id": "2109138990968299619",
+"author": "ren_stocks",
+"date": "2026-10-11",
+"zh": "Ren：輝達技術長在 LinkedIn 撰文說明 Nebius 為何出眾，AI 雲與一般雲端業務截然不同。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nIt's been a while since I've been on LinkedIn, and I found this gem.\n\nNvidia's CTO wrote a post about none other than \n$NBIS\n, explaining WHY this company stands out and how different an AI cloud is from a regular cloud business.\n\nHe talked about how Nebius builds every data",
+"likes": 546
+},
+{
 "id": "2109149373061894415",
 "author": "ren_stocks",
 "date": "2026-10-11",
@@ -8669,6 +8681,146 @@
 "likes": 24
 },
 {
+"id": "2109624191875940473",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Ondas 與 Palantir 成立 Regna AI，為政府與國防客戶打造自建 AI 模型。",
+"risk": "",
+"s": {
+"ONDS": "bull",
+"PLTR": "neutral"
+},
+"text": "ONDAS \n$ONDS\n AND PALANTIR \n$PLTR\n JUST ANNOUNCED A NEW AI COMPANY CALLED REGNA AI\n\nOndas fully owns Regna AI at launch, Palantir is supplying the training infrastructure, built on its AIP platform\n\nRegna AI will build custom AI models that governments and defense companies run on their own systems, per a press release.",
+"likes": 925
+},
+{
+"id": "2109624373585875407",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：GLP-1 用藥普及，麥當勞增加蛋白質餐點，稱 84% 用藥家庭仍會光顧。",
+"risk": "",
+"s": {
+"MCD": "neutral"
+},
+"text": "McDonald's, \n$MCD\n, is adding more protein to its menu as GLP-1 drugs change how Americans eat.\n\n11% of U.S. adults now take a GLP-1 for weight loss, roughly 28 million people, up from 3% in 2024, per Gallup.\n\nMcDonald's says 84% of households with a GLP-1 user still eat there.",
+"likes": 1098
+},
+{
+"id": "2109627931978817922",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Salesforce 收購 AI 分析平台 Loops，金額未揭露。",
+"risk": "",
+"s": {
+"CRM": "neutral"
+},
+"text": "Salesforce \n$CRM\n announced it has agreed to acquire Loops \"an AI-powered analytics platform\"\n\nThe price they paid was not disclosed",
+"likes": 278
+},
+{
+"id": "2109630750207197550",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：AMD 發表為 AI 代理打造的伺服器機櫃 Helion，將於 2026 年 11 月上市。",
+"risk": "",
+"s": {
+"AMD": "neutral"
+},
+"text": "AMD \n$AMD\n JUST UNVEILED HELION, A SERVER RACK BUILT FOR AI AGENTS\n\nIt's an open design that AMD plans to give to the Open Compute Project,\n\n- CPU-only version with up to 32,768 cores for hyperscalers\n- All-in-one version with EPYC CPUs and Instinct MI350P GPUs for businesses\n- Comes in liquid-cooled and air-cooled versions\n- A built-in router sends agents' requests across frontier and open-source models\n- Available in November 2026",
+"likes": 547
+},
+{
+"id": "2109631240269881627",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：CNBC 報導星巴克表示不會收購 Chipotle。",
+"risk": "",
+"s": {
+"CMG": "neutral",
+"SBUX": "neutral"
+},
+"text": "Starbucks \n$SBUX\n just said that it is not buying Chipotle \n$CMG\n - CNBC",
+"likes": 90
+},
+{
+"id": "2109631773109825717",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：微軟宣布明年起以多 GW 規模部署自研 Maia 晶片，Maia 300 每瓦 token 多 40%。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microsoft \n$MSFT\n CEO Satya Nadella just posted this:\n\n“Today we are announcing our biggest bet yet on our own silicon.\n\nStarting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.\n\nAnd we’re introducing Maia 300, which delivers 40% more tokens per watt compared to leading GPU-based systems.”",
+"likes": 553
+},
+{
+"id": "2109632327575883999",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：列出微軟 Maia 300 規格，288GB HBM4、18 TB/s 頻寬、N2P 製程。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "This is what Microsoft \n$MSFT\n says are the specs for its new Maia 300 AI chip\n\n- Compute: 13.8 petaops at FP4, 6.9 at FP8\n- Memory: 288GB of HBM4 across 8 stacks\n- Memory bandwidth: 18 TB/s\n- Power: 950W\n- Built on N2P with multiple chiplets\n- 96 chips per rack, about 12,000 in one cluster",
+"likes": 207
+},
+{
+"id": "2109638929523610025",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：油價上漲、SPY 走弱，宣傳直播交易節目。",
+"risk": "",
+"s": {
+"SPY": "neutral"
+},
+"text": "Oil is up, \n$SPY\n trending down, and the Unusual Whales live trading show WhaleWatch is live for it!\n\nTaking live trades using Periscope True GEX and futures price action:",
+"likes": 56
+},
+{
+"id": "2109639640881995931",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：微軟市值重回 4 兆美元以上。",
+"risk": "",
+"s": {
+"MSFT": "bull"
+},
+"text": "Microsoft \n$MSFT\n is back to being worth more than $4 Trillion",
+"likes": 463
+},
+{
+"id": "2109652548080762949",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：列出明日催化劑，AMAT 投資人早餐會、JPM／JNJ／GS 財報、AAPL 新裝置、NVDA OCP 演講、ASML 財報。",
+"risk": "",
+"s": {
+"AAPL": "neutral",
+"AMAT": "neutral",
+"ASML": "neutral",
+"GS": "neutral",
+"JNJ": "neutral",
+"JPM": "neutral",
+"NVDA": "neutral"
+},
+"text": "明天比较重要的催化剂：\n\n1. 6:00 am \n$AMAT\n 投资者早餐会 \n2. 盘前 \n$JPM\n / \n$JNJ\n / \n$GS\n 等财报\n3. 9:00 am \n$AAPL\n Home新设备体验\n4. 4:00 pm \n$NVDA\n OCP keynote\n5. \n$ASML\n 10 pm晚上财报",
+"likes": 24
+},
+{
+"id": "2109653748729712800",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Moderna 年初至今漲 667%，成為 S&P 500 表現最佳股票。",
+"risk": "",
+"s": {
+"MRNA": "bull"
+},
+"text": "Moderna \n$MRNA\n has taken over as the BEST PERFORMING stock in the S&P 500 so far in 2026\n\n+667%",
+"likes": 535
+},
+{
 "id": "2109656415338213421",
 "author": "StockMKTNewz",
 "date": "2026-10-12",
@@ -8691,6 +8843,18 @@
 },
 "text": "Nvidia \n$NVDA\n just posted this:\n\n“NVIDIA and Cisco introduce pluggable optics to scale AI factories.\n\nUSFP is the first module to support 400Gb/s per lane, delivering 4x the bandwidth density of today's optics.”",
 "likes": 431
+},
+{
+"id": "2109665185531355366",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：買進一口 AMAT 買權，希望沒事。",
+"risk": "投資人會議結果不確定",
+"s": {
+"AMAT": "bull"
+},
+"text": "Call了一手 \n$AMAT\n🫪 希望没事",
+"likes": 26
 },
 {
 "id": "2109667508076843119",
@@ -8731,6 +8895,30 @@
 "likes": 14
 },
 {
+"id": "2109689553087070685",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：微軟以自研 Maia 300 作為主要 AI 推論系統，減少採用輝達。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microsoft, \n$MSFT\n, is cutting back on Nvidia.\n\nThe company just unveiled Maia 300, its third-generation homegrown AI chip, and says Maia will now be its primary system for running AI across its products, including Copilot.\n\nMicrosoft claims Maia 300 delivers 40% more AI output for the same power as leading GPU systems.\n\nIt plans to deploy the chips at multi-gigawatt scale starting next year.",
+"likes": 1022
+},
+{
+"id": "2109689977068003541",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Meta AI 長 Alexandr Wang 發表新前沿模型 Muse Wonder。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "Meta Platforms \n$META\n Chief AI Officer Alexandr Wang just posted this:\n\n“introducing muse wonder\n\nour new frontier model. state-of-the-art at personal agents and professional agents.”",
+"likes": 380
+},
+{
 "id": "2109692544133279927",
 "author": "KawzInvests",
 "date": "2026-10-12",
@@ -8741,6 +8929,18 @@
 },
 "text": "WOW \n$META\n\n\nMuse Wonder Full ahead of OpenAI and Google here. Only Opus 5.5 above it.",
 "likes": 75
+},
+{
+"id": "2109703911904784849",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Cerebras 較 5 月 185 美元 IPO 價下跌 20%。",
+"risk": "跌破 IPO 價",
+"s": {
+"CBRS": "bear"
+},
+"text": "Cerebras \n$CBRS\n is now down 20% from its $185 May IPO price",
+"likes": 223
 },
 {
 "id": "2109706898144727399",
@@ -8769,6 +8969,18 @@
 "likes": 362
 },
 {
+"id": "2109710736834404781",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：WSJ 報導 Bumble 洽談以約 10 億美元下市私有化。",
+"risk": "",
+"s": {
+"BMBL": "neutral"
+},
+"text": "Bumble \n$BMBL\n is in advanced talks to be taken private in a deal that values it at roughly $1 billion - WSJ",
+"likes": 95
+},
+{
 "id": "2109714718734664161",
 "author": "unusual_whales",
 "date": "2026-10-12",
@@ -8793,6 +9005,18 @@
 "likes": 85
 },
 {
+"id": "2109717889016348802",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：預測市場顯示比特幣本月跌破 8 萬美元機率 67%。",
+"risk": "",
+"s": {
+"BTC": "neutral"
+},
+"text": "There is currently a 67% chance that Bitcoin \n$BTC\n drops under $80K at some point this month",
+"likes": 80
+},
+{
 "id": "2109720003570454615",
 "author": "unusual_whales",
 "date": "2026-10-12",
@@ -8803,6 +9027,18 @@
 },
 "text": "Nvidia, \n$NVDA\n, is reportedly halting GeForce RTX 5090 production in favor of AI data center and professional GPUs, per Tom's Hardware.",
 "likes": 398
+},
+{
+"id": "2109722231228018875",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Sandisk 年初至今漲 523%，S&P 500 第二名。",
+"risk": "",
+"s": {
+"SNDK": "bull"
+},
+"text": "Sandisk \n$SNDK\n stock is now the 2nd best performing stock in the S&P 500 so far in 2026\n\n+523%",
+"likes": 163
 },
 {
 "id": "2109723735821553694",
@@ -8904,5 +9140,311 @@
 },
 "text": "Palantir \n$PLTR\n just confirmed it will be reporting earnings after the markets close on Monday, November 2nd",
 "likes": 42
+},
+{
+"id": "2109743466003812709",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：演算法交易日誌，BAC 部分獲利了結，MRVL 停損 -6.3%。",
+"risk": "",
+"s": {
+"BAC": "neutral"
+},
+"text": "平仓获利 1/2 · 最佳 +1.01% \n$BAC\n 54.19→54.74 +1.01%\n\n 平仓亏损 1\n MRVL 281.56→263.82 -6.30%\n\n 持仓 IBM 223.69→227.02 +1.5% · PLTR 203.07→209 +2.9% · GS 883→893.95 +1.2% · ASTS  53.47→51.46 -3.8%\n\n balder-algo-logs · 龙气 · 10-12 · algo log · not advice",
+"likes": 0
+},
+{
+"id": "2109744705047240719",
+"author": "KawzInvests",
+"date": "2026-10-12",
+"zh": "KawzInvests：博通在 OCP 說明擴大矽光子規模所需的先進封裝、光連接與量產測試。",
+"risk": "",
+"s": {
+"AEHR": "neutral",
+"AMKR": "neutral",
+"AVGO": "bull",
+"GLW": "neutral"
+},
+"text": "Broadcom at OCP Global Summit on what it takes to scale photonics.\n\nAdvanced packaging\n\nOptical connectivity, 1,000+ fibers into every chip package\n\nVolume manufacturing, automated assembly and test\n\n\n$AVGO\n \n$AMKR\n \n$GLW\n \n$AEHR",
+"likes": 80
+},
+{
+"id": "2109748956226011434",
+"author": "KawzInvests",
+"date": "2026-10-12",
+"zh": "KawzInvests：博通矽光子路線圖從 2022 年 25.6T 到 2026 年 102.4T，2028 年推下一代光運算互連。",
+"risk": "",
+"s": {
+"AVGO": "bull"
+},
+"text": "$AVGO\n’s photonics roadmap goes from 25.6T in 2022 to 102.4T in 2026, with next-generation optical compute interconnect on the roadmap for 2028.",
+"likes": 113
+},
+{
+"id": "2109750454246625401",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：Cerebras 創 146.98 美元新低，較 IPO 價跌逾 20%、較首日高點跌約 62%。",
+"risk": "跌破 IPO 價",
+"s": {
+"CBRS": "bear"
+},
+"text": "Cerebras, \n$CBRS\n, just hit a record low of $146.98.\n\nThat’s more than 20% below its $185 IPO price in May.\n\nAnd it’s down about 62% from its first-day high of $386.34.\n\nIt was the biggest U.S. tech IPO since Uber in 2019.",
+"likes": 309
+},
+{
+"id": "2109754670067679555",
+"author": "michaelsikand",
+"date": "2026-10-12",
+"zh": "Michael Sikand：Celestica 副總稱 70% 工程資源投入驗證，光學靠近 AI 晶片使測試更關鍵。",
+"risk": "",
+"s": {
+"AEHR": "bull",
+"CLS": "bull",
+"FORM": "bull",
+"KEYS": "bull",
+"VIAV": "bull"
+},
+"text": "Wow crazy stat from \n$CLS\n VP\n\n“70% of our engineering resources are dedicated towards doing validation.\"\n\nAs optics moves closer to expensive AI compute silicon, the cost of failure rises, making testing and qualification increasingly critical. \n\n\n$KEYS\n \n$AEHR\n \n$VIAV\n \n$FORM",
+"likes": 67
+},
+{
+"id": "2109756712026845269",
+"author": "ren_stocks",
+"date": "2026-10-12",
+"zh": "Ren：OpenRouter 8 月處理 379 兆 token，一年成長 25 倍，算力、記憶體、網路需求才剛開始。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$SNDK\n \n$MU\n \n$LITE\n \n$AAOI\n \n\nToken demand just keeps going vertical.\n\nOpenRouter routed 379 trillion tokens in August, up from 15T a year ago. \n\nThat’s 25x in twelve months.\n\nThe jump from July to August added 131T tokens in a single month, more than OpenRouter handled from January through October 2025 combined.\n\nEvery one of those tokens needs a GPU to run on, memory to sit in and a network to move across. This is the demand curve underneath the entire buildout, and it’s why the “AI is a bubble” crowd keeps getting run over.\n\nPeople are still arguing about how OpenAI counts its revenue while usage grew 53% in one month.\n\nThe buildout is just getting started",
+"likes": 154
+},
+{
+"id": "2109756823578562846",
+"author": "KawzInvests",
+"date": "2026-10-12",
+"zh": "KawzInvests：OCP 數據證實測試與驗證是光模組放量的瓶頸，看好 VIAV、AEHR、COHU、FORM、TER。",
+"risk": "驗證速度跟不上晶片節奏",
+"s": {
+"AEHR": "bull",
+"COHU": "bull",
+"FORM": "bull",
+"TER": "bull",
+"VIAV": "bull"
+},
+"text": "Recent data at the OCP Summit confirms what has been clear for a while... qualification and testing remain the central gating factor for optical transceivers at scale.\n\nCelestica's numbers show how testing windows have continuously compressed with each generation: \n\n> 400G: 36 months \n> 800G: 24 months \n> 1.6T: 18 months\n\nWith GPU architectures refreshing every 12 months and 224G per lane leaving no margin for error, the core structural thesis hasn't changed.\n\nRamping laser fab capacity doesn't solve the problem on its own if transceivers can't be validated and qualified fast enough to match the silicon cadence.\n\n$VIAV\n \n$AEHR\n \n$COHU\n \n$FORM\n \n$TER",
+"likes": 50
+},
+{
+"id": "2109758830985052284",
+"author": "Balder13946731",
+"date": "2026-10-12",
+"zh": "Balder：10/12 復盤，光通訊與半導體急跌拖累納指，LITE、CIEN、SMTC 跌近一成，防守股撐盤。",
+"risk": "光通訊類股賣壓",
+"s": {
+"SPY": "neutral"
+},
+"text": "【美股复盘 · 10月12日】\n\n**大市**\n环球AI硬件链沽压再现，美股三大指数表现分歧。标普500指数ETF \n$SPY\n 收报778.10，跌0.06%；以科网股为主的纳指ETF QQQ 失守750关，收报746.04，跌0.70%，为三大指数中最弱；道指ETF DIA 则逆市造好，收报517.91，升0.35%；罗素2000小型股ETF IWM 反复偏软，收报277.88，跌0.38%。指数跌幅虽浅，市宽却明显转弱——104只观察股中仅29只收升、75只下跌，跌者为升者逾两倍半，显示大市全日由少数权重股顶住，并非普涨。\n\n**板块**\n防守及旧经济板块逆市靠稳。能源股造好，XOM 升1.90%、OXY 升1.70%、CVX 升1.42%；必需消费 WMT 升1.55%、COST 升1.32%。大型科网股内部亦见分化，META 升3.38%为权重股之首，AAPL 升1.29%，软件股 CRM 升2.09%。另一边，半导体与光通讯一线全日急泻，是拖低纳指的主因；三倍反向半导体ETF SOXS 单日升8.14%，为全日升幅之冠，SQQQ 升2.06%，反映资金明显转向对冲科技仓位。\n\n**焦点**\n跌幅榜由光通讯及光学一线主导：SMTC 挫10.15%、CIEN 泻9.95%、LITE 跌9.78%、AAOI 跌8.17%、COHR 跌7.87%，半导体设备 AEHR 跌7.63%，互联芯片 CRDO 跌7.25%，玻璃及光纤 GLW 跌6.00%；此外燃料电池 BE 跌6.50%，量子计算概念 IONQ 泻9.07%，同列跌幅前段。值得注意的是，此一板块的走势与市场仍在热炒的AI数据中心、电力主题方向相反：整条AI供应链多数环节由美国、台湾、韩国掐住中国，光模块这一层却是少数反过来的，美国同业的估值溢价因此最先承压。产业消息方面，市场续传亚马逊正商讨以约70亿美元收购AI初创Decart，而Anthropic早前议价至60亿美元、完成尽调后放弃，差价背后是AWS自研Trainium芯片生态不足的补课成本。同属卡位讨论的还有EUV环节——真正无可替代的并非 ASML ，而是独家供应EUV反射镜的德国蔡司，其母体为不设股东、不上市的基金会，外界无从投资。\n\n**小结**\n全日格局为「指数窄幅、内部剧震」：资金自AI硬件最贵的一端撤出，转入能源、必需消费及少数大型科网，道指得以逆市收升，纳指则独自受压。分析指，QQQ 失守750关为短线首个警号，若市宽维持29升75跌的极端分化，指数层面的平稳未必持续；光通讯一线的沽压是否见底，仍需观察 CIEN 、LITE 等能否先行收复本日跌幅。",
+"likes": 4
+},
+{
+"id": "2109760093403463709",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：宣傳其早於 CNBC 揭露 SNAP 異常交易。",
+"risk": "",
+"s": {
+"SNAP": "neutral"
+},
+"text": "Look at this.\n\nWe called out these \n$SNAP\n trades BEFORE CNBC.  \n\nRather than wait for them, subscribe to Unusual Whales to see the unusual flow.",
+"likes": 109
+},
+{
+"id": "2109762038280884589",
+"author": "ren_stocks",
+"date": "2026-10-12",
+"zh": "Ren：彭博資訊預估 Nebius ROIC 從 2026 年 -6% 升至 2030 年 9%，是 neocloud 中最陡，約 2029 年超越 CoreWeave。",
+"risk": "仍低於資金成本",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nBloomberg Intelligence just modeled return on invested capital (ROIC) through 2030 for the clouds and neoclouds, and the \n$NBIS\n line is the one I keep staring at.\n\nNebius goes from roughly −6% in 2026 to about 9% by 2030. That’s the steepest climb of any neocloud in the model, and it passes CoreWeave around 2029. AWS goes the other way, sliding from ~24% to ~16% as AI depreciation piles up.\n\nYes, the neoclouds are still below their cost of capital in BI’s numbers. \n\nThat’s what a buildout looks like early on: you pour the concrete and buy the GPUs first, and the returns show up after.\n\nNebius writes its GPUs off over 4 years, faster than CoreWeave’s 6. Meanwhile the H100 is almost four years old and still rents near 2025 prices. As Nebius’s first H100s roll off that 4-year schedule, they can keep renting with almost nothing left to depreciate, and that drops straight into margin. \n\nFully written-off GPUs also shrink the capital base, so ROIC gets a lift from both sides.\n\nIf GPUs keep earning that long, the depreciation drag shrinks and that 9% moves up fast.\n\nBullish, but not all Neoclouds are created equal.",
+"likes": 226
+},
+{
+"id": "2109765553594495216",
+"author": "unusual_whales",
+"date": "2026-10-12",
+"zh": "Unusual Whales：宣傳訂閱查看 MRNA 選擇權交易。",
+"risk": "",
+"s": {
+"MRNA": "neutral"
+},
+"text": "To see \n$MRNA\n plays and options, subscribe to Unusual Whales.\n\nYou can get updates right on site.\n\nSee more:",
+"likes": 11
+},
+{
+"id": "2109772220520354082",
+"author": "michaelsikand",
+"date": "2026-10-12",
+"zh": "Michael Sikand：OCP 上 CRDO 執行長演講場面擠如 NFL 開賽，形容這波淘金熱前所未見。",
+"risk": "",
+"s": {
+"CRDO": "bull"
+},
+"text": "The fight to see the \n$CRDO\n CEO speak at OCP is like entering an NFL stadium before kickoff. \n\nThis gold rush is like no other.",
+"likes": 155
+},
+{
+"id": "2109772493347009007",
+"author": "ren_stocks",
+"date": "2026-10-12",
+"zh": "Ren：Cerebras 是值得買進放三年的 AI 硬體股，UBS 預估 2030 年營收 226 億美元，現價約 2029 年 10 倍本益比。",
+"risk": "股價已跌破 IPO 價",
+"s": {
+"CBRS": "bull"
+},
+"text": "$CBRS\n might be the most interesting AI hardware stock to buy now and come back to in 3 years.\n\nUBS has Cerebras going from $890M in revenue this year to $3.3B in 2027 and ~$22.6B by 2030, with operating margins swinging from −18% to 46% along the way.\n\nAt $146, the stock trades at about 20x UBS’s 2028 earnings and 10x 2029, and UBS has EPS compounding from $7.21 to $24.36 over those two years.\n\nIt’s also ~26% below the $196.74 share price UBS built the model on just two weeks ago. Same numbers, cheaper stock.\n\nRemember I keep saying this:  The growth story is inference.\n\nCerebras keeps the memory on the wafer itself, which is exactly what you want when agents fire off dozens of model calls per task and every millisecond of latency adds up.\n\nExecution is everything here.  But if they get even halfway there, $146 won’t look expensive for long",
+"likes": 182
+},
+{
+"id": "2109781337733566934",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：財報季開跑，JPM、UNH、JNJ、GS、C、WFC、DPZ 明早盤前公布。",
+"risk": "",
+"s": {
+"C": "neutral",
+"DPZ": "neutral",
+"GS": "neutral",
+"JNJ": "neutral",
+"JPM": "neutral",
+"UNH": "neutral",
+"WFC": "neutral"
+},
+"text": "EARNINGS SEASON is back starting tomorrow morning\n\nAll of these companies will report earnings before the market opens tomorrow\n\nJPMorgan \n$JPM\n \nUnitedHealth \n$UNH\n \nJohnson & Johnson \n$JNJ\n \nGoldman Sachs \n$GS\n \nCiti \n$C\n\nWells Fargo \n$WFC\n \nDomino's Pizza \n$DPZ",
+"likes": 106
+},
+{
+"id": "2109784541921730630",
+"author": "michaelsikand",
+"date": "2026-10-12",
+"zh": "Michael Sikand：諾基亞提出「Scale Beyond」，分散式 AI 可能帶動新一波電信基建，也是輝達投資原因之一。",
+"risk": "",
+"s": {
+"NOK": "bull",
+"NVDA": "neutral"
+},
+"text": "$NOK\n just coined a new term for AI networking: \"Scale Beyond\" \n\nThe idea: extend AI networking beyond data centers. Just as video streaming drove the rise of CDNs, distributed AI could trigger a new wave of telecom infrastructure investment.\n\nOne of the reasons \n$NVDA\n invested.",
+"likes": 111
+},
+{
+"id": "2109799904675819551",
+"author": "asklivermore",
+"date": "2026-10-13",
+"zh": "AskLivermore：投資組合創新高，維持大型科技加防禦股的平衡配置，自認謹慎多頭。",
+"risk": "高利率、期中選舉與日圓",
+"s": {
+"RSP": "neutral",
+"SCHD": "neutral",
+"XLV": "neutral"
+},
+"text": "Our portfolio continues to reach all-time highs. This is the game plan to help you survive and thrive:\n\nPortfolio structure: \n1. I hold big cap tech.\n2. I also hold the strongest defensive names in healthcare, oil & energy, consumer staples, communications, financials, and industrials.\n\nFundamentally:\n- We continue to REMAIN balanced during a potential high-interest rate environment. \n- Earnings season will show if AI is actually making a huge difference \n- Mid-terms, rates, yen, etc. all macro-factors that calls us to stay more cautious (I am currently a cautious bull).\n\nTechnically:\n- The indices are currently trading at a premium, so we don't want to be all-in on one sector right now, our holdings include momentum AND mean-reversion AND defensives \n- I will NOT add to my positions at these levels; holding for now and letting our positions continue to compound strongly while everyone panics \n- Rotations are taking place under the surface, watch the DOW JONES and defensive names \n$SCHD\n, \n$XLV\n (healthcare), and Equal-Weighted S&P 500 \n$RSP\n. \n\nCurrent market is in 2nd dimension. Tech vs. the rest of the markets. There is no alignment yet. This calls for a balanced portfolio, and never chasing highs. Let the price come down to your levels, do NOT get fomo. Rotations are weekly. Not daily. \n\n2nd dimensions are currently causing frustration amongst tech traders - careful on your emotions. Markets will continue to toy and play tricks.\n\nMake sure you follow my move to survive and sleep well at night moving forward.",
+"likes": 366
+},
+{
+"id": "2109801178406232152",
+"author": "asklivermore",
+"date": "2026-10-13",
+"zh": "AskLivermore：9 月中再平衡時以 939.93 美元買進 MU，12 月再調整。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "Current entry price on my end for \n$MU\n during our mid-September rebalance is at $939.93 fill price.\n\nOur next rebalance for our portfolio is in December - with micro-adjustments along the way.\n\nRemember, individual stocks do not matter. It's about the entire portfolio, each individual stock plays a key role in its make-up. Think like a sports team - you have your superstars, role players, energy off the bench, etc. Don't separate, make it cohesive in your goal.",
+"likes": 7
+},
+{
+"id": "2109825280084779477",
+"author": "StockMKTNewz",
+"date": "2026-10-13",
+"zh": "Evan：自嘲持有的 TE 股票虧損 56%。",
+"risk": "",
+"s": {
+"TE": "neutral"
+},
+"text": "I am now down 56% on my \n$TE\n shares \n\nShoutout to my sponsors at Vanquish for bringing up my mood on the post below",
+"likes": 298
+},
+{
+"id": "2109832911608500272",
+"author": "StockMKTNewz",
+"date": "2026-10-13",
+"zh": "Evan：列出 QQQ、QTOP、VOO 的排序。",
+"risk": "",
+"s": {
+"QQQ": "neutral",
+"QTOP": "neutral",
+"VOO": "neutral"
+},
+"text": "$QQQ\n then \n$QTOP\n then \n$VOO",
+"likes": 4
+},
+{
+"id": "2109881596467892424",
+"author": "octopusycc",
+"date": "2026-10-13",
+"zh": "大老师：介紹 Bybit Stocks 上線美股交易，首批含 NVDA、TSLA、BABA、SNDK、MU。",
+"risk": "",
+"s": {
+"BABA": "neutral",
+"MU": "neutral",
+"NVDA": "neutral",
+"SNDK": "neutral",
+"TSLA": "neutral"
+},
+"text": "越来越多 Crypto 交易所开始把业务重心往传统金融市场延伸。\n\n其实对我这种同时交易美股和 Crypto 的人来说，需求一直很明确：能不能在同一个平台上完成更多资产的交易，减少账户和资金之间的切换成本？\n\n所以最近看到 \n@Bybit\n 上线 Bybit Stocks ，我觉得还挺值得聊聊。\n\n有几个地方值得关注：\n\n1. Crypto 和美股之间的交易门槛正在降低\n\n以前想配置美股，通常需要单独开通券商账户，资金也要在不同平台之间转来转去。\n现在符合条件的用户可以直接通过 Bybit App 访问真实美股市场。\n\n底层由 Infra Capital 提供券商服务，后台会为用户开设对应的券商账户，用户不需要额外管理一套独立的交易入口。\n\n对于同时持有美股和 Crypto 的投资者来说，确实方便了不少。\n\n注：Infra Capital Limited 是一家在毛里求斯注册、受当地金融监管机构监管的金融服务公司，也是 Bybit Stocks 的证券经纪合作方。\n它的定位更接近 Introducing Broker（介绍经纪商）\n\n2. 首批股票基本覆盖了目前市场的热门交易方向\n首批包括 \n$NVDA\n、 \n$TSLA\n、 \n$BABA\n、  \n$SNDK\n、 \n$MU\n 等热门标的。\n\n尤其是 \n$NVDA\n、 \n$MU\n、 \n$SNDK\n，本身就是我平时研究 AI CapEx、存储周期和期权流时经常关注的股票。\n\n我觉得这批标的选择也挺有针对性，基本都是市场关注度和交易活跃度比较高的公司。\n\n对于原本就在 Crypto 市场交易的用户，也多了一个接触传统美股的入口。\n\n3. TradFi 和 Crypto 的融合正在加速\n这也是我更关注的部分。\n\n从美债 RWA、代币化股票，到现在直接通过 Crypto 交易所接入真实美股，传统金融资产进入 Crypto 生态的方式越来越丰富。\n\n这里需要区分一下，Bybit Stocks 和平台上的 mStocks 是不同产品。\n\nBybit Stocks 接入的是传统证券市场，背后有实际的券商账户；mStocks 则属于独立的代币化产品。\n\n长期来看，我认为 Crypto 交易所之间的竞争会逐渐向多资产交易延伸。\n\n谁能提供更丰富的交易品种、更好的流动性和更低的跨市场使用门槛，谁就更有机会留住交易用户。\n\n尤其是对于我们这种同时关注美股、Crypto 和宏观市场的人来说，未来跨市场交易可能会变得越来越方便。\n\n————————\n\n本内容不构成投资建议，仅限 18 岁以上用户，具体可用性取决于所在国家/地区及身份认证状态。\n需要符合条件地区的KYC2才能进入/使用这个产品\nInvesting in stocks involves risk. The value of your investments can go down as well as up. Past performance is not a reliable indicator of future results. Bybit Stocks is not available in all countries. Eligibility and availability are subject to local laws and regulations. This is not financial advice.",
+"likes": 7
+},
+{
+"id": "2109946722139119720",
+"author": "octopusycc",
+"date": "2026-10-13",
+"zh": "大老师：UNH 財報預測成功，出差回來第一筆就成功。",
+"risk": "",
+"s": {
+"UNH": "bull"
+},
+"text": "谢谢大家 \n\n\n$UNH\n 也彻底成功了\n\n出差回归第一笔财报预测 成功",
+"likes": 7
+},
+{
+"id": "2109966628657954984",
+"author": "unusual_whales",
+"date": "2026-10-13",
+"zh": "Unusual Whales：Palantir 技術長稱有 AI 研究員因預期 AI 能治癌而開始抽菸。",
+"risk": "",
+"s": {
+"PLTR": "neutral"
+},
+"text": "BREAKING: Palantir, \n$PLTR\n, CTO has said that some AI researchers are taking up smoking because they expect AI to cure cancer",
+"likes": 863
+},
+{
+"id": "2109981778048090221",
+"author": "StockMKTNewz",
+"date": "2026-10-13",
+"zh": "Evan：高盛財報後盤前上漲近 5%。",
+"risk": "",
+"s": {
+"GS": "bull"
+},
+"text": "Goldman Sachs \n$GS\n is up by almost 5% in pre market trading following its earnings",
+"likes": 18
 }
 ]
