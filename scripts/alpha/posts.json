@@ -8583,6 +8583,18 @@
 "likes": 769
 },
 {
+"id": "2109396413620932733",
+"author": "StockMKTNewz",
+"date": "2026-10-11",
+"zh": "Evan：亞馬遜洽談以約 70 億美元收購 AI 新創 Decart。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n is in talks to acquire AI startup Decart for ~$7 Billion",
+"likes": 440
+},
+{
 "id": "2109418341496651822",
 "author": "michaelsikand",
 "date": "2026-10-11",
@@ -9571,6 +9583,18 @@
 "likes": 290
 },
 {
+"id": "2110012760750989344",
+"author": "Balder13946731",
+"date": "2026-10-13",
+"zh": "Balder：蘋果成為第二家市值 5 兆美元公司，「躺贏」代表。",
+"risk": "",
+"s": {
+"AAPL": "bull"
+},
+"text": "$AAPL\n 成为第二家5万亿美元市值的公司。躺赢的代表。",
+"likes": 32
+},
+{
 "id": "2110016960717095124",
 "author": "unusual_whales",
 "date": "2026-10-13",
@@ -9581,6 +9605,30 @@
 },
 "text": "Jamie Dimon of JPMorgan, \n$JPM\n, said that giving AI agents access to bank accounts carries serious security & liability risks.\n\nIt’s not his first AI warning. \n\nLast week, he said that AI-related cyber risk went up “tenfold” after Anthropic’s Mythos model.",
 "likes": 319
+},
+{
+"id": "2110027149273088388",
+"author": "Balder13946731",
+"date": "2026-10-13",
+"zh": "Balder：微軟創歷史新高。",
+"risk": "",
+"s": {
+"MSFT": "bull"
+},
+"text": "$MSFT\n 创历史新高。",
+"likes": 25
+},
+{
+"id": "2110034046990549278",
+"author": "Balder13946731",
+"date": "2026-10-13",
+"zh": "Balder：AMAT 宣布營收將翻倍卻遭「利多出盡」賣壓，連日下跌，不解何時才會買消息。",
+"risk": "利多出盡賣壓",
+"s": {
+"AMAT": "neutral"
+},
+"text": "$AMAT\n 宣布收入将会翻倍，但是出现了巨大的sell news. 所以我也不知道为什么，前几天也是跌的🫪 究竟什么时候他们buy news了。虚空sell news吗？",
+"likes": 37
 },
 {
 "id": "2110046756524392458",
@@ -9632,6 +9680,18 @@
 },
 "text": "关于其投资者大会的这笔已经做完了，继续留就是要侧击 \n$ASML\n 和 \n$TSM\n 我个人认为不是特别大直接利好应该很难刺激到它，可能要等他进一步确定反转信号。",
 "likes": 0
+},
+{
+"id": "2110087774120317119",
+"author": "ren_stocks",
+"date": "2026-10-13",
+"zh": "Ren：已做多 CBRS，股價較首日開盤低逾五成，UBS 預估 2030 年營收成長 25 倍，AI 成長故事在推論。",
+"risk": "股價跌破 IPO 價",
+"s": {
+"CBRS": "bull"
+},
+"text": "I'm long \n$CBRS\n\n\nCerebras is trading more than 50% below where it opened on its first day, and I just couldn’t pass up this opportunity.\n\nUBS sees revenue going ~25x by 2030 at 46% margins, and the stock trades at about 20x 2028 earnings. \n\nI keep saying this: the growth story for AI is inference.\n\nTraining a model is a big upfront project. Running it, every time someone asks a question or an agent takes a step, is a bill that never stops, and the agentic shift makes that bill much bigger. A single agent task can fire off dozens of model calls, and every one of them waits on the one before it. A few seconds of waiting per call turns into minutes per task.\n\nCerebras attacks that wait directly. \n\nA GPU keeps the model’s weights in HBM next to the chip and has to pull them across for every token it generates. Cerebras builds one chip out of an entire silicon wafer, about 46,000 mm² and 4 trillion transistors against roughly 1,600 mm² and 208 billion for NVIDIA’s two-die B200, and keeps 44GB of memory on the wafer itself. \n\nLess waiting on memory means more tokens per second for each user, which is exactly what an agent stuck in a loop of model calls needs.\n\nGPUs are the best general-purpose factory ever built. \n\nCerebras is a specialist tool for one job, fast inference, and that’s one of the fastest-growing jobs in AI.\n\nThe stock is still richly priced and could go lower, but this is a long bet I’m willing to take.\n\nCheck out the full article I made about it on Substack:\n\n\nhttps://\nrenstocks.substack.com/p/cerebras-is-\nbelow-its-ipo-price-is\n…\n\nBullish \n$CBRS",
+"likes": 145
 },
 {
 "id": "2110092376769200254",
@@ -9707,5 +9767,219 @@
 },
 "text": "BTW \n$SNDK\n heard us talk and said choose me!",
 "likes": 2
+},
+{
+"id": "2110105848576197044",
+"author": "Balder13946731",
+"date": "2026-10-13",
+"zh": "Balder：演算法交易日誌，ASTS 停損 -11%，持有 IBM、PLTR、GS、APP、COHR。",
+"risk": "",
+"s": {
+"ASTS": "neutral"
+},
+"text": "平仓亏损 1 \n$ASTS\n 53.47→47.57 -11.03%\n\n 持仓 IBM 223.69→230.78 +3.2% · PLTR 203.07→208.67 +2.8% · GS 883→891.91 +1.0% · APP  270.03→272.28 +0.8% · COHR  277.32→289.98 +4.6%\n\n balder-algo-logs · 龙气 · 10-13 · algo log · not advice",
+"likes": 3
+},
+{
+"id": "2110121242057637975",
+"author": "Balder13946731",
+"date": "2026-10-13",
+"zh": "Balder：10/13 復盤，軟體股撐盤、半導體設備與記憶體領跌，AMAT 重挫 6.7%、MU 跌 3.6%。",
+"risk": "半導體設備與記憶體賣壓",
+"s": {
+"SPY": "neutral"
+},
+"text": "【美股复盘 · 10月13日】\n\n**大市**：半导体设备及存储链周二（13日）再现沽压，惟大市未被拖落，四大指数仅录轻微调整，表现分歧。标普500 ETF（ \n$SPY\n ）收报778.01点，跌0.01%，几近平收；以科网股为主的纳指100 ETF（ QQQ ）收报743.57点，跌0.33%；道指 ETF（ DIA ）收报516.21点，同跌0.33%；罗素2000小型股 ETF（ IWM ）表现最差，收报276.71点，跌0.43%，小型股继续落后大型股。指数跌幅虽窄，市场内部却明显偏软——104只观察股中仅41只收升、63只收跌，升跌比不足七成，显示抛售集中而非全面。\n\n**板块**：全日呈典型的「软件靠稳、硬件挫」格局。软件及平台股造好，甲骨文（ ORCL ）急升4.23%，为观察股之首；Meta（ META ）升2.63%，Salesforce（ CRM ）升1.75%，IBM（ IBM ）升1.66%。支付股逆市走强，Visa（ V ）升1.74%，万事达（ MA ）升1.63%。消费及汽车亦有承接，通用汽车（ GM ）升1.98%，劳氏（ LOW ）升1.71%。另一边，半导体设备与存储股领跌，应用材料（ AMAT ）重挫6.69%，美光（ MU ）跌3.62%，SK海力士相关（ SKHY ）跌3.19%；网络设备股 Arista（ ANET ）跌3.02%，AI云服务商 CoreWeave（ CRWV ）跌3.05%。投机性板块失守，太空及卫星概念最弱，AST SpaceMobile（ ASTS ）暴跌8.54%，SPCX 跌4.21%；量子计算股同步急泻，IonQ（ IONQ ）跌4.25%，Rigetti（ RGTI ）跌3.55%。工业股亦见回吐，卡特彼勒（ CAT ）跌3.33%。\n\n**焦点**：市场对 AI 这条链的定价正在分化。 ORCL 、 META 、 CRM 升，而 AMAT 、 MU 、 ANET 、 CRWV 同日跌——资金买的是手握应用与现金流的一端，卖的是依赖资本开支落地的另一端。 AMD 逆势升1.90%，Semtech（ SMTC ）升2.67%，说明沽压并非笼罩整个半导体板块，而是直指存储与设备。消息面上，亚马逊将 META 的 AI 购物代理挡在站外，一端涉及广告位的存续，一端涉及电商闭环的缺口；此事与当日涨跌幅并无直接对应，仅作题材观察。此外，国际货币基金组织最新报告将「AI市场回调」与战争、债务并列为全球风险，与设备及存储链的持续沽压构成同一条叙事线。\n\n**小结**：全日属轻微调整市，但市宽与投机板块的伤势远重于指数。 SPY 守于778点一线，是大市未转弱的第一道证明； QQQ 743.57点与 DIA 516.21点同日跌0.33%，科网未能跑出；最值得跟的是 IWM 的276.71点——小型股跌0.43%，若此位失守，当日这种「指数平收、内部走弱」的组合便不易维持。半导体设备与存储链能否在 AMAT 大挫后靠稳，仍是下一步大市方向的关键参照。",
+"likes": 7
+},
+{
+"id": "2110143992113537082",
+"author": "unusual_whales",
+"date": "2026-10-13",
+"zh": "Unusual Whales：GameStop 執行長 Cohen 再買 2,260 萬美元股票，9/10 以來累計約 9,700 萬美元。",
+"risk": "",
+"s": {
+"GME": "bull"
+},
+"text": "BREAKING: GameStop CEO Ryan Cohen just bought another 844,130 shares of \n$GME\n.\n\nHe paid between $26.75 and $27 a share, about $22.6 million total.\n\nThat brings his buying since September 10 to roughly $97 million, across about 4.1 million shares.",
+"likes": 2101
+},
+{
+"id": "2110152161749594320",
+"author": "KawzInvests",
+"date": "2026-10-13",
+"zh": "KawzInvests：近距離展示 AMD Helios 機櫃。",
+"risk": "",
+"s": {
+"AMD": "neutral"
+},
+"text": "$AMD\n Helios up close.",
+"likes": 414
+},
+{
+"id": "2110156480011804684",
+"author": "ren_stocks",
+"date": "2026-10-13",
+"zh": "Ren：美光戰略客戶協議一季從 16 增至 26 家，涵蓋 2030 年前逾 35% 營收，馬斯克稱美光定價最合理。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "$MU\n went from 16 to 26 strategic customer agreements in a single quarter, and now \n@elonmusk\n is calling Micron the reasonable one on future memory prices while its peers have been “extortionate.”\n\nThose contracts now cover more than 35% of revenue through 2030, with about $150B in remaining performance obligations and $32B in customer commitments, mostly cash deposits. \n\nCustomers are paying upfront to lock in memory supply years ahead, memory has never had visibility like this.\n\nEvery HBM bit takes 3 to 4 times the wafer capacity of standard DRAM, node migrations are slower and new cleanrooms take years. That keeps DRAM bit growth around the low 20s% through 2028, while AI capex, HBM content per accelerator and agentic workloads keep pushing demand higher.\n\nThe biggest knock on memory has always been the cycle. Boom, bust, repeat. Contracts like these are how you kill that argument, and Micron is clearly playing the long game here.\n\nIn the short term price follows sentiment, and sentiment on memory is awful right now. But in the long run price follows earnings, and these contracts lock in years of them.\n\nBullish \n$MU",
+"likes": 208
+},
+{
+"id": "2110160107405505004",
+"author": "KawzInvests",
+"date": "2026-10-14",
+"zh": "KawzInvests：LITE 展示近封裝光學（NPO）生態系，CIEN、COHR、MRVL 等參與，NPO 沿用可插拔供應鏈易於放量。",
+"risk": "",
+"s": {
+"AAOI": "neutral",
+"ALAB": "neutral",
+"APH": "neutral",
+"CIEN": "neutral",
+"COHR": "neutral",
+"CRDO": "neutral",
+"INTC": "neutral",
+"KEYS": "neutral",
+"LITE": "bull",
+"MRVL": "neutral",
+"MXL": "neutral",
+"TEL": "neutral",
+"VIAV": "neutral"
+},
+"text": "$LITE\n showing the ecosystem forming around near-package optics.\n\nOpen CPX founders include Ciena \n$CIEN\n, Coherent \n$COHR\n and Marvell \n$MRVL\n, alongside Molex, Samtec and TeraHop.\n\nPublicly traded contributors shown here include\n\nCredo \n$CRDO\n\nIntel \n$INTC\n\nMaxLinear \n$MXL\n\nApplied Optoelectronics \n$AAOI\n\nAstera Labs \n$ALAB\n\nAmphenol \n$APH\n\nKeysight \n$KEYS\n\nTE Connectivity \n$TEL\n\nVIAVI \n$VIAV\n\nLumentum \n$LITE\n \n\nNPO reuses the existing pluggable supply chain, making it much easier to scale.",
+"likes": 107
+},
+{
+"id": "2110195787569201252",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Cramer 在 CNBC 被問 IREN 時表示 neocloud 他只信任 CoreWeave。",
+"risk": "",
+"s": {
+"CRWV": "neutral",
+"IREN": "neutral"
+},
+"text": "Jim Cramer was just asked about Iren Limited \n$IREN\n stock on CNBC:\n\n“If you want to be in that business of the neocloud, the only one that I trust and want to be in is CoreWeave.” \n$CRWV",
+"likes": 199
+},
+{
+"id": "2110218620026396737",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：彭博資訊預估 HBM 出貨 2030 年成長近 4 倍、每 GB 價格翻倍，量價齊揚顯示需求超越產能。",
+"risk": "",
+"s": {
+"MU": "bull"
+},
+"text": "$MU\n\n\nThis might be the most bullish memory chart I've seen all year.\n\nBloomberg Intelligence has HBM bit shipments going from about 5,000M GB in 2026 to roughly 18,000M GB by 2030, almost 4x in four years.\n\nOver the same period, the average HBM price per GB more than doubles, from around $16 to about $35.\n\nIn memory, that almost never lasts for years. \n\nMore supply has always meant lower prices, and that's what made this a cyclical business. Here volume and price climb together, which tells you demand is running ahead of everything the industry can build.\n\nOnly three companies in the world make HBM at scale, and \n$MU\n is one of them, with 26 strategic customer agreements already locking in demand through 2030.\n\nMore bits, at higher prices, with customers signed up for years. \n\nMega bullish \n$MU\n.",
+"likes": 234
+},
+{
+"id": "2110238100769435962",
+"author": "Balder13946731",
+"date": "2026-10-14",
+"zh": "Balder：不解 ASML 宣布大幅提高產量後股價仍下跌。",
+"risk": "利多不漲",
+"s": {
+"ASML": "neutral"
+},
+"text": "干什么干什么 \n$ASML\n 大幅提高产量又跌，究竟想怎样？",
+"likes": 40
+},
+{
+"id": "2110249356767195487",
+"author": "KawzInvests",
+"date": "2026-10-14",
+"zh": "KawzInvests：ASML 第三季銷售創紀錄、EPS 優於預期，2027–2028 年產能仍供不應求，客戶已談 2029–2030 訂單。",
+"risk": "",
+"s": {
+"ASML": "bull"
+},
+"text": "$ASML\n JUST REPORTED RECORD Q3 SALES. CUSTOMERS ARE ALREADY LOOKING TO 2030.\n\n> REVENUE: €11.66B VS €11.7B EST.\n> EPS: €12.95 VS €10.82 EST.\n> GROSS MARGIN: 57.5%\n\n“Our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers.”\n\n“Some customers are expressing an interest in placing orders with us for 2029 and even 2030.”\n\nASML is looking to expand 2028 capacity beyond the additional 30% increase previously discussed.\n\nTLDR: Same trend across the AI buildout. Demand keeps outpacing supply...",
+"likes": 123
+},
+{
+"id": "2110278693025464561",
+"author": "octopusycc",
+"date": "2026-10-14",
+"zh": "大老师：列出 Anthropic 投資人日概念股，涵蓋晶片、算力租賃、資料中心與企業應用。",
+"risk": "",
+"s": {
+"AKAM": "neutral",
+"AMD": "neutral",
+"AVGO": "neutral",
+"CRM": "neutral",
+"CRWV": "neutral",
+"HUT": "neutral",
+"NVDA": "neutral",
+"SNOW": "neutral",
+"WULF": "neutral"
+},
+"text": "Anthropic Investor day概念股\n\n① 芯片： \n$AVGO\n、$AMD、$NVDA\n② 算力租赁： \n$AKAM\n、$CRWV\n③ 数据中心： \n$WULF\n、$HUT\n④ 企业商业化： \n$SNOW\n、$CRM",
+"likes": 17
+},
+{
+"id": "2110323983463981293",
+"author": "unusual_whales",
+"date": "2026-10-14",
+"zh": "Unusual Whales：Xbox 擁抱玩家自製移植版，成立 Xbox Labs 探索讓舊遊戲重生。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microsoft, \n$MSFT\n, XBOX is embracing fan-made game ports instead of fighting them.\n\nXbox CEO Asha Sharma addressed the recent wave of classic games, including community Halo mods, being decompiled and rebuilt to run on hardware they were never designed for.\n\nRather than cracking down, she says she sees potential in “giving old games new life.”\n\nShe’s asked Scott to launch Xbox Labs to explore making games easier to access and letting more players become creators.",
+"likes": 417
+},
+{
+"id": "2110335122595869060",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：貝萊德管理資產突破 15 兆美元。",
+"risk": "",
+"s": {
+"BLK": "neutral"
+},
+"text": "BlackRock \n$BLK\n has more than $15 Trillion of Assets Under Management",
+"likes": 64
+},
+{
+"id": "2110339071675433140",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：美國銀行盤前下跌近 5%。",
+"risk": "",
+"s": {
+"BAC": "bear"
+},
+"text": "Bank of America \n$BAC\n is down by almost 5% in pre market trading",
+"likes": 38
+},
+{
+"id": "2110343976431821085",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：ASML 今早財報與財測優於預期。",
+"risk": "",
+"s": {
+"ASML": "bull"
+},
+"text": "$ASML\n reported earnings this morning and gave forward guidance above expectations",
+"likes": 12
+},
+{
+"id": "2110345182155809164",
+"author": "asklivermore",
+"date": "2026-10-14",
+"zh": "AskLivermore：CEG、VST 核電供應 AI 資料中心基載電力，正試著在此區間找底。",
+"risk": "需確認築底",
+"s": {
+"CEG": "neutral",
+"VST": "neutral"
+},
+"text": "Constellation Energy \n$CEG\n and Vistra Corp. \n$VST\n are two major U.S. electric utility and power generation companies. \n\nThey have become top stock market favorites because their massive nuclear power fleets provide the reliable, carbon-free baseload electricity required by AI data centers.\n\nStarting to try and find a base at these areas if the nuclear/power thesis can continue to stay strong.",
+"likes": 18
 }
 ]
