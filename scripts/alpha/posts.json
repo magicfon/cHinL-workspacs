@@ -9356,6 +9356,22 @@
 "likes": 111
 },
 {
+"id": "2109784908306456655",
+"author": "ren_stocks",
+"date": "2026-10-12",
+"zh": "Ren：光通訊因輝達與思科新模組消息下跌，但他反向解讀為每模組雷射更多、可插拔仍有多年成長空間。",
+"risk": "單 GPU 模組數減少",
+"s": {
+"AAOI": "bull",
+"COHR": "bull",
+"LITE": "bull",
+"MRVL": "bull",
+"SIVE": "bull"
+},
+"text": "$LITE\n \n$COHR\n \n$MRVL\n \n$AAOI\n $SIVE\n\nOptics sold off today on the NVIDIA and Cisco news.\n\nThey just co-designed a new pluggable module that packs 4x the bandwidth into the same slot. Fewer modules per GPU sounds bearish for the optics names, and that’s exactly how the market traded it.\n\nI read it the other way. More lasers per module, new 400G DSPs, and the clearest sign yet that pluggables still have years of runway, even with co-packaged optics coming.\n\nOn the latest article I make a full breakdown what NVIDIA gave away at OCP, what it kept, and who actually wins among the interconnect names \n\n\nhttps://\nrenstocks.substack.com/p/nvidia-open-\nrack-closed-chip\n…\n\nBullish Interconnect",
+"likes": 189
+},
+{
 "id": "2109792012941898090",
 "author": "unusual_whales",
 "date": "2026-10-12",
@@ -9459,6 +9475,18 @@
 },
 "text": "越来越多 Crypto 交易所开始把业务重心往传统金融市场延伸。\n\n其实对我这种同时交易美股和 Crypto 的人来说，需求一直很明确：能不能在同一个平台上完成更多资产的交易，减少账户和资金之间的切换成本？\n\n所以最近看到 \n@Bybit\n 上线 Bybit Stocks ，我觉得还挺值得聊聊。\n\n有几个地方值得关注：\n\n1. Crypto 和美股之间的交易门槛正在降低\n\n以前想配置美股，通常需要单独开通券商账户，资金也要在不同平台之间转来转去。\n现在符合条件的用户可以直接通过 Bybit App 访问真实美股市场。\n\n底层由 Infra Capital 提供券商服务，后台会为用户开设对应的券商账户，用户不需要额外管理一套独立的交易入口。\n\n对于同时持有美股和 Crypto 的投资者来说，确实方便了不少。\n\n注：Infra Capital Limited 是一家在毛里求斯注册、受当地金融监管机构监管的金融服务公司，也是 Bybit Stocks 的证券经纪合作方。\n它的定位更接近 Introducing Broker（介绍经纪商）\n\n2. 首批股票基本覆盖了目前市场的热门交易方向\n首批包括 \n$NVDA\n、 \n$TSLA\n、 \n$BABA\n、  \n$SNDK\n、 \n$MU\n 等热门标的。\n\n尤其是 \n$NVDA\n、 \n$MU\n、 \n$SNDK\n，本身就是我平时研究 AI CapEx、存储周期和期权流时经常关注的股票。\n\n我觉得这批标的选择也挺有针对性，基本都是市场关注度和交易活跃度比较高的公司。\n\n对于原本就在 Crypto 市场交易的用户，也多了一个接触传统美股的入口。\n\n3. TradFi 和 Crypto 的融合正在加速\n这也是我更关注的部分。\n\n从美债 RWA、代币化股票，到现在直接通过 Crypto 交易所接入真实美股，传统金融资产进入 Crypto 生态的方式越来越丰富。\n\n这里需要区分一下，Bybit Stocks 和平台上的 mStocks 是不同产品。\n\nBybit Stocks 接入的是传统证券市场，背后有实际的券商账户；mStocks 则属于独立的代币化产品。\n\n长期来看，我认为 Crypto 交易所之间的竞争会逐渐向多资产交易延伸。\n\n谁能提供更丰富的交易品种、更好的流动性和更低的跨市场使用门槛，谁就更有机会留住交易用户。\n\n尤其是对于我们这种同时关注美股、Crypto 和宏观市场的人来说，未来跨市场交易可能会变得越来越方便。\n\n————————\n\n本内容不构成投资建议，仅限 18 岁以上用户，具体可用性取决于所在国家/地区及身份认证状态。\n需要符合条件地区的KYC2才能进入/使用这个产品\nInvesting in stocks involves risk. The value of your investments can go down as well as up. Past performance is not a reliable indicator of future results. Bybit Stocks is not available in all countries. Eligibility and availability are subject to local laws and regulations. This is not financial advice.",
 "likes": 7
+},
+{
+"id": "2109934466848424132",
+"author": "octopusycc",
+"date": "2026-10-13",
+"zh": "大老师：UNH 盤前表現不錯，預期財報中性偏好，回踩 375 是好位置。",
+"risk": "",
+"s": {
+"UNH": "bull"
+},
+"text": "联合健康 \n$UNH\n 盘前看起来还不错 \n\n我认为盘前的财报可能会 中性偏好一点 \n\n如盘前回踩375 那就是一个很好的位置\n\nOKX \n@okxchinese\n \n@Jiajia_OKX\n \n@Mercy_okx\n 提供UNH的7/24 合约交易\n\n大家可以去OKX平台尝试合约交易\n\n非大陆地区的用户也可以尝试注册以下链接\n\nhttps://\nmitxcqvwnhj.com/join/1890806",
+"likes": 9
 },
 {
 "id": "2109946722139119720",
@@ -9616,7 +9644,7 @@
 "MSFT": "bull"
 },
 "text": "$MSFT\n 创历史新高。",
-"likes": 25
+"likes": 28
 },
 {
 "id": "2110034046990549278",
@@ -9628,7 +9656,7 @@
 "AMAT": "neutral"
 },
 "text": "$AMAT\n 宣布收入将会翻倍，但是出现了巨大的sell news. 所以我也不知道为什么，前几天也是跌的🫪 究竟什么时候他们buy news了。虚空sell news吗？",
-"likes": 37
+"likes": 38
 },
 {
 "id": "2110046756524392458",
@@ -9643,6 +9671,18 @@
 },
 "text": "如果大家还相信半导体，那么下午的OCP其实是重要的事情。但是目前半导体对时间交易呈现很强的不对称反应，对不利事件反应极大，对利好事件有很强钝性。\n\n但是大的半导体例如 \n$NVDA\n \n$TSM\n \n$AVGO\n 确实出现比较强的止跌信号。",
 "likes": 28
+},
+{
+"id": "2110061258615505038",
+"author": "StockMKTNewz",
+"date": "2026-10-13",
+"zh": "Evan：輝達計畫下週宣布 20 億美元歐洲新投資。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "NVIDIA \n$NVDA\n PLANS TO ANNOUNCE $2 BILLION IN NEW EUROPEAN INVESTMENTS OVER THE NEXT WEEK",
+"likes": 241
 },
 {
 "id": "2110062007047405955",
@@ -9691,7 +9731,7 @@
 "CBRS": "bull"
 },
 "text": "I'm long \n$CBRS\n\n\nCerebras is trading more than 50% below where it opened on its first day, and I just couldn’t pass up this opportunity.\n\nUBS sees revenue going ~25x by 2030 at 46% margins, and the stock trades at about 20x 2028 earnings. \n\nI keep saying this: the growth story for AI is inference.\n\nTraining a model is a big upfront project. Running it, every time someone asks a question or an agent takes a step, is a bill that never stops, and the agentic shift makes that bill much bigger. A single agent task can fire off dozens of model calls, and every one of them waits on the one before it. A few seconds of waiting per call turns into minutes per task.\n\nCerebras attacks that wait directly. \n\nA GPU keeps the model’s weights in HBM next to the chip and has to pull them across for every token it generates. Cerebras builds one chip out of an entire silicon wafer, about 46,000 mm² and 4 trillion transistors against roughly 1,600 mm² and 208 billion for NVIDIA’s two-die B200, and keeps 44GB of memory on the wafer itself. \n\nLess waiting on memory means more tokens per second for each user, which is exactly what an agent stuck in a loop of model calls needs.\n\nGPUs are the best general-purpose factory ever built. \n\nCerebras is a specialist tool for one job, fast inference, and that’s one of the fastest-growing jobs in AI.\n\nThe stock is still richly priced and could go lower, but this is a long bet I’m willing to take.\n\nCheck out the full article I made about it on Substack:\n\n\nhttps://\nrenstocks.substack.com/p/cerebras-is-\nbelow-its-ipo-price-is\n…\n\nBullish \n$CBRS",
-"likes": 145
+"likes": 152
 },
 {
 "id": "2110092376769200254",
@@ -9781,6 +9821,18 @@
 "likes": 3
 },
 {
+"id": "2110107445670621659",
+"author": "ren_stocks",
+"date": "2026-10-13",
+"zh": "Ren：認為 CIFR 在此價位非常有吸引力。",
+"risk": "",
+"s": {
+"CIFR": "bull"
+},
+"text": "$CIFR\n is looking really, really interesting at these levels.\n\nAre you a buyer here?",
+"likes": 96
+},
+{
 "id": "2110121242057637975",
 "author": "Balder13946731",
 "date": "2026-10-13",
@@ -9814,7 +9866,7 @@
 "AMD": "neutral"
 },
 "text": "$AMD\n Helios up close.",
-"likes": 414
+"likes": 564
 },
 {
 "id": "2110156480011804684",
@@ -9826,7 +9878,7 @@
 "MU": "bull"
 },
 "text": "$MU\n went from 16 to 26 strategic customer agreements in a single quarter, and now \n@elonmusk\n is calling Micron the reasonable one on future memory prices while its peers have been “extortionate.”\n\nThose contracts now cover more than 35% of revenue through 2030, with about $150B in remaining performance obligations and $32B in customer commitments, mostly cash deposits. \n\nCustomers are paying upfront to lock in memory supply years ahead, memory has never had visibility like this.\n\nEvery HBM bit takes 3 to 4 times the wafer capacity of standard DRAM, node migrations are slower and new cleanrooms take years. That keeps DRAM bit growth around the low 20s% through 2028, while AI capex, HBM content per accelerator and agentic workloads keep pushing demand higher.\n\nThe biggest knock on memory has always been the cycle. Boom, bust, repeat. Contracts like these are how you kill that argument, and Micron is clearly playing the long game here.\n\nIn the short term price follows sentiment, and sentiment on memory is awful right now. But in the long run price follows earnings, and these contracts lock in years of them.\n\nBullish \n$MU",
-"likes": 208
+"likes": 233
 },
 {
 "id": "2110160107405505004",
@@ -9850,7 +9902,19 @@
 "VIAV": "neutral"
 },
 "text": "$LITE\n showing the ecosystem forming around near-package optics.\n\nOpen CPX founders include Ciena \n$CIEN\n, Coherent \n$COHR\n and Marvell \n$MRVL\n, alongside Molex, Samtec and TeraHop.\n\nPublicly traded contributors shown here include\n\nCredo \n$CRDO\n\nIntel \n$INTC\n\nMaxLinear \n$MXL\n\nApplied Optoelectronics \n$AAOI\n\nAstera Labs \n$ALAB\n\nAmphenol \n$APH\n\nKeysight \n$KEYS\n\nTE Connectivity \n$TEL\n\nVIAVI \n$VIAV\n\nLumentum \n$LITE\n \n\nNPO reuses the existing pluggable supply chain, making it much easier to scale.",
-"likes": 107
+"likes": 127
+},
+{
+"id": "2110176338653118515",
+"author": "KawzInvests",
+"date": "2026-10-14",
+"zh": "KawzInvests：OCP 上 SK 海力士攤位的 PENG 小彩蛋。",
+"risk": "",
+"s": {
+"PENG": "neutral"
+},
+"text": "Little Easter egg at the SK Hynix booth at OCP \n\n\n$PENG\n brought their smallest engineer to supervise the memory racks.",
+"likes": 55
 },
 {
 "id": "2110195787569201252",
@@ -9863,7 +9927,7 @@
 "IREN": "neutral"
 },
 "text": "Jim Cramer was just asked about Iren Limited \n$IREN\n stock on CNBC:\n\n“If you want to be in that business of the neocloud, the only one that I trust and want to be in is CoreWeave.” \n$CRWV",
-"likes": 199
+"likes": 232
 },
 {
 "id": "2110218620026396737",
@@ -9875,7 +9939,7 @@
 "MU": "bull"
 },
 "text": "$MU\n\n\nThis might be the most bullish memory chart I've seen all year.\n\nBloomberg Intelligence has HBM bit shipments going from about 5,000M GB in 2026 to roughly 18,000M GB by 2030, almost 4x in four years.\n\nOver the same period, the average HBM price per GB more than doubles, from around $16 to about $35.\n\nIn memory, that almost never lasts for years. \n\nMore supply has always meant lower prices, and that's what made this a cyclical business. Here volume and price climb together, which tells you demand is running ahead of everything the industry can build.\n\nOnly three companies in the world make HBM at scale, and \n$MU\n is one of them, with 26 strategic customer agreements already locking in demand through 2030.\n\nMore bits, at higher prices, with customers signed up for years. \n\nMega bullish \n$MU\n.",
-"likes": 234
+"likes": 294
 },
 {
 "id": "2110238100769435962",
@@ -9887,7 +9951,7 @@
 "ASML": "neutral"
 },
 "text": "干什么干什么 \n$ASML\n 大幅提高产量又跌，究竟想怎样？",
-"likes": 40
+"likes": 42
 },
 {
 "id": "2110249356767195487",
@@ -9899,7 +9963,7 @@
 "ASML": "bull"
 },
 "text": "$ASML\n JUST REPORTED RECORD Q3 SALES. CUSTOMERS ARE ALREADY LOOKING TO 2030.\n\n> REVENUE: €11.66B VS €11.7B EST.\n> EPS: €12.95 VS €10.82 EST.\n> GROSS MARGIN: 57.5%\n\n“Our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers.”\n\n“Some customers are expressing an interest in placing orders with us for 2029 and even 2030.”\n\nASML is looking to expand 2028 capacity beyond the additional 30% increase previously discussed.\n\nTLDR: Same trend across the AI buildout. Demand keeps outpacing supply...",
-"likes": 123
+"likes": 153
 },
 {
 "id": "2110278693025464561",
@@ -9919,7 +9983,7 @@
 "WULF": "neutral"
 },
 "text": "Anthropic Investor day概念股\n\n① 芯片： \n$AVGO\n、$AMD、$NVDA\n② 算力租赁： \n$AKAM\n、$CRWV\n③ 数据中心： \n$WULF\n、$HUT\n④ 企业商业化： \n$SNOW\n、$CRM",
-"likes": 17
+"likes": 26
 },
 {
 "id": "2110323983463981293",
@@ -9931,7 +9995,7 @@
 "MSFT": "neutral"
 },
 "text": "Microsoft, \n$MSFT\n, XBOX is embracing fan-made game ports instead of fighting them.\n\nXbox CEO Asha Sharma addressed the recent wave of classic games, including community Halo mods, being decompiled and rebuilt to run on hardware they were never designed for.\n\nRather than cracking down, she says she sees potential in “giving old games new life.”\n\nShe’s asked Scott to launch Xbox Labs to explore making games easier to access and letting more players become creators.",
-"likes": 417
+"likes": 2598
 },
 {
 "id": "2110335122595869060",
@@ -9943,7 +10007,7 @@
 "BLK": "neutral"
 },
 "text": "BlackRock \n$BLK\n has more than $15 Trillion of Assets Under Management",
-"likes": 64
+"likes": 129
 },
 {
 "id": "2110339071675433140",
@@ -9955,7 +10019,7 @@
 "BAC": "bear"
 },
 "text": "Bank of America \n$BAC\n is down by almost 5% in pre market trading",
-"likes": 38
+"likes": 114
 },
 {
 "id": "2110343976431821085",
@@ -9967,7 +10031,7 @@
 "ASML": "bull"
 },
 "text": "$ASML\n reported earnings this morning and gave forward guidance above expectations",
-"likes": 12
+"likes": 120
 },
 {
 "id": "2110345182155809164",
@@ -9980,6 +10044,263 @@
 "VST": "neutral"
 },
 "text": "Constellation Energy \n$CEG\n and Vistra Corp. \n$VST\n are two major U.S. electric utility and power generation companies. \n\nThey have become top stock market favorites because their massive nuclear power fleets provide the reliable, carbon-free baseload electricity required by AI data centers.\n\nStarting to try and find a base at these areas if the nuclear/power thesis can continue to stay strong.",
-"likes": 18
+"likes": 288
+},
+{
+"id": "2110351160284791155",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：IonQ 宣布增發 11.5 億美元新股。",
+"risk": "股權稀釋",
+"s": {
+"IONQ": "bear"
+},
+"text": "$IONQ\n just announced plans to issue $1.15 Billion in new stock",
+"likes": 161
+},
+{
+"id": "2110355447815221531",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Rivian 擴大與 Redwood Materials 合作回收電池。",
+"risk": "",
+"s": {
+"RIVN": "neutral"
+},
+"text": "RIVIAN \n$RIVN\n IS EXPANDING ITS PARTNERSHIP WITH REDWOOD MATERIALS\n\nRedwood will handle Rivian's old batteries and factory scrap, per Redwood.",
+"likes": 72
+},
+{
+"id": "2110355889358069932",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Honeywell 與輝達、Dell 推出設施營運代理式 AI 平台 Forge Cognition。",
+"risk": "",
+"s": {
+"DELL": "neutral",
+"HON": "neutral",
+"NVDA": "neutral"
+},
+"text": "Honeywell \n$HON\n just announced the launch of Forge Cognition\n\n\"a self-contained agentic AI and simulation platform for facility operations\"\n\nHoneywell said it developed the technology with Nvidia \n$NVDA\n and Dell Technologies \n$DELL\n \n\n\"Facility teams must sift through alarms and equipment data to identify problems, plan maintenance and manage energy use. Forge Cognition combines real-time digital twins with AI agents to help operators understand facility conditions, simulate operating scenarios and autonomously coordinate actions across supported existing systems, helping improve asset reliability, energy efficiency and operational performance.\"",
+"likes": 68
+},
+{
+"id": "2110357705877790796",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：WSJ 報導 Netflix 裁員約 6%、約 1,000 人。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "Netflix \n$NFLX\n is laying off ~6% of its workforce impacting ~1,000 positions globally - WSJ",
+"likes": 367
+},
+{
+"id": "2110359511823417723",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：對 NBIS 再度下跌表示「又來了」。",
+"risk": "",
+"s": {
+"NBIS": "neutral"
+},
+"text": "$NBIS\n oh boy… here we go again.",
+"likes": 218
+},
+{
+"id": "2110362616589914425",
+"author": "unusual_whales",
+"date": "2026-10-14",
+"zh": "Unusual Whales：宣傳直播交易節目 WhaleWatch。",
+"risk": "",
+"s": {
+"SPX": "neutral"
+},
+"text": "JUST IN: The Unusual Whales live trading show, WhaleWatch, is live now!\n\nTesting out our updated charting, taking live $SPX and futures trades, and diving into the options flows!\n\nWhat do you want to see?",
+"likes": 134
+},
+{
+"id": "2110369282265677942",
+"author": "unusual_whales",
+"date": "2026-10-14",
+"zh": "Unusual Whales：Netflix 裁員 6%，約 1,000 個職位。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "BREAKING: Netflix, \n$NFLX\n, is laying off 6% of its workforce, about 1000 jobs.",
+"likes": 1402
+},
+{
+"id": "2110386295444812003",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：格芯獲日本最多 200 億美元在紐約建兩座新廠，美國商務部將持股約 4%。",
+"risk": "",
+"s": {
+"GFS": "bull"
+},
+"text": "GLOBALFOUNDRIES \n$GFS\n PLANS TWO NEW CHIP PLANTS IN NEW YORK WITH UP TO $20B FROM JAPAN\n\nThe US Commerce Department will also take about a 4% stake in the company, per WSJ.\n\n- Japan invests about $10B per plant, part of its $550B US investment pledge\n- Both plants go at its Malta, NY site\n- The first plant is expected online in 2029\n- $955M of its existing CHIPS Act award gets moved to new chip tech",
+"likes": 85
+},
+{
+"id": "2110406762394214492",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Digital Realty 提供堪薩斯小鎮每戶每年 1,000 美元、為期 10 年，以推動資料中心建設。",
+"risk": "",
+"s": {
+"DLR": "neutral"
+},
+"text": "DATA CENTER OFFER EVERY HOUSEHOLD IN A KANSAS TOWN $1,000 A YEAR FOR 10 YEARS\n\nDigital Realty \n$DLR\n is paying the money to residents of De Soto, Kansas, near its planned 1,400-acre data center, per Bloomberg.\n\n- Paid from a $20M community fund\n- Could come as credits on property taxes or utility bills\n- De Soto has about 7,000 residents",
+"likes": 184
+},
+{
+"id": "2110420991201705991",
+"author": "KawzInvests",
+"date": "2026-10-14",
+"zh": "KawzInvests：逐行檢視 CRWV 10-Q，350 億美元債務中只有 13 億美元利率 15%，市場誤讀債券殖利率。",
+"risk": "",
+"s": {
+"ASML": "neutral",
+"CRWV": "bull"
+},
+"text": "$CRWV\n isn’t paying 15% interest. Only 4% of their debt costs that.\n\nI went through the Q2 10-Q line by line. Out of ~$35B in debt, exactly one loan sits at 15%. It’s $1.3B, due March 2028, and already being paid down.\n\nThe 15% chart going around is the market yield on their 2032 bond. A higher yield doesn’t change what CoreWeave pays. It works like a mortgage. If you locked in at 3% and rates go to 7%, you’re still paying 3%. CoreWeave locked that bond at 9.625% and still pays 9.625%.\n\nWhat they actually pay\n\n> $6.6B of convertibles at ~2%\n> ~$10B of bonds at 9-10%\n> Most secured loans around 9%\n> ~8.4% blended across everything\n\nThey have roughly $20B of 2026 capex left to fund, and 2027 will need more. Their main funding tool has been loans backed by customer contracts. The investment grade one backed by Meta priced around 5.9% in March. If they keep borrowing that way, I think the math holds.\n\nZooming out, the AI trade still looks intact to me. \n$ASML\n reported record Q3 profit this morning and said lithography demand will outrun their supply in 2027 and 2028, even after adding ~30% capacity each year. Customers are already asking about 2029 and 2030 slots. \n\nDemand is still outpacing supply everywhere I look. \n$CRWV\n \n$ASML",
+"likes": 498
+},
+{
+"id": "2110424946396495977",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：AI 股在回檔中打折，將 2030 年 8 兆美元 AI 營收拆成 12 層，找出被低估的環節。",
+"risk": "",
+"s": {
+"ASML": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"TSM": "bull"
+},
+"text": "$NBIS\n \n$MU\n \n$LITE\n \n$TSM\n \n$ASML\n\n\nYour favorite AI names are on sale in this drawdown. So where does the money actually land by 2030?\n\nI split $8T of AI revenue across my 12 floors to find where it stays, and the one floor the market is still underpricing.",
+"likes": 26
+},
+{
+"id": "2110433336649003333",
+"author": "michaelsikand",
+"date": "2026-10-14",
+"zh": "Michael Sikand：AI 股大跌至 7 月以來低點，認為 Chamath 與馬斯克的恐慌言論別有動機，CRWV 資本結構多為合約擔保融資。",
+"risk": "市場恐慌情緒",
+"s": {
+"CRWV": "bull",
+"SPCX": "neutral"
+},
+"text": "Really nasty day for our favorite AI stocks with levels unseen since July.\n\nIt's important to 1) understand the incentives of those creating the fear and 2) not take tweets at face value without doing your own research.\n\nChamath made this post because it links to a paywalled article and the attention lands right in his pocket. Elon commenting \"yikes\" because \n$CRWV\n is a primary competitor to \n$SPCX\n, and it's a chance for a cheap dig.\n\nThe truth: The vast majority of \n$CRWV\n's capital structure is secured, contract-backed facilities that are priced off customer offtake quality and GPU collateral. Only around 10% of their debt is the unsecured stuff that might trade at 15% if they seek more...\n\nThese 15% yields are alarming showing what \n$CRWV\n would have to pay for future unsecured bonds they issue but given they're focused on these contract-backed loans that have come in at mid single digits I don't really see this as some major red flag to the buildout.",
+"likes": 121
+},
+{
+"id": "2110441794060382525",
+"author": "Balder13946731",
+"date": "2026-10-14",
+"zh": "Balder：SOXX 跌到 520 差不多見底，最多到 500。",
+"risk": "可能再跌至 500",
+"s": {
+"SOXX": "bull"
+},
+"text": "$SOXX\n  跌到520其实差不多了，最多到500",
+"likes": 11
+},
+{
+"id": "2110442057890484688",
+"author": "Balder13946731",
+"date": "2026-10-14",
+"zh": "Balder：BAC 跳空下跌、RSI 嚴重超賣，但出現強勁反彈跡象。",
+"risk": "",
+"s": {
+"BAC": "neutral"
+},
+"text": "$BAC\n 今天跳空下跌，RSI严重超卖，但出现了强劲反弹的迹象。",
+"likes": 2
+},
+{
+"id": "2110451893478560184",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：調侃 Gemini 對 Google 給出賣出評等。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Gemini has a sell rating on Google\n\n$GOOGL",
+"likes": 2
+},
+{
+"id": "2110453869163720804",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：列出當日創 52 週新高的股票，以能源股為主，另有 Pfizer、Mastercard、GameStop。",
+"risk": "",
+"s": {
+"ABBV": "neutral",
+"APA": "neutral",
+"BOX": "neutral",
+"BP": "neutral",
+"CNC": "neutral",
+"CNQ": "neutral",
+"COP": "neutral",
+"CVI": "neutral",
+"CVX": "neutral",
+"DINO": "neutral",
+"EOG": "neutral",
+"EXPD": "neutral",
+"GME": "neutral",
+"HALO": "neutral",
+"HMC": "neutral",
+"INSW": "neutral",
+"MA": "neutral",
+"MPC": "neutral",
+"MSM": "neutral",
+"MTD": "neutral",
+"PBF": "neutral",
+"PBR": "neutral",
+"PBR.A": "neutral",
+"PFE": "neutral",
+"PSX": "neutral",
+"RGA": "neutral",
+"RNR": "neutral",
+"SHEL": "neutral",
+"SU": "neutral",
+"VLO": "neutral",
+"XOM": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nExxon Mobil \n$XOM\n\nPfizer \n$PFE\n\nMastercard \n$MA\n\nGameStop \n$GME\n\nBP \n$BP\n\nChevron \n$CVX\n\nPetrobras \n$PBR\n\nPetrobras \n$PBR.A\n\nShell \n$SHEL\n\nCanadian Natural Resources \n$CNQ\n\nAPA \n$APA\n\nConocoPhillips \n$COP\n\nAbbVie \n$ABBV\n\nHalozyme \n$HALO\n\nCentene \n$CNC\n\nSuncor Energy \n$SU\n\nPBF Energy \n$PBF\n\nBox \n$BOX\n\nEOG Resources \n$EOG\n\nPhillips 66 \n$PSX\n\nValero \n$VLO\n\nHF Sinclair \n$DINO\n\nMarathon Petroleum \n$MPC\n\nInternational Seaways \n$INSW\n\nExpeditors \n$EXPD\n\nReinsurance Group of America \n$RGA\n\nHonda \n$HMC\n\nMSC Industrial \n$MSM\n\nCVR Energy \n$CVI\n\nRenaissanceRe \n$RNR\n\nMettler-Toledo \n$MTD",
+"likes": 60
+},
+{
+"id": "2110454866913190218",
+"author": "Balder13946731",
+"date": "2026-10-14",
+"zh": "Balder：財報預測看多 TSM，可用 NVDA 側面參與。",
+"risk": "",
+"s": {
+"NVDA": "bull",
+"TSM": "bull"
+},
+"text": "$TSM\n 财报预测师bullish的，可以用 \n$NVDA\n 侧击",
+"likes": 2
+},
+{
+"id": "2110460812452397195",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：彭博報導蘋果 12 月在中國推出 Apple Intelligence，與阿里巴巴、百度合作。",
+"risk": "",
+"s": {
+"AAPL": "bull",
+"BABA": "neutral",
+"BIDU": "neutral"
+},
+"text": "APPLE \n$AAPL\n PLANS TO LAUNCH APPLE INTELLIGENCE IN CHINA  IN DECEMBER\n\nIt will come in the iOS 27.3 update, per Bloomberg.\n\n- Includes the AI features first launched in the US two years ago\n- Leaves out the new Siri AI, which is built on Google Gemini models\n- Guardrails built with Alibaba \n$BABA\n let the government approve model updates\n- Apple is working with Baidu \n$BIDU\n on search and Siri features",
+"likes": 59
 }
 ]
