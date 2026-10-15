@@ -9181,6 +9181,18 @@
 "likes": 85
 },
 {
+"id": "2109745406943043647",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：彭博報導 Kroger 計畫三年內裁減約 37% 企業員工。",
+"risk": "",
+"s": {
+"KR": "neutral"
+},
+"text": "Kroger \n$KR\n plans to cut its corporate workforce by ~37% over the next 3 years - Bloomberg",
+"likes": 147
+},
+{
 "id": "2109748956226011434",
 "author": "KawzInvests",
 "date": "2026-10-12",
@@ -9275,6 +9287,18 @@
 },
 "text": "Look at this.\n\nWe called out these \n$SNAP\n trades BEFORE CNBC.  \n\nRather than wait for them, subscribe to Unusual Whales to see the unusual flow.",
 "likes": 128
+},
+{
+"id": "2109760577664938058",
+"author": "StockMKTNewz",
+"date": "2026-10-12",
+"zh": "Evan：Visa 已連續 8 個交易日收高。",
+"risk": "",
+"s": {
+"V": "bull"
+},
+"text": "Visa \n$V\n stock has now closed higher for the lat 8 trading days in a row",
+"likes": 357
 },
 {
 "id": "2109762038280884589",
@@ -9905,6 +9929,18 @@
 "likes": 127
 },
 {
+"id": "2110175017983943108",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：特斯拉確認 Roadster 發表會週四晚間 8:55 舉行。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n just confirmed that its Roadster event will take place this Thursday at 8:55PM ET",
+"likes": 343
+},
+{
 "id": "2110176338653118515",
 "author": "KawzInvests",
 "date": "2026-10-14",
@@ -9915,6 +9951,30 @@
 },
 "text": "Little Easter egg at the SK Hynix booth at OCP \n\n\n$PENG\n brought their smallest engineer to supervise the memory racks.",
 "likes": 55
+},
+{
+"id": "2110181421646315933",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：英特爾上市滿 55 週年。",
+"risk": "",
+"s": {
+"INTC": "neutral"
+},
+"text": "Intel \n$INTC\n became a public company 55 years ago today\n\nFun fact ... The first handheld mobile phone was invented roughly 53 years ago",
+"likes": 95
+},
+{
+"id": "2110195055290130452",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Cramer 在 CNBC 表示 Penguin Solutions 雖像迷因股但有真實業務，可以買。",
+"risk": "",
+"s": {
+"PENG": "bull"
+},
+"text": "Jim Cramer was just asked about Penguin Solutions \n$PENG\n stock\n\n“I kind of like Penguin Solutions. I know it’s kind of a meme stock, but I have to tell you, it’s got real business. I’m going to say you can buy it.”",
+"likes": 49
 },
 {
 "id": "2110195787569201252",
@@ -10121,6 +10181,30 @@
 "likes": 134
 },
 {
+"id": "2110364983938662797",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：CoreWeave 今日下跌逾 13%。",
+"risk": "",
+"s": {
+"CRWV": "bear"
+},
+"text": "CoreWeave \n$CRWV\n stock is currently down by more than 13% today",
+"likes": 395
+},
+{
+"id": "2110368786234675498",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：ASML 第三季售出 17 台 EUV，每台最高 4 億美元。",
+"risk": "",
+"s": {
+"ASML": "neutral"
+},
+"text": "$ASML\n said it sold 17 EUV machines during Q3\n\nThe machines cost as much as $400 Million per unit and are critical for the making of the most advanced semiconductors",
+"likes": 853
+},
+{
 "id": "2110369282265677942",
 "author": "unusual_whales",
 "date": "2026-10-14",
@@ -10131,6 +10215,51 @@
 },
 "text": "BREAKING: Netflix, \n$NFLX\n, is laying off 6% of its workforce, about 1000 jobs.",
 "likes": 1402
+},
+{
+"id": "2110372795456651489",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：列出 ChatGPT 在 Rallies AI Arena 的持股，前三大為 Google、Progressive、Visa。",
+"risk": "",
+"s": {
+"APH": "neutral",
+"CI": "neutral",
+"CRDO": "neutral",
+"GOOGL": "neutral",
+"JPM": "neutral",
+"LDOS": "neutral",
+"LMT": "neutral",
+"PGR": "neutral",
+"V": "neutral",
+"XOM": "neutral"
+},
+"text": "This is what ChatGPT's stock portfolio looks like in the Rallies AI Arena\n\n$31,704 of Google \n$GOOGL\n\n$22,110 of Progressive \n$PGR\n\n$19,629 of Visa \n$V\n\n$18,632 of Leidos \n$LDOS\n\n$18,194 of Cigna \n$CI\n\n$17,784 of Amphenol \n$APH\n\n$17,328 of Exxon Mobil \n$XOM\n\n$14,236 of Credo \n$CRDO\n\n$10,060 of JPMorgan \n$JPM\n \n$5,063 of Lockheed Martin \n$LMT\n \n$819.27 of available cash",
+"likes": 64
+},
+{
+"id": "2110374571551387949",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：UBS 將 Meta 目標價從 715 上調至 884 美元，維持買進。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "UBS today raised its price target on Meta Platforms \n$META\n up to $884 from $715 while maintaining its Buy rating",
+"likes": 81
+},
+{
+"id": "2110385197053006161",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：輝達承諾五年提供 2.5 億美元算力支援英國 AI 代理安全研究。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n just announced today it's committing $250 Million worth of computing access over five years to UK research on AI agent safety and security.",
+"likes": 83
 },
 {
 "id": "2110386295444812003",
@@ -10145,6 +10274,18 @@
 "likes": 85
 },
 {
+"id": "2110402327974691269",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：在 160 美元掛限價單買進 NBIS。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n Limit buy at 160. See you then.",
+"likes": 175
+},
+{
 "id": "2110406762394214492",
 "author": "StockMKTNewz",
 "date": "2026-10-14",
@@ -10155,6 +10296,19 @@
 },
 "text": "DATA CENTER OFFER EVERY HOUSEHOLD IN A KANSAS TOWN $1,000 A YEAR FOR 10 YEARS\n\nDigital Realty \n$DLR\n is paying the money to residents of De Soto, Kansas, near its planned 1,400-acre data center, per Bloomberg.\n\n- Paid from a $20M community fund\n- Could come as credits on property taxes or utility bills\n- De Soto has about 7,000 residents",
 "likes": 184
+},
+{
+"id": "2110413994330554827",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：下跌日用小錢短線交易 QQQ，賺來的錢用來長期加碼 NBIS。",
+"risk": "",
+"s": {
+"NBIS": "bull",
+"QQQ": "neutral"
+},
+"text": "$QQQ\n \n\nWho says you can’t have some fun on down days?\n\nSmall pocket money, of course. I’m just trying to earn a little extra to buy more \n$NBIS\n shares for the long term.\n\nI know most people see themselves as purists who only hold long-term and add on fundamentals, but the reality is more nuanced than that. \n\nYou have to use every tool in your arsenal, with fundamentals always coming first.\n\nBe an investor first.\nBe a trader second.\nBe a little bit of a risk taker third.\n\nBe all three, and be successful.",
+"likes": 36
 },
 {
 "id": "2110420991201705991",
@@ -10302,5 +10456,145 @@
 },
 "text": "APPLE \n$AAPL\n PLANS TO LAUNCH APPLE INTELLIGENCE IN CHINA  IN DECEMBER\n\nIt will come in the iOS 27.3 update, per Bloomberg.\n\n- Includes the AI features first launched in the US two years ago\n- Leaves out the new Siri AI, which is built on Google Gemini models\n- Guardrails built with Alibaba \n$BABA\n let the government approve model updates\n- Apple is working with Baidu \n$BIDU\n on search and Siri features",
 "likes": 59
+},
+{
+"id": "2110468145207038313",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Barclays 稱特斯拉與 SpaceX 合併可能在 12 月前宣布。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "A merger between Tesla \n$TSLA\n and SpaceX \n$SPCX\n could reportedly be announced before December - Barclays",
+"likes": 874
+},
+{
+"id": "2110478087951413682",
+"author": "ren_stocks",
+"date": "2026-10-14",
+"zh": "Ren：列出會讓他賣出 NBIS 的五個條件並逐一評分，目前融資成本等指標仍屬健康。",
+"risk": "融資成本上升",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nI was thinking about what would actually make me sell my NBIS shares. \n\nSimplified, these are the five things that keep me honest, with how healthy each one looks today (1 = bad / 5= good):\n\n+ Financing gets too expensive (3/5)\n\nNBIS still has to raise roughly $250B to",
+"likes": 210
+},
+{
+"id": "2110483575380562107",
+"author": "Balder13946731",
+"date": "2026-10-14",
+"zh": "Balder：10/14 復盤，AI 與半導體賣壓全面擴散，QQQ 跌近 2%，CRWV 重挫 15%、IREN 跌 12%，防守股逆勢上漲。",
+"risk": "AI 基建類股全面賣壓",
+"s": {
+"QQQ": "bear"
+},
+"text": "【美股复盘 · 10月14日】\n\n**大市**\nAI与半导体链沽压主导全日，科网股成为重灾区，大市反复向下。纳指ETF（ \n$QQQ\n ）急泻1.97%，收报728.95点，失守730关；标普ETF（SPY ）跌1.08%，收报769.60点；罗素小型股ETF（IWM ）挫1.93%，收报271.37点。惟道指ETF（DIA ）在防守类与必需消费股支撑下靠稳，仅微跌0.11%，收报515.63点，表现一枝独秀。市宽极度偏弱，104只观察股中仅23只上升、81只下跌，跌股接近升股的四倍，显示沽压并非集中于个别重磅股，而是全面扩散。\n\n**板块**\n升幅榜由反向杠杆ETF包揽：三倍沽空半导体的 SOXS 暴升13.63%居首，三倍沽空纳指的 SQQQ 升5.93%，三倍沽空标普的 SPXU 升3.25%，印证资金对科技板块的对冲需求急增。防守类逆市造好——医药保险股联合健康（UNH ）升4.73%，制药股莫德纳（MRNA ）升4.65%、默沙东（MRK ）升3.80%、礼来（LLY ）升3.62%；国防股洛克希德马丁（LMT ）升3.61%；必需消费方面沃尔玛（WMT ）升3.46%、好市多（COST ）升2.87%。\n\n跌方则清一色为AI叙事相关的高波幅板块。算力租赁及AI基建领跌：CoreWeave（CRWV ）重挫15.46%，IREN（IREN ）泻12.18%，Nebius（NBIS ）跌10.08%。光通讯及网络设备同遭洗仓：应用光电（AAOI ）跌11.82%，Ciena（CIEN ）跌10.19%，Credo（CRDO ）跌9.62%。量子计算概念亦被沽售，D-Wave（QBTS ）跌10.09%，IonQ（IONQ ）跌9.53%。硬件股戴尔（DELL ）跌11.27%，卫星通讯股AST SpaceMobile（ASTS ）跌10.46%。\n\n**焦点**\n消息面上，苹果就商业机密被窃一案起诉OpenAI，今日进入关键听证。市场留意的是诉讼本身的结构性代价：商业秘密案要胜诉，原告须先在诉状、证据披露程序中把「秘密」描述清楚，部分内容最终或进入公开卷宗——嘴最严的公司，为护住一件未发布的产品，选择了一个必须先把它说出来的场合。另一边，OpenAI指控苹果挖角并带走文件，苹果的回应是已按对方指认的「那一份文件」全面检索，在任何苹果系统上均未发现。值得注意的是，OpenAI能事后精确点名是哪一份文档，意味其内部对每一次文件访问皆有留痕，细至单一文件、单一人员、单一时点。此为事件层面观察，与今日个股波幅无直接因果。\n\n**小结**\n全日走势呈现清晰的板块轮替而非单纯恐慌：资金自高估值AI链（算力、光通讯、量子）撤出，转入医药、国防与必需消费等现金流确定的防守阵地，道指与纳指表现的巨大落差即为此一轮动的最直接读数。分析指，纳指ETF失守730关为短线转弱讯号，而标普ETF 770关为后市首个须收复的关键位；在市宽未见改善、升跌比仍悬殊之前，反弹宜视为沽压中的喘息而非趋势反转。",
+"likes": 3
+},
+{
+"id": "2110507656247193605",
+"author": "michaelsikand",
+"date": "2026-10-14",
+"zh": "Michael Sikand：調侃自稱做多 MRVL 的人，要他們解釋近期走勢。",
+"risk": "",
+"s": {
+"MRVL": "neutral"
+},
+"text": "Dudes be like I'm long \n$MRVL\n\n\nOk explain this",
+"likes": 199
+},
+{
+"id": "2110542990360162355",
+"author": "Balder13946731",
+"date": "2026-10-15",
+"zh": "Balder：韓國 ETF EWY 單日跌 6%，驚呼韓國像被核彈炸了。",
+"risk": "",
+"s": {
+"EWY": "bear"
+},
+"text": "$EWY\n -6% 韩国是被核弹炸了吗🫪",
+"likes": 19
+},
+{
+"id": "2110545559031574912",
+"author": "michaelsikand",
+"date": "2026-10-15",
+"zh": "Michael Sikand：以梗圖形容 ASTS 與 RKLB 投資人本週的處境。",
+"risk": "",
+"s": {
+"ASTS": "neutral",
+"RKLB": "neutral"
+},
+"text": "$ASTS\n and \n$RKLB\n investors this week.",
+"likes": 467
+},
+{
+"id": "2110557976792809822",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：每買 1 萬美元 QQQ 對應的前幾大持股金額，輝達 831 美元居首。",
+"risk": "",
+"s": {
+"AAPL": "neutral",
+"GOOGL": "neutral",
+"MSFT": "neutral",
+"MU": "neutral",
+"NVDA": "neutral",
+"QQQ": "neutral"
+},
+"text": "When you buy $10,000 of the Nasdaq 100 \n$QQQ\n this is how much of each stock you're buying\n\n$831 of Nvidia \n$NVDA\n \n$751 of Apple \n$AAPL\n \n$609 of Microsoft \n$MSFT\n \n$604 of Google \n$GOOGL\n \n$448 of Micron \n$MU\n \n\n(The full list is below)",
+"likes": 85
+},
+{
+"id": "2110561327353897071",
+"author": "ren_stocks",
+"date": "2026-10-15",
+"zh": "Ren：KOSPI 正式跌破 7 月 29 日韓國平倉潮的低點。",
+"risk": "",
+"s": {
+"KOSPI": "neutral"
+},
+"text": "Not so fun fact, $KOSPI is now officially below July 29 at the bottom of the Korean unwind.",
+"likes": 124
+},
+{
+"id": "2110563294218273248",
+"author": "michaelsikand",
+"date": "2026-10-15",
+"zh": "Michael Sikand：暗示若 CRWV 等 neocloud 違約，已有買家準備接手。",
+"risk": "neocloud 違約風險",
+"s": {
+"CRWV": "neutral"
+},
+"text": "If \n$CRWV\n or any of these neoclouds defaults, guess who is ready to snap them up.",
+"likes": 110
+},
+{
+"id": "2110575929038643546",
+"author": "ren_stocks",
+"date": "2026-10-15",
+"zh": "Ren：NBIS 本週跌 27%，接近 7 月最慘一週的 33%，提醒別信反彈、別用槓桿，堅持長線。",
+"risk": "可能再跌，避免槓桿",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nTo put things in perspective, during the worst week in July NBIS was down 33%, and this past week it's down 27%.\n\nThings can get a lot worse before they get better.\n\nDon't trust a relief rally, and don't use leverage.\n\nPlay the long game.",
+"likes": 191
+},
+{
+"id": "2110668071719293086",
+"author": "DJTRadar",
+"date": "2026-10-15",
+"zh": "DJT Radar：美國政府入股格芯 4%，上次入股英特爾後股價漲 379%，GFS 仍較高點低 47%。",
+"risk": "",
+"s": {
+"GFS": "bull",
+"INTC": "neutral"
+},
+"text": "The US government just took 4% of GlobalFoundries.\n\n$21 billion of Japanese capital for two fabs in Malta, New York. Another $955 million from Commerce for advanced packaging and silicon photonics.\n\nThe last time Washington did this to a chipmaker, it bought Intel \n$INTC\n at $20.47.\n\nIntel closed at $98.12 yesterday. Up 379%.\n\nThe government's stake went from roughly $9 billion to over $36 billion.\n\n\n$GFS\n is at $47.86, still 47% below its high.",
+"likes": 74
 }
 ]
