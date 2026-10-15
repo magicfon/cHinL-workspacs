@@ -11,7 +11,7 @@ type Series = { dates: string[]; closes: number[]; currency: string } | { error:
 async function history(symbol: string): Promise<Series> {
   try {
     const res = await fetch(
-      `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol.replace(".", "-"))}?interval=1d&range=1y`,
+      `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(/\.[A-Z]$/.test(symbol) ? symbol.replace(".", "-") : symbol)}?interval=1d&range=1y`,
       { headers: { "User-Agent": UA }, next: { revalidate: 6 * 60 * 60 } }
     );
     if (!res.ok) throw new Error(`HTTP ${res.status}`);

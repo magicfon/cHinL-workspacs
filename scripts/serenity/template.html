@@ -214,7 +214,7 @@ li.open .chev{transform:rotate(90deg)}
     </div>
   </section>
 
-  <p class="foot">資料來源：Serenity（@aleabitoreddit）在 X 的公開貼文，取自公開存檔 <a href="https://github.com/yan-labs/serenity-aleabitoreddit" target="_blank" rel="noopener">yan-labs/serenity-aleabitoreddit</a>（收錄至 <span id="footAsof"></span>）。只計入含「$代號」的原創貼文，不含轉推。立場、中文摘要與論點演變由 AI 逐則判讀後整理；每則都附原文連結，請以原文為準。股價走勢圖因本環境無法取得行情而未提供。</p>
+  <p class="foot">資料來源：Serenity（@aleabitoreddit）在 X 的公開貼文，取自公開存檔 <a href="https://github.com/yan-labs/serenity-aleabitoreddit" target="_blank" rel="noopener">yan-labs/serenity-aleabitoreddit</a>（收錄至 <span id="footAsof"></span>）。只計入含「$代號」的原創貼文，不含轉推。立場、中文摘要與論點演變由 AI 逐則判讀後整理；每則都附原文連結，請以原文為準。股價取自 Yahoo Finance，僅供參考。</p>
 </div>
 
 <script>
@@ -328,13 +328,14 @@ function renderAnalysis(){
   var rk=Object.keys(risks).slice(0,6);
   el.innerHTML='<div class="an-top"><h3>$'+esc(t)+'</h3><span class="muted">'+esc(NAMES[t]||"")+'</span>'+pill(now)+'<span class="muted mono" style="font-size:12px">近 90 日 '+l.length+' 次提及・多 '+c.bull+'・中 '+c.neutral+'・空 '+c.bear+'</span></div>'+
     (a.summary?'<p style="margin:0">'+esc(a.summary)+'</p>':'')+
+    '<div class="sec"><h4>股價走勢與貼文位置（近 90 日）</h4><div id="px" class="chart muted" style="font-size:13px">載入股價中…</div></div>'+
     '<div class="sec"><h4>機構觀點（華爾街分析師）</h4><div id="inst" class="muted" style="font-size:13px">載入中…</div></div>'+
     '<div class="sec"><h4>最新立場與來源</h4>'+postHTML(latest.p,latest.s)+'</div>'+
     '<div class="sec"><h4>每週提及次數（近 13 週）</h4><div class="chart">'+chartSVG(l)+'</div></div>'+
     '<div class="sec"><h4>論點演變</h4><ul class="evo">'+evo+'</ul></div>'+
     '<div class="sec"><h4>三則代表貼文</h4>'+keyPosts(l).map(function(m){return postHTML(m.p,m.s);}).join("")+'</div>'+
     '<div class="sec"><h4>風險因子</h4>'+(rk.length?'<ul class="risks">'+rk.map(function(r){return '<li>'+esc(r)+'</li>';}).join("")+'</ul>':'<p class="muted" style="margin:0">近 90 日貼文中未提到明確風險。</p>')+'</div>';
-  loadInst(t);
+  loadInst(t);loadPx(t,l);
 }
 function renderFlips(){
   var l=FL.filter(function(f){return ASN-dnum(f.date)<30;}).reverse();
@@ -342,6 +343,37 @@ function renderFlips(){
   document.getElementById("flipsSub").textContent="近 30 日・"+l.length+" 次";
   document.getElementById("flips").innerHTML=l.map(function(f){var p=PBY[f.id]||{};
     return '<li><button type="button" class="fl" data-an="'+f.t+'"><span class="tk">$'+f.t+'</span><span class="arr">'+pill(f.from)+' → '+pill(f.to)+'</span><span class="z">'+esc(p.zh||"")+'</span><span class="mono muted" style="font-size:12px">'+md(f.date)+'</span></button></li>';}).join("");
+}
+var PX={};
+var YSYM={SIVE:"SIVE.ST",SOI:"SOI.PA",IQE:"IQE.L",ESMT:"3006.TW",SKHY:"000660.KS",PSMC:"6770.TW"};
+function pxSVG(d,l){
+  var ds=d.dates,cs=d.closes,from=new Date((ASN-89)*86400000).toISOString().slice(0,10);
+  var i0=0;while(i0<ds.length-1&&ds[i0]<from)i0++;
+  ds=ds.slice(i0);cs=cs.slice(i0);
+  if(ds.length<2)return '股價資料不足。';
+  var w=640,h=200,pl=44,pr=10,pt=12,pb=26,iw=w-pl-pr,ih=h-pt-pb;
+  var mn=Math.min.apply(null,cs),mx=Math.max.apply(null,cs),pad=(mx-mn)*.08||1;mn-=pad;mx+=pad;
+  var X=function(i){return pl+iw*i/(ds.length-1);},Y=function(v){return pt+ih*(1-(v-mn)/(mx-mn));};
+  var s="";
+  for(var k=0;k<=4;k++){var v=mn+(mx-mn)*k/4,y=Y(v);s+='<line x1="'+pl+'" x2="'+(w-pr)+'" y1="'+y.toFixed(1)+'" y2="'+y.toFixed(1)+'" stroke="var(--line)"/><text x="'+(pl-6)+'" y="'+(y+3).toFixed(1)+'" font-size="10" text-anchor="end" fill="var(--muted)">'+(v>=100?v.toFixed(0):v.toFixed(1))+'</text>';}
+  [0,Math.floor((ds.length-1)/3),Math.floor((ds.length-1)*2/3),ds.length-1].forEach(function(i){s+='<text x="'+X(i).toFixed(1)+'" y="'+(h-8)+'" font-size="10" text-anchor="'+(i===0?"start":i===ds.length-1?"end":"middle")+'" fill="var(--muted)">'+md(ds[i])+'</text>';});
+  s+='<polyline fill="none" stroke="var(--ink)" stroke-width="1.6" stroke-linejoin="round" points="'+cs.map(function(c,i){return X(i).toFixed(1)+','+Y(c).toFixed(1);}).join(" ")+'"/>';
+  // 貼文位置：同一天多則合併，取當天或之前最近的交易日
+  var byDay={};l.forEach(function(m){if(m.p.date<ds[0])return;(byDay[m.p.date]=byDay[m.p.date]||[]).push(m);});
+  var dots=Object.keys(byDay).sort().map(function(day){
+    var j=ds.length-1;while(j>0&&ds[j]>day)j--;
+    var ms=byDay[day],dir=ms.filter(function(m){return m.s!=="neutral";}),st2=dir.length?dir[dir.length-1].s:"neutral";
+    var tip=day+'・'+ms.length+' 則・收盤 '+cs[j]+'\n'+ms.map(function(m){return '['+SL[m.s]+'] '+m.p.zh;}).join("\n");
+    return '<a href="https://x.com/aleabitoreddit/status/'+ms[ms.length-1].p.id+'" target="_blank" rel="noopener"><circle cx="'+X(j).toFixed(1)+'" cy="'+Y(cs[j]).toFixed(1)+'" r="'+(ms.length>1?6:4.5)+'" fill="var(--'+(st2==="neutral"?"neu":st2)+')" stroke="var(--card)" stroke-width="1.5"><title>'+esc(tip)+'</title></circle></a>';
+  });
+  var chg=(cs[cs.length-1]/cs[0]-1)*100;
+  return '<div class="inst-row" style="margin-bottom:6px"><span>最新收盤 <b style="color:var(--ink)">'+cs[cs.length-1]+' '+esc(d.currency||"")+'</b>（'+md(ds[ds.length-1])+'）</span><span>90 日 <b style="color:'+(chg>=0?"var(--bull)":"var(--bear)")+'">'+(chg>=0?"+":"")+chg.toFixed(1)+'%</b></span><span>圓點＝作者發文日（紅偏多、綠偏空、灰中性，滑過看內容）</span></div><svg viewBox="0 0 '+w+' '+h+'" role="img" aria-label="近 90 日收盤價與貼文位置">'+s+dots.join("")+'</svg>';
+}
+function loadPx(t,l){
+  var put=function(){var el=document.getElementById("px");if(!el||st.tk!==t)return;var d=PX[t];el.innerHTML=(!d||d.error)?'無法取得 $'+esc(t)+' 的股價'+(d&&d.error?'（'+esc(d.error)+'）':'')+'。':pxSVG(d,l);};
+  if(PX[t])return put();
+  var y=YSYM[t]||t;
+  fetch("/api/history?symbols="+encodeURIComponent(y)).then(function(r){return r.json();}).catch(function(){return {};}).then(function(j){PX[t]=(j&&j.series&&j.series[y.toUpperCase()])||{error:"連線失敗"};put();});
 }
 var INST={};
 var RT={"Strong Buy":"強力買進","Buy":"買進","Hold":"持有","Sell":"賣出","Strong Sell":"強力賣出","Outperform":"優於大盤","Overweight":"加碼","Underperform":"遜於大盤","Underweight":"減碼","Neutral":"中立","Market Perform":"與大盤同步","Equal Weight":"中立","Sector Perform":"與類股同步","Positive":"正向","Negative":"負向"};
