@@ -1,8 +1,8 @@
 {
  "summary": {
-  "asOf": "2026-10-15",
-  "1": "10/15 收盤後：傳 VARA AI 基金爆倉（KawzInvests 列出其持股 $NBIS、$BE、$LITE、$CRWV），$CRWV、$IREN、$WULF、$ASTS 創 52 週新低。觀點帳號轉向逢低布局：Balder 稱長線是進場半導體好時機（$NVDA、$AVGO、$MU、$AMD、$MRVL），Michael Sikand 用全部現金重押 $CRDO，Ren 認為「祭品已選出」AI 交易將恢復。$CRWV 分歧持續：黃仁勳稱其資金成本下降，Ren 則認同八成 neocloud 將被淘汰。",
-  "7": "近 7 日共識集中在 AI 硬體與光通訊：$LITE、$MU、$NVDA、$COHR、$AAOI、$CRDO 獲多個帳號看多，OCP 後測試鏈 $AEHR、$FORM、$VIAV 加入，$ASML 財報後也成共識看多，$UNH 則因財報預測命中獲 Balder、大老师看多。分歧在 $ASTS（Michael Sikand 看多、Balder 看空且已停損）、$AVGO（Balder 憂 OpenAI 曝險）與 $AAPL（Jukan 指 iPhone 砍單、Balder 看好 5 兆市值）。",
+  "asOf": "2026-10-16",
+  "1": "10/15 收盤至 10/16 開盤前：資金從 AI 硬體轉向軟體與投機成長股（Balder 復盤），$TSM 財報優於預期仍開低近 4%；Balder 認為 $SOXX 500 有強支撐但宜等情緒轉好。$QCOM 出現新分歧：Jukan 轉述韓媒稱新旗艦晶片過熱、三星可能改用 Exynos，與 Michael Sikand 先前看多相反。Ren 認為 Anthropic IPO 估值下修只是雜音，以 B300 租價連漲 17 天續挺 $NBIS、$MU。特斯拉發表會後 Michael Sikand 嘲諷 $TSLA 空頭。",
+  "7": "近 7 日共識仍在 AI 硬體：$LITE、$MU、$COHR、$CRDO、$MRVL、$AVGO、$TSM、$ASML 獲多個帳號看多，OCP 後測試鏈 $AEHR、$FORM、$VIAV 加入；本週 AI 基建急跌、VARA 基金傳爆倉，Balder、Michael Sikand、Ren 都轉為逢低布局。分歧在 $CRWV（KawzInvests、Michael Sikand 看多，Ren 認為多數 neocloud 會被淘汰）與 $QCOM（Michael Sikand 看多，Jukan 指晶片過熱恐失三星訂單）。",
   "28": "近 28 日主軸是 AI 基礎建設：$NVDA、$MU、$AMD 各有 8 個帳號看多，$GOOGL 7 個，$NBIS、$MRVL、$META、$ARM、$INTC 各 6 個，理由包括記憶體超級循環、代理式 AI 帶動 CPU 需求、算力吃緊。$INTC 是最明顯的分歧股，6 個帳號看多、Jukan 看空；$CRWV 則被 Balder、Ren、Evan 看空。$EXPE、$BKNG 被認為會被 AI 代理侵蝕，$NKE 持續被看空。"
  },
  "tickers": {

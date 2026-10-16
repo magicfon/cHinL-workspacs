@@ -10381,6 +10381,18 @@
 "likes": 26
 },
 {
+"id": "2110429311463313640",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：那斯達克 100 當日跌逾 2%。",
+"risk": "",
+"s": {
+"QQQ": "bear"
+},
+"text": "The NASDAQ 100 \n$QQQ\n is now down by more than 2% so far today",
+"likes": 217
+},
+{
 "id": "2110433336649003333",
 "author": "michaelsikand",
 "date": "2026-10-14",
@@ -10710,6 +10722,58 @@
 "likes": 349
 },
 {
+"id": "2110722474253894053",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：台積電 EPS 4.60 美元、營收 467 億美元皆優於預期，但開盤跌近 4%。",
+"risk": "利多不漲",
+"s": {
+"TSM": "neutral"
+},
+"text": "Taiwan Semiconductor \n$TSM\n stock reported earnings this morning\n\nEPS of $4.60 beating expectations of $4.48\nRevenue of $46.7B beating expectations of $44.9B\n\nTSMC stock is starting trading today down by almost 4%",
+"likes": 205
+},
+{
+"id": "2110726340970414400",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：列出 Claude 在 Agency AI 分析功能中給予買進評等的股票：博通、輝達、Netflix 等。",
+"risk": "",
+"s": {
+"AVGO": "neutral",
+"DVN": "neutral",
+"NFLX": "neutral",
+"NVDA": "neutral",
+"VG": "neutral"
+},
+"text": "Here are the stocks that Claude has listed as a BUY rating on Agency's new AI analyst feature\n\nBroadcom \n$AVGO\n \nNvidia \n$NVDA\n \nNetflix \n$NFLX\n \nVenture Global \n$VG\n \nDevon Energy \n$DVN",
+"likes": 216
+},
+{
+"id": "2110730390931698045",
+"author": "Balder13946731",
+"date": "2026-10-15",
+"zh": "Balder：SOXX 在 500 有強支撐，但情緒差，最好等明顯轉好再進場。",
+"risk": "市場情緒偏弱",
+"s": {
+"SOXX": "neutral"
+},
+"text": "现在 \n$SOXX\n 在500是一个比较强的支撑位。不过情绪面比较差，最好可以等到明显的转好再进场。",
+"likes": 17
+},
+{
+"id": "2110730827768426624",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：彭博報導三倍做多半導體 ETF SOXL 本週淨流入可望創紀錄。",
+"risk": "",
+"s": {
+"SOXL": "neutral"
+},
+"text": "The 3x Long Semiconductor ETF \n$SOXL\n is on pace for its largest ever week of net inflows - Bloomberg",
+"likes": 598
+},
+{
 "id": "2110733374616990194",
 "author": "Balder13946731",
 "date": "2026-10-15",
@@ -10724,6 +10788,31 @@
 },
 "text": "从长期投资者的角度，现在是进场半导体的好时机，可能还会跌一些，但是重新新高的是必然的。\n\n业绩还能暴涨几年。\n\n恐慌就有便宜的筹码。\n\n记住是业绩持续上涨的半导体 \n$NVDA\n \n$AVGO\n \n$MU\n \n$AMD\n \n$MRVL",
 "likes": 101
+},
+{
+"id": "2110742878507184251",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：業配介紹阿里巴巴、百度等中國科技巨頭可能分拆的 AI 晶片業務。",
+"risk": "",
+"s": {
+"BABA": "neutral",
+"BIDU": "neutral"
+},
+"text": "Here are 3 potential AI spin-offs that could put these China  tech giants in focus according to my sponsors over at KraneShares\n\n- Alibaba \n$BABA\n: T-Head AI chip unit\n- Baidu \n$BIDU\n: Kunlun AI chip business\n- Kuaishou: Kling AI video unit",
+"likes": 43
+},
+{
+"id": "2110750794748465620",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：輝達發表多模態開源模型 Nemotron 3.5 Super VL。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n just posted this:\n\n“Meet NVIDIA Nemotron 3.5 Super VL. Our new open model combines reasoning and tool use with text, image, document, and video understanding for long-running AI agents.”",
+"likes": 206
 },
 {
 "id": "2110753800097001842",
@@ -10796,6 +10885,30 @@
 "likes": 344
 },
 {
+"id": "2110791841511788565",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：可口可樂創 52 週新高。",
+"risk": "",
+"s": {
+"KO": "bull"
+},
+"text": "Coca-Cola \n$KO\n stock hit new 52 WEEK HIGHS today",
+"likes": 227
+},
+{
+"id": "2110796192837746785",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：Volvo 擴大與輝達自駕合作，未來車款採用輝達軟硬體。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "VOLVO CARS IS EXPANDING ITS PARTNERSHIP WITH NVIDIA \n$NVDA\n ON SELF-DRIVING TECH\n\nFuture Volvos will use Nvidia's hardware and software to drive door to door, per Volvo Cars.\n\n- Covers highways, busy city streets, and parking\n- Uses Nvidia's Hyperion sensors and computer, Halos OS, and Alpamayo driving software\n- Debuts in a next-generation Volvo car\n- \"Eyes-off\" and \"mind-off\" driving will roll out gradually",
+"likes": 284
+},
+{
 "id": "2110805162600059061",
 "author": "ren_stocks",
 "date": "2026-10-15",
@@ -10807,6 +10920,18 @@
 "NBIS": "bull"
 },
 "text": "$NBIS\n \n$BE\n \n$LITE\n\n\nThe sacrificial lamb has been chosen.\n\nLet the AI trade resume.",
+"likes": 126
+},
+{
+"id": "2110810520026493176",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：嘉信理財客戶資產達 13.3 兆美元。",
+"risk": "",
+"s": {
+"SCHW": "neutral"
+},
+"text": "Charles Schwab \n$SCHW\n now has $13.3 Trillion of customer assets up from $2 Trillion in 2012",
 "likes": 126
 },
 {
@@ -10945,5 +11070,200 @@
 },
 "text": "Amazon \n$AMZN\n just confirmed it will be reporting earnings after the markets close on Thursday, October 29th",
 "likes": 56
+},
+{
+"id": "2110830624915456124",
+"author": "Balder13946731",
+"date": "2026-10-15",
+"zh": "Balder：演算法交易日誌，CRWV 部分獲利 +5%，MDB 停損 -6.4%。",
+"risk": "",
+"s": {
+"CRWV": "neutral"
+},
+"text": "平仓获利 1/2 · 最佳 +5.04% \n$CRWV\n 62.05→65.18 +5.04%\n\n 平仓亏损 1\n MDB 369.26→345.52 -6.43%\n\n 持仓 IBM 223.69→234.12 +4.7% · PLTR 203.07→200.5 -1.3% · APP 270.03→279.29 +3.4% · CAT  726.2→735.64 +1.3%\n\n balder-algo-logs · 龙气 · 10-15 · algo log · not advice",
+"likes": 3
+},
+{
+"id": "2110832401958236522",
+"author": "michaelsikand",
+"date": "2026-10-15",
+"zh": "Michael Sikand：GTA 6 預告多次露出 PlayStation，遊戲銷售分潤未計入財測，估可推升公司獲利 4–8%。",
+"risk": "",
+"s": {
+"SONY": "bull"
+},
+"text": "Love to see four separate \n$SONY\n Playstation plugs in the new GTA 6 trailer.\n\nThe billions of views these trailers generate are all pushing game order dollars through ONE toll booth: the Playstation store.\n\nI model \n$SONY\n to take a 20-30% pure margin cut on every game sale, but none of the profit lift from the game is in the company's guidance this year.\n\nI think game copies alone could boost company wide profit up 4% to 8% this year, and gaming profit alone up 11% to 20%.",
+"likes": 35
+},
+{
+"id": "2110846028459208785",
+"author": "Balder13946731",
+"date": "2026-10-15",
+"zh": "Balder：10/15 復盤，資金從 AI 硬體轉向軟體與投機成長股，CRM、ADBE 漲 4.6%，HPE、DELL、COHR 重挫。",
+"risk": "AI 硬體鏈賣壓",
+"s": {
+"CRM": "neutral"
+},
+"text": "【美股复盘 · 10月15日】\n\n**【大市】**\n美股周四(15日)表现分化,指数升跌不一,资金明显由AI基建硬件一端撤出,转入软件及投机性成长股。道指(DIA)收报521.18,升1.08%;罗素小型股(IWM)收报275.05,升1.36%,升幅居各主要指数之首;标普(SPY)收报771.79,升0.28%,全日靠稳;惟纳指(QQQ)反复偏软,收报728.00,跌0.13%,为唯一收低的主要指数。市宽呈拉锯格局,104只观察股中53只上升、51只下跌,升跌比近乎对半,显示大市升幅并非来自普涨,而是来自板块之间的位置转移。\n\n**【板块】**\n软件股造好, \n$CRM\n ADBE 同升4.57%, APP 升6.52%;加密货币相关股领先大市, CRCL 急升9.33%, COIN 升6.32%;量子计算概念全线走强, IONQ 升9.33%、 RGTI 升8.13%、 QBTS 升6.53%。沽压则高度集中在AI硬件链:服务器及企业硬件重挫, HPE 急泻7.10%, DELL 跌6.80%;网络设备 ANET 挫5.04%、 CSCO 跌3.34%;电源散热 VRT 跌3.63%;光通讯 COHR 跌4.83%;半导体设备 AMAT 跌3.72%、 AEHR 跌3.19%;模拟及混合信号芯片 SMTC 暴泻10.01%,为全日最弱。航天股分化, ASTS 升5.51%,惟 RKLB 跌6.64%。\n\n**【焦点】**\n全日最值得注意的一组背驰,是算力租赁与算力硬件的分道: CRWV 逆市升5.94%,而为其供货的服务器、网络与光模块一方几乎全线失守,反映沽压针对的是硬件供应端的订单与毛利预期,而非AI用量本身。题材方面,美光台湾厂劳资争议已升级至台当局公开介入、促劳资「真诚协商」,其DRAM主力产能位于台中而非美国,存储供应的扰动风险成为设备与存储链情绪的压制项;另一端,苹果智能在中国获批、月底上beta,惟仅15 Pro以后机型可运行,市场更倾向视之为换机周期而非即期软件收入;Meta与苹果将开源权重模型引入Mac本地运行,则将叙事重心由数据中心外设移向终端内存与软件层。\n\n**【小结】**\n市场的减磅并未外溢至整体风险偏好——小型股与道指同步造好,升跌家数接近对半,属典型的链内轮动而非系统性去风险。技术上,纳指(QQQ)全日收在728关附近,为四大指数中唯一未能收复失地的一只;标普(SPY)771至772区间与罗素(IWM)275关成为短线观察位。分析指,在AI硬件链的毛利疑虑消化完毕之前,指数层面的强弱将继续由软件与硬件之间的资金配置决定,而非由单一宏观变量主导。",
+"likes": 0
+},
+{
+"id": "2110852690183925871",
+"author": "ren_stocks",
+"date": "2026-10-15",
+"zh": "Ren：Anthropic IPO 估值傳從 2 兆降至 1.5 兆，但算力需求不變，屬短期雜音，看多 NBIS、MU、LITE。",
+"risk": "情緒主導股價",
+"s": {
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$MU\n \n$LITE\n\n\nPer Reuters, some investors at Anthropic's investor day discussed a valuation of around $1.5T for the November IPO, down from the roughly $2T expected before.\n\nFor the AI buildout a lower IPO valuation doesn't change how much compute Anthropic needs. \n\nA company growing 45% a quarter keeps buying GPUs, memory and power either way. \n\nWhat it does change is sentiment, and right now sentiment is driving prices more than fundamentals.\n\nShort term noise. \n\nBullish",
+"likes": 63
+},
+{
+"id": "2110887691814408684",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：Cathie Wood 的 Ark 今日買進 19.3 萬股 CoreWeave。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "Cathie Wood and Ark Invest bought 192,566 shares of CoreWeave \n$CRWV\n today",
+"likes": 100
+},
+{
+"id": "2110898820330688956",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：特斯拉今晚的展示值得關注。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "The Tesla \n$TSLA\n demo tonight is going to be interesting",
+"likes": 130
+},
+{
+"id": "2110899981716431236",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：馬斯克試圖說明特斯拉與 SpaceX 為何應該合併。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "Elon Musk trying to make the pitch why Tesla \n$TSLA\n and SpaceX \n$SPCX\n belong together",
+"likes": 342
+},
+{
+"id": "2110900660119982487",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：特斯拉展示可倒吸在牆上的車。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n just showed off a car that can stick to a wall upside down",
+"likes": 986
+},
+{
+"id": "2110901259196842309",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：特斯拉展示飛行車。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n just showed off a new flying car demo",
+"likes": 1184
+},
+{
+"id": "2110904531685155167",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：馬斯克表示 Roadster 計畫 2028 年投產。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Elon Musk said Tesla \n$TSLA\n plans to start production of the Tesla Roadster in 2028",
+"likes": 182
+},
+{
+"id": "2110907027325428018",
+"author": "michaelsikand",
+"date": "2026-10-16",
+"zh": "Michael Sikand：以梗圖嘲諷 TSLA 空頭此刻的處境。",
+"risk": "",
+"s": {
+"TSLA": "bull"
+},
+"text": "$TSLA\n bears right now",
+"likes": 709
+},
+{
+"id": "2110918360779333676",
+"author": "jukan05",
+"date": "2026-10-16",
+"zh": "Jukan：韓媒報導高通新旗艦晶片過熱降頻，三星要求解決，否則 S27 Ultra 可能改用 Exynos。",
+"risk": "失去三星旗艦訂單",
+"s": {
+"QCOM": "bear"
+},
+"text": "According to Korean media reports, Qualcomm's Snapdragon 8 Elite Extreme Gen 6, which was slated for the Galaxy S27 Ultra, has shown performance degradation in recent internal testing. The chip's temperature repeatedly exceeded the threshold, and processing speed dropped during sustained heavy workloads. Samsung has asked Qualcomm to resolve the thermal issues by the middle of this month. If the problem is not fixed, there is also talk that Samsung's own Exynos could be adopted for its top model for the first time in five years, since the Galaxy S22 Ultra.\n\n\n$QCOM",
+"likes": 411
+},
+{
+"id": "2110930101206421711",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：彭博報導台灣計畫在美國為輝達供應鏈興建產業園區，首座德州園區最高 40 億美元。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "TAIWAN PLANS TO BUILD INDUSTRIAL PARKS IN THE US FOR NVIDIA \n$NVDA\n'S SUPPLY CHAIN\n\nThe first one is a Texas complex that could cost up to $4B, per Bloomberg.\n\n- Each park would cost $2B to $4B, with more than one planned\n- Built for smaller suppliers to TSMC and Foxconn\n- Taiwan will offer loan guarantees and help with visas and land\n- Taiwan has reportedly already secured land in Texas",
+"likes": 518
+},
+{
+"id": "2110942679270031842",
+"author": "ren_stocks",
+"date": "2026-10-16",
+"zh": "Ren：B300 租價連漲 17 天至每小時 7.45 美元，較去年低點漲 64%，質疑看空 neocloud 的理由。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nBlackwell Ultra (B300) rental prices are up 17 days in a row, to about $7.45 an hour, according to Compute Desk's index of verified U.S. neocloud transactions. That's up roughly 64% from the low of $4.55 last November.\n\nAnd you are bearish for the sector?\n\nK.",
+"likes": 208
+},
+{
+"id": "2110967368017142250",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：特斯拉發表新款 Roadster，可連星鏈，甚至具備飛行能力。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "$TSLA\n 发布新款Roadster，可以与星链连接，更夸张的是居然有飞行能力🫪",
+"likes": 5
+},
+{
+"id": "2111055144125182271",
+"author": "DJTRadar",
+"date": "2026-10-16",
+"zh": "DJT Radar：FDA 向白宮提案放寬部分胜肽複方調製，HIMS 可能開拓新業務。",
+"risk": "政策仍在審查",
+"s": {
+"HIMS": "bull"
+},
+"text": "A policy change in Washington could open a new business for \n$HIMS\n.\n\nThe FDA has sent the White House a proposal that could ease compounding of certain peptides.\n\nHims has already said it wants to offer them if the rules allow.\n\nThe proposal is still under review. These peptides aren’t FDA-approved as safe or effective.\n\nThe opportunity depends on what the final policy actually permits.",
+"likes": 38
 }
 ]
