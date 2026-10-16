@@ -10390,7 +10390,19 @@
 "QQQ": "bear"
 },
 "text": "The NASDAQ 100 \n$QQQ\n is now down by more than 2% so far today",
-"likes": 217
+"likes": 218
+},
+{
+"id": "2110430751791652949",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：黃仁勳表示會停止供貨給開發不安全 AI 軟體的客戶。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software - Bloomberg",
+"likes": 313
 },
 {
 "id": "2110433336649003333",
@@ -10404,6 +10416,18 @@
 },
 "text": "Really nasty day for our favorite AI stocks with levels unseen since July.\n\nIt's important to 1) understand the incentives of those creating the fear and 2) not take tweets at face value without doing your own research.\n\nChamath made this post because it links to a paywalled article and the attention lands right in his pocket. Elon commenting \"yikes\" because \n$CRWV\n is a primary competitor to \n$SPCX\n, and it's a chance for a cheap dig.\n\nThe truth: The vast majority of \n$CRWV\n's capital structure is secured, contract-backed facilities that are priced off customer offtake quality and GPU collateral. Only around 10% of their debt is the unsecured stuff that might trade at 15% if they seek more...\n\nThese 15% yields are alarming showing what \n$CRWV\n would have to pay for future unsecured bonds they issue but given they're focused on these contract-backed loans that have come in at mid single digits I don't really see this as some major red flag to the buildout.",
 "likes": 121
+},
+{
+"id": "2110436053069041789",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：CoreWeave 執行長稱股市反應不理性，對公司仍有信心。",
+"risk": "",
+"s": {
+"CRWV": "neutral"
+},
+"text": "CoreWeave \n$CRWV\n CEO Mike Intrator said the stock market is acting “irrationally” and that he remains confident in the AI cloud company - Bloomberg",
+"likes": 334
 },
 {
 "id": "2110441794060382525",
@@ -10428,6 +10452,83 @@
 },
 "text": "$BAC\n 今天跳空下跌，RSI严重超卖，但出现了强劲反弹的迹象。",
 "likes": 2
+},
+{
+"id": "2110442815775772775",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：調侃 Grok 給 SpaceX 強力賣出、Gemini 給 Google 賣出評等。",
+"risk": "",
+"s": {
+"GOOGL": "neutral",
+"SPCX": "neutral"
+},
+"text": "Grok has a Strong Sell rating on SpaceX \n$SPCX\n \n\n\nGemini has a sell rating on Google \n$GOOGL",
+"likes": 355
+},
+{
+"id": "2110447403757142526",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：SoFi 創 52 週新低。",
+"risk": "",
+"s": {
+"SOFI": "bear"
+},
+"text": "$SOFI\n stock hit new 52 WEEK LOWS today",
+"likes": 247
+},
+{
+"id": "2110449650788352511",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：列出當日創 52 週新低的股票，包括 SoFi、AppLovin、ASTS、Oklo、營建股等。",
+"risk": "",
+"s": {
+"AN": "neutral",
+"APP": "neutral",
+"ASTS": "neutral",
+"AVAV": "neutral",
+"BIDU": "neutral",
+"BILI": "neutral",
+"BLDR": "neutral",
+"BN": "neutral",
+"CG": "neutral",
+"CPRT": "neutral",
+"CRH": "neutral",
+"DHI": "neutral",
+"DKNG": "neutral",
+"DY": "neutral",
+"EXP": "neutral",
+"FLUT": "neutral",
+"GDS": "neutral",
+"HESM": "neutral",
+"IBP": "neutral",
+"IONS": "neutral",
+"KGC": "neutral",
+"KTOS": "neutral",
+"LEN": "neutral",
+"LUMN": "neutral",
+"MLM": "neutral",
+"OKLO": "neutral",
+"PAC": "neutral",
+"PHM": "neutral",
+"PTCT": "neutral",
+"RKT": "neutral",
+"RYAAY": "neutral",
+"SARO": "neutral",
+"SF": "neutral",
+"SFD": "neutral",
+"SKYD": "neutral",
+"SOFI": "neutral",
+"STLA": "neutral",
+"SYM": "neutral",
+"TKO": "neutral",
+"WMS": "neutral",
+"WYNN": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nSoFi \n$SOFI\n\nAppLovin \n$APP\n\nParamount Skydance \n$SKYD\n\nRocket Companies \n$RKT\n\nAST SpaceMobile \n$ASTS\n\nLumen \n$LUMN\n\nOklo \n$OKLO\n\nDraftKings \n$DKNG\n\nKinross Gold \n$KGC\n\nCopart \n$CPRT\n\nBrookfield \n$BN\n\nLennar \n$LEN\n\nCRH \n$CRH\n\nKratos \n$KTOS\n\nCarlyle \n$CG\n\nStellantis \n$STLA\n\nGDS \n$GDS\n\nBilibili \n$BILI\n\nBuilders FirstSource \n$BLDR\n\nRyanair \n$RYAAY\n\nD.R. Horton \n$DHI\n\nBaidu \n$BIDU\n\nHess Midstream \n$HESM\n\nFlutter \n$FLUT\n\nStandardAero \n$SARO\n\nPulteGroup \n$PHM\n\nAeroVironment \n$AVAV\n\nSymbotic \n$SYM\n\nSmithfield Foods \n$SFD\n\nIonis \n$IONS\n\nWynn Resorts \n$WYNN\n\nPTC Therapeutics \n$PTCT\n\nStifel \n$SF\n\nMartin Marietta \n$MLM\n\nDycom \n$DY\n\nTKO \n$TKO\n\nAdvanced Drainage Systems \n$WMS\n\nInstalled Building Products \n$IBP\n\nAutoNation \n$AN\n\nEagle Materials \n$EXP\n\nGrupo Aeroportuario del Pacifico \n$PAC",
+"likes": 345
 },
 {
 "id": "2110451893478560184",
@@ -10522,6 +10623,30 @@
 },
 "text": "A merger between Tesla \n$TSLA\n and SpaceX \n$SPCX\n could reportedly be announced before December - Barclays",
 "likes": 874
+},
+{
+"id": "2110471387324322139",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：Rocket Lab 將 Neutron 火箭首發延至 2027 年。",
+"risk": "產品延期",
+"s": {
+"RKLB": "bear"
+},
+"text": "Rocket Lab \n$RKLB\n has delayed the first launch of its Neutron rocket to 2027",
+"likes": 340
+},
+{
+"id": "2110474054750683267",
+"author": "StockMKTNewz",
+"date": "2026-10-14",
+"zh": "Evan：波克夏連續 10 個交易日收高。",
+"risk": "",
+"s": {
+"BRK.B": "bull"
+},
+"text": "Berkshire Hathaway \n$BRK.B\n stock just closed the day higher for the 10th trading day in a row",
+"likes": 442
 },
 {
 "id": "2110478087951413682",
@@ -10812,7 +10937,7 @@
 "NVDA": "neutral"
 },
 "text": "Nvidia \n$NVDA\n just posted this:\n\n“Meet NVIDIA Nemotron 3.5 Super VL. Our new open model combines reasoning and tool use with text, image, document, and video understanding for long-running AI agents.”",
-"likes": 206
+"likes": 219
 },
 {
 "id": "2110753800097001842",
@@ -10852,6 +10977,30 @@
 "likes": 121
 },
 {
+"id": "2110762176336064945",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：彭博報導 CoreWeave 信用風險指標創新高（原文代號誤植為 CRWD）。",
+"risk": "CoreWeave 信用風險升高",
+"s": {
+"CRWD": "neutral"
+},
+"text": "A measure of CoreWeave’s \n$CRWD\n credit risk climbed to a new high today - Bloomberg",
+"likes": 106
+},
+{
+"id": "2110766626446381219",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：Sony 推出 5,900 美元鍍金 Walkman 等三款高階播放器。",
+"risk": "",
+"s": {
+"SONY": "neutral"
+},
+"text": "SONY \n$SONY\n JUST LAUNCHED A $5,900 GOLD-PLATED WALKMAN\n\nIt's one of three new Walkman music players for audiophiles, per Bloomberg.\n\n- NW-WM1ZM3: $5,900\n- NW-WM1AM3: $3,000\n- NW-ZX900: $1,900\n\nThe flagship has a gold-plated copper body and gold-plated screws, which Sony says improve the sound.",
+"likes": 196
+},
+{
 "id": "2110772907551145985",
 "author": "michaelsikand",
 "date": "2026-10-15",
@@ -10862,6 +11011,43 @@
 },
 "text": "This is an \n$AMD\n Helios AI rack. \n\nThe market is telling you today this might be more useful as a vending machine.",
 "likes": 115
+},
+{
+"id": "2110776831536185795",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：Moderna 創 52 週新高。",
+"risk": "",
+"s": {
+"MRNA": "bull"
+},
+"text": "Moderna \n$MRNA\n stock hit new 52 WEEK HIGHS today",
+"likes": 305
+},
+{
+"id": "2110778720202146172",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：IREN 創 52 週新低。",
+"risk": "",
+"s": {
+"IREN": "bear"
+},
+"text": "Iren Limited \n$IREN\n stock hit new 52 WEEK LOWS today",
+"likes": 218
+},
+{
+"id": "2110779929780715911",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：蘋果與 Meta 合作讓 Muse Spark Open 模型在 Mac 上執行，為 2017 年來首度公開合作。",
+"risk": "",
+"s": {
+"AAPL": "neutral",
+"META": "neutral"
+},
+"text": "APPLE \n$AAPL\n AND META \n$META\n ARE TEAMING UP TO RUN META'S NEW AI MODEL ON MACS\n\nDevelopers can run Meta's Muse Spark Open model on 2 to 4 linked Mac Studios, per CNBC.\n\nIt's the first public partnership between Apple and Meta since 2017.",
+"likes": 935
 },
 {
 "id": "2110791366913732740",
@@ -11096,6 +11282,18 @@
 "likes": 35
 },
 {
+"id": "2110835038078054485",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：盈透證券客戶資產達 9,647 億美元。",
+"risk": "",
+"s": {
+"IBKR": "neutral"
+},
+"text": "Interactive Brokers \n$IBKR\n now has $964.7 Billion of customer assets up from $288.6B in 2020",
+"likes": 327
+},
+{
 "id": "2110846028459208785",
 "author": "Balder13946731",
 "date": "2026-10-15",
@@ -11119,7 +11317,19 @@
 "NBIS": "bull"
 },
 "text": "$NBIS\n \n$MU\n \n$LITE\n\n\nPer Reuters, some investors at Anthropic's investor day discussed a valuation of around $1.5T for the November IPO, down from the roughly $2T expected before.\n\nFor the AI buildout a lower IPO valuation doesn't change how much compute Anthropic needs. \n\nA company growing 45% a quarter keeps buying GPUs, memory and power either way. \n\nWhat it does change is sentiment, and right now sentiment is driving prices more than fundamentals.\n\nShort term noise. \n\nBullish",
-"likes": 63
+"likes": 73
+},
+{
+"id": "2110859045481456126",
+"author": "StockMKTNewz",
+"date": "2026-10-15",
+"zh": "Evan：列出 TLT 自 2003 年以來的年度表現。",
+"risk": "",
+"s": {
+"TLT": "neutral"
+},
+"text": "This is how \n$TLT\n has performed every full year since 2003",
+"likes": 56
 },
 {
 "id": "2110887691814408684",
@@ -11131,7 +11341,7 @@
 "CRWV": "bull"
 },
 "text": "Cathie Wood and Ark Invest bought 192,566 shares of CoreWeave \n$CRWV\n today",
-"likes": 100
+"likes": 134
 },
 {
 "id": "2110898820330688956",
@@ -11143,7 +11353,7 @@
 "TSLA": "neutral"
 },
 "text": "The Tesla \n$TSLA\n demo tonight is going to be interesting",
-"likes": 130
+"likes": 147
 },
 {
 "id": "2110899981716431236",
@@ -11156,7 +11366,7 @@
 "TSLA": "neutral"
 },
 "text": "Elon Musk trying to make the pitch why Tesla \n$TSLA\n and SpaceX \n$SPCX\n belong together",
-"likes": 342
+"likes": 382
 },
 {
 "id": "2110900660119982487",
@@ -11168,7 +11378,7 @@
 "TSLA": "neutral"
 },
 "text": "Tesla \n$TSLA\n just showed off a car that can stick to a wall upside down",
-"likes": 986
+"likes": 1010
 },
 {
 "id": "2110901259196842309",
@@ -11180,7 +11390,7 @@
 "TSLA": "neutral"
 },
 "text": "Tesla \n$TSLA\n just showed off a new flying car demo",
-"likes": 1184
+"likes": 1208
 },
 {
 "id": "2110904531685155167",
@@ -11192,7 +11402,7 @@
 "TSLA": "neutral"
 },
 "text": "Elon Musk said Tesla \n$TSLA\n plans to start production of the Tesla Roadster in 2028",
-"likes": 182
+"likes": 191
 },
 {
 "id": "2110907027325428018",
@@ -11216,7 +11426,7 @@
 "QCOM": "bear"
 },
 "text": "According to Korean media reports, Qualcomm's Snapdragon 8 Elite Extreme Gen 6, which was slated for the Galaxy S27 Ultra, has shown performance degradation in recent internal testing. The chip's temperature repeatedly exceeded the threshold, and processing speed dropped during sustained heavy workloads. Samsung has asked Qualcomm to resolve the thermal issues by the middle of this month. If the problem is not fixed, there is also talk that Samsung's own Exynos could be adopted for its top model for the first time in five years, since the Galaxy S22 Ultra.\n\n\n$QCOM",
-"likes": 411
+"likes": 474
 },
 {
 "id": "2110930101206421711",
@@ -11228,7 +11438,7 @@
 "NVDA": "bull"
 },
 "text": "TAIWAN PLANS TO BUILD INDUSTRIAL PARKS IN THE US FOR NVIDIA \n$NVDA\n'S SUPPLY CHAIN\n\nThe first one is a Texas complex that could cost up to $4B, per Bloomberg.\n\n- Each park would cost $2B to $4B, with more than one planned\n- Built for smaller suppliers to TSMC and Foxconn\n- Taiwan will offer loan guarantees and help with visas and land\n- Taiwan has reportedly already secured land in Texas",
-"likes": 518
+"likes": 745
 },
 {
 "id": "2110942679270031842",
@@ -11240,7 +11450,7 @@
 "NBIS": "bull"
 },
 "text": "$NBIS\n\n\nBlackwell Ultra (B300) rental prices are up 17 days in a row, to about $7.45 an hour, according to Compute Desk's index of verified U.S. neocloud transactions. That's up roughly 64% from the low of $4.55 last November.\n\nAnd you are bearish for the sector?\n\nK.",
-"likes": 208
+"likes": 333
 },
 {
 "id": "2110967368017142250",
@@ -11264,6 +11474,212 @@
 "HIMS": "bull"
 },
 "text": "A policy change in Washington could open a new business for \n$HIMS\n.\n\nThe FDA has sent the White House a proposal that could ease compounding of certain peptides.\n\nHims has already said it wants to offer them if the rules allow.\n\nThe proposal is still under review. These peptides aren’t FDA-approved as safe or effective.\n\nThe opportunity depends on what the final policy actually permits.",
-"likes": 38
+"likes": 88
+},
+{
+"id": "2111076710892634363",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：Ortex 數據顯示 CoreWeave 週三跌逾 15%，空頭帳面獲利 8.06 億美元。",
+"risk": "",
+"s": {
+"CRWV": "bear"
+},
+"text": "CoreWeave \n$CRWV\n short sellers were up $806 Million in paper gains on Wednesday when the stock was down by more than 15% - Ortex",
+"likes": 165
+},
+{
+"id": "2111079094053937486",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：SpaceX 確認 10/20 盤後公布第三季財報。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX \n$SPCX\n just confirmed it will be reporting Q3 earnings after the markets close on Tuesday, October 20th \n\nThe earnings call starts at 4:30PM ET",
+"likes": 571
+},
+{
+"id": "2111084858780868689",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：輝達與賓士擴大自駕合作，目標包括 L4 自駕計程車。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "NVIDIA \n$NVDA\n AND MERCEDES-BENZ EXPAND THEIR PARTNERSHIP ON SELF-DRIVING CARS\n\nThe two will build Mercedes' next driver-assist and automated driving systems together, per Mercedes-Benz.\n\n- Mercedes' MB.OS software runs on Nvidia's Hyperion computer and sensors\n- Nvidia's Alpamayo software handles city driving, safety, and parking\n- Nvidia's Halos adds a backup safety system\n- The goal includes future Level 4 robotaxis, which Mercedes calls \"robolimousines\"",
+"likes": 337
+},
+{
+"id": "2111089492438474837",
+"author": "octopusycc",
+"date": "2026-10-16",
+"zh": "大老师：預期 TSLA 財報 EPS 與營收至少一項不及預期，財報後漲跌需財報前再判斷。",
+"risk": "財報不及預期",
+"s": {
+"TSLA": "bear"
+},
+"text": "今天TSLA的财报判断\n\n我认为 TSLA 财报 EPS和 营收至少一个 不及预期\n\n但财报后的涨跌仍然需要到财报前才能判断\n\n\n$TSLA",
+"likes": 6
+},
+{
+"id": "2111094947445105131",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：Waymo 開始在多倫多路測，目標 2028 年提供載客服務。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n owned Waymo just posted this \n\n“In the coming days, you’ll begin seeing Waymo’s all-electric vehicles driving through Toronto’s streets as we lay the groundwork for our ride-hailing service. Our goal is to begin serving riders in 2028.”",
+"likes": 189
+},
+{
+"id": "2111110430739632282",
+"author": "octopusycc",
+"date": "2026-10-16",
+"zh": "大老师：認為 DNA 可能又是一檔「神盤」，未平倉量起來就是啟動時。",
+"risk": "",
+"s": {
+"DNA": "neutral"
+},
+"text": "neosoul估计又是一个神盘吧 OI起来的时候就是开启的时候 \n$DNA",
+"likes": 13
+},
+{
+"id": "2111142387942662539",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：那斯達克 100 當日跌 2%。",
+"risk": "",
+"s": {
+"QQQ": "bear"
+},
+"text": "The NASDAQ 100 \n$QQQ\n is now down by 2% so far today",
+"likes": 168
+},
+{
+"id": "2111158980114633110",
+"author": "octopusycc",
+"date": "2026-10-16",
+"zh": "大老师：伊朗情勢波動會牽動科技巨頭，AMZN、MSFT、GOOGL、ORCL、NVDA 影響最大，META 最小。",
+"risk": "伊朗地緣風險",
+"s": {
+"AMZN": "neutral",
+"GOOGL": "neutral",
+"META": "neutral",
+"MSFT": "neutral",
+"NVDA": "neutral",
+"ORCL": "neutral"
+},
+"text": "伊朗的任何波动都会牵连 科技巨头\n\n其中 \n$AMZN\n \n$MSFT\n \n$GOOGL\n \n$ORCL\n \n$NVDA\n 影响最大\n\n对 \n$META\n 影响最小",
+"likes": 7
+},
+{
+"id": "2111159826512523674",
+"author": "octopusycc",
+"date": "2026-10-16",
+"zh": "大老师：Roadster 展示工程實力、或提升科技溢價，但短期貢獻小，重點是 10/21 財報，交付量年減 2.1%。",
+"risk": "汽車業務成長放緩",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Roadster 飞起来了，$TSLA 的估值还能飞多高？\n\n看完昨天 Roadster 的演示，我觉得 Musk 这次确实又给市场带来了一点惊喜。\n\n利用 SpaceX 的推进技术，实现短暂腾空、空中翻转，甚至倒置行驶。虽然距离真正意义上的飞行汽车还有很长的路，但这种工程能力确实让我印象深刻。\n\n不过相比 Roadster 本身，我更关注它和即将到来的 \n$TSLA\n Q3 财报之间的关系。\n\n1. Roadster 的价值，可能远远超过它能卖多少钱。\nRoadster 预计要到 2028 年才能量产，对 Tesla 短期业绩的贡献几乎可以忽略。\n但 Musk 很清楚怎么让市场重新关注 Tesla 的技术能力。\n从 FSD、Robotaxi 到 Optimus，$TSLA 的估值一直包含大量对未来的预期。\nRoadster 这次展示的技术，或许能让市场重新审视 Tesla 的科技溢价，尤其是在汽车业务增长放缓的背景下。\n\n2. 10 月 21 日的财报，才是真正需要关注的地方。\n\n目前 Q3 已公布的数据：\n汽车交付量 486,532 辆，同比下降约 2.1%\n储能部署 13.7 GWh，同比增长约 9.6%\n市场预期 EPS 约 $0.44，低于去年同期\n交付数据已经出来了，但我更关心接下来的三个问题：\n— 汽车毛利率能不能改善？交付量超预期，最终能转化为多少利润？\n— Capex 持续增加，Robotaxi、Optimus 等业务什么时候能带来实质性的现金流贡献？\n—管理层能否给出更明确的 AI 商业化进度，让市场有理由继续提高估值？\n\n3. 从交易角度来看，我会警惕财报前的预期透支。\n\nRoadster 的确有可能成为短期情绪催化剂。\n但如果股价提前反弹，Call 端情绪升温、近端 IV 被明显推高，而财报最终没有提供足够的新增利好，那么市场很可能开始交易预期兑现，财报后的 IV Crush 也需要警惕。\n反过来，如果财报在毛利率、自由现金流以及 Robotaxi 商业化方面给出超预期的信息，这轮反弹才可能获得更扎实的支撑。\n\n我的观点是，Roadster 能够帮助 Tesla 重新建立市场对其技术能力的信心，但想让这种科技溢价持续下去，最终还是要靠商业化兑现。\n\nRoadster 已经飞起来了。\n\n接下来就看 Tesla 的利润和现金流，能不能跟上 Musk 的想象力。\n\n但我悲观的认为，应该是跟不上的\n\n下一个 Catalyst 是SpaceX和Tesla合并\n\n————————————\n\n依然可以在MSX参与交易Tesla的美股财报\n\n邀请码：\nhttp://\nmsx.com/?code=h5cc95",
+"likes": 3
+},
+{
+"id": "2111161897647034880",
+"author": "ren_stocks",
+"date": "2026-10-16",
+"zh": "Ren：NBIS 接近 160 美元，可能尚未見底，但風險報酬佳，將在此下方淨買入，下一筆限價 140。",
+"risk": "可能尚未見底",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n $160 is not far away now.\n\nDon't buy if you think we have hit the bottom. We most likely haven't.\n\nBuy if you think the R/R of the stock at these levels is too hard to pass up.\n\nThis happens time and time again. I'll be a net buyer below this level.\n\nHolding long, even if we got lower.\n\nNext limit buy $140.",
+"likes": 110
+},
+{
+"id": "2111171439919505791",
+"author": "michaelsikand",
+"date": "2026-10-16",
+"zh": "Michael Sikand：QCOM 在 AI 賣壓中表現強勢，顯示股價幾乎未反映 AI 上檔。",
+"risk": "",
+"s": {
+"QCOM": "bull"
+},
+"text": "Pretty interesting to see how strong \n$QCOM\n has been amid this AI selloff.\n\nIn my view this really goes to show how little AI upside is priced into the stock at these levels.",
+"likes": 53
+},
+{
+"id": "2111176123841179916",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：列出當日創 52 週新高的股票，以支付、能源、軟體股為主。",
+"risk": "",
+"s": {
+"A": "neutral",
+"ADP": "neutral",
+"APA": "neutral",
+"BDX": "neutral",
+"BOX": "neutral",
+"BP": "neutral",
+"CAKE": "neutral",
+"CNC": "neutral",
+"CNQ": "neutral",
+"COP": "neutral",
+"CVX": "neutral",
+"DOCU": "neutral",
+"E": "neutral",
+"EOG": "neutral",
+"EQNR": "neutral",
+"ETSY": "neutral",
+"EXEL": "neutral",
+"EXPD": "neutral",
+"HALO": "neutral",
+"HMC": "neutral",
+"IFF": "neutral",
+"KDP": "neutral",
+"KOF": "neutral",
+"MA": "neutral",
+"MANH": "neutral",
+"MCK": "neutral",
+"MET": "neutral",
+"OVV": "neutral",
+"PAYC": "neutral",
+"PBR": "neutral",
+"PBR.A": "neutral",
+"PCTY": "neutral",
+"PSO": "neutral",
+"SHEL": "neutral",
+"SSL": "neutral",
+"SU": "neutral",
+"TBBB": "neutral",
+"TEAM": "neutral",
+"URBN": "neutral",
+"V": "neutral",
+"VEEV": "neutral",
+"VTRS": "neutral",
+"WPP": "neutral",
+"WSM": "neutral",
+"WST": "neutral",
+"ZETA": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nVisa \n$V\n\nMastercard \n$MA\n\nPetrobras \n$PBR\n\nBP \n$BP\n\nZeta Global \n$ZETA\n\nPetrobras \n$PBR.A\n\nKeurig Dr Pepper \n$KDP\n\nCanadian Natural \n$CNQ\n\nViatris \n$VTRS\n\nChevron \n$CVX\n\nShell \n$SHEL\n\nConocoPhillips \n$COP\n\nAPA \n$APA\n\nEtsy \n$ETSY\n\nSuncor Energy \n$SU\n\nEquinor \n$EQNR\n\nOvintiv \n$OVV\n\nEOG Resources \n$EOG\n\nAtlassian \n$TEAM\n\nBox \n$BOX\n\nCentene \n$CNC\n\nSasol \n$SSL\n\nExelixis \n$EXEL\n\nMetLife \n$MET\n\nHalozyme \n$HALO\n\nVeeva \n$VEEV\n\nDocuSign \n$DOCU\n\nPearson \n$PSO\n\nInternational Flavors & Fragrances \n$IFF\n\nWPP \n$WPP\n\nADP \n$ADP\n\nAgilent \n$A\n\nCheesecake Factory \n$CAKE\n\nUrban Outfitters \n$URBN\n\nBecton Dickinson \n$BDX\n\nHonda \n$HMC\n\nBBB Foods \n$TBBB\n\nExpeditors \n$EXPD\n\nWilliams-Sonoma \n$WSM\n\nManhattan Associates \n$MANH\n\nPaycom \n$PAYC\n\nMcKesson \n$MCK\n\nCoca-Cola Femsa \n$KOF\n\nWest Pharmaceutical \n$WST\n\nPaylocity \n$PCTY\n\nEni \n$E",
+"likes": 74
+},
+{
+"id": "2111184097989046566",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：DraftKings 再創 52 週新低。",
+"risk": "",
+"s": {
+"DKNG": "bear"
+},
+"text": "Draftkings \n$DKNG\n stock hit new 52 WEEK LOWS again today",
+"likes": 31
 }
 ]
