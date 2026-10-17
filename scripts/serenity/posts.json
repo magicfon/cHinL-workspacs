@@ -7473,6 +7473,47 @@
 "likes": 653
 },
 {
+"id": "2110615506474651804",
+"date": "2026-10-15",
+"zh": "馬斯克近期放大 CoreWeave 融資、中國記憶體傾銷等疑慮，作者認為這可能對特斯拉、SpaceX 有利，卻打壓供應商估值。",
+"risk": "名人言論影響市場情緒",
+"s": {
+"AVGO": "neutral",
+"CRWV": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "It's interesting to see Elon interacting with finance X accounts out of the blue.\n\nThen amplifying $CRWV financing concerns, Chinese memory flooding, to AI investors being gamblers recently.\n\nWith $SPCX and $TSLA, I do think Elon is a visionary but from how it looks from the outside...\n\nAmplifying concerns about competitors does make their financing more difficult as a self-fulfilling prophecy.\n\nAnd multiple posts about Chinese memory flooding after calling Samsung/SK Hynix pricing extortion does harm these supplier valuations...\n\nThe economic incentives of doing so probably benefits Tesla/SpaceX more in the long run, even if everything goes down together.\n\nThere's merit to a lot of things (I've been voicing Coreweave concerns about debt interest + rate hikes for the longest time...).\n\nBut much like high end memory flooding to nuances of \"No crying in a Casino\" when the $AVGO CEO comments were regarding OpenAI ARR datapoints... were missed.\n\nYou can throw rocks at others when a glass house is  propped up by passive index flows",
+"likes": 1451
+},
+{
+"id": "2110621448272577019",
+"date": "2026-10-15",
+"zh": "CPI 與升息預期造成全面下跌，是布局機會；LITE 有照付不議合約與雲端巨頭融資，不該與需要高息融資的新雲端（如 CRWV）混為一談。",
+"risk": "升息放大融資疑慮",
+"s": {
+"AMZN": "neutral",
+"CRWV": "bear",
+"KOSPI": "neutral",
+"LITE": "bull",
+"MSFT": "neutral",
+"SPY": "neutral"
+},
+"text": "@HenilPatel20864 Clearly a macro related drop after CPI numbers came out today and further US rate hike anticipation. Since $KOSPI, $SPY, and Nikkei ended up plummeting.\n\nThere's too many potential second/third order effects that's hard to map due if $CRWV goes down or frontier labs struggle (given contractual obligations).\n\nRate hikes understandably amplifies a lot of those fears. But I do think everything getting sold off together presents opportunities.\n\nIf $LITE has take/pay contracts + sold out until 2029 for lasers and is being financed by hyperscalers for 2031 demand.\n\nThe demand visibility + financing (with counterparties like $MSFT or $AMZN) are too solid that I wouldn't bunch companies in the optical sector together (that already have cash on hand via ATMs or private placement).\n\nWith a neocloud that requires billions in future toxic financing in high rate environments.\n\nI think markets will eventually distinguish nuances from actual profitability, financing, and long term demand sustainability rather than just treating everything as one \"bubble\".",
+"likes": 125
+},
+{
+"id": "2110645575469461611",
+"date": "2026-10-15",
+"zh": "台積電財報創新高（淨利 236 億美元、年增 68%），親自評估資本支出、融資與元件供給後仍認為需求遠大於供給，AI 營收成長可能超過 50% 年複合。",
+"risk": "",
+"s": {
+"TSM": "bull"
+},
+"text": "$TSM released earnings today. I was more curious about commentary given recent the market panic.\n\nFor analyst Q&A rounds:\n\nQ: Citi explicitly challenged TSMC on AI financing, HBM, CoWoS, lasers and the risk of overbuilding capacity\n\nA: $TSM assessed CSP capex, DC construction conditions, customer financial conditions, and supply of critical components.\n\nManagement's conclusion is still that \"demand exceeds supply\". As well as that AI accelerator revenue growth could exceed its previous 50%+ CAGR projection through 2029.\n\nThis is a more meaningful statement since it addresses some concerns regarding recent selloff.\n\nQ: JPM asked if wafer supply could be tighter in 2027 than in 2026 (demand visibility)\n\nA: Wei (Chairman/CEO) stated $TSM even sends staff to verify DC construction progress on site. And after assessing all the factors, TSMC believes gap between supply and demand remains substantial.\n\nIt could not determine whether the extent of the gap given customers continues to increase demand.\n\nQ: On pricing power:\n\nA: Wei responded that there is \"no ceiling on TSMC's profitability\" but that profits will not surge dramatically overnight.\n\n(Source: NextApple, Taiwanese press)\n\nRegarding earnings, very strong: as usual\n\n- TSMC record profits of $23.6B (68% Y/Y growth), and revenue jumping to $46.72B, beating expectations.\n\n- Q4 Guidance was $52.3-$54.3B revenue off 65-67% gross margins.\n\nTLDR:\n\n- No signs of any slowdown or collapse as AI demand far exceeds supply for foreseeable future. $TSM is probably the fundamental proxy/canary to how the overall AI semi trade is doing.\n\n- On financing concerns and fear of overcapacity showing up in semiconductor demand:\n\n$TSM specifically examined the risks investors are concerned about now and assessment still points to unmet demand.\n\nDuring the Q&A session, Wei said AI demand was \"very, extremely strong,\" with absolutely no signs of slowing.\n\nUnderlying AI semi supply chain growth is healthier than recent market panic suggest.",
+"likes": 1269
+},
+{
 "id": "2110823066595131768",
 "date": "2026-10-15",
 "zh": "KeyBanc 通路調查：Google 洽談把記憶體長約延長到 2035 年；三星七成產能已簽到 2031，顯示美光、海力士的循環更持久。",
@@ -7483,7 +7524,43 @@
 "SKHY": "bull"
 },
 "text": "$GOOGL\n is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for \n$MU\n, \n$SKHY\n, and the others. \n\nThey also expect HBM prices",
-"likes": 716
+"likes": 812
+},
+{
+"id": "2110825405611671559",
+"date": "2026-10-15",
+"zh": "樂見 Google 像 Nvidia 一樣積極鎖定供應；雲端業者若指望中國記憶體救援將大失所望。",
+"risk": "",
+"s": {
+"GOOGL": "bull",
+"NVDA": "neutral"
+},
+"text": "@BullishWiener I'm happy $GOOGL is being more aggressive with supply procurement like $NVDA was.\n\nThey've been way too complacent and let others bottleneck their own supply chain.\n\nCSPs and hyperscalers will be in a rude awakening if they're hoping for Chinese memory to save them.",
+"likes": 46
+},
+{
+"id": "2110835574458442200",
+"date": "2026-10-15",
+"zh": "Ayar 雷射本就會多家供應；OCP 新規格 8x200mW 最接近的是 LITE，MTSI 尚無類似能力，SIVE 技術上遲早能達標但時程未定，需等財報。",
+"risk": "SIVE 新規格時程不確定",
+"s": {
+"LITE": "bull",
+"MTSI": "neutral",
+"SIVE": "neutral"
+},
+"text": "@ishrak_khair Nobody said $SIVE was going to be the sole laser provider for Ayar for all generations. 2nd gen Supernova was 16x wavelength that they confirmed Sivers.\n\nAyar is expected to do multi-vendor for lasers, would be stupid not to. Originally disclosed suppliers were $LITE, $MTSI, and $SIVE, but there's probably only a few companies that can do this new design.\n\nFor their new demonstration at OCP it's 8x 200mW range, $LITE is probably the closest one technologically to Ayar's OCP announcement, with 8x 250 mW demonstrated at ECOC just last month that they're targeting availability later in 2027.\n\nI don't see anything where $MTSI has demonstrated remotely similar capabilities yet. Macom were saying they were still working on 75 mW qualifications targeting production H2 2027.\n\n$SIVE has lower power 8/16 channel specs, and individual 200 mW lasers for NPO. I think this might relate to their Seminex partnership for UHP multi channel variants that they were targeting for 2027 so high confidence they'll meet technology specs eventually, more of a matter of timing.\n\nBut basically new announced configuration from Ayar, can't really make any assumptions here yet, will need to wait for earnings of these players.",
+"likes": 104
+},
+{
+"id": "2110843876600922451",
+"date": "2026-10-15",
+"zh": "看行動不看言論：Google 要把供應鎖到 2035 年，其他雲端巨頭可能跟進，代表不認為兩年內中國會讓記憶體供過於求。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "@EscapeTheLab I mean it's probably more important to look at the actions over words... I'm sure $GOOGL trying to secure supply until 2035, would spark other hyperscalers to follow suit as well.\n\nThey probably wouldn't be going 9 years out if they thought there would be overflooding in supply from China in 2 years.",
+"likes": 36
 },
 {
 "id": "2110848740559126575",
@@ -7496,6 +7573,31 @@
 "NVDA": "neutral"
 },
 "text": "Glad we finally got a word too from \n$NVDA\n Jensen Huang today from an event at Stockholm...\n\nAbout \n$CRWV\n amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is improving every day, I'm optimistic\"\n- \"The cost of capital is actually decreasing\"\n\nOn whether Nvidia needed to provide a financial backstop:\n\n- Jensen said he did not see a need for Nvidia to backstop CoreWeave\n\nI'm personally not too positive about \n$CRWV\n relative to \n$NBIS\n and the others... but any copium helps from the man himself with market sentiment.",
-"likes": 354
+"likes": 427
+},
+{
+"id": "2110934540252512696",
+"date": "2026-10-16",
+"zh": "（中文貼文）讚嘆特斯拉飛行汽車影片很酷。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "好吧，这视频也太酷了吧...\n\n$TSLA 现在居然都有飞行汽车了，感觉我们真的活在未来了 https://t.co/WjY9tP9JIF",
+"likes": 1901
+},
+{
+"id": "2111206827790885288",
+"date": "2026-10-16",
+"zh": "Dell 執行長稱記憶體短缺是「4 年的問題」、2027 年更嚴重；作者認為 Google 簽約到 2035 年，類股卻因融資疑慮大跌很矛盾。",
+"risk": "類股情緒性下跌",
+"s": {
+"DELL": "neutral",
+"GOOGL": "neutral",
+"MU": "bull",
+"SNDK": "bull"
+},
+"text": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub.\n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 years to build, meaning new production would emerge 2029 or 2030.\n\nand that semiconductor shortages could worsen in 2027 stating:\n\n\"I do think it gets worse next year in terms of demand and supply\".\n\nI think it's strange we're getting unprecedented forward visibility with memory... as $GOOGL and richest hyperscalers seek LTAs into 2035.\n\nAnd a major sector crash as well over durability/financing concerns.",
+"likes": 844
 }
 ]
