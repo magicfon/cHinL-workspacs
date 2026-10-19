@@ -11621,6 +11621,30 @@
 "likes": 189
 },
 {
+"id": "2111096937693036731",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：同樣的量子消息曾讓 GOOG 連兩天漲 5%，如今市場反應今非昔比。",
+"risk": "",
+"s": {
+"GOOG": "neutral"
+},
+"text": "相同的东西曾经让 \n$GOOG\n 连续两天涨5%，今时不同往日🫪",
+"likes": 12
+},
+{
+"id": "2111105498871443628",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：若反彈確認，SOXX 應會持續回升至 560。",
+"risk": "反彈尚未確認",
+"s": {
+"SOXX": "bull"
+},
+"text": "反弹如果确认， \n$SOXX\n 应该会持续复苏返回560。",
+"likes": 35
+},
+{
 "id": "2111110430739632282",
 "author": "octopusycc",
 "date": "2026-10-16",
@@ -12085,7 +12109,7 @@
 "KWEB": "neutral"
 },
 "text": "For anyone who wants to do more research into something this weekend\n\nHere is the full suite of ETFs from my sponsors over at KraneShares\n\nTop 5 largest ETFs based on AUM\n\n- \n$KWEB\n KraneShares CSI China Internet ETF: $4.5B AUM\n- \n$AGIX\n KraneShares Public-Private AI & Technology",
-"likes": 47
+"likes": 49
 },
 {
 "id": "2111833654364405764",
@@ -12149,6 +12173,18 @@
 "likes": 155
 },
 {
+"id": "2111918515984703543",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：嘉信執行長對 AI 代理代客交易持保留態度，正測試讓部分交易者串接 Claude。",
+"risk": "",
+"s": {
+"SCHW": "neutral"
+},
+"text": "CHARLES SCHWAB \n$SCHW\n CEO RICK WURSTER IS SKEPTICAL OF AI AGENTS TRADING STOCKS FOR YOU\n\nHe says most clients will still want a mix of people and technology, per WSJ.\n\n- Schwab blocks outside AI agents from logging into customer accounts\n- It's testing letting some traders connect Claude to their accounts, with a wider rollout planned\n- Its own AI assistant, Charley, won't act fully on its own\n\n\"There's no magic recipe to outperform the market. If it were that easy, there'd be a lot of hedge funds doing it.\"\n\n\"We're not trying to keep up. We're the leader.\"",
+"likes": 141
+},
+{
 "id": "2111925536696263001",
 "author": "unusual_whales",
 "date": "2026-10-18",
@@ -12159,6 +12195,18 @@
 },
 "text": "JPMorgan, \n$JPM\n, is the world’s most AI-advanced bank for the fifth straight year, and it’s pulling further ahead, per the Evident AI Index.\n\nThe top five:\n\nJPMorgan\nCapital One\nRoyal Bank of Canada\nCommonwealth Bank of Australia\nUBS, the only European bank in the top 10",
 "likes": 205
+},
+{
+"id": "2111934558929309957",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：Google 表示 Willow 晶片的量子運算錯誤減少約 40 倍。",
+"risk": "",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n says it cut quantum computing errors by about 40x on its Willow chip",
+"likes": 203
 },
 {
 "id": "2111974913674293699",
@@ -12173,6 +12221,25 @@
 "likes": 140
 },
 {
+"id": "2111980090263269565",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：美銀 AI 股目標價幾乎未調，平均高於現價 72%，CRWV、WDC、CRDO 上檔逾 100%。",
+"risk": "",
+"s": {
+"CRDO": "bull",
+"CRWV": "bull",
+"MRVL": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"NVDA": "bull",
+"SNDK": "bull",
+"WDC": "bull"
+},
+"text": "$NBIS\n \n$SNDK\n \n$MU\n\n\nBank of America's AI price targets barely moved last week. \n\nLine up BofA's targets on 15 AI and semi names against Friday's close, and the average one sits about 72% higher.\n\n\n$CRWV\n +128%\n\n$WDC\n +120%\n\n$CRDO\n +100%\n\n$SNDK\n +92%\n\n$NBIS\n +87%\n\n$MU\n +76%\n\n$MRVL\n +76%\n\n$NVDA\n +63%\n\nEvery single name is trading below its target, and even the least stretched one on the list needs 32% just to get there.\n\nDemand didn't change in those eight red days. Hyperscalers are still on track for ~$750B of capex this year, GPU rental prices just hit all-time highs, and the tokens being served keep compounding. \n\nPositioning is what changed, with hedge funds dumping two years of AI buying in five sessions.\n\nWhen the fundamentals hold and the price breaks, that gap is where the money gets made.\n\nAre you ready to gap up on Monday?",
+"likes": 86
+},
+{
 "id": "2112000874902077895",
 "author": "Balder13946731",
 "date": "2026-10-19",
@@ -12182,7 +12249,19 @@
 "SPCX": "neutral"
 },
 "text": "Earnings Radar — week of Oct 19\n\nOn the board: GM · RTX · SPCX · NFLX · TSLA · META\n\nPriciest: NOK at 10.3% implied vs a 6.4% typical move — 1.6x what it usually does.\nCheapest: \n$SPCX\n asks 7.8% against a 13.6% history, and it has been up on only 0% of its last 9.\n\nImplied vs",
-"likes": 1
+"likes": 2
+},
+{
+"id": "2112003525794496852",
+"author": "jukan05",
+"date": "2026-10-19",
+"zh": "Jukan：中媒報導 iPhone Duo 在中國溢價快速下滑，囤貨經銷商恐虧損。",
+"risk": "摺疊機需求降溫",
+"s": {
+"AAPL": "bear"
+},
+"text": "Chinese media: iPhone Duo premiums plunge in China, leaving even a dealer with RMB 1 million in orders at risk of losses\n\n• Launch premiums for Apple’s first foldable phone, the iPhone Duo, are falling rapidly, exposing phone dealers who secured inventory in advance to potential losses. One dealer in Zhengzhou secured 50 units, expecting to earn RMB 2,000 per phone, or RMB 100,000 in total profit. However, prospective buyers repeatedly lowered their offers, leaving the dealer facing an estimated loss of RMB 25,000 at the latest prices. The dealer has since halted payment of the remaining balance and is splitting the order into smaller lots to find new buyers.\n\n• Individual consumers are also facing shrinking resale premiums. One consumer hoping to resell a phone at a RMB 6,000 markup was offered a premium of no more than RMB 3,000 by a secondhand dealer. Industry observers say foldable phone production is ramping up faster than expected, shortening the period during which initial premiums can hold and increasing the risk of losses for speculative dealers who have taken on excessive inventory.\n\n\n$AAPL",
+"likes": 460
 },
 {
 "id": "2112006454999986498",
@@ -12194,7 +12273,7 @@
 "META": "bull"
 },
 "text": "I don’t own enough \n$META\n shares",
-"likes": 74
+"likes": 97
 },
 {
 "id": "2112017534459482480",
@@ -12236,5 +12315,286 @@
 },
 "text": "Goldman Sachs today upgraded CoreWeave \n$CRWV\n  to Buy from Neutral with a price target of $106",
 "likes": 18
+},
+{
+"id": "2112165115420156116",
+"author": "KawzInvests",
+"date": "2026-10-19",
+"zh": "KawzInvests：IDC 稱第三季手機出貨年減 22% 創紀錄，記憶體成本一年漲約 350%，手機市場尚未見底。",
+"risk": "手機需求崩跌",
+"s": {
+"AAPL": "bear",
+"MU": "bull",
+"QCOM": "bear",
+"SNDK": "bull"
+},
+"text": "RAMmageddon continues to show up in phone shipments.\n\nIDC says global smartphone shipments fell 22% in Q3, the worst decline on record. Growth isn’t expected to recover until 2028 at the earliest.\n\nIDC research director Nabila Popal says the smartphone market “has not yet reached the bottom.”\n\n“Memory costs have surged approximately 350% since last year and are still rising.”\n\n“The worst is yet to come.”\n\n\n$MU\n \n$SNDK\n \n$AAPL\n \n$QCOM",
+"likes": 27
+},
+{
+"id": "2112189710617788778",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：特斯拉確認 12 月 3 日舉行年度股東會。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n confirmed it will be hosting its annual shareholder meeting on December 3rd at 4PM ET",
+"likes": 277
+},
+{
+"id": "2112191650441175496",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：本週財報行事曆，含 SpaceX、Netflix、特斯拉、Meta 等。",
+"risk": "",
+"s": {
+"AXP": "neutral",
+"BE": "neutral",
+"GE": "neutral",
+"IBM": "neutral",
+"LMT": "neutral",
+"META": "neutral",
+"NEE": "neutral",
+"NFLX": "neutral",
+"PG": "neutral",
+"RTX": "neutral",
+"SPCX": "neutral",
+"SPOT": "neutral",
+"T": "neutral",
+"TSLA": "neutral",
+"WDC": "neutral"
+},
+"text": "Here are some of the earnings to watch out for this week\n\n- Tuesday: SpaceX \n$SPCX\n, Netflix \n$NFLX\n, General Electric \n$GE\n, Raytheon \n$RTX\n\n\n- Wednesday: Tesla \n$TSLA\n, Meta Platforms \n$META\n, NextEra \n$NEE\n, AT&T \n$T\n, \n$IBM\n\n\n- Thursday: Bloom Energy \n$BE\n, Spotify \n$SPOT\n, Western Digital \n$WDC\n, \n$PG\n, Lockheed Martin \n$LMT\n\n\n- Friday: American Express \n$AXP\n\n\nIf you see this I think you will get a lot of value out of my pinned post",
+"likes": 88
+},
+{
+"id": "2112197916139941935",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：摩根士丹利將亞馬遜列為首選股，目標價 350 美元，股價漲 5%。",
+"risk": "",
+"s": {
+"AMZN": "bull"
+},
+"text": "Morgan Stanley today named Amazon \n$AMZN\n one of its \"Top Picks\" with an Overweight rating and a $350 price target\n\nAMZN stock is now up by 5% so far today",
+"likes": 1091
+},
+{
+"id": "2112198586062541281",
+"author": "KawzInvests",
+"date": "2026-10-19",
+"zh": "KawzInvests：近年熱門 IPO 多讓散戶受傷，Nscale 估值遭砍、微軟退出合作，IPO 可能延後。",
+"risk": "熱門 IPO 估值下修",
+"s": {
+"BLSH": "neutral",
+"CBRS": "neutral",
+"CRWV": "neutral",
+"FIG": "neutral",
+"MSFT": "neutral",
+"SPCX": "neutral"
+},
+"text": "How many hyped IPOs have burned retail in the past couple years?\n\n\n$CRWV\n. \n$CBRS\n. \n$BLSH\n. \n$FIG\n. Even \n$SPCX\n got hammered after the initial hype.\n\nNow Nscale reportedly wants ~$30B, but \n$MSFT\n has pulled out of a UK data center deal and some investors are pushing for $16–19B. I wouldn’t be surprised if this IPO gets delayed.\n\nLast week, Reuters reported some Anthropic investors were discussing a valuation closer to ~$1.5T, versus earlier expectations of ~$2T.\n\nRetail shouldn't have to bet on five years of perfect execution just to earn a decent return.\n\nLeave something on the table.",
+"likes": 30
+},
+{
+"id": "2112199395966169180",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：SOXX 關注 515、531、556，明天若站不上 515 仍很危險。",
+"risk": "跌破支撐風險",
+"s": {
+"SOXX": "neutral"
+},
+"text": "$SOXX\n 要持续关注 515 531 和556\n\n如果明天不上515，那还是很危险。",
+"likes": 24
+},
+{
+"id": "2112201070663328123",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：紐約證交所推出延長時段選擇權交易，涵蓋輝達、BAC、SPY、IWM 等 29 檔。",
+"risk": "",
+"s": {
+"BAC": "neutral",
+"IWM": "neutral",
+"NVDA": "neutral",
+"SPY": "neutral"
+},
+"text": "THE NEW YORK STOCK EXCHANGE JUST LAUNCHED EXTENDED-HOURS OPTIONS TRADING\n\nIt covers 29 big stocks and ETFs, including Nvidia \n$NVDA\n, Bank of America \n$BAC\n, \n$SPY\n, and \n$IWM\n, per CNBC.\n\n- Morning session: 7:30 AM to 9:25 AM ET\n- Late session: 4:00 PM to 4:15 PM ET\n- Starting Dec. 6, those names trade 23 hours a day, 5 days a week",
+"likes": 288
+},
+{
+"id": "2112225293830103477",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：大摩把租賃納入後，AI 資本支出今年約 9,800 億、2028 年 1.81 兆美元，兩年增 85%。",
+"risk": "",
+"s": {
+"AMZN": "bull",
+"GOOGL": "bull",
+"NBIS": "bull",
+"SPCX": "bull"
+},
+"text": "$NBIS\n \n$AMZN\n \n$GOOGL\n \n$SPCX\n \n\nMorgan Stanley just put a real number on the AI buildout, and it’s far bigger than the already huge number from $750B last week.\n\nCount the data centers hyperscalers lease instead of build, and AI capex comes to ~$980B this year, $1.58T in 2027 and $1.81T in 2028.\n\nThat’s +85% in two years.\n\nLeases alone go from ~$100B to ~$246B. A growing share of this buildout is being rented, and someone has to own the capacity being rented out.\n\nGoogle roughly doubles, from ~$219B to ~$434B by 2028. Meta goes from $162B to $303B. SpaceX’s AI arm nearly quadruples to ~$200B.\n\n\n$NBIS\n sits on the same chart as Amazon and Google, going from ~$23B to ~$41B.\n\nOf the $1.58T in 2027, Morgan Stanley sees ~$700B landing at Nvidia alone and ~$374B going to networking.\n\nEvery one of those dollars is somebody’s revenue: GPUs, memory, optics, power and cooling.\n\nLast week the market priced the AI trade like it was ending. \n\nThe capex math says the biggest checks haven’t been written yet.\n\nBullish for all the AI buildout!",
+"likes": 71
+},
+{
+"id": "2112227512130609281",
+"author": "asklivermore",
+"date": "2026-10-19",
+"zh": "AskLivermore：MU 到了關鍵時刻，可能回測 50 週均線約 650 美元，但目前續抱贏家。",
+"risk": "可能回測 650",
+"s": {
+"MU": "bull"
+},
+"text": "It's decision time now for \n$MU\n. \n\nLet's see if Micron can hold these levels, or needs to come down closer to its 50-weekly moving average (around $650's).\n\nFor now, I am holding as Micron is a top 10 weighted stock in the S&P 500. I like holding winners. \n\nI'll keep you updated",
+"likes": 268
+},
+{
+"id": "2112231343002427393",
+"author": "asklivermore",
+"date": "2026-10-19",
+"zh": "AskLivermore：詢問粉絲是否持有 MU，計畫 12 月再平衡。",
+"risk": "",
+"s": {
+"MU": "neutral"
+},
+"text": "Are you in \n$MU\n as well? I plan for another larger rebalance sometime in Dec. With small adjustments for the next timing cycle coming up as well.",
+"likes": 2
+},
+{
+"id": "2112232444535648624",
+"author": "asklivermore",
+"date": "2026-10-19",
+"zh": "AskLivermore：引用 S&P Global 資料，MU 為 S&P 500 第 9 大權重。",
+"risk": "",
+"s": {
+"MU": "neutral"
+},
+"text": "Here brother for Micron \n$MU\n - #9 from S&P Global’s website for its S&P 500 product",
+"likes": 3
+},
+{
+"id": "2112244374453289112",
+"author": "michaelsikand",
+"date": "2026-10-19",
+"zh": "Michael Sikand：提議每位美國孩童獲得一股大型科技股，放進 IRA 免稅複利數十年。",
+"risk": "",
+"s": {
+"AAPL": "bull",
+"AMZN": "bull",
+"GOOG": "bull",
+"META": "bull",
+"MSFT": "bull",
+"NVDA": "bull",
+"SPCX": "bull"
+},
+"text": "How cool would it be if every American kid got 1 share of big tech?\n\n\n$META\n - $700\n\n$NVDA\n - $230\n\n$GOOG\n - $340\n\n$SPCX\n - $147\n\n$MSFT\n - $533\n\n$AMZN\n - $262\n\n$AAPL\n - $342\n\n$2,554 in an IRA to compound tax free for 40 to 65 years (ages 0-18)",
+"likes": 38
+},
+{
+"id": "2112248842594746573",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：不再猜底，NBIS 風險報酬極佳，準備大舉攤平，長期持有。",
+"risk": "可能續跌",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nThere comes a time to take a stance.\nI like the R/R on Nebius A LOT here.\n\nI'm done timing the bottom. I'm ready to average down, and in size.\n\nI'm here for the long run, so if we go lower, so be it.\n\nIt's a risk I'm willing to take.\n\nI’m betting in the future I believe in.",
+"likes": 401
+},
+{
+"id": "2112252879121858792",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：提醒本週三凌晨 2 點有 NVDA Berlin GTC。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "本周周三凌晨2点钟，是 \n$NVDA\n Berlin GTC",
+"likes": 1
+},
+{
+"id": "2112256292341567746",
+"author": "michaelsikand",
+"date": "2026-10-19",
+"zh": "Michael Sikand：調侃 OKLO 的走勢圖可當萬聖節恐怖圖。",
+"risk": "",
+"s": {
+"OKLO": "bear"
+},
+"text": "Might be the \n$OKLO\n chart for halloween.",
+"likes": 64
+},
+{
+"id": "2112261516741271666",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：JPMorgan 分析師認為對 CoreWeave 債務與燒錢的擔憂可能過度。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "JPMorgan analysts said today that:\n\nInvestor concerns over CoreWeave's \n$CRWV\n mounting debt and rapid cash burn are likely overdone - Bloomberg",
+"likes": 167
+},
+{
+"id": "2112261751903334647",
+"author": "unusual_whales",
+"date": "2026-10-19",
+"zh": "Unusual Whales：紐約證交所推出延長時段選擇權交易，12/6 起相關標的每週五天、每天 23 小時交易。",
+"risk": "",
+"s": {
+"BAC": "neutral",
+"IWM": "neutral",
+"NVDA": "neutral",
+"SPY": "neutral"
+},
+"text": "BREAKING: The New York Stock Exchange just launched extended-hours options trading, per CNBC.\n\nIt covers 29 big stocks and ETFs, including Nvidia, \n$NVDA\n, Bank of America, \n$BAC\n, \n$SPY\n and \n$IWM\n.\n\nStarting Dec. 6, those names will trade 23 hours a day, five days a week.",
+"likes": 929
+},
+{
+"id": "2112267815990526445",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：列出當日創 52 週新低的股票，包括 CRWV、RIVN、OKLO 等。",
+"risk": "",
+"s": {
+"AGNC": "neutral",
+"CRWV": "neutral",
+"EVR": "neutral",
+"FN": "neutral",
+"GLXY": "neutral",
+"MGM": "neutral",
+"MOS": "neutral",
+"NIO": "neutral",
+"NLY": "neutral",
+"OKLO": "neutral",
+"ORA": "neutral",
+"QXO": "neutral",
+"RIVN": "neutral",
+"SF": "neutral",
+"SKYD": "neutral",
+"STLA": "neutral",
+"TLK": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nCoreWeave \n$CRWV\n\nRivian \n$RIVN\n\nOklo \n$OKLO\n \nMGM Resorts \n$MGM\n  \nAGNC \n$AGNC\n\nStellantis \n$STLA\n\nParamount Skydance \n$SKYD\n\nNIO \n$NIO\n\nQXO \n$QXO\n\nTelkom Indonesia \n$TLK\n\nMosaic \n$MOS\n\nAnnaly \n$NLY\n\nGalaxy Digital \n$GLXY\n\nStifel \n$SF\n\nOrmat \n$ORA\n \nFabrinet \n$FN\n\nEvercore \n$EVR",
+"likes": 93
+},
+{
+"id": "2112271726520250542",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：黃仁勳宣布投資四家德國新創，屬輝達近百億美元歐洲布局。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "NVIDIA \n$NVDA\n CEO JENSEN HUANG JUST ANNOUNCED NEW INVESTMENTS IN 4 GERMAN  STARTUPS\n\nThey're part of Nvidia's nearly $10B commitment across Europe \n\n- Agile Robots: AI robots and a humanoid for factories, logistics, and healthcare\n- Avelios Medical: AI-native software that runs hospitals\n- Mirelo: AI that creates sound effects, speech, and music for video\n- Reflex Aerospace: satellites ready to launch in about 12 months",
+"likes": 71
 }
 ]
