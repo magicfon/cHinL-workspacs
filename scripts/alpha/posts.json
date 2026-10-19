@@ -11001,6 +11001,18 @@
 "likes": 196
 },
 {
+"id": "2110767153523904932",
+"author": "unusual_whales",
+"date": "2026-10-15",
+"zh": "Unusual Whales：彭博報導 CoreWeave 債券在債務疑慮拋售後反彈，2030 年債漲 5.7 美分。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "CoreWeave, \n$CRWV\n, bonds are bouncing back after a sharp sell-off over concerns about the company’s debt, per Bloomberg.\n\nThe October 2031 bonds jumped 3.3 cents to 82.8 cents on the dollar, and the June 2030 bonds surged 5.7 cents to 91.3 cents.",
+"likes": 347
+},
+{
 "id": "2110772907551145985",
 "author": "michaelsikand",
 "date": "2026-10-15",
@@ -11093,6 +11105,18 @@
 },
 "text": "VOLVO CARS IS EXPANDING ITS PARTNERSHIP WITH NVIDIA \n$NVDA\n ON SELF-DRIVING TECH\n\nFuture Volvos will use Nvidia's hardware and software to drive door to door, per Volvo Cars.\n\n- Covers highways, busy city streets, and parking\n- Uses Nvidia's Hyperion sensors and computer, Halos OS, and Alpamayo driving software\n- Debuts in a next-generation Volvo car\n- \"Eyes-off\" and \"mind-off\" driving will roll out gradually",
 "likes": 284
+},
+{
+"id": "2110802134132224002",
+"author": "unusual_whales",
+"date": "2026-10-15",
+"zh": "Unusual Whales：CoreWeave 一個月跌 15%，可轉債稀釋、貸款條款疑慮與債券拋售接連打擊。",
+"risk": "債務與稀釋疑慮",
+"s": {
+"CRWV": "bear"
+},
+"text": "CoreWeave, \n$CRWV\n, has had a brutal month.\n\nDown 15% over the past month.\n\nLate September: raised $3 billion through convertible notes, fueling dilution fears\nOct. 8: fell nearly 8% to $81.58 on concerns over a loan clause tying some of its debt to customer contracts\nOct. 14: plunged 15.5% as the AI sell-off went global\nThis week: its bonds sold off sharply on debt worries,",
+"likes": 157
 },
 {
 "id": "2110805162600059061",
@@ -11258,6 +11282,18 @@
 "likes": 56
 },
 {
+"id": "2110824201724772805",
+"author": "unusual_whales",
+"date": "2026-10-15",
+"zh": "Unusual Whales：Google 在 105 量子位元 Willow 晶片上達成 99.99% 魔術態準確率，量子運算重大突破。",
+"risk": "",
+"s": {
+"GOOGL": "bull"
+},
+"text": "BREAKING: Google, \n$GOOGL\n, announced a major quantum computing breakthrough.\n\nIt achieved a record 99.99% accuracy producing “magic states,” a key ingredient quantum computers need to run any calculation reliably, per Science.\n\nThe work was done on Google’s 105-qubit Willow chip.",
+"likes": 7370
+},
+{
 "id": "2110830624915456124",
 "author": "Balder13946731",
 "date": "2026-10-15",
@@ -11417,6 +11453,30 @@
 "likes": 709
 },
 {
+"id": "2110910422358561071",
+"author": "unusual_whales",
+"date": "2026-10-16",
+"zh": "Unusual Whales：特斯拉新 Roadster 飛越其他車輛的影片。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "BREAKING: The new Tesla, \n$TSLA\n, Roadster flew over other Tesla vehicles:",
+"likes": 10924
+},
+{
+"id": "2110913366826864988",
+"author": "unusual_whales",
+"date": "2026-10-16",
+"zh": "Unusual Whales：Roadster 2028 年量產，0–60 英里加速 0.81 秒。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "BREAKING: The Tesla, \n$TSLA\n, Roadster start production in 2028.\n\nIt reportedly goes 0-60 in 0.81 seconds.",
+"likes": 5891
+},
+{
 "id": "2110918360779333676",
 "author": "jukan05",
 "date": "2026-10-16",
@@ -11465,6 +11525,18 @@
 "likes": 5
 },
 {
+"id": "2110973261471526912",
+"author": "unusual_whales",
+"date": "2026-10-16",
+"zh": "Unusual Whales：宣傳訂閱追蹤 GME 消息。",
+"risk": "",
+"s": {
+"GME": "neutral"
+},
+"text": "To follow \n$GME\n news and updates, subscribe to Unusual Whales.\n\nSee more:",
+"likes": 9
+},
+{
 "id": "2111055144125182271",
 "author": "DJTRadar",
 "date": "2026-10-16",
@@ -11475,6 +11547,18 @@
 },
 "text": "A policy change in Washington could open a new business for \n$HIMS\n.\n\nThe FDA has sent the White House a proposal that could ease compounding of certain peptides.\n\nHims has already said it wants to offer them if the rules allow.\n\nThe proposal is still under review. These peptides aren’t FDA-approved as safe or effective.\n\nThe opportunity depends on what the final policy actually permits.",
 "likes": 88
+},
+{
+"id": "2111072128829100400",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：iPhone Duo 預購開賣即秒殺，出貨延至 11/23，蘋果備貨可能較少。",
+"risk": "備貨量偏少",
+"s": {
+"AAPL": "bull"
+},
+"text": "APPLE \n$AAPL\n IPHONE DUO PRE-ORDERS BEGIN AND SELL OUT FAST\n\nShipping dates slipped to Nov. 23 for every model within moments of the 8 AM ET start, per AppleInsider.\n\n- First shipments and in-store sales begin Oct. 23\n- Apple is believed to have made fewer units than usual\n\nYou can still order one, but it won't arrive until late November.",
+"likes": 293
 },
 {
 "id": "2111076710892634363",
@@ -11549,6 +11633,42 @@
 "likes": 13
 },
 {
+"id": "2111114893420032292",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：Visa 再創歷史新高。",
+"risk": "",
+"s": {
+"V": "bull"
+},
+"text": "Visa \n$V\n stock hit new ALL TIME HIGHS again today",
+"likes": 604
+},
+{
+"id": "2111115588403695630",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：Mastercard 再創歷史新高。",
+"risk": "",
+"s": {
+"MA": "bull"
+},
+"text": "Mastercard \n$MA\n stock hit new ALL TIME HIGHS again today",
+"likes": 238
+},
+{
+"id": "2111140434894262469",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：川普表示為馬斯克與特斯拉的 Roadster 團隊感到高興。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "PRESIDENT TRUMP JUST SAID:\n\n- VERY HAPPY FOR ELON MUSK AND TESLA \n$TSLA\n TEAM ON TESLA'S ROADSTER",
+"likes": 341
+},
+{
 "id": "2111142387942662539",
 "author": "StockMKTNewz",
 "date": "2026-10-16",
@@ -11559,6 +11679,18 @@
 },
 "text": "The NASDAQ 100 \n$QQQ\n is now down by 2% so far today",
 "likes": 168
+},
+{
+"id": "2111143723249881093",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：UVXY 大漲 15%。",
+"risk": "",
+"s": {
+"UVXY": "neutral"
+},
+"text": "🫪 \n$UVXY\n 大涨了15%",
+"likes": 10
 },
 {
 "id": "2111158980114633110",
@@ -11600,6 +11732,18 @@
 },
 "text": "$NBIS\n $160 is not far away now.\n\nDon't buy if you think we have hit the bottom. We most likely haven't.\n\nBuy if you think the R/R of the stock at these levels is too hard to pass up.\n\nThis happens time and time again. I'll be a net buyer below this level.\n\nHolding long, even if we got lower.\n\nNext limit buy $140.",
 "likes": 110
+},
+{
+"id": "2111164521897476452",
+"author": "unusual_whales",
+"date": "2026-10-16",
+"zh": "Unusual Whales：iPhone Duo 預購數分鐘售罄，交期延至 11 月中下旬，與月初砍單報導不同。",
+"risk": "",
+"s": {
+"AAPL": "bull"
+},
+"text": "Apple’s, \n$AAPL\n, new iPhone Duo sold out almost immediately, per Bloomberg.\n\nInitial pre-order inventory was gone within minutes, and estimated delivery dates have slipped from Oct. 23 to Nov. 16–23.\n\nThat’s a different picture from earlier this month, when Apple reportedly told some suppliers to cut production of parts for its new iPhone line over soft demand.",
+"likes": 809
 },
 {
 "id": "2111171439919505791",
@@ -11681,5 +11825,416 @@
 },
 "text": "Draftkings \n$DKNG\n stock hit new 52 WEEK LOWS again today",
 "likes": 31
+},
+{
+"id": "2111187688015696241",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：這次半導體熊市很陰，SOXX 連跌 9 天，是緩慢加深的下跌。",
+"risk": "持續陰跌",
+"s": {
+"SOXX": "bear"
+},
+"text": "说实话这次熊市有点阴， \n$SOXX\n 居然连跌了9天🫪 不像常见的一根阴线大跌，只是缓慢的不断加深的下跌。",
+"likes": 73
+},
+{
+"id": "2111193020477686234",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：演算法交易日誌，IBM 獲利 +5.6%，PLTR 停損 -6.2%。",
+"risk": "",
+"s": {
+"IBM": "neutral"
+},
+"text": "平仓获利 1/2 · 最佳 +5.55% \n$IBM\n 223.69→236.1 +5.55%\n\n 平仓亏损 1\n PLTR 203.07→190.5 -6.19%\n\n 持仓 APP 270.03→266.13 -1.4% · CAT 726.2→730.76 +0.6%\n\n balder-algo-logs · 龙气 · 10-16 · algo log · not advice",
+"likes": 3
+},
+{
+"id": "2111204784724221952",
+"author": "StockMKTNewz",
+"date": "2026-10-16",
+"zh": "Evan：黃仁勳談近期股市波動：「這一切都會過去。」",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang just said this about the recent moves in the stock market \n\n“ALL OF THIS IS GOING TO PASS”",
+"likes": 1812
+},
+{
+"id": "2111208392924774596",
+"author": "Balder13946731",
+"date": "2026-10-16",
+"zh": "Balder：10/16 復盤，AI 算力股遭拋售，QQQ 跌 2.5% 失守 710，軍工與能源逆勢上漲。",
+"risk": "AI 算力類股賣壓",
+"s": {
+"QQQ": "bear"
+},
+"text": "【美股复盘 · 10月16日】\n\n**大市**｜环球AI算力概念股遭遇沽压，美股主要指数全线收低，科技股领跌。纳指 \n$QQQ\n 收报709.88，跌2.49%，失守710关；标普 SPY 收报763.23，跌1.11%；道指 DIA 相对抗跌，收报519.10，仅跌0.40%；罗素小型股 IWM 收报270.44，跌1.69%。市宽明显向淡，104只观察股中仅23只上升、81只下跌。全日最显著的特征，是指数与个股之间的落差——大盘跌幅温和，波动几乎全数跑进单票里去。\n\n**板块**｜防守及旧经济类逆市造好。军工股走强， RTX 升3.73%， LMT 升3.65%；能源股同见买盘， OXY 升2.82%， CVX 升2.59%， XOM 升2.46%；金融及控股类靠稳， JPM 升1.25%， BRK-B 升1.21%。涨幅榜前列则由反向杠杆ETF占据， SOXS 急升12.81%， SQQQ 升7.55%， SPXU 升3.44%，反映对冲与沽空需求升温。\n\n**焦点**｜AI算力与新经济概念全线急泻。 AEHR 暴跌12.44%， NBIS 挫12.18%， CRWV 挫11.91%， IREN 泻11.19%， SMCI 跌9.86%， AAOI 跌9.75%；量子计算概念同遭重手， IONQ 跌8.94%， QBTS 跌8.08%；软件及数据股 SNOW 跌8.43%，卫星通信 ASTS 跌8.55%。值得注意的是，一台仍在实验室阶段的量子机器，与一排已签多年长约的GPU机柜，在今日的沽压下被市场视作同一样东西，并无区分。消息面上，彭博报道指台湾拟自行限制AI芯片对华出口，名义上与美国对齐——货没变、禁令没变，变的是盖章的地方由华盛顿移到台北，日后寻求豁免者须排两条队；市场另关注高带宽内存(HBM)在AI加速卡物料成本中占比最重的结构性议题。两项题材均属气氛层面，并非今日个别股份波动的直接成因。\n\n**小结**｜全日呈指数小跌、个股股灾的格局。分析指，科技股短线关键位在 QQQ 710关，全日收报709.88已告失守，能否迅速收复为后市主要观察点；标普 SPY 暂守763水平。在仅23只观察股上升的市宽背景下，防守类、能源与军工的相对强势，连同反向ETF齐齐领涨，显示资金短期已转取守势。",
+"likes": 4
+},
+{
+"id": "2111465028943819225",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：Rivian 週收創 52 週新低。",
+"risk": "",
+"s": {
+"RIVN": "bear"
+},
+"text": "Rivian \n$RIVN\n stock closed the week at 52 WEEK LOWS",
+"likes": 99
+},
+{
+"id": "2111483010809807217",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：列出 S&P 500 今年表現最佳的 20 檔，Moderna、Sandisk、Dell、美光居前。",
+"risk": "",
+"s": {
+"AMD": "neutral",
+"APA": "neutral",
+"BE": "neutral",
+"CRWD": "neutral",
+"DELL": "neutral",
+"FTNT": "neutral",
+"HPE": "neutral",
+"ILMN": "neutral",
+"INTC": "neutral",
+"LITE": "neutral",
+"MPC": "neutral",
+"MRNA": "neutral",
+"MRVL": "neutral",
+"MU": "neutral",
+"NTAP": "neutral",
+"PSX": "neutral",
+"SNDK": "neutral",
+"STX": "neutral",
+"VLO": "neutral",
+"WDC": "neutral"
+},
+"text": "Here are the top 20 best performing stock in the S&P 500 so far in 2026\n\n Moderna \n$MRNA\n: +639.27% \n SanDisk \n$SNDK\n: +447.35% \n Dell \n$DELL\n: +258.84% \nMicron \n$MU\n: +207.92% \nMarathon Petroleum \n$MPC\n: +193.96% \nValero \n$VLO\n: +173.18% \nMarvell \n$MRVL\n: +168.10% \nBloom Energy \n$BE\n: +154.70% \nAMD \n$AMD\n: +146.89% \nIntel \n$INTC\n: +143.50% \nSeagate \n$STX\n: +132.04% \nHPE \n$HPE\n: +129.52% \nPhillips 66 \n$PSX\n: +127.19% \nLumentum \n$LITE\n: +123.59% \nFortinet \n$FTNT\n: +112.98% \nAPA \n$APA\n: +100.94% \nIllumina \n$ILMN\n: +100.17% \nCrowdStrike \n$CRWD\n: +94.04% \nWestern Digital \n$WDC\n: +92.72% \nNetApp \n$NTAP\n: +90.31%",
+"likes": 546
+},
+{
+"id": "2111488973788844416",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：預測市場顯示特斯拉與 SpaceX 明年底前宣布合併機率 64%。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "There is currently a 64% chance that a merger between Tesla \n$TSLA\n and SpaceX \n$SPCX\n is announced by the end of next year",
+"likes": 277
+},
+{
+"id": "2111496358045589686",
+"author": "ren_stocks",
+"date": "2026-10-17",
+"zh": "Ren：下跌期間持續持有 NBIS 不賣，股價下跌但數字越來越大，財富來自長抱贏家。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "I’ve held \n$NBIS\n through the drop, and I’m not selling. The price keeps going down while the numbers keep getting bigger.\n\nIt’s always funny to me how strongly retail feels about a company based on price instead of fundamentals.\n\nNo wonder so few people build real wealth in this market.\n\nI’ve never met anyone who got rich staring at a trend line and trading in and out. I have met more than a dozen people who got there by holding their winners for as long as possible.\n\nPicking the winners matters, but it comes second only to having the conviction to hold them while they compound.\n\nI should know. I’ve held Google since 2015, even though back in 2025 people the company was done for, OpenIA and Anthropic were going to eat it's lunch. I’ve held SNDK and MU since mid-2025, and I’m not selling those either, even thought people keep claiming memory is cycicla.\n\nSo let’s talk numbers on the name that got hit the hardest.\n\nNebius exited June at a $3B run rate. William Blair has it reaching about $8B by December, $17B next year and $72B by 2030. The slowest year on that chart is still 41% growth.\n\nToday you can buy the whole company for about $41B, a little over half that 2030 run rate.\n\nMeanwhile, demand keeps tightening. GPU rental prices went up again on October 1, and customers on the newest deals prepaid more than half the capex upfront. Nobody wires cash in advance for compute they think is a bubble.\n\nIf anything, I hope we keep going lower so I can load up on more.\n\n\n$NBIS",
+"likes": 312
+},
+{
+"id": "2111502162605777143",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：列出 S&P 500 今年表現最差的 20 檔，AppLovin 跌 60.5% 居首。",
+"risk": "",
+"s": {
+"APP": "neutral",
+"BSX": "neutral",
+"CHTR": "neutral",
+"CSGP": "neutral",
+"FICO": "neutral",
+"FIS": "neutral",
+"FSLR": "neutral",
+"HONA": "neutral",
+"INTU": "neutral",
+"LULU": "neutral",
+"LVS": "neutral",
+"NKE": "neutral",
+"NRG": "neutral",
+"ORCL": "neutral",
+"PNR": "neutral",
+"PODD": "neutral",
+"ROL": "neutral",
+"SKYD": "neutral",
+"WYNN": "neutral",
+"ZTS": "neutral"
+},
+"text": "Here are the top 20 worst performing stock in the S&P 500 so far in 2026\n\n AppLovin \n$APP\n: -60.50% \nFICO \n$FICO\n: -54.38% \nBoston Scientific \n$BSX\n: -53.45% \nLululemon \n$LULU\n: -53.27% \nCoStar \n$CSGP\n: -51.95% \nIntuit \n$INTU\n: -50.91% \nInsulet \n$PODD\n: -50.36% \nPentair \n$PNR\n: -48.68% \nParamount Skydance \n$SKYD\n: -48.43% \nCharter \n$CHTR\n: -47.25% \nFIS \n$FIS\n: -45.82% \nRollins \n$ROL\n: -44.27% \nHoneywell Aerospace \n$HONA\n: -43.50% \nNike \n$NKE\n: -41.72% \nLas Vegas Sands \n$LVS\n: -41.60% \nWynn Resorts \n$WYNN\n: -37.17% \nZoetis \n$ZTS\n: -36.91% \nNRG Energy \n$NRG\n: -34.85% \nOracle \n$ORCL\n: -34.21% \nFirst Solar \n$FSLR\n: -33.91%",
+"likes": 325
+},
+{
+"id": "2111507686848389305",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：SOXX 連跌 9 個交易日，為 2006 年 5 月以來最長連跌。",
+"risk": "",
+"s": {
+"SOXX": "bear"
+},
+"text": "The iShares Semiconductor ETF \n$SOXX\n closed the day lower on Friday for the 9th trading day in a row\n\nSOXX is now on its longest losing streak since May 2006",
+"likes": 141
+},
+{
+"id": "2111535017994416575",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：美光週收市值跌回 1 兆美元以下。",
+"risk": "",
+"s": {
+"MU": "bear"
+},
+"text": "Micron \n$MU\n stock closed the week back under a $1 Trillion market cap",
+"likes": 428
+},
+{
+"id": "2111583924451189100",
+"author": "ren_stocks",
+"date": "2026-10-17",
+"zh": "Ren：MU、WDC 週末在 Liquid 突然閃崩 10%，已收復過半，預期週日晚間回到週五水準。",
+"risk": "",
+"s": {
+"MU": "bull",
+"WDC": "bull"
+},
+"text": "$MU\n \n$WDC\n\n\nHad a 10% crash out of the blue on LIquid on the weekend market.\n\nMore than half is already back, I wouldn’t be surprised if they go back to the same level they were on Friday by Sunday night.",
+"likes": 92
+},
+{
+"id": "2111589486140227622",
+"author": "ren_stocks",
+"date": "2026-10-17",
+"zh": "Ren：三星、SK 海力士較 6 月高點跌逾五成，僅 2027–28 年 2–3 倍本益比、股價淨值比近 1，低於歷次循環底部。",
+"risk": "",
+"s": {
+"MU": "bull",
+"SKHY": "bull",
+"SNDK": "bull"
+},
+"text": "$MU\n \n$SNDK\n \n$SKHY\n\n\nSamsung and SK Hynix are both down more than 50% from their June highs, and they now trade at 2–3x their 2027–28 earnings.\n\nIn every previous memory upcycle (2001, 2008, 2018, 2022), the low end for these two was 4–7x. Their price-to-book is now near 1x, a level that usually shows up only at the bottom of a real bust, with warehouses full of unsold chips, DRAM prices cut in half and quarterly losses.\n\nNone of that is happening this time. \n\nMemory inventories at both companies fell below 10 days in September, and KB Securities has their earnings staying near record highs through 2028, with only a single-digit dip that year.\n\nEvery new generation of GPUs and custom chips also needs new memory: HBM, SOCAMM, LPDDR5 and enterprise SSDs. As the installed base gets refreshed, each upgrade cycle turns into another round of orders.\n\nThe market is pricing in a bust but the demand is ever increasing.\n\nLong \n$MU\n and \n$SNDK\n, and not selling.",
+"likes": 989
+},
+{
+"id": "2111593503549436100",
+"author": "StockMKTNewz",
+"date": "2026-10-17",
+"zh": "Evan：洛克希德馬丁發表可單趟攔截 50 架以上無人機的 MORFIUS X-Rotor。",
+"risk": "",
+"s": {
+"LMT": "neutral"
+},
+"text": "Lockheed Martin \n$LMT\n recently posted this\n\n“MORFIUS X-Rotor is built to take on the drone threat at scale.\n\nNeutralizes 50+ drones per flight”",
+"likes": 174
+},
+{
+"id": "2111633766158323921",
+"author": "ren_stocks",
+"date": "2026-10-18",
+"zh": "Ren：DeepSeek 稱新模型每 token 記憶體少 4 倍，但 5,520 億參數仍需全部常駐記憶體，不代表記憶體需求下降。",
+"risk": "DeepSeek 效率提升疑慮",
+"s": {
+"MU": "bull",
+"SNDK": "bull",
+"WDC": "bull"
+},
+"text": "$MU\n \n$SNDK\n \n$WDC\n\n\nDeepSeek is back at it again.\n\nDiving deeper, this happened on a Saturday, no less, so the markets haven't had time to react. Only the weekend perps have.\n\nThe headline driving it is DeepSeek's claim that the new model needs 4x less memory per token. \n\nThat reads like less memory demand, until you look at the rest of the release:\n\n+ The model is still huge. It has 552B parameters, and all of them have to sit in memory to run, even though only a fraction is active at a time.\n\n+ It handles 1M tokens of context. Longer context means more memory per user.\n+ It's priced at about $1.20 per million output tokens. Cheaper tokens have always meant more tokens used.\n\n+ DeepSeek ran out of compute this week. It had a five-hour outage that experts blamed on not having enough capacity. A company that keeps making its models leaner and still can't keep its service up is evidence that demand is ahead of supply.\n\nThe weekend market has mostly recovered so far, so expect some reaction at Monday's open, but I wouldn't be surprised if the market shrugs it off by 10am.",
+"likes": 704
+},
+{
+"id": "2111810751669375484",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：Telegraph 報導微軟退出與英國 neocloud Nscale 的資料中心合作。",
+"risk": "neocloud 需求疑慮",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microsoft \n$MSFT\n has reportedly pulled out of a data center deal in the United Kingdom  with British neocloud Nscale - Telegraph",
+"likes": 388
+},
+{
+"id": "2111823163386421566",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：美光週末在 Liquid 一度跌至 820 美元後回升。",
+"risk": "",
+"s": {
+"MU": "neutral"
+},
+"text": "Micron \n$MU\n got down to $820 yesterday on the weekend markets on my sponsors over at Liquid before recovering",
+"likes": 267
+},
+{
+"id": "2111827634199900304",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：業配介紹 KraneShares ETF 系列，KWEB 規模最大。",
+"risk": "",
+"s": {
+"AGIX": "neutral",
+"KWEB": "neutral"
+},
+"text": "For anyone who wants to do more research into something this weekend\n\nHere is the full suite of ETFs from my sponsors over at KraneShares\n\nTop 5 largest ETFs based on AUM\n\n- \n$KWEB\n KraneShares CSI China Internet ETF: $4.5B AUM\n- \n$AGIX\n KraneShares Public-Private AI & Technology",
+"likes": 47
+},
+{
+"id": "2111833654364405764",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：輝達五年漲 880%。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n stock is up by 880%  over the last 5 years",
+"likes": 148
+},
+{
+"id": "2111885045761741042",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：本週財報行事曆，特斯拉、Meta 等將公布。",
+"risk": "",
+"s": {
+"META": "neutral",
+"TSLA": "neutral"
+},
+"text": "Here is the earnings calendar for the week\n\nWATCH OUT for names like Tesla \n$TSLA\n, Meta Platforms \n$META\n and much more reporting earnings\n\nThere is more info on my catalyst watch below but earnings season is in FULL swing",
+"likes": 152
+},
+{
+"id": "2111894980818256101",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：詢問大家對美光後續走勢的看法。",
+"risk": "",
+"s": {
+"MU": "neutral"
+},
+"text": "What do people think is next for Micron \n$MU\n stock?",
+"likes": 0
+},
+{
+"id": "2111897782437204109",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：黃仁勳週三將在 GTC Berlin 發表主題演講。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "WATCH OUT FOR \n\nNvidia \n$NVDA\n CEO Jensen Huang will be giving the keynote address for GTC Berlin at 5AM ET on Wednesday morning",
+"likes": 115
+},
+{
+"id": "2111902541994733906",
+"author": "StockMKTNewz",
+"date": "2026-10-18",
+"zh": "Evan：IREN 成為皇家馬德里官方 AI 雲端贊助商。",
+"risk": "",
+"s": {
+"IREN": "neutral"
+},
+"text": "Iren Limited \n$IREN\n is now the official AI Cloud sponsor for Real Madrid",
+"likes": 155
+},
+{
+"id": "2111925536696263001",
+"author": "unusual_whales",
+"date": "2026-10-18",
+"zh": "Unusual Whales：JPM 連續五年蟬聯 Evident AI 指數全球 AI 最先進銀行。",
+"risk": "",
+"s": {
+"JPM": "bull"
+},
+"text": "JPMorgan, \n$JPM\n, is the world’s most AI-advanced bank for the fifth straight year, and it’s pulling further ahead, per the Evident AI Index.\n\nThe top five:\n\nJPMorgan\nCapital One\nRoyal Bank of Canada\nCommonwealth Bank of Australia\nUBS, the only European bank in the top 10",
+"likes": 205
+},
+{
+"id": "2111974913674293699",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：本週最期待 Meta 財報。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "What stocks will you be watching for this upcoming week\n\nFor me I’m most excited for \n$META\n’s earnings",
+"likes": 140
+},
+{
+"id": "2112000874902077895",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：財報週雷達，SPCX 隱含波動 7.8% 低於歷史 13.6%，近 9 次財報無一上漲。",
+"risk": "財報後歷來下跌",
+"s": {
+"SPCX": "neutral"
+},
+"text": "Earnings Radar — week of Oct 19\n\nOn the board: GM · RTX · SPCX · NFLX · TSLA · META\n\nPriciest: NOK at 10.3% implied vs a 6.4% typical move — 1.6x what it usually does.\nCheapest: \n$SPCX\n asks 7.8% against a 13.6% history, and it has been up on only 0% of its last 9.\n\nImplied vs",
+"likes": 1
+},
+{
+"id": "2112006454999986498",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：覺得自己持有的 META 不夠多。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "I don’t own enough \n$META\n shares",
+"likes": 74
+},
+{
+"id": "2112017534459482480",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：本週 SPCX、TSLA、META 有關鍵財報，徵求想看的分析。",
+"risk": "",
+"s": {
+"META": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "本周有关键财报！ \n$SPCX\n \n$TSLA\n \n$META\n 大家有什么想知道分析的财报可以和我说🫪",
+"likes": 4
+},
+{
+"id": "2112153223821681113",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：NBIS、CRWV、IREN、APLD 夜盤與盤前強勁反轉，相信能延續到正式盤。",
+"risk": "",
+"s": {
+"APLD": "bull",
+"CRWV": "bull",
+"IREN": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$CRWV\n \n$IREN\n \n$APLD\n \n\nHoly reversal first in overnight market, now in pre market.\n\nWill it hold into market hours?\n\nI believe so!",
+"likes": 22
+},
+{
+"id": "2112155344319254988",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：高盛將 CoreWeave 升評至買進，目標價 106 美元。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "Goldman Sachs today upgraded CoreWeave \n$CRWV\n  to Buy from Neutral with a price target of $106",
+"likes": 18
 }
 ]
