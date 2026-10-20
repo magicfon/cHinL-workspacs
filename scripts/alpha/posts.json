@@ -12317,6 +12317,19 @@
 "likes": 18
 },
 {
+"id": "2112160914552345059",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：彭博報導亞馬遜與 AEP 評估在印第安納州興建 960MW 核電廠，採用未經驗證的新反應爐設計。",
+"risk": "新反應爐設計未經驗證",
+"s": {
+"AEP": "neutral",
+"AMZN": "neutral"
+},
+"text": "AMAZON \n$AMZN\n AND AMERICAN ELECTRIC POWER \n$AEP\n ARE EVALUATING A 960-MEGAWATT NUCLEAR PLANT IN INDIANA\n\nThe plant would use a new reactor design that hasn't been proven yet - Bloomberg",
+"likes": 321
+},
+{
 "id": "2112161917280371074",
 "author": "ren_stocks",
 "date": "2026-10-19",
@@ -12328,6 +12341,18 @@
 },
 "text": "$NBIS\n \n$CRWV\n\n\nTalk about a coordinated pump.",
 "likes": 113
+},
+{
+"id": "2112163403938639968",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：JPM 首年已投入 2,300 億美元於十年 1.5 兆美元的美國經濟安全投資計畫。",
+"risk": "",
+"s": {
+"JPM": "neutral"
+},
+"text": "JPMorgan \n$JPM\n said it deployed $230 billion of capital in the first year of its decade-long effort to invest $1.5 trillion into industries that bolster US economic security - Bloomberg",
+"likes": 105
 },
 {
 "id": "2112165042640601396",
@@ -12366,7 +12391,7 @@
 "META": "bear"
 },
 "text": "Meta Platforms \n$META\n stock just dropped back under $700 per share",
-"likes": 396
+"likes": 411
 },
 {
 "id": "2112184708117283089",
@@ -12379,7 +12404,7 @@
 "NVDA": "bull"
 },
 "text": "$NVDA\n \n$META\n\n\nMeta's Million-GPU Monster Is Hungry\n\nMeta just published how it runs Prometheus, its push toward a million-GPU cluster in Ohio. The number that stuck with me is buried in the reliability section.\n\nTo run a job on 32,768 GPUs, Meta installs 37,656. That’s ~15% more silicon than the work actually uses, and every one of those extra chips still needs power, cooling, optics and floor space.\n\n+Interruptions cut 99% in a year, from ~1,000 per 8,000 GPUs a day.\n+ Training jobs swing the cluster’s power draw by 30–40%, tens of megawatts in seconds.\n+ Racks go from ~135 kW today to 170+ kW with Rubin\n\nBuying the GPU is only the start. \n\nEach one pulls memory, optics, power and cooling in behind it, and that’s where I mapped the winners.\n\nCheck out the full breakdown for free on Substack.\n\n\nhttps://\nrenstocks.substack.com/p/metas-millio\nn-gpu-monster-is-hungry\n…",
-"likes": 46
+"likes": 48
 },
 {
 "id": "2112189710617788778",
@@ -12429,7 +12454,7 @@
 "SONY": "bull"
 },
 "text": "GTA VI launches in exactly 1 month.\n\nI've doubled my money on \n$SONY\n call options since I called the stock the game's hidden winner in June.\n\nBut I haven't sold a single contract.\n\nHere's why the biggest catalyst in Playstation history is not priced into the stock.",
-"likes": 61
+"likes": 64
 },
 {
 "id": "2112197916139941935",
@@ -12515,7 +12540,7 @@
 "SPCX": "bull"
 },
 "text": "Space stocks are the easiest 100x I've ever seen.\n\nBut I'm noticing space bulls are making a deadly mistake: obsessing over price action. We're no longer in a future forward thinking market. The easy money on space is over now, but that's your advantage. \n\nMy view? These stocks should be nowhere but a retirement account separate from your individual that you never trade.\n\nIf you're playing the 2050-2070 game, we're talking disgusting wealth with these stocks. For every business on earth there will be one in space, and the market is far too large for only \n$SPCX\n to win.\n\nWhat is more asymmetrical than this thesis of owning the next economy past earth? Every important company building in this market is now public. You can own ALL of them. Some may fail but the few that win, win huge.\n\n\n$ASTS\n \n$FLY\n \n$RKLB\n \n$PL\n \n$LUNR\n \n$MDA\n \n$SPCX",
-"likes": 523
+"likes": 564
 },
 {
 "id": "2112214729116762319",
@@ -12528,7 +12553,7 @@
 "TSLA": "neutral"
 },
 "text": "如果要侧击 \n$SPCX\n 最好用 \n$TSLA\n\n如果要侧击 \n$TSLA\n 最好用 \n$SPCX\n🫪",
-"likes": 12
+"likes": 13
 },
 {
 "id": "2112215674483282062",
@@ -12540,7 +12565,7 @@
 "NBIS": "bull"
 },
 "text": "Semis just had their longest losing streak since 2008, and hedge funds dumped all their net AI buying since 2025 in a week.\n\nDemand didn’t move an inch. \n\nHere’s the macro, the flows, and why \n$NBIS\n is still my biggest bet!",
-"likes": 31
+"likes": 33
 },
 {
 "id": "2112225293830103477",
@@ -12622,7 +12647,7 @@
 "GOOGL": "neutral"
 },
 "text": "GOOGLE \n$GOOGL\n AND COGNIZANT \n$CTSH\n ARE EXPANDING THEIR AI PARTNERSHIP\n\nCognizant is putting more than 18,000 engineers into a new group focused on Google's Gemini AI, per the companies.\n\n- The group will help businesses move AI agents from tests into real use\n- More than 55,000 Cognizant workers just finished Gemini training\n- Cognizant is rolling out Gemini to 100,000 of its own workers this year, with plans for 200,000",
-"likes": 178
+"likes": 186
 },
 {
 "id": "2112248842594746573",
@@ -12658,7 +12683,7 @@
 "META": "neutral"
 },
 "text": "Meta Platforms \n$META\n posted this today:\n\n“We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.”",
-"likes": 779
+"likes": 839
 },
 {
 "id": "2112256292341567746",
@@ -12694,7 +12719,7 @@
 "AMZN": "neutral"
 },
 "text": "Amazon \n$AMZN\n posted this today:\n\n“Announcing TorchNeuron: PyTorch code now runs natively on AWS Trainium chips with a single configuration change. No rewrite needed.”",
-"likes": 187
+"likes": 198
 },
 {
 "id": "2112261516741271666",
@@ -12824,6 +12849,42 @@
 "likes": 1
 },
 {
+"id": "2112340444189479029",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：CoreWeave 較歷史高點已跌 66%。",
+"risk": "",
+"s": {
+"CRWV": "bear"
+},
+"text": "CoreWeave \n$CRWV\n stock is now down 66% from its most recent ALL TIME HIGHS",
+"likes": 178
+},
+{
+"id": "2112351095401894072",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：Cathie Wood 的 Ark 再買進 13.2 萬股 CoreWeave。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "Cathie Wood and Ark Invest bought 132,498 shares of CoreWeave \n$CRWV\n today",
+"likes": 440
+},
+{
+"id": "2112351291771093500",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：KOSPI 跌破 Leopold 基金爆倉時的水準。",
+"risk": "",
+"s": {
+"KOSPI": "bear"
+},
+"text": "$KOSPI\n\nCan we not, please?\n\nKOSPI is now trading lower than when Leopold was sacrificed.",
+"likes": 317
+},
+{
 "id": "2112358326239658056",
 "author": "ren_stocks",
 "date": "2026-10-20",
@@ -12856,7 +12917,7 @@
 "UAL": "neutral"
 },
 "text": "Here are the earnings to watch out for tomorrow\n\nBefore the open:\n\nGeneral Electric \n$GE\n\nRaytheon \n$RTX\n \n3M \n$MMM\n \nGeneral Motors \n$GM\n \nNorthrop Grumman \n$NOC\n \nAlly Financial \n$ALLY\n\nHalliburton \n$HAL\n\n\nAfter the close:\n\nNetflix \n$NFLX\n \nSpace \n$SPCX\n \nIntuitive Surgical \n$ISRG\n \nUnited Airlines \n$UAL\n\nCapital One \n$COF",
-"likes": 120
+"likes": 128
 },
 {
 "id": "2112371237779312846",
@@ -12868,7 +12929,7 @@
 "APP": "bear"
 },
 "text": "Jim Cramer was just asked about AppLovin \n$APP\n stock:\n\n“It’s come down a lot, but in the end AppLovin is in the crosshairs of Alphabet and I don’t want to be there. ... I’m just going to have to say no.”",
-"likes": 90
+"likes": 105
 },
 {
 "id": "2112384619592970518",
@@ -12881,5 +12942,320 @@
 },
 "text": "$NBIS\n\n\nHere comes every boomer comparing dark GPUs (racks parked in warehouses because there's allegedly no power to turn them on) to dark fiber:\n\n\"History doesn't repeat itself, but it often rhymes.\"\n\nFiber went dark in 2000 because nobody needed the bandwidth. These racks are dark because there aren't enough plugs for everyone who wants them.\n\nI beg you, go ahead and try to rent a B300 from any AI cloud provider. Rental prices just hit an all-time high.",
 "likes": 161
+},
+{
+"id": "2112525482839433589",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：雷神財報 EPS 2.26 美元、營收 249.7 億美元皆優於預期。",
+"risk": "",
+"s": {
+"RTX": "bull"
+},
+"text": "Raytheon \n$RTX\n stock reported earnings this morning\n\nEPS of $2.26 beating expectations of $1.76\nRevenue of $24.97B beating expectations of $24.1B",
+"likes": 64
+},
+{
+"id": "2112526376935010364",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：通用汽車財報優於預期，但盤前跌逾 5%。",
+"risk": "",
+"s": {
+"GM": "bear"
+},
+"text": "General Motors \n$GM\n reported earnings this morning\n\nEPS of $3.70 beating expectations of $3.63\nRevenue of $50.02B beating expectations of $48.7B\n\nGM stock is down by 5%+ in pre market trading",
+"likes": 43
+},
+{
+"id": "2112549985405567314",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：字節跳動、騰訊、阿里巴巴向輝達訂購逾 350 億美元 GPU。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "字节跳动、腾讯和阿里巴巴向 \n$NVDA\n 订购了超过350亿美元的GPU。",
+"likes": 18
+},
+{
+"id": "2112558591676747843",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：致富之道是在恐慌中加碼建構未來的結構性公司，列出記憶體、光通訊、算力等持股。",
+"risk": "短線恐慌賣壓",
+"s": {
+"AMD": "bull",
+"BE": "bull",
+"BRUN": "bull",
+"CRDO": "bull",
+"DELL": "bull",
+"FCEL": "bull",
+"GLW": "bull",
+"INTC": "bull",
+"LITE": "bull",
+"MRVL": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"NVDA": "bull",
+"POET": "bull",
+"SNDK": "bull"
+},
+"text": "This is how you get rich \n\nYou buy the macro dip in companies that are structural to building the future, with great management and a killer product roadmap.\n\nThis is the time to add, into fear, into bad news, into uncertainty, not to sell.\n\nFrom February to the end of March, everyone was calling for the end of memory, and a lot of people who bought memory with me back in 2025 sold. Now HBM is being co-designed with the GPUs and custom chips themselves, down to custom base dies, which makes it more embedded and less of a commodity every day.\n\nThere was a time when Nvidia was considered a cyclical stock, and now we know it isn’t.\n\nRight now we’re in a boom-and-bust cycle, which is completely normal. After such a massive re-rating of the structural bets that make the AI buildout possible, a drawdown (or, well, now two) is perfectly acceptable.\n\nBet on structural names, the ones the AI buildout wouldn’t be possible without, at least until we’re back in the boom part of the cycle.\n\nYes \n$LITE\n, no \n$POET\n\nYes \n$NBIS\n, no \n$BRUN\n\nYes \n$BE\n, no \n$FCEL\n\n\nYou get the idea: \n$NVDA\n, \n$SNDK\n, \n$MU\n, \n$MRVL\n, \n$AMD\n, \n$DELL\n, \n$INTC\n, \n$GLW\n, $CRDO...\n\nMemory and interconnect are being embedded into what makes AI possible.\n\nIf you want significant returns, add to past winners that have a stronghold on the future being built, and add when others are selling.\n\nThis is exactly what I’ll keep doing. Every dollar I invest will be added here, not when we rally, and if things play out the way I see them, we’ll be much higher by the end of Q1 2027.\n\nBullish",
+"likes": 138
+},
+{
+"id": "2112559088735273074",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：美光投資紐約關鍵礦物加工，與 Indium Corporation 合作。",
+"risk": "",
+"s": {
+"MU": "neutral"
+},
+"text": "MICRON \n$MU\n INVESTS IN NEW YORK CRITICAL MINERALS PROCESSING WITH INDIUM CORPORATION",
+"likes": 204
+},
+{
+"id": "2112563150339854779",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：沃爾瑪推出結合 Walmart+ 與 Sam's Club 的年費 120 美元聯名會員。",
+"risk": "",
+"s": {
+"WMT": "neutral"
+},
+"text": "Walmart \n$WMT\n announced a new joint membership combining its namesake chain and its subsidiary Sam’s Club\n\nThe membership, which combines Walmart+ and Sam’s Club Plus, will cost $120 per year - CNBC",
+"likes": 79
+},
+{
+"id": "2112578600671047923",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：亞馬遜明年將在德國投資逾 179 億美元，涵蓋資料中心、衛星與影音。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "AMAZON \n$AMZN\n WILL INVEST MORE THAN $17.9B IN GERMANY NEXT YEAR\n\nThe money covers data centers, Amazon Leo satellites, and Prime Video production, per Bloomberg.\n\n- Amazon will open a robotics lab in Berlin\n- The lab will double its research staff in the city",
+"likes": 255
+},
+{
+"id": "2112594808057565331",
+"author": "michaelsikand",
+"date": "2026-10-20",
+"zh": "Michael Sikand：不介意暫時輸給空頭，今年 MU、AMD、LITE、BE 漲幅已創造世代級報酬。",
+"risk": "",
+"s": {
+"AMD": "bull",
+"BE": "bull",
+"LITE": "bull",
+"MU": "bull"
+},
+"text": "Don't really give a shit if we have to concede a few rounds to the bears here.\n\nGenerational returns were made this year while they watched from the chair. \n\nEven amid this fear:\n\n\n$MU\n +188% YTD\n\n$AMD\n +141% YTD\n\n$LITE\n +114% YTD\n\n$BE\n +125% YTD",
+"likes": 107
+},
+{
+"id": "2112599366720737368",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：有人急買 432 萬美元 Google 2027 年 1 月 290 美元買權。",
+"risk": "",
+"s": {
+"GOOGL": "bull"
+},
+"text": "Some unusual flow today.\n\nSomeone just bought $4.32 million of bullish Google, \n$GOOGL\n, calls.\n\nContract: $290 calls expiring Jan. 15, 2027\nSize: 754 contracts at about $57 each\nNearly all bought at the ask ($4.31 million vs. just $11,000 at the bid), a sign of urgency\nBreakeven:",
+"likes": 330
+},
+{
+"id": "2112603766998618152",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：CoreWeave 出現 1,490 萬美元 2027 年 9 月 80 美元買權對敲，方向不明。",
+"risk": "",
+"s": {
+"CRWV": "neutral"
+},
+"text": "Someone just traded $14.9 million in CoreWeave, \n$CRWV\n, calls, a single trade that dominated the stock’s options activity today.\n\nContract: $80 calls expiring Sept. 17, 2027\n\nPrinted as a cross, so there’s no clear sign whether it was a buy or a sale",
+"likes": 280
+},
+{
+"id": "2112605700937683419",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：預告直播解讀 NFLX 與 SPCX 財報。",
+"risk": "",
+"s": {
+"NFLX": "neutral",
+"SPCX": "neutral"
+},
+"text": "3:30前后再开播一下 我们再看看 今天的财报 \n$NFLX\n 和 \n$SPCX\n \n\n待会儿见",
+"likes": 5
+},
+{
+"id": "2112609126501269706",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：不論抄底、追高、升息降息或迷茫時，都該買 NVDA。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "当大家想抄底的时候，买 \n$NVDA\n\n想赶顶的时候，买 \n$NVDA\n\n买高速增长股的时候，买 \n$NVDA\n\n买现金流充足疯狂回购股的时候，买 \n$NVDA\n\n加息的时候，买 \n$NVDA\n\n降息的时候，买 \n$NVDA\n\n迷茫不知所措的时候，买 \n$NVDA\n \n格局清晰看清一切迷障的时候，更应该买 \n$NVDA",
+"likes": 29
+},
+{
+"id": "2112621239307002341",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：野村預估 AI 資料中心電力 2028 年達 40GW，代理式 AI 成最大用量，記憶體需求數據強勁。",
+"risk": "",
+"s": {
+"MU": "bull",
+"NBIS": "bull",
+"SKHY": "bull",
+"SNDK": "bull"
+},
+"text": "$MU\n \n$SNDK\n \n$SKHY\n \n$NBIS\n\n\nNomura’s memory team just put out a really interesting note on the AI scare, the numbers underneath are some of the strongest I’ve seen in this drawdown.\n\nNomura sees AI going from 10GW of data center power in 2025 to 40GW by 2028, taking it from 17% of all data center power to 35%.\n\nThe biggest slice of that 2028 number is heavy agents at 15GW, ahead of training at 10GW. In Nomura’s model, agents become the largest power user in AI within two years.\n\nUS big tech alone goes from 10.2GW of AI capacity to 48.5GW over the same stretch, Nomura’s memory team just put out a note on the AI scare, and once you get past the headline worry, the numbers underneath are some of the strongest I’ve seen in this drawdown.\n\nNomura sees AI going from 10GW of data center power in 2025 to 40GW by 2028, taking it from 17% of all data center power to 35%.\n\nThe biggest slice of that 2028 number is heavy agents at 15GW, ahead of training at 10GW. In Nomura’s model, agents become the largest power user in AI within two years.\n\nUS big tech alone goes from 10.2GW of AI capacity to 48.5GW over the same stretch, almost 5x.\n\nThe cash is piling up where the chips are made. Nine semiconductor companies (Samsung, Hynix, Micron, Sandisk, Kioxia, TSMC, Nvidia, AMD and Broadcom) went from $27B of net cash in 1Q24 to $282B in 2Q26, and Nomura projects ~$2T by end-2028.\n\nThe clouds buying all of it are printing too, with AWS at a 39% operating margin, Microsoft Intelligent Cloud at 41% and Google Cloud at 36%. Even Anthropic moved into adjusted operating profit in Q2, per Nomura.\n\nMemory stays supply constrained through at least 2028. Nomura’s targets are 670,000 KRW for Samsung (+207%) and 4.7M KRW for SK Hynix (+268%).\n\nNow the part the market sold on and I don't buy into:\n\nOpenAI and Anthropic’s combined revenue grew 49% q/q in Q3, down from 74% in Q2. At September’s run rate, Q4 lands at $29.7B and 2026 comes in short of the ~$100B the market expected.\n\nThat “slowdown” scenario is still +291% y/y.\n\nPart of the dip is mechanical. \n\nOpenAI’s run rate got reframed because of how partner revenue is booked, Anthropic cut off distillation (5-7% of revenue), and summer slowed usage-based billing.\n\nMeta moving engineers off Claude Code onto its own tools sounds bad until you remember the tokens still get burned, just on Meta’s compute. OpenAI and Anthropic are only ~5GW of the ~29GW of AI capacity Nomura sees by end-2026.\n\nThe 7 big operators, CoreWeave and Nebius inc",
+"likes": 110
+},
+{
+"id": "2112625282977051026",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：報導亞馬遜用 AI 追蹤員工並評估組工會可能性。",
+"risk": "勞資爭議",
+"s": {
+"AMZN": "neutral"
+},
+"text": "BREAKING: Amazon, \n$AMZN\n, is using AI to track workers and rank how likely they are to form unions, per MorePerfectUnion",
+"likes": 905
+},
+{
+"id": "2112627900885414201",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：宣傳在幣安直播 NFLX 與 SPCX 財報。",
+"risk": "",
+"s": {
+"NFLX": "neutral",
+"SPCX": "neutral"
+},
+"text": "https://\napp.binance.com/uni-qr/cspa/47\n428336340130?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\n…\n\n再播 \n$NFLX\n  和 \n$SPCX\n 财报\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@pearbinance\n \n@Beca_bn",
+"likes": 0
+},
+{
+"id": "2112631092905980415",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：NFLX 財報下行風險低，66 有賣權牆、63 為防守底部，可能上看 70–73。",
+"risk": "",
+"s": {
+"NFLX": "bull"
+},
+"text": "奈飞财报（最终版）暂无变化\n\n\n$NFLX\n \n\n盘前最后20分钟\n\n66P 仍然构建了 Put Wall\n\n63也是防守的底部位置\n\n我认为奈飞财报的下行风险较低，而上行的预期从期权角度来看，中性 相对偏上\n\n我认为可能会去 70-73的这个区间 Call也可以在这个位置",
+"likes": 4
+},
+{
+"id": "2112635776026714445",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 財報 EPS 0.35 美元、營收 146 億美元皆大幅優於預期。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SPACEX \n$SPCX\n JUST REPORTED EARNINGS\n\nEPS of $0.35 beating expectations of $0.16\nRevenue of $14.6B beating expectations of $12.9B",
+"likes": 204
+},
+{
+"id": "2112636089345188253",
+"author": "KawzInvests",
+"date": "2026-10-20",
+"zh": "KawzInvests：WSJ 報導 Anthropic 基建承諾可達 7,500 億美元，但營收成長遠快於算力成本，雲端付款能力無虞。",
+"risk": "",
+"s": {
+"AMZN": "bull",
+"GOOGL": "bull",
+"META": "bull",
+"MSFT": "bull",
+"ORCL": "bull"
+},
+"text": "WSJ just reported Anthropic’s infrastructure commitments could reach $750B.\n\nRevenue is currently growing much faster than compute costs though.\n\nH1 2026 vs. H1 2025:\n\n> Revenue: $16.3B vs. $1.1B\n> Compute + infrastructure: nearly $9B vs. $2.3B\n\nThey went from spending over $2 on compute for every dollar of revenue to about 55 cents.\n\nThe $450B cloud portion runs over 7–10 years. Average that out and you get $45–64B a year. Keeping those payments at roughly 55% of revenue would take $82–116B in annual sales, assuming even payments and excluding the other infrastructure commitments.\n\nMost of those cloud deals are noncancelable. Some are payable “regardless of actual usage.”\n\nDario put it pretty bluntly when discussing a hypothetical $1T annual compute commitment: “If I’m just off by a year … then you go bankrupt.”\n\n\n$MSFT\n \n$AMZN\n \n$ORCL\n \n$GOOGL\n \n$META",
+"likes": 6
+},
+{
+"id": "2112636448365240533",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：Netflix 財報後盤後跌 5%。",
+"risk": "",
+"s": {
+"NFLX": "bear"
+},
+"text": "Netflix \n$NFLX\n stock is down by 5% in after-hours following its earnings",
+"likes": 69
+},
+{
+"id": "2112636993175785941",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 今年已完成 113 次發射。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX \n$SPCX\n just said it has completed 113 launches so far in 2026",
+"likes": 36
+},
+{
+"id": "2112637434345501100",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 在軌衛星 1.11 萬顆，超過地球軌道衛星總數一半。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX \n$SPCX\n currently has 11.1K satellites in space \n\n11.1K is more than 50% of the satellites orbiting Earth",
+"likes": 93
+},
+{
+"id": "2112639141678547419",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：SpaceX 財報營收 145 億、EPS 0.35 美元皆優於預期。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "BREAKING: SpaceX, \n$SPCX\n, earnings:\n\n- Revenue: 14.5 billion, est: $13 billion\n- EPS: $0.35, est: $0.16",
+"likes": 143
+},
+{
+"id": "2112639282460647837",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：Netflix 財報營收符合預期、EPS 0.87 美元略優。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "BREAKING: Netflix, \n$NFLX\n, earnings:\n\n- Revenue: $12.8 billion, est: $12.8 billion\n- EPS: $0.87, est: $0.82",
+"likes": 60
+},
+{
+"id": "2112639293646676030",
+"author": "KawzInvests",
+"date": "2026-10-20",
+"zh": "KawzInvests：SpaceX 單季 AI 資本支出 164 億美元、算力達 1.7GW，xAI 已是 CRDO 客戶，對 CRDO 是利多。",
+"risk": "",
+"s": {
+"CRDO": "bull",
+"SPCX": "neutral"
+},
+"text": "$SPCX\n just reported $16.4B in quarterly AI capex, up from $4.8B a year ago.\n\nCompute capacity reached 1.7GW, up from 1.4GW last quarter, with Colossus II still expanding.\n\nEncouraging for \n$CRDO\n, xAI is already a customer. Have a look at those purple cables.",
+"likes": 7
 }
 ]
