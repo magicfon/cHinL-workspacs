@@ -12317,6 +12317,31 @@
 "likes": 18
 },
 {
+"id": "2112161917280371074",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：形容 NBIS、CRWV 的漲勢像協同拉抬。",
+"risk": "",
+"s": {
+"CRWV": "neutral",
+"NBIS": "neutral"
+},
+"text": "$NBIS\n \n$CRWV\n\n\nTalk about a coordinated pump.",
+"likes": 113
+},
+{
+"id": "2112165042640601396",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：依基本面、產品路線與管理層決策持有 NBIS，別追漲殺跌。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n\nMy quant.\n\nLearn to hold based on fundamentals, product roadmaps and the quality of management's decisions, not on price action.\n\nThe macro will always be good one day and bad the next, yet most people don't make money even in a bull market because they sell every dip and FOMO into every rip.",
+"likes": 150
+},
+{
 "id": "2112165115420156116",
 "author": "KawzInvests",
 "date": "2026-10-19",
@@ -12330,6 +12355,31 @@
 },
 "text": "RAMmageddon continues to show up in phone shipments.\n\nIDC says global smartphone shipments fell 22% in Q3, the worst decline on record. Growth isn’t expected to recover until 2028 at the earliest.\n\nIDC research director Nabila Popal says the smartphone market “has not yet reached the bottom.”\n\n“Memory costs have surged approximately 350% since last year and are still rising.”\n\n“The worst is yet to come.”\n\n\n$MU\n \n$SNDK\n \n$AAPL\n \n$QCOM",
 "likes": 27
+},
+{
+"id": "2112176975339033051",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：Meta 股價跌回 700 美元以下。",
+"risk": "",
+"s": {
+"META": "bear"
+},
+"text": "Meta Platforms \n$META\n stock just dropped back under $700 per share",
+"likes": 396
+},
+{
+"id": "2112184708117283089",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：Meta 為跑 32,768 顆 GPU 的任務安裝 37,656 顆，多出 15% 矽晶片仍需電力與光通訊，需求驚人。",
+"risk": "",
+"s": {
+"META": "bull",
+"NVDA": "bull"
+},
+"text": "$NVDA\n \n$META\n\n\nMeta's Million-GPU Monster Is Hungry\n\nMeta just published how it runs Prometheus, its push toward a million-GPU cluster in Ohio. The number that stuck with me is buried in the reliability section.\n\nTo run a job on 32,768 GPUs, Meta installs 37,656. That’s ~15% more silicon than the work actually uses, and every one of those extra chips still needs power, cooling, optics and floor space.\n\n+Interruptions cut 99% in a year, from ~1,000 per 8,000 GPUs a day.\n+ Training jobs swing the cluster’s power draw by 30–40%, tens of megawatts in seconds.\n+ Racks go from ~135 kW today to 170+ kW with Rubin\n\nBuying the GPU is only the start. \n\nEach one pulls memory, optics, power and cooling in behind it, and that’s where I mapped the winners.\n\nCheck out the full breakdown for free on Substack.\n\n\nhttps://\nrenstocks.substack.com/p/metas-millio\nn-gpu-monster-is-hungry\n…",
+"likes": 46
 },
 {
 "id": "2112189710617788778",
@@ -12368,6 +12418,18 @@
 },
 "text": "Here are some of the earnings to watch out for this week\n\n- Tuesday: SpaceX \n$SPCX\n, Netflix \n$NFLX\n, General Electric \n$GE\n, Raytheon \n$RTX\n\n\n- Wednesday: Tesla \n$TSLA\n, Meta Platforms \n$META\n, NextEra \n$NEE\n, AT&T \n$T\n, \n$IBM\n\n\n- Thursday: Bloom Energy \n$BE\n, Spotify \n$SPOT\n, Western Digital \n$WDC\n, \n$PG\n, Lockheed Martin \n$LMT\n\n\n- Friday: American Express \n$AXP\n\n\nIf you see this I think you will get a lot of value out of my pinned post",
 "likes": 88
+},
+{
+"id": "2112192832991850723",
+"author": "michaelsikand",
+"date": "2026-10-19",
+"zh": "Michael Sikand：GTA VI 一個月後上市，SONY 買權已翻倍但未賣出，認為這個催化劑尚未反映在股價。",
+"risk": "",
+"s": {
+"SONY": "bull"
+},
+"text": "GTA VI launches in exactly 1 month.\n\nI've doubled my money on \n$SONY\n call options since I called the stock the game's hidden winner in June.\n\nBut I haven't sold a single contract.\n\nHere's why the biggest catalyst in Playstation history is not priced into the stock.",
+"likes": 61
 },
 {
 "id": "2112197916139941935",
@@ -12424,6 +12486,61 @@
 },
 "text": "THE NEW YORK STOCK EXCHANGE JUST LAUNCHED EXTENDED-HOURS OPTIONS TRADING\n\nIt covers 29 big stocks and ETFs, including Nvidia \n$NVDA\n, Bank of America \n$BAC\n, \n$SPY\n, and \n$IWM\n, per CNBC.\n\n- Morning session: 7:30 AM to 9:25 AM ET\n- Late session: 4:00 PM to 4:15 PM ET\n- Starting Dec. 6, those names trade 23 hours a day, 5 days a week",
 "likes": 288
+},
+{
+"id": "2112209096715980857",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：驚嘆亞馬遜今天竟然這麼猛。",
+"risk": "",
+"s": {
+"AMZN": "bull"
+},
+"text": "$AMZN\n 麻子居然这么猛🫪",
+"likes": 4
+},
+{
+"id": "2112213053773398350",
+"author": "michaelsikand",
+"date": "2026-10-19",
+"zh": "Michael Sikand：太空股是最容易的百倍股，建議放退休帳戶長抱至 2050–2070 年，別盯短線價格。",
+"risk": "短線波動大",
+"s": {
+"ASTS": "bull",
+"FLY": "bull",
+"LUNR": "bull",
+"MDA": "bull",
+"PL": "bull",
+"RKLB": "bull",
+"SPCX": "bull"
+},
+"text": "Space stocks are the easiest 100x I've ever seen.\n\nBut I'm noticing space bulls are making a deadly mistake: obsessing over price action. We're no longer in a future forward thinking market. The easy money on space is over now, but that's your advantage. \n\nMy view? These stocks should be nowhere but a retirement account separate from your individual that you never trade.\n\nIf you're playing the 2050-2070 game, we're talking disgusting wealth with these stocks. For every business on earth there will be one in space, and the market is far too large for only \n$SPCX\n to win.\n\nWhat is more asymmetrical than this thesis of owning the next economy past earth? Every important company building in this market is now public. You can own ALL of them. Some may fail but the few that win, win huge.\n\n\n$ASTS\n \n$FLY\n \n$RKLB\n \n$PL\n \n$LUNR\n \n$MDA\n \n$SPCX",
+"likes": 523
+},
+{
+"id": "2112214729116762319",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：想側面參與 SPCX 最好用 TSLA，反之亦然。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "如果要侧击 \n$SPCX\n 最好用 \n$TSLA\n\n如果要侧击 \n$TSLA\n 最好用 \n$SPCX\n🫪",
+"likes": 12
+},
+{
+"id": "2112215674483282062",
+"author": "ren_stocks",
+"date": "2026-10-19",
+"zh": "Ren：半導體創 2008 年來最長連跌、對沖基金一週倒光 AI 部位，但需求未變，NBIS 仍是最大持倉。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "Semis just had their longest losing streak since 2008, and hedge funds dumped all their net AI buying since 2025 in a week.\n\nDemand didn’t move an inch. \n\nHere’s the macro, the flows, and why \n$NBIS\n is still my biggest bet!",
+"likes": 31
 },
 {
 "id": "2112225293830103477",
@@ -12495,6 +12612,19 @@
 "likes": 38
 },
 {
+"id": "2112246858848284984",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：Google 與 Cognizant 擴大 AI 合作，Cognizant 投入 1.8 萬名工程師推動 Gemini 代理落地。",
+"risk": "",
+"s": {
+"CTSH": "neutral",
+"GOOGL": "neutral"
+},
+"text": "GOOGLE \n$GOOGL\n AND COGNIZANT \n$CTSH\n ARE EXPANDING THEIR AI PARTNERSHIP\n\nCognizant is putting more than 18,000 engineers into a new group focused on Google's Gemini AI, per the companies.\n\n- The group will help businesses move AI agents from tests into real use\n- More than 55,000 Cognizant workers just finished Gemini training\n- Cognizant is rolling out Gemini to 100,000 of its own workers this year, with plans for 200,000",
+"likes": 178
+},
+{
 "id": "2112248842594746573",
 "author": "ren_stocks",
 "date": "2026-10-19",
@@ -12519,6 +12649,18 @@
 "likes": 1
 },
 {
+"id": "2112255934919754029",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：Meta 表示 Muse 模型在俄亥俄州 GW 級超級叢集 Prometheus 訓練。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "Meta Platforms \n$META\n posted this today:\n\n“We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.”",
+"likes": 779
+},
+{
 "id": "2112256292341567746",
 "author": "michaelsikand",
 "date": "2026-10-19",
@@ -12529,6 +12671,30 @@
 },
 "text": "Might be the \n$OKLO\n chart for halloween.",
 "likes": 64
+},
+{
+"id": "2112256724845650150",
+"author": "unusual_whales",
+"date": "2026-10-19",
+"zh": "Unusual Whales：有人掃單買進 43.5 萬美元 CoreWeave 2027 年 2 月 50 美元賣權，押注續跌。",
+"risk": "",
+"s": {
+"CRWV": "bear"
+},
+"text": "Someone just bought $435,000 of CoreWeave, \n$CRWV\n, puts betting the stock keeps falling.\n\nContract: $50 puts expiring Feb. 19, 2027\nSize: 649 contracts at about $6.70 each\nSwept across exchanges and bought mostly at the ask, a sign of urgency\nBreakeven: about $43.30 by expiration\n\nThe trade also triggered repeated alerts today.",
+"likes": 551
+},
+{
+"id": "2112258966520533036",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：亞馬遜推出 TorchNeuron，PyTorch 程式碼可原生在 Trainium 執行。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n posted this today:\n\n“Announcing TorchNeuron: PyTorch code now runs natively on AWS Trainium chips with a single configuration change. No rewrite needed.”",
+"likes": 187
 },
 {
 "id": "2112261516741271666",
@@ -12596,5 +12762,124 @@
 },
 "text": "NVIDIA \n$NVDA\n CEO JENSEN HUANG JUST ANNOUNCED NEW INVESTMENTS IN 4 GERMAN  STARTUPS\n\nThey're part of Nvidia's nearly $10B commitment across Europe \n\n- Agile Robots: AI robots and a humanoid for factories, logistics, and healthcare\n- Avelios Medical: AI-native software that runs hospitals\n- Mirelo: AI that creates sound effects, speech, and music for video\n- Reflex Aerospace: satellites ready to launch in about 12 months",
 "likes": 71
+},
+{
+"id": "2112280184368009545",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：演算法交易日誌，今日無平倉，持有 APP、CAT、INTC。",
+"risk": "",
+"s": {
+"APP": "neutral"
+},
+"text": "今日无平仓\n\n 持仓 \n$APP\n 270.03→269.12 -0.3% · CAT 726.2→725.79 -0.1% · INTC  94.13→92.03 -2.2%\n\n balder-algo-logs · 龙气 · 10-19 · algo log · not advice",
+"likes": 0
+},
+{
+"id": "2112282255099871375",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：SpaceX 明天盤後第二次公布財報，隱含波動 ±6.8%。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX \n$SPCX\n reports earnings tomorrow for the 2nd time after the market closes\n\nSpaceX's earnings call starts at 4:30PM ET\n\nThe implied move for SpaceX stock following its earnings is + or - 6.8%",
+"likes": 200
+},
+{
+"id": "2112285724557152641",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：預測市場顯示蘋果今年推出觸控 MacBook 機率 93%。",
+"risk": "",
+"s": {
+"AAPL": "neutral"
+},
+"text": "There is now a 93% chance we get a Touchscreen MacBook from Apple \n$AAPL\n this year\n\nRumours say a Touchscreen MacBook is the new product coming next week",
+"likes": 64
+},
+{
+"id": "2112292490309161212",
+"author": "octopusycc",
+"date": "2026-10-19",
+"zh": "大老师：SpaceX 財報預測偏空，股價被釘在 148–149 美元，期權投機氣氛濃如山寨幣。",
+"risk": "0DTE 投機過熱",
+"s": {
+"SPCX": "bear"
+},
+"text": "Spacex \n$SPCX\n  财报预测：偏空，但我更倾向于先磨时间价值，再决定方向。\n\n这只股票在我看来，越来越像币圈的山寨币。\n\n大量 0DTE 赌徒聚集，期权投机属性非常强，这也让财报预测的难度明显增加。\n\n目前我有几个判断：\n\n当前价格被 Pin 在 148–149 美元区间，大量 Sell Put / Sell Call",
+"likes": 17
+},
+{
+"id": "2112295514226163963",
+"author": "Balder13946731",
+"date": "2026-10-19",
+"zh": "Balder：10/19 復盤，資金回流科技，QQQ 漲 1.2%，WDC、SNDK、AEHR、MRVL 等記憶體與半導體領漲。",
+"risk": "",
+"s": {
+"QQQ": "bull"
+},
+"text": "【美股复盘 · 10月19日】\n\n**大市**\n\n美股周一(10月19日)三大指数表现分歧，资金明显由旧经济向科网股一边倾斜。纳指 \n$QQQ\n 高开高走，全日收报718.36点，升1.21%，为主要指数中表现最强；标普500 SPY 收报766.48点，升0.42%；道指 DIA 则反复偏软，收报518.92点，微跌0.03%，是唯一失守平盘的主要指数；罗素小型股 IWM 收报271.29点，升0.31%。市宽温和偏好，104只观察股中64只上升、40只下跌。反向ETF同步急泻，做空纳指的 SQQQ 挫3.55%，做空半导体的 SOXS 重挫5.28%，侧面印证科技及芯片板块的买盘力度。\n\n**板块**\n\n存储及半导体链一枝独秀。 WDC 暴升6.09%， SNDK 急升5.53%，同属存储阵营；半导体测试设备股 AEHR 升4.50%， MRVL 升4.06%， SMTC 升4.02%。外围连动，韩股ETF EWY 升4.08%， SKHY 升4.67%，与存储周期的强势互为呼应。大型科网方面， AMZN 升4.98%，为权重股中升幅最显著者， PLTR 升4.36%。\n\n沽压则集中于金融与旧经济。银行股领跌大市， JPM 跌1.82%， BAC 跌1.64%；汽车股同受压， F 跌2.01%， GM 跌1.44%。加密资产相关股份反复转弱， COIN 挫2.72%， HOOD 跌2.38%。药股分化， MRK 跌1.59%，惟 MRNA 逆市造好，升4.07%。量子计算概念股 IONQ 跌1.60%。\n\n**焦点**\n\n题材面上，市场对半导体人才结构的讨论升温。业内数据显示，英伟达的员工离职率已降至约1%，为全行业最低；分析指这与未行使RSU的留任成本直接相关，而非单纯的文化因素。半导体业的历史本身就是一部出走史——仙童半导体当年流出的人才直接催生Intel与AMD，后续衍生数十家公司，黄仁勋本人亦出身LSI Logic。离职率压至极低，意味着这条传统的新公司孵化链条在当前周期内明显收窄。\n\n苹果方面，据报道将于10月28日的发布会推出首款触控屏MacBook。市场关注点多在交互形态的转向，惟真正牵动账本的是抽成结构：iPad Pro用户群软件分发只能走App Store，佣金不漏；macOS则容许开发者自行分销，产品线的边界如何划定，关系到软件服务收入的税基。另一方面，特斯拉与SpaceX的合并传闻持续，当中的换股比例为关键——马斯克于SpaceX的持股比例远高于特斯拉，若以特斯拉发行新股换取SpaceX股权，摊薄成本由特斯拉现有股东承担。\n\n**小结**\n\n全日格局为典型的板块轮动而非全面上扬：存储、半导体与大型科网承托指数，金融、汽车及加密相关股份则持续受压，道指因权重偏重旧经济而未能跟上。市宽64升40跌，升幅谈不上一致，反向ETF的双位数级别跌幅则显示空仓在芯片一端被压得较紧。分析指，后市须留意存储链的升势能否扩散至更广的半导体板块，以及银行股的沽压是否属轮动的一体两面；若金融与科网的分歧继续扩大，指数层面的升幅仍将高度依赖少数权重股。",
+"likes": 1
+},
+{
+"id": "2112358326239658056",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：B200 GPU 租價單日暴漲 330%。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nThis is officially my new favorite website:\n\nB200 GPU rental price? +330% today.",
+"likes": 325
+},
+{
+"id": "2112361444578673045",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：明日財報清單，盤前 GE、RTX、GM，盤後 Netflix、SpaceX 等。",
+"risk": "",
+"s": {
+"ALLY": "neutral",
+"COF": "neutral",
+"GE": "neutral",
+"GM": "neutral",
+"HAL": "neutral",
+"ISRG": "neutral",
+"MMM": "neutral",
+"NFLX": "neutral",
+"NOC": "neutral",
+"RTX": "neutral",
+"SPCX": "neutral",
+"UAL": "neutral"
+},
+"text": "Here are the earnings to watch out for tomorrow\n\nBefore the open:\n\nGeneral Electric \n$GE\n\nRaytheon \n$RTX\n \n3M \n$MMM\n \nGeneral Motors \n$GM\n \nNorthrop Grumman \n$NOC\n \nAlly Financial \n$ALLY\n\nHalliburton \n$HAL\n\n\nAfter the close:\n\nNetflix \n$NFLX\n \nSpace \n$SPCX\n \nIntuitive Surgical \n$ISRG\n \nUnited Airlines \n$UAL\n\nCapital One \n$COF",
+"likes": 120
+},
+{
+"id": "2112371237779312846",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：Cramer 表示 AppLovin 處於 Alphabet 的射程內，不建議買。",
+"risk": "Alphabet 競爭",
+"s": {
+"APP": "bear"
+},
+"text": "Jim Cramer was just asked about AppLovin \n$APP\n stock:\n\n“It’s come down a lot, but in the end AppLovin is in the crosshairs of Alphabet and I don’t want to be there. ... I’m just going to have to say no.”",
+"likes": 90
+},
+{
+"id": "2112384619592970518",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：反駁閒置 GPU 類比 2000 年閒置光纖，GPU 閒置是因插座不夠，B300 租價創新高。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nHere comes every boomer comparing dark GPUs (racks parked in warehouses because there's allegedly no power to turn them on) to dark fiber:\n\n\"History doesn't repeat itself, but it often rhymes.\"\n\nFiber went dark in 2000 because nobody needed the bandwidth. These racks are dark because there aren't enough plugs for everyone who wants them.\n\nI beg you, go ahead and try to rent a B300 from any AI cloud provider. Rental prices just hit an all-time high.",
+"likes": 161
 }
 ]
