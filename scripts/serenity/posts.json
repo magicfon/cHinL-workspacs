@@ -7599,5 +7599,95 @@
 },
 "text": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub.\n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 years to build, meaning new production would emerge 2029 or 2030.\n\nand that semiconductor shortages could worsen in 2027 stating:\n\n\"I do think it gets worse next year in terms of demand and supply\".\n\nI think it's strange we're getting unprecedented forward visibility with memory... as $GOOGL and richest hyperscalers seek LTAs into 2035.\n\nAnd a major sector crash as well over durability/financing concerns.",
 "likes": 844
+},
+{
+"id": "2112080246895976755",
+"date": "2026-10-19",
+"zh": "LITE 執行長：雲端業者資本支出續增、採購合約大多不可取消、需求「看不到盡頭」；光通訊受融資風險影響小於其他 AI 供應鏈。",
+"risk": "市場全面拋售",
+"s": {
+"AVGO": "neutral",
+"GOOGL": "neutral",
+"LITE": "bull"
+},
+"text": "$LITE CEO interview on demand, counterparty + financing risk:\n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings.\n\nBased on what we see, we see their spend going up.\"\n\n- \"The purchase agreements we have, to a large degree, are noncancellable.\"\n\n- The difference between Lumentum and companies like $AVGO, \"we are not as dependent on AI datacenter buildout going forward\"\n\nThere's a conversion between electrical products to optical products\" creating structural demand.\n\nQ: When do you see able to see yourself having more inventory? (catching up to surge in demand)\n\n- When we look at demand, there is \"no end in sight\"\n\nTLDR:\n\nFinancing risk and demand aren't equally distributed across AI supply chains. But markets are just selling everything off together.\n\nAs for photonics in specific, I said this before, but  increasing optical content per XPU + CPO/NPO adoption keeps going up so we'll likely see sector spend go up, even if aggregate capex goes down.\n\nThere's the usual \"no end to demand in sight\" commentary, but $LITE does have capacity commitments into 2029 now... and are negotiating for 2030. (with new information that most of which are likely hyperscalers + non-cancellable)\n\nSo doesn't quite sound like it's all over for the AI trade, especially photonics.",
+"likes": 830
+},
+{
+"id": "2112087774845407493",
+"date": "2026-10-19",
+"zh": "依揭露產能推估 AAOI 季營收由 2027Q1 的 8.6 億美元增至 2028Q1 的 21 億美元，目前市值僅 68 億，作者等待 2027 上半年拐點。",
+"risk": "執行風險",
+"s": {
+"AAOI": "bull",
+"LITE": "bull"
+},
+"text": "@gogolp9527 I can't give advice on what others should do but from what I'm seeing from $AAOI revenue ramp, it looks something like this from disclosed capacity.\n\n-> $858M Q1 2027\n-> $1.29B Q2 2027\n-> $1.62B Q3 2027\n-> $1.89B Q4 2027\n-> $2.14B Q1 2028\n\nThey're sitting on $6.8B MC right now. I'd be very impressed if they do $7.5B exit annualized revenue run rate in 2027 off 40% gross margins and markets assigned them the same valuation.\n\nAnd judging from $LITE making capacity agreements into 2030-2031... I don't quite think demand stalls out after 2027-2028.\n\nAnyway, lot of execution risk obviously, but H1 2027 inflection point is pretty close, so I'm personally waiting.",
+"likes": 156
+},
+{
+"id": "2112093252962705579",
+"date": "2026-10-19",
+"zh": "「一切都完了」的恐慌每隔幾個月就出現；LITE 執行長稱沒有訂單取消，作者仍看好記憶體與光通訊，認為遭錯殺。",
+"risk": "融資與信用市場風險",
+"s": {
+"LITE": "bull"
+},
+"text": "@qtdevlop Last time I've seen \"It's all over\" type posts was... 3 months ago during the situational awareness liquidation.\n\nAnd... 3 months ago before that... with Iran tensions + Oil + Helium + LNG fears/pricing.\n\nAnd... few months ago before that. I'm sure everyone remembers Deepseek back in like 2025\n\nEach one had genuine risks, with rate hikes/margin liquidations to oil prices + supply disruption. And now financing/credit markets.\n\nNot trying to downplay the risks but haven't seen it materialize in the companies I'm tracking (eg. optical sector) given counterparty types + sector visibility + architectural shifts in 2027-2028.\n\nFor example in this $LITE CEO interview, the guy said there hasn't been any order cancellation/delays given rate hikes.\n\nBut obviously neocloud sector that uses heavy debt leverage might be different.\n\nI've seen that the general sentiment was a recovery after midterms in 2 weeks, I'm not the type to give predictions like that. We'll see\n\nDirectionally bullish on certain sectors of AI supply chain like memory/photonics, but everything was sold off indiscriminately, even if they're not exactly the same trade.",
+"likes": 102
+},
+{
+"id": "2112102623721505098",
+"date": "2026-10-19",
+"zh": "整理 SIVE 現況：2027 年底 1 億顆 CW DFB 產能、Jabil 營收 2027 上半年進帳、多項驗證進行中；在雷射結構性短缺下勝率偏高，但仍需等財報揭露。",
+"risk": "驗證未能轉為訂單",
+"s": {
+"AAOI": "neutral",
+"AEHR": "neutral",
+"AEVA": "neutral",
+"GFS": "neutral",
+"JBL": "neutral",
+"LITE": "bull",
+"POET": "neutral",
+"SIVE": "bull"
+},
+"text": "Last major $SIVE disclosure was 100M CW DFB laser capacity Q4 2027. And a new foundry partner (that makes 2 including Win Semi).\n\nExpected $JBL revenue coming in H1 2027 (with lasers for Jabil's 1.6T LRO scaling up H2 2027).\n\nThere's channel checks along the way like CIOE where Sivers was engaged with Chinese pluggable makers + laser ASPs being raised.\n\n70mW/100mW ranges were the most tight to Chinese pluggable makers, which was surprising.\n\nBiggest industry read through was $LITE selling out into 2029, making agreements for 2030, and having hyperscalers pay for capacity expansion for 2031.\n\nI don't think anyone has enough information to do any sort of accurate modeling for $SIVE like you can for $AAOI given they don't release product breakdown + capacity targets by quarter.\n\nThe 200mW NPO lasers Sivers is sampling is likely different ASP than your 70mW lasers shipped to pluggable makers. And your custom CPO lasers are different pricing too.\n\nLike all sampling/qualification players from $AEHR to $AAOI back in 2025, usually the risk/reward comes in whether qualifications convert and what new customers they have, which is always a risk.\n\nIn a bull case, if $SIVE comes online with 300m laser supply (2:1 implied ratio, already has \"tremendous\" supply online from likely US fab) during a structural shortage.\n\nPluggable players like $JBL, 6 other vendors.\n\n$GFS as the reference design laser for their CPO/NPO platform.\n\nYour minor players vendors like $POET, $AEVA and other players end up scaling.\n\nAnd all the other custom products they hinted they were working on in the past for CPO years back.\n\nI think the probability that they cook is higher since there's so many ongoing qualifications during a bottleneck.\n\nWe've already seen ownership changes from Swedish investors to US/International retail from $SIVE shareholder disclosures.\n\nMy guess is that trends institutional from retail before US listing next year amid the market correction.\n\nThink people forgot institutions have already financed their expansion, which was a 700M SEK round 100%+ ago (multiple times oversubscribed).\n\nAnd that $SIVE uses primarily external fabs, so it's not the same as a lot of the major financing concerns affecting Neoclouds.\n\nAnyway, up to management execution, I'm not running Sivers so no clue what other companies are working with them now, whether it's Cambridge or some other US player like Semtec.\n\nTLDR:\n\n- Just need to wait for earnings for more disclosures around qualifications + p",
+"likes": 789
+},
+{
+"id": "2112104699859996753",
+"date": "2026-10-19",
+"zh": "有人質疑 SIVE 商業化前景不明：12 億美元訂單何時能轉成季營收超過 500 萬美元。",
+"risk": "訂單轉營收時程",
+"s": {
+"SIVE": "neutral"
+},
+"text": "I often come across comments suggesting that the prospects for commercializing $SIVE are unclear.\n\nWe understand that the question is when a $1.2B order backlog will translate into quarterly revenue exceeding $5M.\n\nThis is why there are concerns that all these metrics might turn",
+"likes": 15
+},
+{
+"id": "2112111374176555324",
+"date": "2026-10-19",
+"zh": "SIVE 管理層應以雷射產能營收上限與客戶驗證多樣性為核心指標，GFS 潛在量能遠大於其他業務。",
+"risk": "管理層溝通不佳",
+"s": {
+"GFS": "neutral",
+"SIVE": "bull"
+},
+"text": "@Dmytro_Lebid I don't think it's unclear, but I do think segments outside of photonics are noise for what drives valuations (which I don't think management understood).\n\nNext earnings, $SIVE should use laser capacity revenue ceiling from foundry allocations + existing fabs as the core metric alongside customer qualification diversity.\n\nNot defending what the definition of a revenue pipeline is and using current term cellular AllSpace contract revenue as an example.\n\nPotential volume from $GFS probably dwarfs revenue from other segments.\n\nTalking about existing qualification cycles is enough since investors how they convert given 1.6T/NPO/CPO transitions are coming up.",
+"likes": 128
+},
+{
+"id": "2112130322683072617",
+"date": "2026-10-19",
+"zh": "微軟退出 NScale 合約被誤讀：因英國電網延誤到 2030 年代，微軟仍急需算力，會轉向已有供電產能的 NBIS、IREN 等新雲端。",
+"risk": "新雲端無法如期交付的警訊",
+"s": {
+"IREN": "bull",
+"MSFT": "neutral",
+"NBIS": "bull"
+},
+"text": "Feels like the public interpretation is all wrong…\n\nI’m pretty sure $MSFT backing out on NScale deal is bullish for Neoclouds like $NBIS or even $IREN with energized capacity with Microsoft?\n\nPretend Microsoft just ate a bunch of Chipotle burittos:\n\n- They order toilet paper delivery scheduled Q1 2027\n\n- NScale says: sorry 3-4+ year delay of the toilet paper (into 2030’s) because of UK grid constraints\n\n- Microsoft still urgently needs toilet paper so they will get it elsewhere\n\nThe cancellation does send warnings about what happens if a Neocloud can’t execute on contracted demand.\n\nBut that just makes the other toilet paper sellers more valuable since Microsoft will go elsewhere for supply.",
+"likes": 1800
 }
 ]
