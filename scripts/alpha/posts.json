@@ -12813,6 +12813,18 @@
 "likes": 200
 },
 {
+"id": "2112284777839800341",
+"author": "octopusycc",
+"date": "2026-10-19",
+"zh": "大老师：TSLA 期權干擾單過多、財報難度極高，選擇不做，但主觀仍偏空。",
+"risk": "財報難預測",
+"s": {
+"TSLA": "bear"
+},
+"text": "TSLA还是有着过于密集的干扰期权订单了\n\n本次TSLA财报又是堪比地狱级了\n\n我是选择不做的 \n$TSLA\n \n\n今天反弹如此，但主观上依然判断 偏空",
+"likes": 6
+},
+{
 "id": "2112285724557152641",
 "author": "StockMKTNewz",
 "date": "2026-10-19",
@@ -12823,6 +12835,18 @@
 },
 "text": "There is now a 93% chance we get a Touchscreen MacBook from Apple \n$AAPL\n this year\n\nRumours say a Touchscreen MacBook is the new product coming next week",
 "likes": 64
+},
+{
+"id": "2112292388135911875",
+"author": "octopusycc",
+"date": "2026-10-19",
+"zh": "大老师：NFLX 財報預測偏空，先看 64–65 美元，58 美元難跌破。",
+"risk": "",
+"s": {
+"NFLX": "bear"
+},
+"text": "$NFLX\n 财报预测：偏空，优先看 64–65 美元。\n\n从目前的期权数据来看，市场明显在防守。\n\n当前 IV 隐含的财报波动范围约 ±8.44%，对应上下 5.89 美元。\n\n看跌至 60P 的押注并不少见，但我认为 58 美元是一个很难直接跌破的位置。\n\n75C、80C 体现了市场对波动率放大的预期，同时也可能受到 GEX Wall",
+"likes": 9
 },
 {
 "id": "2112292490309161212",
@@ -12883,6 +12907,18 @@
 },
 "text": "$KOSPI\n\nCan we not, please?\n\nKOSPI is now trading lower than when Leopold was sacrificed.",
 "likes": 317
+},
+{
+"id": "2112356262054645983",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：受 KOSPI 拖累 MU 七成機率開低，預期週五前續弱，列出 Meta、Fed、亞馬遜財報與期中選舉等關鍵日期。",
+"risk": "短線續弱",
+"s": {
+"MU": "neutral"
+},
+"text": "$MU\n\n\nMU has a 72% chance of opening lower than today's close. Have to thank KOSPI for that.\n\nI'm just going to assume we go lower until Friday. Anything other than that will come as a pleasant surprise \n\nThis won't last forever, though. Key dates coming up:\n\n+ Meta reports Wednesday (Oct 21)\n+ Fed meets Oct 27-28\n+ Amazon reports Oct 29\n+ Midterms on Nov 3\n+ Earnings season in full swing the whole way through",
+"likes": 74
 },
 {
 "id": "2112358326239658056",
@@ -12968,6 +13004,67 @@
 "likes": 43
 },
 {
+"id": "2112528162458321352",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：亞馬遜假期季將招聘逾 30 萬人，較去年增 20%。",
+"risk": "",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n plans to hire more than 300,000 workers during the holiday shopping season, up 20% from a year ago - Bloomberg",
+"likes": 438
+},
+{
+"id": "2112530015439257889",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：博通與 FedEx 宣布延續長期合作。",
+"risk": "",
+"s": {
+"AVGO": "neutral",
+"FDX": "neutral"
+},
+"text": "Broadcom \n$AVGO\n and FedEx \n$FDX\n just announced the continuation of its long-standing relationship",
+"likes": 183
+},
+{
+"id": "2112530337037230239",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：小勞勃道尼加入 Snap 旗下 SPECS 擔任榮譽客戶體驗長。",
+"risk": "",
+"s": {
+"SNAP": "neutral"
+},
+"text": "Robert Downey Jr. has joined Snapchat \n$SNAP\n owned SPECS as the honorary Chief Customer Experience Officer (CCEO)",
+"likes": 228
+},
+{
+"id": "2112534650555908248",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：Salesforce 同意以約 57 億美元企業價值收購 Braze。",
+"risk": "",
+"s": {
+"CRM": "neutral"
+},
+"text": "Salesforce \n$CRM\n has agreed to acquire Braze for almost $5.7 Billion in enterprise value",
+"likes": 48
+},
+{
+"id": "2112541443126608135",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：SOXX 已跌破 500，支撐下移至 463–488–500，先觀望。",
+"risk": "支撐持續下移",
+"s": {
+"SOXX": "bear"
+},
+"text": "$SOXX\n 已经完全跌破500了，他的支撑位已经下移到了463-488-500，在到达下一个支撑位之前还是先观望吧。",
+"likes": 31
+},
+{
 "id": "2112549985405567314",
 "author": "Balder13946731",
 "date": "2026-10-20",
@@ -13030,6 +13127,18 @@
 "likes": 79
 },
 {
+"id": "2112575529706786926",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：更新判斷，NFLX 財報可能超預期、股價反彈，66 賣權有大額賣出支撐。",
+"risk": "上方 76 難突破",
+"s": {
+"NFLX": "bull"
+},
+"text": "奈飞财报（非最终版） 有变化\n\n判断：财报超预期 价格反弹\n\n当前 IV 隐含的财报波动范围约 ±8.44%，对应上下 5.89 美元。\n\n盘中更新 \n$NFLX\n 66P 出现连续的大额 Sell Put \n\n但上方76 难以突破 \n\n累计Prem高达 200万美金 \n\n所以 盘中来看，市场可能认为 \n$NFLX\n 在财报后会出现一个相对稳固的上涨\n\n财报持续更新中\n\n#OKX美股财报季",
+"likes": 9
+},
+{
 "id": "2112578600671047923",
 "author": "StockMKTNewz",
 "date": "2026-10-20",
@@ -13040,6 +13149,42 @@
 },
 "text": "AMAZON \n$AMZN\n WILL INVEST MORE THAN $17.9B IN GERMANY NEXT YEAR\n\nThe money covers data centers, Amazon Leo satellites, and Prime Video production, per Bloomberg.\n\n- Amazon will open a robotics lab in Berlin\n- The lab will double its research staff in the city",
 "likes": 255
+},
+{
+"id": "2112578752945492319",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：SPCX 從 175 跌至 147 已反映預期，財報不論好壞後續都會上漲。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX \n$SPCX\n   财报预测 \n\n总结： SPCX 财报Beat与否，在财报后 SPCX都会出现上涨。\n\n市场已从 175跌至 147\n下跌27 累计下跌 15%左右\n\n我认为是相对定价了 IV（ Expected move: 9.43% (+/- $13.91)\n\n我们拭目以待",
+"likes": 20
+},
+{
+"id": "2112589318330225107",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：通用汽車批准 200 億美元庫藏股計畫。",
+"risk": "",
+"s": {
+"GM": "bull"
+},
+"text": "General Motors \n$GM\n approved a new $20 Billion stock buyback plan - WSJ",
+"likes": 50
+},
+{
+"id": "2112592977277370797",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：分享 SPCX 財報分析卡片。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "做了个 \n$SPCX\n 的财报卡片\n\n这个看的清楚吗？\n\n我们拭目以待！",
+"likes": 17
 },
 {
 "id": "2112594808057565331",
@@ -13104,6 +13249,19 @@
 },
 "text": "当大家想抄底的时候，买 \n$NVDA\n\n想赶顶的时候，买 \n$NVDA\n\n买高速增长股的时候，买 \n$NVDA\n\n买现金流充足疯狂回购股的时候，买 \n$NVDA\n\n加息的时候，买 \n$NVDA\n\n降息的时候，买 \n$NVDA\n\n迷茫不知所措的时候，买 \n$NVDA\n \n格局清晰看清一切迷障的时候，更应该买 \n$NVDA",
 "likes": 29
+},
+{
+"id": "2112611231215542447",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：提醒 SpaceX 與 Netflix 今日盤後公布財報。",
+"risk": "",
+"s": {
+"NFLX": "neutral",
+"SPCX": "neutral"
+},
+"text": "Watch out for SpaceX \n$SPCX\n and Netflix \n$NFLX\n reporting earnings today after the stock markets close",
+"likes": 88
 },
 {
 "id": "2112621239307002341",
@@ -13257,5 +13415,313 @@
 },
 "text": "$SPCX\n just reported $16.4B in quarterly AI capex, up from $4.8B a year ago.\n\nCompute capacity reached 1.7GW, up from 1.4GW last quarter, with Colossus II still expanding.\n\nEncouraging for \n$CRDO\n, xAI is already a customer. Have a look at those purple cables.",
 "likes": 7
+},
+{
+"id": "2112639911060992061",
+"author": "michaelsikand",
+"date": "2026-10-20",
+"zh": "Michael Sikand：Meta 的 Muse 連 Instagram 貼文觀看數都讀不到，難怪留存率暴跌，對創作者毫無用處。",
+"risk": "Muse 留存率下滑",
+"s": {
+"META": "bear"
+},
+"text": "No wonder \n$META\n Muse retention is falling off a cliff. It can't even log your Instagram posts. In fact, Muse has no ability to know even how many views a piece of Instagram content has gotten. Useless as intelligence for \n$META\n's most important customers, their creators.",
+"likes": 108
+},
+{
+"id": "2112641363275588056",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 營收結構：AI 76 億、Starlink 52 億、火箭 18 億美元。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX's \n$SPCX\n revenue by category\n\n- AI (SpaceXSI: $7.6 Billion\n- Connectivity (Starlink): $5.2B\n- Space (Rockets): $1.8B",
+"likes": 271
+},
+{
+"id": "2112641438680805854",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：SpaceX 財報雙優，營收 145.8 億、EBITDA 88.1 億美元，AI 已成最大業務。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "$SPCX\n double beat \n\nSpaceX just printed a killer Q.\n\nRevenue came in at $14.58B against $12.87B expected, up 87% from Q2 and 161% from a year ago. Adjusted EBITDA hit $8.81B against $6.59B expected, a 34% beat.\n\nOperating income swung to $2.79B. Last quarter it was a $143M loss.\n\nAI is now the biggest business inside SpaceX. \n\nTake out Space ($1.77B) and Connectivity ($5.25B) and you’re left with roughly $7.6B, up from $2.56B in Q2 and well above the ~$6.5B the Street had modeled.\n\nStarlink is the cash machine paying for it. \n\nConnectivity did $5.25B in revenue with $2.37B of operating income, a 45% operating margin, plus $3.50B of adjusted EBITDA.\n\nSpace adjusted EBITDA came in at $357M, almost 3x the $123M estimate.\n\nThe quarter wasn’t perfect though: \n\nLaunches came in at 35 against 41 expected, mass to orbit was 476 tonnes against 559, and cash ended at $51B against a $91B estimate after another ~$20B quarter of capex, most of it into AI infrastructure.\n\nRockets, satellites and an AI cloud under one ticker, with the satellites funding the GPUs and the GPUs already outgrowing the satellites.\n\nThe market is beginning to price SpaceX like an AI company with a rocket to send it to the moon!",
+"likes": 90
+},
+{
+"id": "2112646617354449215",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：馬斯克稱 2027 年底星艦每週可發射兩次。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "Elon Musk just said that SpaceX \n$SPCX\n plans to be able to launch its Starship Rocket 2x per week by the end of 2027",
+"likes": 119
+},
+{
+"id": "2112646803854430318",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：馬斯克預測三年內 Starlink 衛星達 10 萬顆。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "Elon Musk said he predicts SpaceX \n$SPCX\n reaching 100,000 Starlink satellites within 3 years",
+"likes": 206
+},
+{
+"id": "2112647873234137401",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：馬斯克稱 SpaceX 2027 年底年化營收可達 5,000 億至 1 兆美元。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Elon Musk just said SpaceX \n$SPCX\n thinks it could exit 2027 with an annual revenue run rate of between $500 Billion to $1 Trillion",
+"likes": 706
+},
+{
+"id": "2112648174620094736",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：SpaceX 財報說明能買到多少輝達 GPU，就能賺多少錢。",
+"risk": "",
+"s": {
+"NVDA": "bull",
+"SPCX": "bull"
+},
+"text": "$SPCX\n 的财报说明了一件事情🫪\n\n你能买到多少 \n$NVDA\n 的GPU，你就能赚到多少钱。",
+"likes": 189
+},
+{
+"id": "2112648299027354107",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：IGN 報導 Xbox 次世代主機售價可能達 1,800 美元，目標 2028 年推出。",
+"risk": "",
+"s": {
+"MSFT": "neutral"
+},
+"text": "BREAKING: Microsoft's, \n$MSFT\n, Xbox reportedly expects its next-generation console to cost as much as $1,800 and is currently targeting a 2028 release, per IGN. \n\nA new handheld is also rumored to launch next year.",
+"likes": 2966
+},
+{
+"id": "2112654809819935043",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 預估 2027 年第一季營收 330–370 億美元。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX \n$SPCX\n just said it expects to bring in revenue of between $33B to $37B in Q1 2027",
+"likes": 263
+},
+{
+"id": "2112659609915724197",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：馬斯克表示特斯拉與 SpaceX 已成立特別委員會討論合併。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "Elon Musk just said that Tesla  \n$TSLA\n and SpaceX \n$SPCX\n have formed special committees to discuss a merger",
+"likes": 585
+},
+{
+"id": "2112659798365966735",
+"author": "ren_stocks",
+"date": "2026-10-20",
+"zh": "Ren：感謝馬斯克，NBIS 衝了！",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n\nThanks, Elon. \n\nLet's go!!!",
+"likes": 427
+},
+{
+"id": "2112663680148234582",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：SpaceX 財報後盤後漲 5%。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX \n$SPCX\n stock is up by 5% in after-hours following its earnings",
+"likes": 235
+},
+{
+"id": "2112667090708726152",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：SpaceX 與特斯拉成立特別委員會討論合併。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "SpaceX和 \n$TSLA\n 成立了特别委员会商讨合并的可能性🫪",
+"likes": 13
+},
+{
+"id": "2112667481387196721",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：SpaceX 將常態性把輝達 GPU 送上太空。",
+"risk": "",
+"s": {
+"NVDA": "bull",
+"SPCX": "neutral"
+},
+"text": "$SPCX\n 将常规化的将 \n$NVDA\n 的GPU发往太空。",
+"likes": 14
+},
+{
+"id": "2112669334472667510",
+"author": "michaelsikand",
+"date": "2026-10-20",
+"zh": "Michael Sikand：SpaceX 財報後 AI 基建股盤後大漲，AI 營收成長 830%，已是 neocloud 公司，反諷「neocloud 已死」說法。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "JUST NOW: AI infra stocks are exploding after hours on the \n$SPCX\n ER.\n\n\n$SPCX\n is officially a neocloud company now with AI revenue up 830% and makes more money renting compute than anything else.\n\nBut the neocloud thesis is dead right?",
+"likes": 442
+},
+{
+"id": "2112671286082281595",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：特斯拉明天盤後公布財報，隱含波動 ±5.36%。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n reports earnings tomorrow after the stock market closes \n\nYou should expect the numbers to be released at 4:07PM ET followed by the earnings call at 5:30PM ET\n\nThe implied move for Tesla stock heading into earnings is +/- 5.36% as of right now",
+"likes": 129
+},
+{
+"id": "2112678179613904896",
+"author": "unusual_whales",
+"date": "2026-10-20",
+"zh": "Unusual Whales：馬斯克預期 SpaceX 2027 年底年化營收 5,000 億至 1 兆美元。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Elon Musk says he sees \n$SPCX\n annual recurring revenue to land between $500 billion and $1 trillion by the end of 2027.",
+"likes": 1839
+},
+{
+"id": "2112691900738310609",
+"author": "Balder13946731",
+"date": "2026-10-20",
+"zh": "Balder：SMCI 飆漲 15%，顯示資本支出需求仍高速成長。",
+"risk": "",
+"s": {
+"SMCI": "bull"
+},
+"text": "$SMCI\n 飙升15%，一切的一切都表明🫪 Capex的需求依然在高速增长。",
+"likes": 29
+},
+{
+"id": "2112734484546126207",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：馬斯克的 ARR 目標意味 2027 年 12 月單月營收逾 416 億美元。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Elon Musk said SpaceX \n$SPCX\n could end 2027 with a ARR of between $500 Billion - $1 Trillion\n\nThat means Elon said SpaceX could bring in more than $41.6 Billion of revenue in December 2027",
+"likes": 257
+},
+{
+"id": "2112735304037904874",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：馬斯克稱 SpaceX 資料中心 6 個月可回本，市場可能過度拋售 neocloud。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Investors aren't talking enough about what Elon said.\n\nHe said \n$SPCX\n data centers could breakeven in 6 months. For context, a McDonald’s usually takes 3-5 yrs. A power plant? 10.\n\nThe market may have WAY overshot this recent neocloud selloff.",
+"likes": 357
+},
+{
+"id": "2112739388820173194",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：馬斯克表示特斯拉與 SpaceX 應股東要求成立特別委員會。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "\"Both Tesla and SpaceX have formed special committees at the request of shareholders.” - Elon Musk talking about a merger between Tesla \n$TSLA\n and SpaceX \n$SPCX",
+"likes": 121
+},
+{
+"id": "2112747536503157053",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：Grok 每週付費用戶 80 萬且黏著度提升，Meta Muse 14 天留存僅 23%，SpaceX 完勝。",
+"risk": "Muse 留存率低",
+"s": {
+"META": "bear",
+"SPCX": "bull"
+},
+"text": "Elon Musk mogged \n$META\n on today's ER.\n\nGrokbot now with 800K paying weekly users and engagement is only getting stickier and deeper.\n\nMeanwhile recent data from Morgan Stanley said retention on Muse is just 23% after 14 days, lagging other platforms.\n\nWhile \n$META\n threw users off the agentic deep end, \n$SPCX\n targeted a tech savvy audience on X that is highly interested in paying for productivity and AI optimization. This is why engagement of the product is getting deeper as it evolves and new use cases are ideated.\n\nMusk called it \"the fastest growth of a product that I've ever seen in my life for Grok Bot. I've never seen anything grow this fast. We're also seeing that the usage of Grok Bot grows over time per user. It does not decline. As we make Grok Bot more useful, we're seeing users use it more per week, not use it less.\n\nJevon's paradox is playing out here.",
+"likes": 297
+},
+{
+"id": "2112829432893464752",
+"author": "asklivermore",
+"date": "2026-10-21",
+"zh": "AskLivermore：恭喜持有 SPCX 獲利。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Thanks BB - congrats on our \n$SPCX\n btw",
+"likes": 1
+},
+{
+"id": "2112872374916059419",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：預告直播分析 TSLA、IBM、META、LRCX 財報。",
+"risk": "",
+"s": {
+"IBM": "neutral",
+"LRCX": "neutral",
+"META": "neutral",
+"TSLA": "neutral"
+},
+"text": "财报季第二期 明天见，几乎是最难猜的 \n$TSLA\n 财报了\n\n希望今晚也成功命中\n\n今晚也会发一篇 TSLA的财报 分析\n\n今晚依然是超长待机  \n\n同样的 \n$TSLA\n \n$IBM\n \n$META\n \n$LRCX\n 我们都会再看一看\n\n\nhttps://\napp.binance.com/uni-qr/cspa/47\n458180398050?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\n…\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@pearbinance\n \n@Beca_bn",
+"likes": 5
+},
+{
+"id": "2112882452155032029",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：AT&T 財報後盤前跌逾 5%。",
+"risk": "",
+"s": {
+"T": "bear"
+},
+"text": "AT&T \n$T\n stock is down by more than 5% in pre market trading following its earnings",
+"likes": 2
 }
 ]
