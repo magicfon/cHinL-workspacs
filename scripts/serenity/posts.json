@@ -7689,5 +7689,87 @@
 },
 "text": "Feels like the public interpretation is all wrong…\n\nI’m pretty sure $MSFT backing out on NScale deal is bullish for Neoclouds like $NBIS or even $IREN with energized capacity with Microsoft?\n\nPretend Microsoft just ate a bunch of Chipotle burittos:\n\n- They order toilet paper delivery scheduled Q1 2027\n\n- NScale says: sorry 3-4+ year delay of the toilet paper (into 2030’s) because of UK grid constraints\n\n- Microsoft still urgently needs toilet paper so they will get it elsewhere\n\nThe cancellation does send warnings about what happens if a Neocloud can’t execute on contracted demand.\n\nBut that just makes the other toilet paper sellers more valuable since Microsoft will go elsewhere for supply.",
 "likes": 1800
+},
+{
+"id": "2112429644033245666",
+"date": "2026-10-20",
+"zh": "SIVE 拿到首批 LiDAR 用 CW DFB 雷射量產訂單，打開光通訊以外的新市場。",
+"risk": "LiDAR 訂單規模尚小",
+"s": {
+"AEVA": "neutral",
+"SIVE": "bull"
+},
+"text": "Exciting, $SIVE gets their first production orders for CW DFB lasers with LiDAR.\n\n“We are pleased to see this strategic program advance from design-win to production”.\n\nWith opportunity for expansion given the speculated customer $AEVA is moving into CPO/NPO optical sources for https://t.co/UfclVZilDd",
+"likes": 1217
+},
+{
+"id": "2112433128652542032",
+"date": "2026-10-20",
+"zh": "作者認為機器人與人形機器人是更令人興奮的應用，但 Sivers 雷射最終用在哪裡能見度不高。",
+"risk": "終端客戶能見度低",
+"s": {
+"AEVA": "neutral"
+},
+"text": "@PhotonCap I think the more exciting application is robotics/humanoids, which was mentioned in the PR.\n\nWith likely $AEVA doing FMCW LiDAR and robotics sensing with LG Innotek and others (Boston Dynamics supplier).\n\nBut hard to get visibility over what end product Sivers lasers go into. https://t.co/hIMcSAOgqg",
+"likes": 183
+},
+{
+"id": "2112435500246311200",
+"date": "2026-10-20",
+"zh": "AEVA 的 FMCW LiDAR 是 NVDA Hyperion 平台的參考感測器。",
+"risk": "車用 LiDAR 放量時程不明",
+"s": {
+"AEVA": "neutral",
+"NVDA": "neutral"
+},
+"text": "@zaynchd $AEVA FMCW 4D LiDAR is the reference sensor for $NVDA Hyperion, so seems like a possible path.\n\nAgain, not too much visibility into suppliers or where their CW lasers ultimately end up given how sensitive supply chain relationships are",
+"likes": 104
+},
+{
+"id": "2112674175446089985",
+"date": "2026-10-20",
+"zh": "SPCX 第四季資本支出指引 350–400 億美元，約為先前 184 億的兩倍；作者不解為何有人認為 AI 半導體已見頂。",
+"risk": "資本支出指引可能下修",
+"s": {
+"NVDA": "bull",
+"SPCX": "bull"
+},
+"text": "Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings.\n\n- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basically doubling previous outlook\n\n\"Q3 and Q4 capex should be similar to Q2's https://t.co/JIW0ArE128",
+"likes": 781
+},
+{
+"id": "2112675760502944062",
+"date": "2026-10-20",
+"zh": "「每瓦算力將更有價值」的說法對 NBIS 等新雲端是重大利多。",
+"risk": "電力與交付進度風險",
+"s": {
+"NBIS": "bull"
+},
+"text": "@Bandz_Trading Yeah this statement was heavily bullish on neoclouds like $NBIS along with many others\n\n \"Our belief is that the value of compute per watt will increase over time, not decrease.\n\nThe reason for that, I think it should be obvious to people really, is that as you improve the AI https://t.co/5rizwFGeGv",
+"likes": 70
+},
+{
+"id": "2112684521174999529",
+"date": "2026-10-20",
+"zh": "需求與估值嚴重背離：SMCI、SPCX 採購加速，AAOI 與機房股卻崩跌；作者認為財報後 2026 年 10 月將像 DeepSeek／四月關稅一樣是買點。",
+"risk": "財報若不如預期恐續跌",
+"s": {
+"AAOI": "bull",
+"SMCI": "bull",
+"SPCX": "bull"
+},
+"text": "Divergence between fundamental demand and valuations are now at extreme levels.\n\nYou're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players.\n\nAfter ERs, I think Oct 2026 will be seen as a DeepSeek / April tariff opportunity https://t.co/RLw4nfI17x",
+"likes": 355
+},
+{
+"id": "2112701278262546442",
+"date": "2026-10-21",
+"zh": "作者仍持有 AAOI；66 億美元市值未反映 2027 年拐點，模型估 2027 年第四季單季營收約 19 億美元。",
+"risk": "2027 營收預估過於樂觀",
+"s": {
+"AAOI": "bull"
+},
+"text": "@jerrychen0awi Yes I still have $AAOI and personally think the $6.6b valuation doesn’t price in next year’s inflection happening Q2 next year onward.\n\nI personally modeling somewhere around ~$1.9B quarterly revenue Q4 2027,  ~40% gross margins.\n\nWith another bump in blended gross margins as https://t.co/162H71LAEs",
+"likes": 21
 }
 ]
