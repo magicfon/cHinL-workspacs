@@ -13184,7 +13184,7 @@
 "SPCX": "neutral"
 },
 "text": "做了个 \n$SPCX\n 的财报卡片\n\n这个看的清楚吗？\n\n我们拭目以待！",
-"likes": 17
+"likes": 18
 },
 {
 "id": "2112594808057565331",
@@ -13426,7 +13426,7 @@
 "META": "bear"
 },
 "text": "No wonder \n$META\n Muse retention is falling off a cliff. It can't even log your Instagram posts. In fact, Muse has no ability to know even how many views a piece of Instagram content has gotten. Useless as intelligence for \n$META\n's most important customers, their creators.",
-"likes": 108
+"likes": 119
 },
 {
 "id": "2112641363275588056",
@@ -13499,7 +13499,7 @@
 "SPCX": "bull"
 },
 "text": "$SPCX\n 的财报说明了一件事情🫪\n\n你能买到多少 \n$NVDA\n 的GPU，你就能赚到多少钱。",
-"likes": 189
+"likes": 208
 },
 {
 "id": "2112648299027354107",
@@ -13563,6 +13563,19 @@
 "likes": 235
 },
 {
+"id": "2112666353115283801",
+"author": "michaelsikand",
+"date": "2026-10-20",
+"zh": "Michael Sikand：SpaceX 財報強勁帶動 CRDO 大漲，SpaceX AI 營收成長 830%，可能是 CRDO 最大客戶。",
+"risk": "",
+"s": {
+"CRDO": "bull",
+"SPCX": "bull"
+},
+"text": "$CRDO\n is surging after strong \n$SPCX\n earnings.\n\nSpaceX SI revenue is up 830%, now larger than Starlink, with compute projected to scale nearly 2x from 1.7 GW today to potentially 3 GW by year end.\n\n\n$SPCX\n is estimated by some analysts to be \n$CRDO\n's largest customer.",
+"likes": 142
+},
+{
 "id": "2112667090708726152",
 "author": "Balder13946731",
 "date": "2026-10-20",
@@ -13572,7 +13585,7 @@
 "TSLA": "neutral"
 },
 "text": "SpaceX和 \n$TSLA\n 成立了特别委员会商讨合并的可能性🫪",
-"likes": 13
+"likes": 14
 },
 {
 "id": "2112667481387196721",
@@ -13597,7 +13610,7 @@
 "SPCX": "bull"
 },
 "text": "JUST NOW: AI infra stocks are exploding after hours on the \n$SPCX\n ER.\n\n\n$SPCX\n is officially a neocloud company now with AI revenue up 830% and makes more money renting compute than anything else.\n\nBut the neocloud thesis is dead right?",
-"likes": 442
+"likes": 455
 },
 {
 "id": "2112671286082281595",
@@ -13621,7 +13634,7 @@
 "SPCX": "bull"
 },
 "text": "Elon Musk says he sees \n$SPCX\n annual recurring revenue to land between $500 billion and $1 trillion by the end of 2027.",
-"likes": 1839
+"likes": 2003
 },
 {
 "id": "2112691900738310609",
@@ -13633,7 +13646,7 @@
 "SMCI": "bull"
 },
 "text": "$SMCI\n 飙升15%，一切的一切都表明🫪 Capex的需求依然在高速增长。",
-"likes": 29
+"likes": 31
 },
 {
 "id": "2112734484546126207",
@@ -13657,7 +13670,7 @@
 "SPCX": "bull"
 },
 "text": "Investors aren't talking enough about what Elon said.\n\nHe said \n$SPCX\n data centers could breakeven in 6 months. For context, a McDonald’s usually takes 3-5 yrs. A power plant? 10.\n\nThe market may have WAY overshot this recent neocloud selloff.",
-"likes": 357
+"likes": 462
 },
 {
 "id": "2112739388820173194",
@@ -13683,7 +13696,7 @@
 "SPCX": "bull"
 },
 "text": "Elon Musk mogged \n$META\n on today's ER.\n\nGrokbot now with 800K paying weekly users and engagement is only getting stickier and deeper.\n\nMeanwhile recent data from Morgan Stanley said retention on Muse is just 23% after 14 days, lagging other platforms.\n\nWhile \n$META\n threw users off the agentic deep end, \n$SPCX\n targeted a tech savvy audience on X that is highly interested in paying for productivity and AI optimization. This is why engagement of the product is getting deeper as it evolves and new use cases are ideated.\n\nMusk called it \"the fastest growth of a product that I've ever seen in my life for Grok Bot. I've never seen anything grow this fast. We're also seeing that the usage of Grok Bot grows over time per user. It does not decline. As we make Grok Bot more useful, we're seeing users use it more per week, not use it less.\n\nJevon's paradox is playing out here.",
-"likes": 297
+"likes": 387
 },
 {
 "id": "2112829432893464752",
@@ -13723,5 +13736,517 @@
 },
 "text": "AT&T \n$T\n stock is down by more than 5% in pre market trading following its earnings",
 "likes": 2
+},
+{
+"id": "2112893666167538116",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：馬斯克形容 SpaceX 部署 AI 基建的速度像洋基隊打少棒。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Elon Musk compared \n$SPCX\n's speed in deploying AI infra to other hyperscalers.\n\n\"This is a bit like the New York Yankees playing in Little League. It's not fair.\"",
+"likes": 70
+},
+{
+"id": "2112897021833015632",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：JPMorgan 將 SpaceX 目標價從 240 上調至 500 美元。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "JPMorgan today raised its price target on SpaceX \n$SPCX\n up to $500 from $240 while maintaining its Overweight rating",
+"likes": 421
+},
+{
+"id": "2112906979324707192",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：輝達推出貨櫃式 AI 資料中心 DSX POD，建置時間從 6 個月縮至 14 天。",
+"risk": "",
+"s": {
+"NVDA": "bull"
+},
+"text": "NVIDIA \n$NVDA\n JUST INTRODUCED DSX POD, AI DATA CENTERS THAT SHIP IN CONTAINERS\n\nEach one arrives with computing, cabling, power, and liquid cooling already installed, built around Nvidia's Vera Rubin systems. That cuts setup time at a ready site from 6 months to as little as 14 days.\n\nPartners plan to deliver them worldwide in early 2027.\n\nJensen Huang: \"An AI factory creates value when it starts producing tokens, not when construction is complete.\"\n\n“With NVIDIA DSX POD, we’re bringing factory-built precision and speed to AI infrastructure construction — reducing deployment time from months to weeks so customers can scale capacity and bring revenue-generating production online faster.”",
+"likes": 247
+},
+{
+"id": "2112927788504424617",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：除非大超預期，TSLA 財報後會跌，387.5–390 是頂部，下看約 370。",
+"risk": "",
+"s": {
+"TSLA": "bear"
+},
+"text": "特斯拉财报初步判断：\n\n\n$TSLA\n  除非财报大超预期，不然出财报后会跌\n\n且目前看 387.5-390是这一段的顶部\n\n截止 23:20 我判断 \n$TSLA\n 是不会大超预期, 且不会继续暴涨\n\n浅超预期 符合预期 或者低于预期 这个范围\n\n而下跌的区间 大概也就是370附近（粗略）\n\n#OKX美股财报季",
+"likes": 9
+},
+{
+"id": "2112929356083519979",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：META 財報預測 Beat 並上漲，680 賣權像對沖單。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "META财报预测 \n$META\n \n\n总结：财报Beat，出财报后上涨\n\n680 这里更像 一个对冲单\n\n截止 23:30\n\nMETA期权flow也非常顽强且有信心\n\n持续性依然需要咱们三点看完数据之后继续修正\n\n目前暂定 财报Beat+上涨\n\n#OKX美股财报季",
+"likes": 9
+},
+{
+"id": "2112933633589723481",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：黃仁勳稱新筆電具 1 petaflop AI 效能，相當於 2016 年送給 OpenAI 的系統。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang said this new laptop delivers 1 petaflop of AI performance \n\nThis is equivalent to the huge first AI system Jensen gave the OpenAI team back in 2016",
+"likes": 206
+},
+{
+"id": "2112935718184268067",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：TSLA 偏空、財報後回落至 370 附近有承接；META 偏多，預期 Beat 並上漲。",
+"risk": "",
+"s": {
+"META": "bull",
+"TSLA": "bear"
+},
+"text": "这一轮科技股财报，我比较关注 \n$TSLA\n 和 \n$META\n，两个方向的判断也比较明确。\n\n\n$TSLA\n：偏空\n\n387.5–390 的 GEX Wall 相对明确，我倾向于财报后回落，但下跌空间可能有限，370 美元附近大概率会有一定承接。\n\n\n$META\n：偏多\n\n我更倾向于财报 Beat + 股价上涨，市场可能继续为 AI 业务的增长预期买单。\n\n财报季波动越来越大，我也更重视不同市场之间的资产配置。\n\nCrypto 这边，我仍然比较看重 Coinbase 这样的老牌合规交易所。目前通过我的专属链接注册，符合条件的用户可以享受现货手续费 2 折，以及额外的新用户奖励。",
+"likes": 12
+},
+{
+"id": "2112937332278280615",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：黃仁勳稱現在的運算產能規模前所未見。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang just said:\n\n“The scale at which we are now producing computing is unheard of ever, unimaginable”",
+"likes": 345
+},
+{
+"id": "2112940417100456421",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：SpaceX 今日漲逾 10%。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX \n$SPCX\n stock is now up by more than 10% so far today",
+"likes": 300
+},
+{
+"id": "2112941132950736938",
+"author": "ren_stocks",
+"date": "2026-10-21",
+"zh": "Ren：撰文探討什麼會讓「AI 泡沫」破裂，認為需求遠超供給，並非泡沫。",
+"risk": "",
+"s": {
+"AAOI": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$AAOI\n \n$MU\n \n$SNDK\n \n$LITE\n \n\nI’m working on what might be the most transformational article I’ve written yet: what would actually make the “AI bubble” pop.\n\nNotice the quotation marks. I don’t think we’re in a bubble. Demand FAR, FAR outstrips supply, but the market would rather assume we are, and every time new data and execution come in, the date of the pop (or the slowdown) gets pushed back again.\n\nStill, the time to be a blind bull ended in June 2026. This is a different season for the AI buildout, and staying bullish now means having a proper framework and knowing exactly what to watch.\n\nThat’s why I want the strongest bear case on the table next to mine. The sell side is divided, and tech companies are bullish because it’s in their interest. I’m more aligned with them, which is exactly why I don’t want to rely on that view alone.\n\nThis is the trillion-dollar question, and nobody has a clean answer, me included. But understanding it from both sides puts all of us in a better position.\n\nSo this is an open invitation. If you’re a macro economist, a credit analyst, an investor or just someone with a well-built bear case, and you’re open to collaborating on this with no hidden agenda and no book to talk (I’ll disclose mine too), my DMs are open.\n\nTag someone who'd want to join this conversation.",
+"likes": 29
+},
+{
+"id": "2112941717989003275",
+"author": "ren_stocks",
+"date": "2026-10-21",
+"zh": "Ren：輝達 DSX POD 讓部署從 6 個月縮至 14 天、省電 30%，世界還沒準備好迎接這波建置速度。",
+"risk": "",
+"s": {
+"CRWV": "bull",
+"DELL": "bull",
+"IREN": "bull",
+"NBIS": "bull",
+"NVDA": "bull",
+"VRT": "bull"
+},
+"text": "$NVDA\n \n$NBIS\n \n$IREN\n \n$CRWV\n\n\nThe world is not ready for the speed of the buildout ahead of us.\n\nNVIDIA just unveiled DSX POD at GTC Berlin: complete Vera Rubin AI factories, built and tested inside containers before they ever leave the factory floor.\n\nDrop them on a prepared site and deployment goes from roughly six months to as little as 14 days. They deliver the same token output with up to 30% less power, and need up to 100% less water for cooling.\n\n17 partners are already lined up, from \n$DELL\n and \n$VRT\n to Crusoe and Foxconn, shipping worldwide in early 2027.\n\nOnce a full AI factory can arrive in two weeks, power is the only thing left to wait on. \n\nThe future is bright, and I can't help but be this excited!\n\nBullish AF!",
+"likes": 53
+},
+{
+"id": "2112944827214037056",
+"author": "ren_stocks",
+"date": "2026-10-21",
+"zh": "Ren：Nebius 明年將取得 1GW Vera Rubin，可能增加最多 400 億美元 ARR，2027 年預估將大幅上修。",
+"risk": "",
+"s": {
+"NBIS": "bull",
+"NVDA": "bull"
+},
+"text": "$NBIS\n \n$NVDA\n\n\nGOOD GOD. ONE. GIGAWATT. Of Vera Rubin. Next year.\n\nNebius is guiding to a $7-9B run rate by the end of 2026, and they just casually dropped that a gigawatt of the most powerful chips on the planet is coming next, with customers already lining up.\n\nA gigawatt like that could mean up to $40 billion in added ARR on its own by the end of 2027... sending 2027 estimates into the stratosphere.\n\nAnd the market is still pricing it like this never happened.\n\nYou guys are not bullish enough",
+"likes": 183
+},
+{
+"id": "2112950697729913249",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：SpaceX 目標 2027 年 10–20GW，若屬實為何還要持有其他 neocloud。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "$SPCX\n and its 2027 10-20 GW goals.\n\nEither 1) Elon is full of shit or 2) why would you own any other neocloud stock?",
+"likes": 68
+},
+{
+"id": "2112951969535119471",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：HTZ 做空比例 70%，回補天數 5–7 天，至少到 2.07 才可能軋空，設好條件觸發。",
+"risk": "",
+"s": {
+"HTZ": "neutral"
+},
+"text": "$HTZ\n 目前有70%的做空比例，但是回补天数主要在5-7天，目前看至少要到2.07才会有轧空可能。\n\n设置闹钟了，某些条件触发可以做。",
+"likes": 9
+},
+{
+"id": "2112957895499526429",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：Meta 因劍橋分析案被判賠 250 億美元。",
+"risk": "巨額罰款",
+"s": {
+"META": "bear"
+},
+"text": "BREAKING: Meta, \n$META\n, ordered to pay $25 billion in penalties related to the Cambridge Analytica scandal in New Mexico.",
+"likes": 3157
+},
+{
+"id": "2112958963633598895",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：AI 股回落時 CRDO 守住漲幅，是 SpaceX 擴張至 20GW 最純的基建標的，SpaceX 占其營收逾 30%。",
+"risk": "客戶集中度高",
+"s": {
+"CRDO": "bull",
+"SPCX": "bull"
+},
+"text": "$CRDO\n  \n$SPCX\n.\n\nWhile every other AI stock faded this morning, \n$CRDO\n has held its gain as the purest play infra proxy on the \n$SPCX\n 1.7 to 20 GW thesis.\n\nIt's estimated that \n$SPCX\n is \n$CRDO\n's largest customer at 30%+ of revenue. If Elon wins, \n$CRDO\n wins.",
+"likes": 80
+},
+{
+"id": "2112960820124754226",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Meta 因劍橋分析案在新墨西哥州被判賠 250 億美元。",
+"risk": "巨額罰款",
+"s": {
+"META": "bear"
+},
+"text": "Meta Platforms \n$META\n was ordered to pay $25 billion in penalties related to the Cambridge Analytica scandal in New Mexico - CNBC",
+"likes": 153
+},
+{
+"id": "2112964995591950666",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：盤後財報預覽，Meta、特斯拉等。",
+"risk": "",
+"s": {
+"META": "neutral",
+"TSLA": "neutral"
+},
+"text": "This is a little bit of what to expect for some of the biggest earnings we have coming up after the close\n\nMeta Platforms \n$META\n \nTesla \n$TSLA\n \nand much more",
+"likes": 67
+},
+{
+"id": "2112966876187816269",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Google Cloud 宣布 Vera Rubin 基礎設施正式上線，A5X 執行個體下月推出。",
+"risk": "",
+"s": {
+"GOOGL": "neutral",
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n just posted this:\n\n“Google Cloud \n$GOOGL\n announces general availability of NVIDIA Vera Rubin infrastructure. \n\nComing next month, A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs and the Google Cloud Virgo Network for training, inference and large-scale reinforcement learning”",
+"likes": 149
+},
+{
+"id": "2112970806150205875",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：別現在撿 NFLX，等 4–8 季後下一部爆款原創劇前再買便宜買權。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "$NFLX\n: don't go dumpster diving here.\n\nInstead start mentally preparing for a big social arb trade that will present itself on \n$NFLX\n in 4-8 quarters.\n\nIt's simple - wait for the next big original series (ie. Squid Game) and load cheap calls before that growth accel comes in.",
+"likes": 66
+},
+{
+"id": "2112977057592291330",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：請網友用一個字預測 Meta 財報。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "Tell me how you think Meta Platforms' \n$META\n earnings will go today using just 1 word",
+"likes": 81
+},
+{
+"id": "2112979397913555179",
+"author": "KawzInvests",
+"date": "2026-10-21",
+"zh": "KawzInvests：Meta Muse 財報前另類數據好壞參半，下載與日活成長、兩週留存 23%，但搜尋熱度降溫、行銷支出高。",
+"risk": "推廣成本高",
+"s": {
+"META": "neutral"
+},
+"text": "The alt data on \n$META\n’s Muse is mixed heading into earnings.\n\nSensor Tower estimates 10.2M US downloads through Oct. 17, with daily active users up 15% week over week.\n\nEarly retention looks encouraging too. 23% of September installers were still coming back after two weeks. But search interest has cooled, and Meta is spending heavily to promote the app.\n\nMeta’s $130–145B capex guide came before Muse launched. With ~$51B spent in the first half, I’m thinking $40–45B for Q3. If usage keeps growing, I wouldn’t be surprised to see them raise the annual guide or land near the high end.\n\nMeta already expects a ~$10B Q3 legal charge, and today’s $25B New Mexico ruling adds more uncertainty.\n\nThe $10B charge alone is going to weigh heavily on reported earnings.",
+"likes": 20
+},
+{
+"id": "2112980212090593723",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：JPM、Cantor、Barclays、花旗等多家券商上調 SpaceX 目標價。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "JPMorgan today raised its price target on SpaceX \n$SPCX\n up to $500 from $240 while maintaining its Overweight rating \n\nCantor Fitzgerald raised its price target on SpaceX \n$SPCX\n up to $345 from $246 while maintaining its Overweight rating\n\nBarclays raised its price target on SpaceX \n$SPCX\n up to $300 from $254 while maintaining its Overweight rating\n\nCiti raised its price target on SpaceX \n$SPCX\n up to $240 from $200 while maintaining its Buy rating\n\nUBS raised its price target on SpaceX \n$SPCX\n up to $230 from $210 while maintaining its Buy rating\n\nEvercore raised its price target on SpaceX \n$SPCX\n up to $300 from $275 while maintaining its Outperform rating\n\nWells Fargo raised its price target on SpaceX \n$SPCX\n up to $274 from $214 while maintaining its Overweight rating\n\nTD Cowen raised its price target on SpaceX \n$SPCX\n up to $224 from $200 while maintaining its Buy rating",
+"likes": 127
+},
+{
+"id": "2112981214391050494",
+"author": "KawzInvests",
+"date": "2026-10-21",
+"zh": "KawzInvests：通路分發是 Meta 的巨大優勢。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "Yeah distribution is a huge advantage here for \n$META",
+"likes": 2
+},
+{
+"id": "2112982226283712925",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：有人急買 1,705 萬美元 CoreWeave 2027 年 3 月 85 美元買權。",
+"risk": "",
+"s": {
+"CRWV": "bull"
+},
+"text": "Someone just bought $17.05 million of CoreWeave, \n$CRWV\n, calls.\n\nContract: $85 calls expiring March 19, 2027\nSize: 25,000 contracts at about $6.82 each\nSwept across exchanges and bought mostly at the ask, a sign of urgency\nVolume about 15 times open interest, meaning this is likely a fresh position\nBreakeven: about $91.82 by expiration\n\nA separate $10.5 million sweep on the same contract was also followed by a floor trade, adding to the conviction.\n\nIt’s the second massive CoreWeave call trade in two days, after a $14.9 million trade in $80 calls yesterday, and comes after JPMorgan said fears about the company’s debt are likely overdone.",
+"likes": 211
+},
+{
+"id": "2112984567514833185",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：自 6/23 以來 SONY 漲 27.5%、TTWO 跌 14%，印證 GTA 押 SONY 的論點，仍未賣出選擇權。",
+"risk": "",
+"s": {
+"SONY": "bull",
+"TTWO": "neutral"
+},
+"text": "$SONY\n - How many traders hit a 2x since AI crashed in July?\n\nWhen I dropped my thesis everyone roasted me for picking \n$SONY\n over \n$TTWO\n for GTA and said I was wrong.\n\nSince 6/23:\n\n\n$SONY\n +27.5%\n\n$TTWO\n -14%\n\nThis is what happens when you seek a fresh, novel idea while everyone is focused on the obvious trades.\n\nI have not sold these options or any of my other strikes because my thesis has still not played out. I expect \n$SONY\n to guide up earnings substantially November 5 followed by strong sentiment potential on GTA 6 launch Nov 19.\n\nPS5 jailbreak thesis is noise. It will not affect GTA sales. 99.9% just want to play this game not hack their console.\n\n70%+ of all GTA 6 orders with flow through \n$SONY\n counted as top line revenue and on the next earnings we will see the pre-order numbers show up as receivables.",
+"likes": 41
+},
+{
+"id": "2112986649995206736",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：TSLA 財報隱含波動約 4.8%，已連續六季 EPS 不及預期。",
+"risk": "連續六季不及預期",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla, \n$TSLA\n, reports earnings after the bell today.\n\nOptions traders are pricing in a move of about 4.8%, or roughly $18 a share, either way. That’s a swing of about $67 billion in market value.\n\nWall Street expects earnings of $0.45 a share.\n\nTesla has missed earnings estimates six quarters in a row:\n\nQ2 2026: $0.04 vs. $0.51 expected\nQ1 2026: $0.18 vs. $0.36\nQ4 2025: $0.31 vs. $0.45\nQ3 2025: $0.37 vs. $0.53\nQ2 2025: $0.27 vs. $0.39\nQ1 2025: $0.15 vs. $0.44",
+"likes": 167
+},
+{
+"id": "2112991309103542514",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：有人急買 1,360 萬美元 Nebius 2027 年 4 月 260 美元買權。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "Someone just bought $13.6 million of Nebius, \n$NBIS\n, calls.\n\nContract: $260 calls expiring April 16, 2027\nSize: 7,500 contracts at about $18.13 each\nAll bought at the ask, a sign of urgency\nVolume far above open interest, suggesting a fresh position\nBreakeven: about $278 by expiration\n\nNebius, an AI cloud company, competes with CoreWeave, which drew more than $30 million in bullish call trades over the past two days.",
+"likes": 157
+},
+{
+"id": "2112992606561153031",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：對 Meta 財報期待不高，長期看多，但市場在意 AI 算力變現，Muse 變現路徑仍模糊。",
+"risk": "Muse 變現不明",
+"s": {
+"META": "neutral",
+"SPCX": "neutral"
+},
+"text": "Note: Don't think there is much to look forward to on \n$META\n earnings. Long term bullish this name but this market doesn't really care about user growth on Muse which is mostly priced in it cares about turning AI compute into profit. The question of how Muse gets monetized is still pretty vague and I don't expect Zuck to provide much color. Upside would be in any commentary on retention or what % of users are paid though I doubt they provide that. \n$SPCX\n said Grokbot has 800K paid which is a very high bar. On AI capex, if \n$META\n guides up capex that's bullish the entire infra stack and shows their conviciton in this Muse product to return the spending.",
+"likes": 40
+},
+{
+"id": "2112995372604051483",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：Meta 財報複雜建議不做或輕倉，預測營收 Beat、EPS Miss，財報後先跌、電話會後反彈。",
+"risk": "FCF 可能有問題",
+"s": {
+"META": "neutral"
+},
+"text": "Meta财报预测Last Call：我建议不要做或者轻仓参与\n\nMeta的财报非常复杂 680 p太像对冲风险的put了\n\n我觉得可以避开Meta 不做 \n\nMeta上涨的话 大概能去 740-750\n\n\n$META\n \n\n————————————\n\n但是依然可以大胆预测一下 DYOR NFA\n\nEPS低于预期 营收高于预期 （营收Beat EPS Miss）\n\n但FCF可能存在一些问题\n\n故走势应当是 出财报后 下跌 在电话会后 反弹 \n\n#OKX美股财报季",
+"likes": 2
+},
+{
+"id": "2112997187655491672",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：LRCX 結構看跌但跌幅有限，IBM 相對偏好。",
+"risk": "",
+"s": {
+"IBM": "bull",
+"LRCX": "bear"
+},
+"text": "其他的两个财报 娱乐猜测 看的时间比较短\n\n\n$LRCX\n 整体结构看跌，但跌幅有限 235 240接货比较充足\n\n今天Net Prem也持续倒向Put\n\n\n$IBM\n 相对纯粹的偏好了",
+"likes": 0
+},
+{
+"id": "2112998052403585071",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：META 預測全中，EPS 低於預期、營收 Beat。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "meta \n$META\n 全对\n\nEPS低于预期 营收Beat",
+"likes": 2
+},
+{
+"id": "2112999452017643841",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：特斯拉 EPS 0.48 美元優於預期，營收 280.4 億略低於預期。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "BREAKING: Tesla, \n$TSLA\n, earnings:\n\n- EPS: $0.48, est: $0.45\n- Revenue: $28.04 billion, est: $28.25 billion",
+"likes": 115
+},
+{
+"id": "2112999612504223941",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：Meta EPS 3.83 美元遠低於預期 6.8，營收 646 億美元優於預期。",
+"risk": "EPS 大幅不及預期",
+"s": {
+"META": "neutral"
+},
+"text": "BREAKING: \n$META\n earnings:\n\n- EPS: $3.83, est: $6.8 \n- Revenue: $64.6 billion, est: $63.4 billion",
+"likes": 93
+},
+{
+"id": "2112999669777232369",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：祖克柏稱本季推出 Muse 與 Muse Wonder，投資正在回收、核心業務強勁。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "Meta Platforms \n$META\n CEO Mark Zuckerberg just said\n\n\"We hit major milestones this quarter toward delivering personal superintelligence for everyone - including launching Muse and Muse Wonder, our first frontier model,\" \n\n\"Our investments are paying off, the core business is strong, and we're seeing velocity across the board.\"",
+"likes": 100
+},
+{
+"id": "2113000338902901104",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Meta 將發行無投票權 C 類股，等同一拆二，用於 AI 籌資、員工薪酬與併購。",
+"risk": "潛在股權稀釋",
+"s": {
+"META": "neutral"
+},
+"text": "META \n$META\n JUST CONFIRMED IT'S CREATING A NEW CLASS OF STOCK WITH NO VOTING RIGHTS\n\nEvery shareholder will get one new non-voting Class C share for each share they own. Meta says that works like a 2-for-1 stock split for the price of its current shares.\n\nThe new class takes effect Jan. 19, 2027, and will trade on Nasdaq. Meta says it will use the shares to raise money for AI, pay employees, and fund acquisitions, without changing anyone's voting power.",
+"likes": 52
+},
+{
+"id": "2113000901556539482",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：IBM、LRCX 完美命中，TSLA、META 財報也命中但盤後走勢不同。",
+"risk": "",
+"s": {
+"IBM": "neutral",
+"LRCX": "neutral",
+"META": "neutral",
+"TSLA": "neutral"
+},
+"text": "我不知道今天是猜的准还是猜的不准\n\n交给市场来判断吧\n\n没花什么时间的 \n$IBM\n \n$LRCX\n 完美命中\n\n\n$TSLA\n 和 \n$META\n 的财报也命中了，但盘后走势没有和财报一样\n\n交给市场吧\n\n明天币安直播可以好好掰扯一下 TSLA了\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@pearbinance\n \n@Beca_bn\n \n\n明天再见",
+"likes": 1
+},
+{
+"id": "2113001384714907714",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：特斯拉 Robotaxi 無人監督累積里程近 200 萬英里。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n said that It reached nearly 2 million cumulative unsupervised miles on its new Robotaxi by the end of the quarter",
+"likes": 36
+},
+{
+"id": "2113001772432203815",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：特斯拉 Optimus 人形機器人在 Fremont 開始量產。",
+"risk": "",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n said production on its Optimus Humanoid Robot began in Fremont\n\nTesla says these are the first production-quality bots it has ever made.",
+"likes": 31
+},
+{
+"id": "2113002869666492730",
+"author": "unusual_whales",
+"date": "2026-10-21",
+"zh": "Unusual Whales：FT 報導 Meta 將發行無投票權股，可籌資支應 AI 而不稀釋祖克柏控制權。",
+"risk": "",
+"s": {
+"META": "neutral"
+},
+"text": "BREAKING: Meta, \n$META\n, plans to create a new class of non-voting shares, allowing it to sell stock to fund its AI spending without diluting Mark Zuckerberg’s control of the company, per FT",
+"likes": 47
+},
+{
+"id": "2113003551316394400",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：Meta 財報超預期，資本支出增加、現金流改善。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "$META\n 财报超预期，Capex增加，现金流改善。",
+"likes": 0
 }
 ]
