@@ -12525,6 +12525,25 @@
 "likes": 4
 },
 {
+"id": "2112209998184903030",
+"author": "StockMKTNewz",
+"date": "2026-10-19",
+"zh": "Evan：列出過去十年跑贏 VOO 的 7 檔 Vanguard ETF，VGT 居首。",
+"risk": "",
+"s": {
+"MGC": "neutral",
+"MGK": "neutral",
+"VGT": "neutral",
+"VONG": "neutral",
+"VOO": "neutral",
+"VOOG": "neutral",
+"VUG": "neutral",
+"VV": "neutral"
+},
+"text": "Vanguard has just 7 ETFs that have beaten its S&P 500 ETF over the last decade\n\n1. \n$VGT\n Vanguard Information Technology ETF +24.72% \n2. \n$MGK\n Vanguard Morningstar Mega Cap Growth ETF +19.00%  \n3. \n$VONG\n Vanguard Russell 1000 Growth ETF +18.07%  \n4. \n$VUG\n Vanguard Morningstar Growth ETF +17.95%  \n5. \n$VOOG\n Vanguard S&P 500 Growth ETF +17.86%  \n6. \n$MGC\n Vanguard Morningstar Mega Cap ETF +16.16%  \n7. \n$VV\n Vanguard Morningstar Large-Cap ETF +15.32%  \n8. \n$VOO\n Vanguard S&P 500 ETF +15.30%",
+"likes": 156
+},
+{
 "id": "2112213053773398350",
 "author": "michaelsikand",
 "date": "2026-10-19",
@@ -12871,6 +12890,18 @@
 },
 "text": "【美股复盘 · 10月19日】\n\n**大市**\n\n美股周一(10月19日)三大指数表现分歧，资金明显由旧经济向科网股一边倾斜。纳指 \n$QQQ\n 高开高走，全日收报718.36点，升1.21%，为主要指数中表现最强；标普500 SPY 收报766.48点，升0.42%；道指 DIA 则反复偏软，收报518.92点，微跌0.03%，是唯一失守平盘的主要指数；罗素小型股 IWM 收报271.29点，升0.31%。市宽温和偏好，104只观察股中64只上升、40只下跌。反向ETF同步急泻，做空纳指的 SQQQ 挫3.55%，做空半导体的 SOXS 重挫5.28%，侧面印证科技及芯片板块的买盘力度。\n\n**板块**\n\n存储及半导体链一枝独秀。 WDC 暴升6.09%， SNDK 急升5.53%，同属存储阵营；半导体测试设备股 AEHR 升4.50%， MRVL 升4.06%， SMTC 升4.02%。外围连动，韩股ETF EWY 升4.08%， SKHY 升4.67%，与存储周期的强势互为呼应。大型科网方面， AMZN 升4.98%，为权重股中升幅最显著者， PLTR 升4.36%。\n\n沽压则集中于金融与旧经济。银行股领跌大市， JPM 跌1.82%， BAC 跌1.64%；汽车股同受压， F 跌2.01%， GM 跌1.44%。加密资产相关股份反复转弱， COIN 挫2.72%， HOOD 跌2.38%。药股分化， MRK 跌1.59%，惟 MRNA 逆市造好，升4.07%。量子计算概念股 IONQ 跌1.60%。\n\n**焦点**\n\n题材面上，市场对半导体人才结构的讨论升温。业内数据显示，英伟达的员工离职率已降至约1%，为全行业最低；分析指这与未行使RSU的留任成本直接相关，而非单纯的文化因素。半导体业的历史本身就是一部出走史——仙童半导体当年流出的人才直接催生Intel与AMD，后续衍生数十家公司，黄仁勋本人亦出身LSI Logic。离职率压至极低，意味着这条传统的新公司孵化链条在当前周期内明显收窄。\n\n苹果方面，据报道将于10月28日的发布会推出首款触控屏MacBook。市场关注点多在交互形态的转向，惟真正牵动账本的是抽成结构：iPad Pro用户群软件分发只能走App Store，佣金不漏；macOS则容许开发者自行分销，产品线的边界如何划定，关系到软件服务收入的税基。另一方面，特斯拉与SpaceX的合并传闻持续，当中的换股比例为关键——马斯克于SpaceX的持股比例远高于特斯拉，若以特斯拉发行新股换取SpaceX股权，摊薄成本由特斯拉现有股东承担。\n\n**小结**\n\n全日格局为典型的板块轮动而非全面上扬：存储、半导体与大型科网承托指数，金融、汽车及加密相关股份则持续受压，道指因权重偏重旧经济而未能跟上。市宽64升40跌，升幅谈不上一致，反向ETF的双位数级别跌幅则显示空仓在芯片一端被压得较紧。分析指，后市须留意存储链的升势能否扩散至更广的半导体板块，以及银行股的沽压是否属轮动的一体两面；若金融与科网的分歧继续扩大，指数层面的升幅仍将高度依赖少数权重股。",
 "likes": 1
+},
+{
+"id": "2112338586448355721",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：猜測是否為 Tempus AI。",
+"risk": "",
+"s": {
+"TEM": "neutral"
+},
+"text": "Is it Tempus AI \n$TEM\n stock?",
+"likes": 0
 },
 {
 "id": "2112340444189479029",
@@ -13264,6 +13295,18 @@
 "likes": 88
 },
 {
+"id": "2112621099972542843",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：自嘲 TE 持股已虧 65%。",
+"risk": "",
+"s": {
+"TE": "neutral"
+},
+"text": "I am now down 65% on my \n$TE\n shares\n\nI suck",
+"likes": 965
+},
+{
 "id": "2112621239307002341",
 "author": "ren_stocks",
 "date": "2026-10-20",
@@ -13291,6 +13334,64 @@
 "likes": 905
 },
 {
+"id": "2112627373707497582",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：列出當日創 52 週新高的股票，以醫藥、能源、支付股為主。",
+"risk": "",
+"s": {
+"ADP": "neutral",
+"AFG": "neutral",
+"ANF": "neutral",
+"APA": "neutral",
+"AVTR": "neutral",
+"BIIB": "neutral",
+"BOX": "neutral",
+"BRK.B": "neutral",
+"CNQ": "neutral",
+"COP": "neutral",
+"CVX": "neutral",
+"DOCU": "neutral",
+"E": "neutral",
+"ELV": "neutral",
+"EOG": "neutral",
+"EXEL": "neutral",
+"HALO": "neutral",
+"HAS": "neutral",
+"HGTY": "neutral",
+"HLT": "neutral",
+"HNGE": "neutral",
+"IFF": "neutral",
+"KDP": "neutral",
+"KOF": "neutral",
+"LLY": "neutral",
+"MA": "neutral",
+"MCK": "neutral",
+"MRNA": "neutral",
+"MTCH": "neutral",
+"MUR": "neutral",
+"OVV": "neutral",
+"PAYC": "neutral",
+"PCTY": "neutral",
+"PFE": "neutral",
+"PR": "neutral",
+"PSO": "neutral",
+"RNG": "neutral",
+"RNR": "neutral",
+"SN": "neutral",
+"SU": "neutral",
+"TAK": "neutral",
+"TX": "neutral",
+"V": "neutral",
+"VEEV": "neutral",
+"WSM": "neutral",
+"WST": "neutral",
+"XOM": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nEli Lilly \n$LLY\n \nVisa \n$V\n\nModerna \n$MRNA\n\nBerkshire Hathaway \n$BRK.B\n\nExxon Mobil \n$XOM\n\nMastercard \n$MA\n\nPfizer \n$PFE\n\nChevron \n$CVX\n\nAPA \n$APA\n\nKeurig Dr Pepper \n$KDP\n\nPermian Resources \n$PR\n\nAvantor \n$AVTR\n\nHasbro \n$HAS\n\nCanadian Natural \n$CNQ\n\nConocoPhillips \n$COP\n\nHilton \n$HLT\n\nSuncor Energy \n$SU\n\nTakeda \n$TAK\n\nBox \n$BOX\n\nMatch Group \n$MTCH\n\nOvintiv \n$OVV\n\nDocuSign \n$DOCU\n\nHinge Health \n$HNGE\n\nHalozyme \n$HALO\n\nExelixis \n$EXEL\n\nVeeva \n$VEEV\n\nADP \n$ADP\n\nEOG Resources \n$EOG\n\nBiogen \n$BIIB\n\nRingCentral \n$RNG\n\nMurphy Oil \n$MUR\n\nInternational Flavors & Fragrances \n$IFF\n\nElevance Health \n$ELV\n\nAbercrombie & Fitch \n$ANF\n\nSharkNinja \n$SN\n\nTernium \n$TX\n\nWilliams-Sonoma \n$WSM\n\nPaycom \n$PAYC\n\nPearson \n$PSO\n\nMcKesson \n$MCK\n\nEni \n$E\n\nWest Pharmaceutical \n$WST\n\nCoca-Cola Femsa \n$KOF\n\nPaylocity \n$PCTY\n\nRenaissanceRe \n$RNR\n\nAmerican Financial \n$AFG\n\nHagerty \n$HGTY",
+"likes": 222
+},
+{
 "id": "2112627900885414201",
 "author": "octopusycc",
 "date": "2026-10-20",
@@ -13314,6 +13415,31 @@
 },
 "text": "奈飞财报（最终版）暂无变化\n\n\n$NFLX\n \n\n盘前最后20分钟\n\n66P 仍然构建了 Put Wall\n\n63也是防守的底部位置\n\n我认为奈飞财报的下行风险较低，而上行的预期从期权角度来看，中性 相对偏上\n\n我认为可能会去 70-73的这个区间 Call也可以在这个位置",
 "likes": 4
+},
+{
+"id": "2112631104129929701",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：預測市場顯示特斯拉與 SpaceX 明年底前宣布合併機率 66%。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "There is currently a 66% chance that Tesla \n$TSLA\n and SpaceX \n$SPCX\n announce a merger by the end of next year",
+"likes": 213
+},
+{
+"id": "2112635452956033334",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：Netflix EPS 0.87 美元優於預期，營收符合預期。",
+"risk": "",
+"s": {
+"NFLX": "neutral"
+},
+"text": "NETFLIX \n$NFLX\n JUST REPORTED EARNINGS\n\nEPS of $0.87 beating expectations of $0.82\nRevenue of $12.87B in line with expectations",
+"likes": 216
 },
 {
 "id": "2112635776026714445",
@@ -13514,6 +13640,19 @@
 "likes": 2966
 },
 {
+"id": "2112651770057093522",
+"author": "octopusycc",
+"date": "2026-10-20",
+"zh": "大老师：SPCX 依舊很「狗」；NFLX 財報符合預期但下跌，市場認為 AI 與短劇衝擊傳統創作。",
+"risk": "短劇搶走注意力",
+"s": {
+"NFLX": "bear",
+"SPCX": "bear"
+},
+"text": "SPCX 还是一如既往的狗了  \n$SPCX\n \n\nNFLX 符合预期但股价下跌 市场认为 AI对传统创作还是重创的 \n\n注意力正在被短剧抢走 \n$NFLX",
+"likes": 14
+},
+{
 "id": "2112654809819935043",
 "author": "StockMKTNewz",
 "date": "2026-10-20",
@@ -13637,6 +13776,18 @@
 "likes": 2003
 },
 {
+"id": "2112687246323462413",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：馬斯克稱 2028 年 SpaceX 營收 1 兆美元不再不可能，盤後漲 6.9%。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "Elon Musk posted this:\n\n\"As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible\"\n\nSpaceX \n$SPCX\n stock is currently up by 6.9% in after-hours following the companies 2nd earnings as a public company",
+"likes": 226
+},
+{
 "id": "2112691900738310609",
 "author": "Balder13946731",
 "date": "2026-10-20",
@@ -13647,6 +13798,39 @@
 },
 "text": "$SMCI\n 飙升15%，一切的一切都表明🫪 Capex的需求依然在高速增长。",
 "likes": 31
+},
+{
+"id": "2112692220352450598",
+"author": "StockMKTNewz",
+"date": "2026-10-20",
+"zh": "Evan：列出當日創歷史新高的 10 檔股票，含禮來、埃克森、Visa。",
+"risk": "",
+"s": {
+"COP": "neutral",
+"CVX": "neutral",
+"EOG": "neutral",
+"HLT": "neutral",
+"LLY": "neutral",
+"MA": "neutral",
+"MCK": "neutral",
+"V": "neutral",
+"WSM": "neutral",
+"XOM": "neutral"
+},
+"text": "Here are 10 stocks that hit new ALL TIME HIGHS at some point today\n\nEli Lilly \n$LLY\n \nExxon Mobil \n$XOM\n \nVisa \n$V\n \nMastercard \n$MA\n \nChevron \n$CVX\n \nConocoPhilips \n$COP\n \nEOG Resources \n$EOG\n \nHilton \n$HLT\n \nWilliams Sonoma \n$WSM\n \nMcKesson \n$MCK",
+"likes": 122
+},
+{
+"id": "2112702872701771816",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：WSJ 報導艾利森放棄出售甲骨文股票，改以甲骨文、特斯拉、SpaceX 等持股質押借款。",
+"risk": "",
+"s": {
+"ORCL": "neutral"
+},
+"text": "LARRY ELLISON BORROWED AGAINST HIS STOCK INSTEAD OF SELLING IT\n\nHe was going to sell about $7.5B of Oracle \n$ORCL\n shares to help pay for his son's takeover of Warner Bros. Discovery, per WSJ.\n\nHe scrapped that plan in September and borrowed more instead, putting up his shares in the stocks below as collateral:\n\n- Oracle\n- Tesla\n- SpaceX\n- Paramount\n\nFive banks are lending to him: Citigroup, HSBC, JPMorgan, UBS, and BNP Paribas.",
+"likes": 1062
 },
 {
 "id": "2112734484546126207",
@@ -13709,6 +13893,24 @@
 },
 "text": "Thanks BB - congrats on our \n$SPCX\n btw",
 "likes": 1
+},
+{
+"id": "2112840258823893454",
+"author": "octopusycc",
+"date": "2026-10-21",
+"zh": "大老师：財報 Beat 不等於上漲，分享以 IV 預期波動與 GEX 等框架判讀財報。",
+"risk": "",
+"s": {
+"ADBE": "neutral",
+"META": "neutral",
+"NFLX": "neutral",
+"NVDA": "neutral",
+"SNOW": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "这轮财报季，市场越来越难做了，但交易机会反而更清晰。\n\n最近一直在看 \n$NFLX\n、 \n$SPCX\n，包括接下来要公布财报的 \n$TSLA\n 和 \n$META\n。\n\n有几个感受，和大家分享一下。\n\n1. 财报 Beat，已经不代表股价一定会上涨。\n\n\n$NFLX\n 这次 EPS 超预期，但广告业务预期不及市场要求，盘后依然下跌。\n\n反过来看 \n$SPCX\n，此前股价从175跌到147，累计调整约16%。我在财报前更倾向于反弹，因为部分悲观预期已经提前反映在价格里。\n\n结果财报公布后，盘前一度上涨约8%。 \n\n其实算是提前预判，但判断难度依然是极高的。\n\n2. 过去几个财报季，我一直在使用同一套分析框架。\n\n包括之前分析 \n$NVDA\n、 \n$ADBE\n、 \n$SNOW\n 时，我主要关注三个东西：\n\nIV Expected Move：市场愿意为多大的波动付钱。\n\nGEX / Call Wall / Put Wall：资金集中在哪些关键价位。\n财报指引与预期差：最终决定股价能不能走出预期区间。\n\n尤其是 IV Crush，很多时候方向判断正确，也不一定能在期权上赚到钱。\n\n3. 我最近也开始关注交易平台本身的变化。\n\nCoinbase 这半年明显在加快跨资产交易布局。\n\n美国用户已经可以通过 Coinbase 进行 24/5 美股及 ETF 交易，国际市场也有 $SPCX-PERP 这样的股票永续合约。\n\n10月 Coinbase 又完成了 Deribit 的整合，后续还会进一步推出加密期权和统一投资组合功能。\n\n其实 Coinbase 自己也将在10月29日公布财报。\n\n上季度交易收入5.99亿美元，订阅与服务收入5.55亿美元。我会重点关注交易量、USDC业务和衍生品能否带来新的增长。\n\nCoinbase 专属注册链接：\n\nhttps://\ncoinbase.com/aff/bugsbunny\n\n符合活动条件最高可获得 275 USDC 社区奖励",
+"likes": 13
 },
 {
 "id": "2112872374916059419",
@@ -13774,6 +13976,55 @@
 "likes": 247
 },
 {
+"id": "2112912023914754051",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：機器人與黃仁勳同台畫面。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "This is what it looks like to be a robot joining Nvidia \n$NVDA\n CEO Jensen Huang on stage",
+"likes": 255
+},
+{
+"id": "2112914344304386134",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：ChatGPT 在 Agency AI 分析中將 SpaceX 從賣出升為買進。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "ChatGPT just upgraded SpaceX \n$SPCX\n stock to Buy from Sell - Agency AI Analysts",
+"likes": 143
+},
+{
+"id": "2112919705551798300",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：輝達發表新 Isaac 代理工具，Agile Robots 推出研究用人形機器人。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n posted this today:\n\n“NVIDIA announces new Isaac tools for agents as Agile Robots unveils Agile ONE SN, a reference humanoid for robotics research.“",
+"likes": 156
+},
+{
+"id": "2112927357560623434",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：JPM 把 SPCX 目標價調至 500，暗諷「拿人手軟」。",
+"risk": "券商利益衝突",
+"s": {
+"JPM": "neutral",
+"SPCX": "neutral"
+},
+"text": "$JPM\n 已经将 \n$SPCX\n 的目标价提高到了500🫪 果然是拿人手软。",
+"likes": 12
+},
+{
 "id": "2112927788504424617",
 "author": "octopusycc",
 "date": "2026-10-21",
@@ -13821,6 +14072,18 @@
 },
 "text": "这一轮科技股财报，我比较关注 \n$TSLA\n 和 \n$META\n，两个方向的判断也比较明确。\n\n\n$TSLA\n：偏空\n\n387.5–390 的 GEX Wall 相对明确，我倾向于财报后回落，但下跌空间可能有限，370 美元附近大概率会有一定承接。\n\n\n$META\n：偏多\n\n我更倾向于财报 Beat + 股价上涨，市场可能继续为 AI 业务的增长预期买单。\n\n财报季波动越来越大，我也更重视不同市场之间的资产配置。\n\nCrypto 这边，我仍然比较看重 Coinbase 这样的老牌合规交易所。目前通过我的专属链接注册，符合条件的用户可以享受现货手续费 2 折，以及额外的新用户奖励。",
 "likes": 12
+},
+{
+"id": "2112937261390295379",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：SPCX 雖漲猛，但 10/22 將再有一波解禁。",
+"risk": "解禁賣壓",
+"s": {
+"SPCX": "bear"
+},
+"text": "虽然 \n$SPCX\n 涨得很猛，但是10/22会再次解禁一波。",
+"likes": 21
 },
 {
 "id": "2112937332278280615",
@@ -13954,6 +14217,18 @@
 "likes": 153
 },
 {
+"id": "2112964248477594011",
+"author": "michaelsikand",
+"date": "2026-10-21",
+"zh": "Michael Sikand：SpaceX 將成為汽車、勞動力、網路、電信、叫車與家務機器人，市場尚未定價。",
+"risk": "",
+"s": {
+"SPCX": "bull"
+},
+"text": "So you're telling me \n$SPCX\n.\n\n- Will be my car \n- Will be my company's workforce via Grokbot\n- Will be my internet\n- Will be my cell phone provider\n- Will be my Uber driver\n- Will be my chef and cleaner with Optimus\n\nYeah it's not priced in guys...",
+"likes": 1607
+},
+{
 "id": "2112964995591950666",
 "author": "StockMKTNewz",
 "date": "2026-10-21",
@@ -14063,6 +14338,30 @@
 },
 "text": "$SONY\n - How many traders hit a 2x since AI crashed in July?\n\nWhen I dropped my thesis everyone roasted me for picking \n$SONY\n over \n$TTWO\n for GTA and said I was wrong.\n\nSince 6/23:\n\n\n$SONY\n +27.5%\n\n$TTWO\n -14%\n\nThis is what happens when you seek a fresh, novel idea while everyone is focused on the obvious trades.\n\nI have not sold these options or any of my other strikes because my thesis has still not played out. I expect \n$SONY\n to guide up earnings substantially November 5 followed by strong sentiment potential on GTA 6 launch Nov 19.\n\nPS5 jailbreak thesis is noise. It will not affect GTA sales. 99.9% just want to play this game not hack their console.\n\n70%+ of all GTA 6 orders with flow through \n$SONY\n counted as top line revenue and on the next earnings we will see the pre-order numbers show up as receivables.",
 "likes": 41
+},
+{
+"id": "2112985211336110351",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：列出當日創 52 週新高的股票，含波克夏、Moderna、Visa。",
+"risk": "",
+"s": {
+"APA": "neutral",
+"AVTR": "neutral",
+"BOX": "neutral",
+"BRK.B": "neutral",
+"CRL": "neutral",
+"ELV": "neutral",
+"HAS": "neutral",
+"IOVA": "neutral",
+"MA": "neutral",
+"MRNA": "neutral",
+"MTCH": "neutral",
+"TMO": "neutral",
+"V": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nBerkshire Hathaway \n$BRK.B\n\nModerna \n$MRNA\n\nVisa \n$V\n\nMastercard \n$MA\n\nIovance \n$IOVA\n \nAvantor \n$AVTR\n\nAPA \n$APA\n\nHasbro \n$HAS\n\nThermo Fisher \n$TMO\n\nMatch Group \n$MTCH\n\nBox \n$BOX\n\nCharles River Laboratories \n$CRL\n\nElevance Health \n$ELV",
+"likes": 112
 },
 {
 "id": "2112986649995206736",
@@ -14248,5 +14547,194 @@
 },
 "text": "$META\n 财报超预期，Capex增加，现金流改善。",
 "likes": 0
+},
+{
+"id": "2113003904330010818",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Meta 十多年來首度自由現金流為負。",
+"risk": "自由現金流轉負",
+"s": {
+"META": "bear"
+},
+"text": "Meta Platforms \n$META\n just posted negative Free Cash Flow for the first time in more than a decade",
+"likes": 587
+},
+{
+"id": "2113004966088765452",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：演算法交易日誌，LITE 獲利了結 +8.6%。",
+"risk": "",
+"s": {
+"LITE": "neutral"
+},
+"text": "平仓获利 1/1 · 最佳 +8.57% \n$LITE\n 795.34→863.5 +8.57%\n\n 持仓 APP 270.03→267.9 -0.8% · CAT 726.2→740.21 +1.9% · NU 14.62→15.05 +2.9%\n\n balder-algo-logs · 龙气 · 10-21 · algo log · not advice",
+"likes": 1
+},
+{
+"id": "2113009870517530650",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Meta 財務長稱 Instagram 每用戶使用時間創新高、年增雙位數。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "META PLATFORMS \n$META\n CFO JUST SAID\n\n- GLOBAL TIME SPENT PER USER ON INSTAGRAM REACHED AN ALL-TIME HIGH AND GREW DOUBLE DIGITS YOY IN Q3",
+"likes": 293
+},
+{
+"id": "2113020447554241017",
+"author": "Balder13946731",
+"date": "2026-10-21",
+"zh": "Balder：10/21 復盤，科技股主導上漲，QQQ 漲 1%，SMCI 暴漲 9.6%，AI 硬體與算力基建領漲。",
+"risk": "",
+"s": {
+"SPY": "bull"
+},
+"text": "【美股复盘 · 10月21日】\n\n**大市**\n美股周三反复造好，科网股再成主导。标普500ETF（ \n$SPY\n ）收报773.09美元，升0.53%；纳指ETF（QQQ）升1.05%，收报725.20美元，为四大指数中表现一枝独秀；道指ETF（DIA）升0.64%，收报527.70美元；罗素小型股ETF（IWM）仅升0.25%，收报276.48美元，升幅约为纳指的四分之一，反映资金仍高度集中于大型科技及AI主线，未全面扩散至细价股。市宽亦印证此一格局：106只观察股中76只上升、30只下跌，升跌比约2.5比1，属偏好但并非一致普涨的升市。反向ETF全线急泻，沽空纳指的 SQQQ 挫3.18%，沽空半导体的 SOXS 暴跌6.03%，沽空标普的 SPXU 跌1.55%，其中芯片空头损伤最重，显示半导体日内升势最为凌厉。\n\n**板块**\nAI硬件及算力基建一线领升。SMCI 暴涨9.55%，居观察股升幅之首，DELL 升5.27%，服务器股同步造好；高速互连与光通信同获追捧，CRDO 升6.28%，CIEN 升5.67%。电力及能源设备方面，燃料电池股 BE 急升7.13%。软件与网络安全全线靠稳，MDB 升6.71%，NET 升5.32%，CRWD 升5.26%。航天股造好，RKLB 升5.41%。惟大型科技股内部分化明显，GOOGL 逆市跌1.64%，ORCL 跌1.53%，与AI硬件的凌厉升势形成对照。出行及旧经济股见沽压，UBER 跌1.91%，F 挫2.06%，广告科技股 APP 跌1.67%。中概股失守，BABA 重挫3.87%，跌幅在实质个股中仅次于 NFLX。\n\n**焦点**\nNFLX 为全日最大焦点。公司于前一交易日盘后公布业绩，今日正式反映，股价急泻5.31%，财报即为主因。另一只业绩股 SPCX 方向相反，同样于前一交易日盘后披露，今日大涨7.79%，高居升幅榜第二位。消息面上，市场流传 Meta 拟发行新股为AI基建融资，消息未经证实，现阶段仍属传闻；若最终成事，将首次扭转大型科技企业近十年\"股数只往下走\"的回购叙事，而换回的资产为折旧周期约六年的数据中心算力，惟公司未公布任何相关安排。能源方面，布伦特与WTI价差持续拉阔，分析指瓶颈在于美湾出口运力而非库欣库存，属运费问题多于供应问题。\n\n**小结**\n全日属\"指数温和向上、板块高度集中\"的格局：纳指ETF升幅数倍于小型股，升幅榜几乎由AI硬件与算力链独揽，而科技龙头、中概及旧经济同时承压。市宽76比30虽偏正面，但领升名单清一色集中于同一主线，升市基础并不宽阔。焦点将转向今晚盘后公布业绩的 META、TSLA、IBM、LRCX 及 TXN，其中芯片与半导体设备股的指引，将直接检验今日算力链升势的持续性；分析指，QQQ 能否守住725.20美元的收市水平，为短线观察的关键位。\n\n---\n\n数据纪律说明：全文涨跌幅、收盘价、市宽均取自【今日行情】；NFLX、SPCX 的波动已点明财报为主因；Meta 发股传闻与油价价差只写事件与逻辑、不带任何今日报价或涨跌幅（META 今晚才公布业绩，未用于解释今日行情）。",
+"likes": 1
+},
+{
+"id": "2113037331217174573",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：Meta 上季營收 646 億美元，去年同期 512 億。",
+"risk": "",
+"s": {
+"META": "bull"
+},
+"text": "Meta Platforms \n$META\n just brought in $64.6 Billion of revenue this past quarter up from $51.2B in the same quarter last year",
+"likes": 177
+},
+{
+"id": "2113038181063131174",
+"author": "Franktradinglog",
+"date": "2026-10-21",
+"zh": "Frank trading：LRCX 財報不及預期並跌破 7 月低點，半導體下行空間打開。",
+"risk": "半導體續跌",
+"s": {
+"LRCX": "bear"
+},
+"text": "随着 \n$LRCX\n miss了预期并且跌破了7月底的低点，半导体更大的下行空间无疑被打开了。",
+"likes": 92
+},
+{
+"id": "2113078338843811852",
+"author": "Balder13946731",
+"date": "2026-10-22",
+"zh": "Balder：半導體仍弱、META 資本支出也沒刺激，但相信反彈可達中線，AVGO 月底前回 226；本月推薦 ASTS、AVGO 慘敗。",
+"risk": "半導體仍弱",
+"s": {
+"ASTS": "neutral",
+"AVGO": "bull",
+"META": "neutral"
+},
+"text": "半导体真的还是很弱，进入M7的财报季，$META 的财报对Capex居然毫无刺激🫪\n\n但我还是偏向于相信本次反弹可能会触及中线。特别是达子，返回226的可能性还是很大的。本月结束前到达226。\n\n至于本月荐股 \n$ASTS\n 和 \n$AVGO\n 基本是惨败，没想到他们那么低还能更低。",
+"likes": 49
+},
+{
+"id": "2113082598662578528",
+"author": "ren_stocks",
+"date": "2026-10-22",
+"zh": "Ren：科技股遠期本益比約 19 倍、遠低於 2000 年 59 倍，獲利成長快於股價，看多 NBIS、MU、LITE。",
+"risk": "CoreWeave 信用利差擴大",
+"s": {
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$MU\n \n$LITE\n\n\nThis is a great take on the current state of the AI trade.\n\nOn the equity side, tech trades at ~19x forward earnings. At the 2000 peak it was ~59x. Prices have run, but earnings have run faster, so the multiple is actually shrinking.\n\nOn the credit side, CoreWeave's implied yield went from ~9% to ~16%, tracing the same early path telecom junk bonds took before the dot-com bust.\n\nThe stress sits at the leveraged edge of the buildout. The bulk of it is paid for by hyperscalers with investment-grade balance sheets and enormous cash flows, and CoreWeave is about 4% of projected data center capacity.\n\nIf high-yield credit forces the weakest builders to slow down, the buildout gets slower and a lot more durable. 1999 never had that brake.\n\nIf CoreWeave's yield rolls over, the scare is behind us. If it heads into the 20s, well, we might have havoc on our hands…\n\nEven then, CoreWeave is ~4% of projected data center capacity, and most of the other 96% sits on investment-grade balance sheets.\n\nContagion is real though, so stay vigilant.",
+"likes": 149
+},
+{
+"id": "2113101298270617845",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：Nike 成為道指權重最小成分股。",
+"risk": "",
+"s": {
+"NKE": "bear"
+},
+"text": "Nike \n$NKE\n is now the smallest holding in the Dow Jones\n\nWhen you buy $10K of the Dow Jones, you are buying just $43 of Nike stock",
+"likes": 71
+},
+{
+"id": "2113112823408849181",
+"author": "ren_stocks",
+"date": "2026-10-22",
+"zh": "Ren：對 KOSPI 表現感到疲憊。",
+"risk": "",
+"s": {
+"KOSPI": "neutral"
+},
+"text": "$KOSPI\n\nI’m tired boss…",
+"likes": 178
+},
+{
+"id": "2113131116517322779",
+"author": "ren_stocks",
+"date": "2026-10-22",
+"zh": "Ren：S&P 500 距高點僅 2%，但高 beta 動能籃子跌約 41%，資金擠進七巨頭，落差前所未見。",
+"risk": "",
+"s": {
+"SPY": "neutral"
+},
+"text": "$SPY\n\n\nThe S&P 500 is barely 2% off its highs. \n\nGoldman's high-beta momentum basket is down ~41%.\n\nI can't remember a gap like this. \n\nFunds didn't leave tech though, they dumped the fast, leveraged AI names and crowded into the Mag 7, which sits at record net exposure while the AI long/short ratio is near the bottom of its range.\n\nSo which way does it close?\n\nA) Hyperscalers crush earnings next week, capex guides go up again, and the money comes rushing back into high beta.\n\nB) A Mag 7 name misses, the most crowded long on the street unwinds, and the index finally catches down to everything else.\n\nI guess we'll find out soon enough.",
+"likes": 71
+},
+{
+"id": "2113152797692899568",
+"author": "octopusycc",
+"date": "2026-10-22",
+"zh": "大老师：本週財報預測 SPCX、TSLA、META、LRCX、IBM 成功，NFLX 失敗。",
+"risk": "",
+"s": {
+"IBM": "neutral",
+"LRCX": "neutral",
+"META": "neutral",
+"NFLX": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "本周财报预测战况\n\n成功： \n$SPCX\n \n$TSLA\n \n$META\n \n$LRCX\n \n$IBM\n \n\n失败： \n$NFLX\n\n\n希望我的财报预测可以打动你\n\nPro级财报预测，就在我的币安广场，每天21:30直播。\n\n如果有帮助到你，欢迎大家转发评论！\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@pearbinance\n  \n@ethpopoki\n \n@CYZhang01",
+"likes": 27
+},
+{
+"id": "2113206733061624159",
+"author": "jukan05",
+"date": "2026-10-22",
+"zh": "Jukan：DigiTimes 報導蘋果將 iPhone Duo 出貨提高 44% 至 1,400 萬支。",
+"risk": "",
+"s": {
+"AAPL": "bull"
+},
+"text": "Apple has increased iPhone Duo shipments by 44% to 14 million units, according to DigiTimes.\n\n\n$AAPL",
+"likes": 99
+},
+{
+"id": "2113240477214634165",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：Spotify 財報後盤前漲近 5%。",
+"risk": "",
+"s": {
+"SPOT": "bull"
+},
+"text": "Spotify \n$SPOT\n stock is up by almost 5% in pre market trading following its earnings",
+"likes": 29
+},
+{
+"id": "2113241097778471113",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：洛克希德馬丁財報後盤前漲近 4%。",
+"risk": "",
+"s": {
+"LMT": "bull"
+},
+"text": "Lockheed Martin \n$LMT\n stock is up by almost 4% in pre market trading following its earnings",
+"likes": 26
 }
 ]
