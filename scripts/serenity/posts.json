@@ -7771,5 +7771,77 @@
 },
 "text": "@jerrychen0awi Yes I still have $AAOI and personally think the $6.6b valuation doesn’t price in next year’s inflection happening Q2 next year onward.\n\nI personally modeling somewhere around ~$1.9B quarterly revenue Q4 2027,  ~40% gross margins.\n\nWith another bump in blended gross margins as https://t.co/162H71LAEs",
 "likes": 21
+},
+{
+"id": "2113094859439690104",
+"date": "2026-10-22",
+"zh": "NVDA 宣布與載板、封裝、測試及光引擎供應商簽產能協議；AMKR 先進封裝產能到 2028 年底擴增超過 300%，新協議金額 13 億美元。",
+"risk": "擴產執行與時程風險",
+"s": {
+"AMKR": "bull",
+"NVDA": "bull"
+},
+"text": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging capacity by more than 300% by the end of 2028, with a new $1.3B agreement\n- Multibillion dollar capacity reservation advance to support Ibiden's plant in Japan\n- \"By 2028, production allocated to $NVDA is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity\"\n- KYEC with $1.1B capacity reservation in advance\n- SPIL for optical engine capacity for CPO by 15x by H2 2027 and double that for 2028\n\nWell, that's a lot of news. As Jensen Huang puts it: \"Demand is extraordinary. Capacity is the constraint.\"",
+"likes": 790
+},
+{
+"id": "2113191492067983849",
+"date": "2026-10-22",
+"zh": "AI 股有實際獲利與合約需求支撐：記憶體股前瞻本益比不到 3 倍、光通訊股不到 10 倍，遠低於當年 Cisco／Yahoo 的百倍以上。",
+"risk": "估值低不代表不會再跌",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "@dBooray AI names are backed by actual earnings and contractual demand.\n\nMemory names are under <3x fwd P/E, with LTAs extending 5-10 years from your richest companies in the world like $GOOGL.\n\nOptical names are compressing to <10x fwd P/E despite 500-1000%+ growth next year\n\nBack in the day companies like Cisco/Yahoo were in 100x-600x+ earnings range.",
+"likes": 98
+},
+{
+"id": "2113240389813780923",
+"date": "2026-10-22",
+"zh": "作者未持有 ASTS；只因股價下跌就投降代表本來就缺乏論點，多年期題材途中常有投降期，如 NBIS 曾被放空到 70 美元。",
+"risk": "波動期可能拉長",
+"s": {
+"ASTS": "neutral",
+"HOOD": "neutral",
+"NBIS": "neutral",
+"RKLB": "neutral",
+"SPCX": "neutral"
+},
+"text": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down..\n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX or AST becoming the next Starlink competitor.\n\nKinda reminiscent of retail favorite names like $HOOD back in 2024, or $NBIS later in 2025...\n\nBut there's always capitulation periods along the way like the time hedge funds shorted Nebius to $70 in Dec/Jan, after calling it the Neocloud winter.\n\nOr the wave of negative analyst DGs on Robinhood on the drop back to $17.\n\nOr even macro scares like April 2025.\n\nSo lot of retail investors never gave their original longs time to play out.\n\nFast forward, a lot of these popular retail names do end up cooking... so kinda sad seeing how quickly sentiment turns.",
+"likes": 1812
+},
+{
+"id": "2113246620712370367",
+"date": "2026-10-22",
+"zh": "以 AMD 為例：曾被戲稱「Advanced Money Destroyer」，後來漲到兆元市值，許多人沒給它足夠時間。",
+"risk": "僅為歷史類比",
+"s": {
+"AMD": "neutral"
+},
+"text": "@amitisinvesting Yeah $AMD is a great example you gave. It even got the popular nickname “Advanced Money Destroyer” for awhile…\n\nThen it had that massive rally to a $1T valuation, but lot of people didn’t give it time to play out.",
+"likes": 216
+},
+{
+"id": "2113253354986144171",
+"date": "2026-10-22",
+"zh": "SIVE 直接與超大型雲端業者合作，CIOE 通路調查顯示開始和中國大型可插拔模組廠合作，未來兩次財報可能有驚喜。",
+"risk": "仍待公司正式揭露",
+"s": {
+"SIVE": "bull"
+},
+"text": "@tsazeng $SIVE is directly engaged with hyperscalers and from CIOE channel checks they’re now starting work with larger pluggable makers in China…\n\nSo there’s a lot of surprising ways they can cook in the next 2 earnings calls. I’m just personally waiting for new disclosures.",
+"likes": 234
+},
+{
+"id": "2113329741654806551",
+"date": "2026-10-22",
+"zh": "作者認為市場正出現強制平倉與恐慌賣壓；LITE 產能售罄至 2029 年、已談 2030 年，AAOI 產能陸續開出卻只剩 57 億美元市值，讓作者想起七月的低點。",
+"risk": "恐慌賣壓可能延續",
+"s": {
+"AAOI": "bull",
+"LITE": "bull"
+},
+"text": "@MarkTheLaird I feel like markets are seeing a lot of forced liquidations and panic selling right now.\n\nYou have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030.\n\nSo seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July",
+"likes": 195
 }
 ]
