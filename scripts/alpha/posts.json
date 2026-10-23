@@ -12937,7 +12937,7 @@
 "TSLA": "bull"
 },
 "text": "Cathie Wood and Ark Invest just said their base case price target for Tesla \n$TSLA\n stock in 2031 is \n\n$4,400 per share or a market cap of $17.5 Trillion",
-"likes": 559
+"likes": 560
 },
 {
 "id": "2112305313877524809",
@@ -12961,7 +12961,7 @@
 "TSLA": "bull"
 },
 "text": "Cathie Wood and Ark Invest think Tesla \n$TSLA\n stock will more than 10x over the next 5 years",
-"likes": 572
+"likes": 571
 },
 {
 "id": "2112338586448355721",
@@ -15074,6 +15074,22 @@
 "likes": 152
 },
 {
+"id": "2113247902298427683",
+"author": "ren_stocks",
+"date": "2026-10-22",
+"zh": "Ren：不喊底，但比兩週前更接近底部，恆生科技已跌 43%",
+"risk": "可能續跌",
+"s": {
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"SNDK": "bull",
+"SOXX": "bull"
+},
+"text": "$SOXX\n \n$NBIS\n \n$MU\n \n$SNDK\n \n$LITE\n\n\nNot calling the bottom, but it sure smells a lot closer than it did two weeks ago…\n\nHong Kong tech (Hang Seng Tech) is now down 43% from its October 2025 peak.\n\nAnd hedge funds just sold global tech harder than at any point in Goldman's Prime Book data since 2017: more than 3 standard deviations of net selling in two weeks (Oct 5–16).\n\nSelling this extreme has shown up near major lows before, like March 2020 and April 2025. \n\nIt won't mark the exact day, but it tells you most of the forced sellers are already out.\n\nFear is priced in. \n\nNow we need a catalyst.\n\nIf only there was a war we could end…\n\nAnyway, hyperscaler earnings land next week.",
+"likes": 138
+},
+{
 "id": "2113249727341080831",
 "author": "StockMKTNewz",
 "date": "2026-10-22",
@@ -15110,6 +15126,18 @@
 "likes": 167
 },
 {
+"id": "2113260816078397488",
+"author": "ren_stocks",
+"date": "2026-10-22",
+"zh": "Ren：同意看法但不會在此放空 SKHY",
+"risk": "觀點模糊",
+"s": {
+"SKHY": "neutral"
+},
+"text": "Agree but I wouldn’t short \n$SKHY\n here",
+"likes": 9
+},
+{
 "id": "2113262401579810913",
 "author": "StockMKTNewz",
 "date": "2026-10-22",
@@ -15132,7 +15160,7 @@
 "WMT": "neutral"
 },
 "text": "Affirm \n$AFRM\n just announced a partnership with Walmart \n$WMT\n owned Sam’s Club \n\nAffirm is now Sam’s Club's exclusive buy-now, pay-later partner - Bloomberg",
-"likes": 62
+"likes": 63
 },
 {
 "id": "2113271354073964566",
@@ -15144,7 +15172,7 @@
 "META": "neutral"
 },
 "text": "Barclays raised its price target on Meta \n$META\n to $880 from $780 while maintaining its Overweight rating\n\nWells Fargo lowered its price target on Meta \n$META\n to $995 from $1,000 while maintaining its Overweight rating\n\nCiti raised its price target on Meta \n$META\n to $905 from $895 while maintaining its Buy rating\n\nBofA raised its price target on Meta \n$META\n to $845 from $810 while maintaining its Buy rating\n\nTD Cowen lowered its price target on Meta \n$META\n to $850 from $865 while maintaining its Buy rating",
-"likes": 156
+"likes": 159
 },
 {
 "id": "2113273237673296005",
@@ -15157,6 +15185,30 @@
 },
 "text": "$SONY\n WHAT DID I SAY\n\nBLOOMBERG: PS5 SALES JUMP 22% FROM GTA VI\n\nJust as I argued, consumers have INELASTIC demand around playing GTA 6 this Holiday season and price increases from memory will be absorbed without issue.\n\nNow we will watch \n$SONY\n finally guide GTA 6 into sales and profits in November.",
 "likes": 51
+},
+{
+"id": "2113273589671883052",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：META 承諾未來約 8,250 億美元租賃與合約支出，多與 AI 算力相關",
+"risk": "資本支出壓力",
+"s": {
+"META": "neutral"
+},
+"text": "Meta Platforms \n$META\n said it has agreed to spend ~$825 Billion in the future on leases and contracts, many of them related to computing power and AI infrastructure - Bloomberg",
+"likes": 356
+},
+{
+"id": "2113279147279622481",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：黃仁勳稱新雲需求「爆表」",
+"risk": "融資疑慮未消",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang said today \n\n“If you look at the fundamentals, the demand for the neo clouds is off the charts”",
+"likes": 1065
 },
 {
 "id": "2113284428948705606",
@@ -15309,6 +15361,18 @@
 "likes": 144
 },
 {
+"id": "2113308365598380237",
+"author": "michaelsikand",
+"date": "2026-10-22",
+"zh": "Michael Sikand：自 6 月起佈局 SONY，押注 GTA 6 題材",
+"risk": "題材發酵時點不定",
+"s": {
+"SONY": "bull"
+},
+"text": "If you follow me you know how patiently I've been plotting on this trade since June. Waiting, watching, and staying convicted for months for the market to see what I do with \n$SONY\n around GTA 6. The most important characteristic of a trader is patience and ignoring the haters.",
+"likes": 59
+},
+{
 "id": "2113314066089529590",
 "author": "Franktradinglog",
 "date": "2026-10-22",
@@ -15331,6 +15395,18 @@
 },
 "text": "Elon Musk has invested about $1 billion in Skydance \n$SKYD\n - Bloomberg",
 "likes": 261
+},
+{
+"id": "2113322122793869591",
+"author": "michaelsikand",
+"date": "2026-10-22",
+"zh": "Michael Sikand：AAOI 高點曾 4 倍，現僅剩漲 24%",
+"risk": "回吐幅度大",
+"s": {
+"AAOI": "neutral"
+},
+"text": "$AAOI\n was a 4x for me at the peak. Now up just 24% since the company said monthly revenues in 2027 will be the equivalent to their annual revenue in 2025.",
+"likes": 852
 },
 {
 "id": "2113334238263292019",
@@ -15367,7 +15443,7 @@
 "LLY": "neutral"
 },
 "text": "Eli Lilly \n$LLY\n just posted this today:\n\n“Today we broke ground at our second U.S. facility in two months as part of our ongoing investment in domestic manufacturing. We’re building the future home of next-gen cancer medicines in Goochland, VA”",
-"likes": 77
+"likes": 93
 },
 {
 "id": "2113342101283086444",
@@ -15379,7 +15455,7 @@
 "AMZN": "bear"
 },
 "text": "Amazon \n$AMZN\n stock is now down by 5% so far today",
-"likes": 525
+"likes": 566
 },
 {
 "id": "2113345544844378299",
@@ -15391,7 +15467,7 @@
 "QQQ": "bear"
 },
 "text": "The NASDAQ 100 \n$QQQ\n is now down by more than 3% so far today",
-"likes": 241
+"likes": 270
 },
 {
 "id": "2113346929484501470",
@@ -15403,7 +15479,7 @@
 "TSLA": "bull"
 },
 "text": "Canaccord today raised its price target on Tesla \n$TSLA\n up to $442 from $410 while maintaining its Buy rating \n\nMorgan Stanley today raised its price target on Tesla \n$TSLA\n up to $410 from $400 while maintaining its Equal Weight rating\n\nJPMorgan today raised its price target on Tesla \n$TSLA\n up to $430 from $415 while maintaining its Neutral rating\n\nPiper Sandler today raised its price target on Tesla \n$TSLA\n up to $475 from $450 while maintaining its Overweight rating\n\nMizuho today raised its price target on Tesla \n$TSLA\n up to $460 from $450 while maintaining its Outperform rating",
-"likes": 120
+"likes": 136
 },
 {
 "id": "2113347257986646326",
@@ -15415,7 +15491,60 @@
 "TSLA": "bear"
 },
 "text": "Gordon Johnson's GLJ Research today reiterated its Sell rating and $24.86 price target on Tesla \n$TSLA",
-"likes": 158
+"likes": 176
+},
+{
+"id": "2113348534367814061",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：AI 分析師將 TSLA 從賣出升至持有，稱合併題材撐住股價",
+"risk": "合併未定",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Claude upgraded Tesla \n$TSLA\n to Hold from Sell - AI Agency Analyst \n\n\"A possible SpaceX merger now props up a stock its profits cannot\"\n\nThis is a analyst note written by one of the AI Analysts in Agency ... below is the link to the report and website which has more info\n\n\n\n\nhttps://\nagency.trading/analysts/tsla/\nclaude\n…",
+"likes": 91
+},
+{
+"id": "2113353196479689186",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：今日創 52 週新低名單，含 CRWV、IREN、RIVN、OKLO 等",
+"risk": "名單非觀點",
+"s": {
+"AAON": "neutral",
+"ASTS": "neutral",
+"AVAV": "neutral",
+"BIDU": "neutral",
+"BILI": "neutral",
+"BWXT": "neutral",
+"CMG": "neutral",
+"CRWV": "neutral",
+"CW": "neutral",
+"DY": "neutral",
+"FN": "neutral",
+"GGG": "neutral",
+"GIL": "neutral",
+"GLXY": "neutral",
+"HESM": "neutral",
+"ICL": "neutral",
+"IREN": "neutral",
+"KTOS": "neutral",
+"LVS": "neutral",
+"MOS": "neutral",
+"MP": "neutral",
+"MTZ": "neutral",
+"NIO": "neutral",
+"OKLO": "neutral",
+"RIVN": "neutral",
+"SE": "neutral",
+"SF": "neutral",
+"SPXC": "neutral",
+"STLA": "neutral",
+"XPEV": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today \n\nCoreWeave \n$CRWV\n\nIREN \n$IREN\n\nStellantis \n$STLA\n\nNIO \n$NIO\n\nRivian \n$RIVN\n\nChipotle \n$CMG\n\nAST SpaceMobile \n$ASTS\n\nMosaic \n$MOS\n\nLas Vegas Sands \n$LVS\n\nSea \n$SE\n\nGalaxy Digital \n$GLXY\n\nXPeng \n$XPEV\n\nOklo \n$OKLO\n\nMP Materials \n$MP\n\nGraco \n$GGG\n\nKratos \n$KTOS\n\nHess Midstream \n$HESM\n\nBilibili \n$BILI\n\nBaidu \n$BIDU\n\nGildan Activewear \n$GIL\n\nMasTec \n$MTZ\n\nAeroVironment \n$AVAV\n\nICL \n$ICL\n\nBWX \n$BWXT\n\nAAON \n$AAON\n\nStifel \n$SF\n\nFabrinet \n$FN\n\nSPX \n$SPXC\n\nDycom \n$DY\n\nCurtiss-Wright \n$CW",
+"likes": 221
 },
 {
 "id": "2113362465673323007",
@@ -15452,6 +15581,18 @@
 },
 "text": "Deckers \n$DECK\n stock's initial move is down by 8% in after hours following its earnings",
 "likes": 7
+},
+{
+"id": "2113365504895393918",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：SpaceX 400 億美元債務融資接近完成，最低評級部分利率約 8.3%",
+"risk": "高利率負債",
+"s": {
+"SPCX": "neutral"
+},
+"text": "SpaceX's \n$SPCX\n $40 Billion debt raise is reportedly being finalized \n\nThe lowest-rated portion of the debt is expected to carry interest rates of about 8.3%, which is being led by Apollo and Goldman Sachs -  Semafor",
+"likes": 531
 },
 {
 "id": "2113367349466382512",
@@ -15493,7 +15634,7 @@
 "SOXL": "bear"
 },
 "text": "The 3x Long Semiconductor ETF \n$SOXL\n closed trading today DOWN by 20%",
-"likes": 249
+"likes": 290
 },
 {
 "id": "2113382766863917067",
@@ -15518,7 +15659,7 @@
 "SPCX": "bull"
 },
 "text": "SPACEX \n$SPCX\n WANTS AT LEAST 80,000 CELL TOWER SITES ACROSS THE US\n\nIt's in talks with at least one major tower company to get there, including Crown Castle \n$CCI\n, per Bloomberg. The deals could be worth billions.\n\nThe goal is to turn SpaceX into a 4th nationwide wireless carrier. It already bought low-band spectrum this month and has FCC approval for 15,000 satellites that connect directly to phones.",
-"likes": 1302
+"likes": 1449
 },
 {
 "id": "2113396076610740730",
@@ -15646,7 +15787,7 @@
 "AXP": "bear"
 },
 "text": "American Express \n$AXP\n stock reported earnings this morning … the first move is down by 1%",
-"likes": 36
+"likes": 78
 },
 {
 "id": "2113602755004919965",
@@ -15658,6 +15799,282 @@
 "AAPL": "neutral"
 },
 "text": "The foldable Apple \n$AAPL\n iPhone Duo is now officially available",
-"likes": 17
+"likes": 199
+},
+{
+"id": "2113611128819372540",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：Robinhood 獲杜拜金融監管局許可，進軍中東",
+"risk": "新聞",
+"s": {
+"HOOD": "bull"
+},
+"text": "ROBINHOOD MIDDLE EAST EXPANSION??\n\nRobinhood \n$HOOD\n has received authorization from the Dubai Financial Services Authority (DFSA) to introduce its retail investing platform in the Middle East from the Dubai International Financial Centre",
+"likes": 170
+},
+{
+"id": "2113614035052634448",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：Rivian 收購 Third Dimension AI",
+"risk": "新聞",
+"s": {
+"RIVN": "neutral"
+},
+"text": "Rivian \n$RIVN\n has agreed to acquire Third Dimension AI for an undisclosed amount",
+"likes": 88
+},
+{
+"id": "2113615894534586813",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：AXP 裁員約 5%，約 3,500 人",
+"risk": "新聞",
+"s": {
+"AXP": "neutral"
+},
+"text": "American Express \n$AXP\n just announced the company will be reducing the size of its global workforce by ~5%, impacting ~3,500 jobs - Bloomberg",
+"likes": 151
+},
+{
+"id": "2113619353774301477",
+"author": "ren_stocks",
+"date": "2026-10-23",
+"zh": "Ren：市場再度極度恐懼，調查粉絲是買是賣，暗示逆向布局 NBIS",
+"risk": "情緒可能更差",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nTime to gauge my followers' sentiment.\n\nHow are you holding up? We're at extreme fear levels once again, which means most of the news, and most of the people talking, will be negative.\n\nAre you a net seller, a holder or a net buyer here?",
+"likes": 27
+},
+{
+"id": "2113624646105076013",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：Apple 重回全球市值第一",
+"risk": "新聞",
+"s": {
+"AAPL": "bull"
+},
+"text": "APPLE \n$AAPL\n IS BACK TO BEING THE LARGEST COMPANY IN THE WORLD",
+"likes": 308
+},
+{
+"id": "2113633430223159795",
+"author": "KawzInvests",
+"date": "2026-10-23",
+"zh": "KawzInvests：MXL 進軍 AEC 致 CRDO 大跌屬過度反應，CRDO 市佔 90%+ 已很便宜",
+"risk": "競爭加劇",
+"s": {
+"ALAB": "neutral",
+"CRDO": "bull",
+"MXL": "neutral"
+},
+"text": "$CRDO\n getting hit pretty hard today following \n$MXL\n’s plans to enter the 1.6T AEC market.\n\nCompetition isn’t anything new here. \n$ALAB\n and several others have already been making moves into the space, and given how attractive the market is, more competition was inevitable.\n\nCredo still has an estimated 90%+ share of the AEC market and relationships with 5/6 major hyperscalers. \n\n\n$MXL\n isn’t expecting initial revenues until 2027, with a more meaningful ramp in 2028.\n\nDefinitely something to monitor, but I think the market is overreacting here. \n$CRDO\n is starting to look ridiculously cheap.",
+"likes": 88
+},
+{
+"id": "2113633440608526457",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：黃仁勳首訪哈薩克，同步推出 AI 基建計畫",
+"risk": "新聞",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang visited Kazakhstan today for the first time\n\n\"Jensen Huang’s visit to the nation’s capital, Astana - including a presidential meeting and public fireside chat - coincided with new AI infrastructure commitments anchored by NVIDIA compute.\"",
+"likes": 135
+},
+{
+"id": "2113634625516179492",
+"author": "Balder13946731",
+"date": "2026-10-23",
+"zh": "Balder：WDC 翻紅半導體稍緩，但 UVXY 仍破 5%，下行風險仍大",
+"risk": "波動仍高",
+"s": {
+"UVXY": "bear",
+"WDC": "neutral"
+},
+"text": "$WDC\n 绿了🫪 半导体得到了缓解。\n\n但是 \n$UVXY\n 还是破5%了，进入下行风险还是很大。",
+"likes": 18
+},
+{
+"id": "2113641035339588029",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：CRWD 盤中漲逾 5%",
+"risk": "新聞",
+"s": {
+"CRWD": "bull"
+},
+"text": "CrowdStrike \n$CRWD\n is now up by more than 5% so far today",
+"likes": 238
+},
+{
+"id": "2113650965794656649",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：JPM 市值重新超越 AMD",
+"risk": "新聞",
+"s": {
+"AMD": "neutral",
+"JPM": "neutral"
+},
+"text": "JPMorgan \n$JPM\n is back to having a larger market cap \n$AMD",
+"likes": 92
+},
+{
+"id": "2113652836428816550",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：CRWD 執行長稱 PHP 漏洞將引發未來數月大量資安事件",
+"risk": "新聞",
+"s": {
+"CRWD": "bull"
+},
+"text": "CROWDSTRIKE'S \n$CRWD\n CEO GEORGE KURTZ JUST SAID ON CNBC: \n\nWILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY",
+"likes": 187
+},
+{
+"id": "2113660172912542064",
+"author": "ren_stocks",
+"date": "2026-10-23",
+"zh": "Ren：SOX 漲 114% 但遠期獲利漲更多，這是不賣的核心理由",
+"risk": "獲利預估可能下修",
+"s": {
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull",
+"SNDK": "bull"
+},
+"text": "$NBIS\n \n$MU\n \n$SNDK\n \n$LITE\n\n\nThis chart is an oversimplification, but it’s the core of why I’m not selling, even at these levels.\n\nSince January 2025, the SOX is up about 114%. Forward earnings for the same index are up roughly 198%. \n\nEarnings nearly tripled while prices only doubled,",
+"likes": 96
+},
+{
+"id": "2113683130733457695",
+"author": "Balder13946731",
+"date": "2026-10-23",
+"zh": "Balder：黃金又到 GLD 365 關鍵點位",
+"risk": "方向未定",
+"s": {
+"GLD": "neutral"
+},
+"text": "黄金又到了关键点位 \n$GLD\n 365🫪",
+"likes": 3
+},
+{
+"id": "2113686593428980004",
+"author": "ren_stocks",
+"date": "2026-10-23",
+"zh": "Ren：極度恐懼中加碼 NBIS、VICR、LITE、AXTI",
+"risk": "可能續跌",
+"s": {
+"AXTI": "bull",
+"LITE": "bull",
+"NBIS": "bull",
+"VICR": "bull"
+},
+"text": "Who here was part of the retail crowd buying tech this past week?\n\nGuilty as charged. I added to \n$NBIS\n \n$VICR\n \n$LITE\n \n$AXTI\n\n\nBuying into extreme fear is how wealth gets built over the long run. \n\nNow I’m holding into Q1 2027.",
+"likes": 64
+},
+{
+"id": "2113690656417988701",
+"author": "michaelsikand",
+"date": "2026-10-23",
+"zh": "Michael Sikand：BE 以 190 美元建 16% 部位，換掉 SNDK，加碼 INTC、NBIS、CRDO、LITE",
+"risk": "投組近月回檔 20%",
+"s": {
+"BE": "bull",
+"CRDO": "bull",
+"INTC": "bull",
+"LITE": "bull",
+"NBIS": "bull",
+"SNDK": "neutral"
+},
+"text": "$BE\n under $200? This market is full of pansies!\n\nJust added \n$BE\n at $190/share in my ultra concentrated Asymmetric Bets portfolio as a 16% position.\n\nWhat's interesting is I already made 186% on this stock earlier this year. You can look and see I added the stock at $90 in December and sold it for a 186% gain at $274/share on June 1.\n\nMany remember my YouTube video where I explained the thesis and origin story of the company before this became a consensus energy winner.\n\nNow I'm back in, especially after another record setting earnings. What stood out most to me was customer deposits surging to roughly $750 million from about $145 million at the start of the year, a clear sign customers are paying upfront to lock in Bloom’s capacity before it’s even built.\n\nNew positions often require sacrifices though. So I chose to swap out \n$SNDK\n in the portfolio. The rationale is simple. I see energy as being a more structural trade than memory. \n$BE\n is a stock I can hold for 10 years while \n$SNDK\n and memory has an uphill battle to prove to investors it has long term durability. \n\nI also used cash to bump up my allocations on \n$INTC\n, \n$NBIS\n, \n$CRDO\n, and \n$LITE\n. All are down huge in the last two weeks.\n\nThis portfolio is up over 50% all time despite being down 20% in the past month because I was early to AI infrastructure stocks before the herd. \n\nTough drawdown, but have to stay focused on the best companies in this buildout.",
+"likes": 154
+},
+{
+"id": "2113712361014239694",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：今日創 52 週新高名單，含 AAPL、XOM、CVX 等能源股",
+"risk": "名單非觀點",
+"s": {
+"AAPL": "neutral",
+"AMT": "neutral",
+"CNQ": "neutral",
+"COP": "neutral",
+"CVX": "neutral",
+"EQNR": "neutral",
+"KDP": "neutral",
+"NDAQ": "neutral",
+"PBR": "neutral",
+"SHEL": "neutral",
+"XOM": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today \n\n• Apple \n$AAPL\n\n• Exxon Mobil \n$XOM\n\n• Chevron \n$CVX\n\n• ConocoPhillips \n$COP\n\n• Shell \n$SHEL\n\n• Petrobras \n$PBR\n\n• Canadian Natural \n$CNQ\n\n• Equinor \n$EQNR\n\n• Nasdaq \n$NDAQ\n\n• American Tower \n$AMT\n\n• Keurig Dr Pepper \n$KDP\n\n•",
+"likes": 61
+},
+{
+"id": "2113719162660860286",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：今日創 52 週新低名單，含 RIVN、APP、CCJ、OKLO 等",
+"risk": "名單非觀點",
+"s": {
+"AAON": "neutral",
+"APP": "neutral",
+"APTV": "neutral",
+"ASTS": "neutral",
+"AVAV": "neutral",
+"BWXT": "neutral",
+"CCJ": "neutral",
+"CDE": "neutral",
+"CMG": "neutral",
+"CRS": "neutral",
+"CW": "neutral",
+"DY": "neutral",
+"FN": "neutral",
+"FR": "neutral",
+"FTAI": "neutral",
+"GGG": "neutral",
+"GIL": "neutral",
+"GLXY": "neutral",
+"HWM": "neutral",
+"KGC": "neutral",
+"KTOS": "neutral",
+"LKQ": "neutral",
+"MBLY": "neutral",
+"MGM": "neutral",
+"MP": "neutral",
+"MTZ": "neutral",
+"NRG": "neutral",
+"NXT": "neutral",
+"OKLO": "neutral",
+"RIVN": "neutral",
+"SE": "neutral",
+"SPXC": "neutral",
+"STLA": "neutral",
+"TMUS": "neutral",
+"WYNN": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nRivian \n$RIVN\n\nAppLovin \n$APP\n\nChipotle \n$CMG\n\nAST SpaceMobile \n$ASTS\n\nCameco \n$CCJ\n\nMobileye \n$MBLY\n\nT-Mobile \n$TMUS\n\nSea Limited \n$SE\n\nStellantis \n$STLA\n\nOklo \n$OKLO\n\nCoeur Mining \n$CDE\n\nGalaxy Digital \n$GLXY\n\nKinross Gold \n$KGC\n\nHowmet Aerospace \n$HWM\n\nMGM Resorts \n$MGM\n\nKratos \n$KTOS\n\nMP Materials \n$MP\n\nGraco \n$GGG\n\nNRG Energy \n$NRG\n\nLKQ \n$LKQ\n\nAptiv \n$APTV\n\nFirst Industrial Realty Trust \n$FR\n\nCarpenter \n$CRS\n\nWynn Resorts \n$WYNN\n\nFTAI Aviation \n$FTAI\n\nAeroVironment \n$AVAV\n\nNextpower \n$NXT\n\nMasTec \n$MTZ\n\nGildan Activewear \n$GIL\n\nBWX \n$BWXT\n\nAAON \n$AAON\n\nSPX \n$SPXC\n\nFabrinet \n$FN\n\nDycom \n$DY\n\nCurtiss-Wright \n$CW",
+"likes": 56
+},
+{
+"id": "2113724140389564895",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：Instacart 洽售，已與 DoorDash、Uber 初步接觸",
+"risk": "交易未定",
+"s": {
+"DASH": "neutral",
+"UBER": "neutral"
+},
+"text": "Instacart is in talks to sell itself\n\nInstacart has been working with an investment bank to weigh its options and held at least preliminary conversations with DoorDash \n$DASH\n and Uber \n$UBER\n - The Information",
+"likes": 27
 }
 ]
