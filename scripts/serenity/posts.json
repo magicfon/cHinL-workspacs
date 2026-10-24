@@ -7843,5 +7843,53 @@
 },
 "text": "@MarkTheLaird I feel like markets are seeing a lot of forced liquidations and panic selling right now.\n\nYou have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030.\n\nSo seeing a company like $AAOI now worth $5.7B despite all their laser/transceiver/ELSFP capacity coming online + demand visibility reminds me of July",
 "likes": 195
+},
+{
+"id": "2113433338522546399",
+"date": "2026-10-23",
+"zh": "黃仁勳稱 2029 年前記憶體不太可能供過於求；三星產能已分配到 2031、GOOGL 傳簽記憶體長約到 2035，作者相信黃仁勳、看好記憶體。",
+"risk": "新產能開出後價格下滑",
+"s": {
+"GOOGL": "neutral",
+"KOSPI": "bull",
+"NVDA": "neutral"
+},
+"text": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029.\n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs.  And responded \"I don't think so\" in terms of possibilities of oversupply in 2029.\n\nJust my personal opinion, Nvidia probably has the most visibility in the entire industry.\n\nEspecially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts.\n\nOn durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc.\n\nYet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here.",
+"likes": 1255
+},
+{
+"id": "2113437977749999628",
+"date": "2026-10-23",
+"zh": "ESMT 與作者的利基型記憶體持股抗跌；公司稱利基記憶體吃緊到 2028 年以後、Q4 再漲價、供給缺口逾 30%，市值 21.5 億美元對年化獲利約 12.8 億，本益比約 1.6 倍。",
+"risk": "記憶體報價循環反轉",
+"s": {
+"ESMT": "bull"
+},
+"text": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade.\n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of a durability/PSMC hike sensitivity type thesis, but... we got durability support now from brand new commentary yesterday:\n\n- ESMT expected tightness on their legacy memory products through 2028 or longer\n- Further Q4 price increases... with the operating performance is expected to be better than the third quarter\n- Supply shortfall exceeding 30%\n\nSource: Digitimes TW\n\nSo you have a $2.15B MC company that made $107M net income a month (annualized $1.28B earnings a year) from July earnings...\n\nWith future price hikes and likely tightness lasting through 2028 onward.",
+"likes": 428
+},
+{
+"id": "2113575601390936238",
+"date": "2026-10-23",
+"zh": "Reuters：10/22 高盛追蹤的各類避險基金單日皆跌逾 1%，科技基金 10 月跌約 10%；散戶逢低買 NBIS、SNDK、TSM，作者認為賣壓多來自避險基金去槓桿、屬非理性。",
+"risk": "去槓桿賣壓可能未結束",
+"s": {
+"NBIS": "neutral",
+"SNDK": "neutral",
+"TSM": "neutral"
+},
+"text": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-focused hedge funds: down ~10% in October\n\n- Asia-focused hedge funds: down ~9% in October\n\nThere’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks.\n\nAnd the stocks bought by most retail were $NBIS, $SNDK, and $TSM.\n\nReuters stated this downturn triggered institutional deleveraging events among hedge funds.\n\nQuite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor.",
+"likes": 1596
+},
+{
+"id": "2113578093935997334",
+"date": "2026-10-23",
+"zh": "玩笑回覆：要去 NBIS 和 OpenAI 看板旁邊找廣告位。",
+"risk": "",
+"s": {
+"NBIS": "neutral"
+},
+"text": "@Joshuachaisson I almost forgot about that, I’ll go look for some billboard space next to the $NBIS and OpenAI ones.",
+"likes": 88
 }
 ]
