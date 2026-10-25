@@ -7811,6 +7811,17 @@
 "likes": 1812
 },
 {
+"id": "2113240747264897108",
+"date": "2026-10-22",
+"zh": "（疑似他人回覆）稱 ASTS 會歸零。",
+"risk": "非作者本人觀點",
+"s": {
+"ASTS": "neutral"
+},
+"text": "$ASTS\n is different, it is going to zero",
+"likes": 14
+},
+{
 "id": "2113246620712370367",
 "date": "2026-10-22",
 "zh": "以 AMD 為例：曾被戲稱「Advanced Money Destroyer」，後來漲到兆元市值，許多人沒給它足夠時間。",
@@ -7891,5 +7902,128 @@
 },
 "text": "@Joshuachaisson I almost forgot about that, I’ll go look for some billboard space next to the $NBIS and OpenAI ones.",
 "likes": 88
+},
+{
+"id": "2113950041207607453",
+"date": "2026-10-24",
+"zh": "作者仍看好 SIVE：上次財報自曝其短導致大跌，但 2027 年 Q4 有 1 億顆 CW DFB 雷射產能在短缺期開出，COHR、LITE、AAOI 雷射都轉自用，模組廠與雲端業者轉向 SIVE 簽產能協議的機率大增。",
+"risk": "財報表現曾令市場失望",
+"s": {
+"AAOI": "neutral",
+"AAPL": "neutral",
+"AEVA": "neutral",
+"APPL": "neutral",
+"COHR": "neutral",
+"GFS": "neutral",
+"JBL": "neutral",
+"LITE": "neutral",
+"MTSI": "neutral",
+"POET": "neutral",
+"SIVE": "bull"
+},
+"text": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here.\n\nBut the company completely Tall Poppy Syndromed itself last earnings.\n\nAnd it's clearly shown in the drawdown.\n\nBit of a longer consolidated thought and some scattered bits of supply chain info:\n\n- Sivers has 100M CW DFB laser capacity coming online Q4 2027 during an industry shortage.\n\nAnd very large allocations from foundries online (they were doing these quals with Win Semi + 2 others back in 2023/2024), so they can actively monetize the bottleneck today.\n\nThe other interesting reason why bottlenecks are important (aside from ASP hikes), is because qualifications convert much faster + more likely given incentives around supply scarcity.\n\n-> As one example, module makers have expanded the amount of suppliers, eg. (lightcounting cited companies expanding to 5-7+ suppliers from 2-3).\n\nInnolight, for example last month responded to a question addressing tight 1.6T DFB laser supply in 2026–2027:\n\n- Innolight was actively introducing new suppliers last month and are planning to sign 2-3 year-long contracts to lock upstream capacity\n\n-> This is while your biggest merchant laser companies making up the world's 600m+ EML/CW laser capacity like $COHR have redirected lasers to their own programs. $LITE sold out into 2029, Landmark also locked a lot of their capacity into 2027-2029. $AAOI was an expected player, but ended up redirecting lasers into their own transceiver programs too.\n\nAnd this coincides with times $SIVE has tremendous capacity available now + actively engaged with Chinese pluggables players (not saying it's Innolight, but just shows Chinese makers like Cambridge/Eoptolink are actively trying to secure laser capacity).\n\n- Fun to note, before $JBL was announced, Sivers had and has ongoing direct engagements with hyperscalers as well.\n\nWe saw that hyperscalers approached $MTSI and $AAOI for laser capacity from their earnings transcripts (and hilariously got turned away from AAOI due to shortages).\n\nSo the odds pluggable makers or hyperscalers end up converting to capacity agreements with $SIVE seems a materially higher.\n\nJust a little rant: for all the sellside/retail trying to model revenue, you can't just slap on a stupid 25-35% CAGR on NRE revenue since it's close to 0 revenue now.\n\nEspecially when they scale up to maybe 300M laser capacity (extrapolated from 2:1 external/internal capacity).\n\nIt's also not the same as $POET having OE packaging capacity ",
+"likes": 1261
+},
+{
+"id": "2113954878393561487",
+"date": "2026-10-24",
+"zh": "作者以自製營收預測圖回應：若 AAOI 達成目標，70 美元股價非常荒謬；這波賣壓過頭，主因是月底前避險基金去槓桿而非公司本身問題。",
+"risk": "升息壓縮估值",
+"s": {
+"AAOI": "bull"
+},
+"text": "@pg320 I'll let this revenue projection graph I made for $AAOI do the talking. Price at $70 I find genuinely riduclous if they deliver on their projections.\n\nRate hikes/macro trims a lot of forward valuations. But the selloff way overshot, which I'd argue is amplified by hedge fund risk/forced deleveraging before month end reporting.\n\nRather than something individually wrong with the company.",
+"likes": 348
+},
+{
+"id": "2113958295325319387",
+"date": "2026-10-24",
+"zh": "AMD 據 Trendforce 正洽談 CW 雷射長約，並與 Ayar／GFS 合作 CPO，SIVE 為上游雷射供應商；但 Sivers 官網上的 AMD 可能是基頻相關。",
+"risk": "合作關係未經證實",
+"s": {
+"AMD": "neutral",
+"GFS": "neutral",
+"SIVE": "neutral"
+},
+"text": "@smith_susa23828 $AMD was negotiating CW laser capacity LTAs from Trendforce. And are working with Ayar / $GFS for CPO deployments, (where $SIVE is upstream as the laser supplier/reference design)\n\nSo there's strong overlap in photonics.\n\nHowever, AMD on Sivers website currently is likely baseband related from cellular + Xilinx.",
+"likes": 67
+},
+{
+"id": "2113960886461444206",
+"date": "2026-10-24",
+"zh": "短缺時的供應鏈賽局：LITE 售罄促使雲端業者簽長約、轉找 MTSI、AAOI 等擴產；JBL 1.6T LRO 計畫 2027 下半年放量。",
+"risk": "",
+"s": {
+"AAOI": "neutral",
+"JBL": "neutral",
+"LITE": "neutral",
+"MTSI": "neutral",
+"SIVE": "neutral"
+},
+"text": "@JohnnyXAngelo I think it's always helpful to learn what's going on in the supply chain, even if you're not an investor in lasers or $SIVE.\n\nThere's a lot of dynamics + game theory that goes on in supply shortages like:\n\n- Expanding supplier # during shortages -> more opportunities for others.\n\n- or as seen with $LITE sold out into 2027 -> causes other hyperscalers to sign LTAs -> capacity sold out into 2029 -> hyperscalers approach $MTSI / $AAOI + others for their own ramps\n\nor different opportunities from supply procurement info like $JBL 1.6T LRO program scaling up in H2 2027 from upstream disclosures.",
+"likes": 83
+},
+{
+"id": "2113964694201643199",
+"date": "2026-10-24",
+"zh": "O-Net 是既有超大型雲端供應商，正與 SIVE 合作開發用於 CPO 的 8 通道 ELSFP。",
+"risk": "CPO 放量時程不確定",
+"s": {
+"SIVE": "bull"
+},
+"text": "@soohu Yep, O-Net is an existing hyperscaler supplier, but not really well known to Western audiences.\n\nThey're actually building out on an 8 channel ELSFP with $SIVE for CPO though rather than pluggable deployments.",
+"likes": 58
+},
+{
+"id": "2113974563809943849",
+"date": "2026-10-24",
+"zh": "依供應鏈推論 SIVE 的財星百大生醫感測客戶可能是 Apple（5000 萬顆 RFQ），但作者視為 2028 年的額外加分，核心仍看 AI 資料中心雷射營收成長。",
+"risk": "客戶身分未公開",
+"s": {
+"APPL": "neutral",
+"SIVE": "bull"
+},
+"text": "@stockprodigyman This was responding to a question this year whether their Fortune 100 was still working with $SIVE, given a lot of doubts.\n\nThey qualified it’s a “very long cycle”, “they have a lot of things to work through because it’s a biosensing application”\n\nI use the word ~ likely since it’s not publicly disclosed. This is public supply chain inference that it’s $APPL, given 50M unit RFQ commercial scale, US, and technology/application overlap.\n\nI’d argue Apple would be a cherry on top if it happens in 2028, not really any part of the core thesis. Main thing I’m looking for is Sivers AI DC laser revenue growth.",
+"likes": 70
+},
+{
+"id": "2114030117416755494",
+"date": "2026-10-24",
+"zh": "作者整理中國雷射擴產（索爾思、仕佳、雲嶺等），多數 2029 年才滿產；70/100mW 雷射仍是瓶頸、報價上漲，高階 CPO 雷射未來幾年中國仍追不上 LITE、COHR。",
+"risk": "中國產能追上後恐壓價",
+"s": {
+"AAOI": "neutral",
+"COHR": "neutral",
+"LITE": "neutral"
+},
+"text": "I guess what I've seen from Chinese laser capacity expansion:\n\n1. Dongshan/Source Photonics (索尔思): 9M/month capacity -> 22M/month Q4 ->  300m/year in 2027 (mostly EML, but blended)\n\nClaims of 1B/year \"target\" for laser chips with no deadline, but I'd take this as a grain of salt.\n\n2. Shijia (仕佳): 72M/year for 100mW CW, 2-3 year project (mainly 2029 full capacity online)\n\n3. Yunling (云岭): 18.75M/year 70/100mW CW, 3 year schedule (mainly 2029 full capacity online)\n\n4. Ligent (纳真), some reports stated 170M target for total capacity (also blended, lot of which is 200G EML)\n\n5. Yuanjie: ~10M/year currently, expanding for early 2027 and 2028, but no quantities.\n\n6. Hongchen: I think this was the perfect example of flooding H2 2026 arguments. With some some optical bears claiming 60-70M capacity...\n\nBut this turned out to completely wrong... Their actual statements were \"70/100 mW products are entering small-volume production\".\n\n7. Dingxin Optoelectronics - Targeting 15M/year blended (with 70/100mW CW and 100G EML lines)\n\nObviously mapped many others like Everbright/Accelink and did some guesses around laser mixes, but only included public disclosures.\n\nFrom your pluggable vendor channel checks:\n\n- 70mW/100mW lasers are actually a bottleneck right now per Innolight/Cambridge channel checks, laser ASPs actually increasing.\n\nLasers are tighter than they were a few months ago.\n\nI don't think there's a giant moat here, Chinese players are already competitive. But a bottleneck is a bottleneck, and anyone with capacity to monetize that will benefit, since it's a volume game.\n\nIn terms of what the larger pluggable makers are actually doing:\n\n- Innolight September disclosure: actively introducing new suppliers and are planning to sign 2-3 year-long contracts to lock upstream capacity for lasers (still actively securing supply for 1.6T pluggables)\n\nSo there's some game theory over who can lock up qualified capacity among all your players.\n\nEven if there's some over-ordering, laser BOM is cheap, so they'd probably want to lock up capacity with more suppliers than lose billions in downstream revenue. (also kinda hurts competitors)\n\n- High end lines (for CPO), non-competitive with Western players like $LITE / $COHR as of next few years. But Chinese players would eventually develop the technology.\n\n- $AAOI CEO: Chinese suppliers several years behind on high-power CPO/DWDM laser production \"not in the next 2,3 years\"\n\n- $LITE CEO questioned whether claimed Chinese manufacturin",
+"likes": 451
+},
+{
+"id": "2114051018510287340",
+"date": "2026-10-24",
+"zh": "AMZN 執行長 Jassy：記憶體短缺 2027 年不會結束，AWS 產能 2027 年大致售罄、2028 年大半已賣出，資本支出還能再加；作者認為這驗證了新雲端模式，利多 NBIS 與記憶體。",
+"risk": "新雲端市場情緒仍差",
+"s": {
+"AAPL": "neutral",
+"AMZN": "bull",
+"META": "neutral",
+"MU": "bull",
+"NBIS": "bull"
+},
+"text": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview.\n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't think that that shortage ends in 2027.\"\n\nQ: On AWS capacity:\n\nA: \"A good chunk of 28 is sold out\", \"largely sold out through 2027.\"\n\nQ: On capex ROI:\n\nA: Amazon had ​said it would spend about $220 billion in capex for 2026. But Jassy said the company \"could invest a lot more ​and it wouldn't be a bad use of ​capital\"\n\nThis is probably validating economics of Neoclouds model since this comes from a pretty stingy hyperscaler like Amazon... that only serves free bananas to their employees.\n\nUnlike trusting $META / Zuck where you the guy throws all you can eat cruise ship type buffets at every employee.\n\n- AWS claims approximately 30-40% better price-performance than comparable AI accelerators.\n\nThen went on to say Annapurna was \"one of the very best acquisitions we've done in Amazon and the history of the company, if not the best.\" \"We spun out a separate team in Annapurna to build an AI accelerator\"\n\nJust to give a bump to your AI custom silicon type private companies (since others like $AAPL were likely going on shopping sprees).\n\nTLDR:\n- Not really too much groundbreaking, just incremental validation of what was said previous earnings.\n- Broader shortages (like memory) won't end in 2027\n- Always positive to hear from $AMZN on insatiable demand + ROI given atrocious Neocloud sentiment right now",
+"likes": 825
+},
+{
+"id": "2114055113732182110",
+"date": "2026-10-24",
+"zh": "閒聊：AMZN 辦公室很節省、咖啡一天限一杯，META 則有像郵輪般的吃到飽自助餐。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"META": "neutral"
+},
+"text": "@siddhrts I used to spend a lot of time inside $AMZN offices... so I do understand the lack of food availability firsthand.\n\nDespite making so much money, they even limited coffee to once a day.\n\nBro when I visited $META, they had all you can eat buffets like you see in Vegas or Cruise Ships.",
+"likes": 59
 }
 ]
