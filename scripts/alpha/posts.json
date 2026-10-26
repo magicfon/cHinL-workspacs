@@ -14933,6 +14933,39 @@
 "likes": 125
 },
 {
+"id": "2113054098861760995",
+"author": "StockMKTNewz",
+"date": "2026-10-21",
+"zh": "Evan：買 1 萬美元 S&P 500 時各大權值股的金額分布",
+"risk": "名單非觀點",
+"s": {
+"AAPL": "neutral",
+"AMD": "neutral",
+"AMZN": "neutral",
+"AVGO": "neutral",
+"GOOGL": "neutral",
+"META": "neutral",
+"MSFT": "neutral",
+"MU": "neutral",
+"NVDA": "neutral",
+"TSLA": "neutral"
+},
+"text": "When you buy $10,000 of the S&P 500 this is how much of the largest stocks your are buying\n\n$839 of NVIDIA \n$NVDA\n\n$738 of Apple \n$AAPL\n\n$578 of Microsoft \n$MSFT\n\n$552 of Google \n$GOOGL\n\n$371 of Amazon \n$AMZN\n\n$254 of Broadcom \n$AVGO\n\n$243 of Meta \n$META\n\n$183 of Micron \n$MU\n\n$152 of Tesla \n$TSLA\n\n$152 of AMD \n$AMD\n \n\nCredit to \n@TheETFTracker\n for the info ... you should make sure you are following if you like ETFs",
+"likes": 79
+},
+{
+"id": "2113066206349660373",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：Tesla Semi 卡車進入量產",
+"risk": "新聞",
+"s": {
+"TSLA": "bull"
+},
+"text": "Tesla \n$TSLA\n said its Tesla Semi truck is now in volume production",
+"likes": 304
+},
+{
 "id": "2113078338843811852",
 "author": "Balder13946731",
 "date": "2026-10-22",
@@ -14945,6 +14978,18 @@
 },
 "text": "半导体真的还是很弱，进入M7的财报季，$META 的财报对Capex居然毫无刺激🫪\n\n但我还是偏向于相信本次反弹可能会触及中线。特别是达子，返回226的可能性还是很大的。本月结束前到达226。\n\n至于本月荐股 \n$ASTS\n 和 \n$AVGO\n 基本是惨败，没想到他们那么低还能更低。",
 "likes": 49
+},
+{
+"id": "2113082033203278122",
+"author": "StockMKTNewz",
+"date": "2026-10-22",
+"zh": "Evan：1997 年巴菲特收購 Dairy Queen 的歷史回顧",
+"risk": "新聞",
+"s": {
+"BRK.B": "neutral"
+},
+"text": "On this day in 1997 Warren Buffett and Berkshire Hathaway \n$BRK.B\n acquired Dairy Queen for $585 Million",
+"likes": 481
 },
 {
 "id": "2113082598662578528",
@@ -15373,6 +15418,18 @@
 "likes": 59
 },
 {
+"id": "2113313683384271037",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：黃仁勳稱看不到 2029 年記憶體過剩跡象",
+"risk": "新聞",
+"s": {
+"NVDA": "bull"
+},
+"text": "Nvidia's, \n$NVDA\n, Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+"likes": 713
+},
+{
 "id": "2113314066089529590",
 "author": "Franktradinglog",
 "date": "2026-10-22",
@@ -15397,6 +15454,18 @@
 "likes": 261
 },
 {
+"id": "2113319561223356505",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：CRWV 跌 9.56% 破 60 美元，選擇權偏斜仍偏向下跌風險",
+"risk": "跌破關鍵價位",
+"s": {
+"CRWV": "bear"
+},
+"text": "Look at the \n$CRWV\n Risk Reversal Skew.\n\nStock down 9.56% today to $55.91, breaking below $60.\n\nSkew is still positive at +0.02. Puts are still priced over calls, so the market still sees the risk to the downside.\n\nStill waiting on the flip back negative.",
+"likes": 239
+},
+{
 "id": "2113322122793869591",
 "author": "michaelsikand",
 "date": "2026-10-22",
@@ -15407,6 +15476,18 @@
 },
 "text": "$AAOI\n was a 4x for me at the peak. Now up just 24% since the company said monthly revenues in 2027 will be the equivalent to their annual revenue in 2025.",
 "likes": 852
+},
+{
+"id": "2113327776027852930",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：MRNA 重挫 24%，200 美元有大型負 Gamma 牆",
+"risk": "需收復 200",
+"s": {
+"MRNA": "bear"
+},
+"text": "$MRNA\n is down 24% today to $187.\n\nThe GEX heatmap shows a huge negative gamma wall at $200. Dealers there could add fuel to moves, so $200 is now the level to reclaim.\n\nSmall positive gamma sits at $187.50 and $180, which could act as support.",
+"likes": 269
 },
 {
 "id": "2113334238263292019",
@@ -15434,6 +15515,18 @@
 "likes": 6
 },
 {
+"id": "2113338597281857580",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：META 五年期 CDS 升至 114.5 基點創紀錄",
+"risk": "信用風險升溫",
+"s": {
+"META": "bear"
+},
+"text": "BREAKING: The cost of insuring against a Meta, \n$META\n, default just hit a record high, per Bloomberg.\n\nMeta’s five-year credit default swaps rose to 114.5 basis points, meaning it now costs about $114,500 a year to insure $10 million of Meta’s debt against default.",
+"likes": 1496
+},
+{
 "id": "2113340922213921227",
 "author": "StockMKTNewz",
 "date": "2026-10-22",
@@ -15456,6 +15549,21 @@
 },
 "text": "Amazon \n$AMZN\n stock is now down by 5% so far today",
 "likes": 566
+},
+{
+"id": "2113343882079641658",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：空頭本月放空 AI 資料中心股獲利 60 億美元，NBIS 最多",
+"risk": "空頭壓力",
+"s": {
+"APLD": "bear",
+"CRWV": "bear",
+"IREN": "bear",
+"NBIS": "bear"
+},
+"text": "Short sellers have made $6 billion betting against AI data center stocks this month, per Bloomberg:\n\nNebius, \n$NBIS\n: $2.94 billion\nCoreWeave, \n$CRWV\n: $1.7 billion\nIREN, \n$IREN\n, and Applied Digital, \n$APLD\n: over $1.2 billion combined\n\nSee more:",
+"likes": 278
 },
 {
 "id": "2113345544844378299",
@@ -15569,6 +15677,18 @@
 },
 "text": "Bloom Energy \n$BE\n stocks initial move following its earnings is down by 4%",
 "likes": 26
+},
+{
+"id": "2113363274960191516",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：BE 財報 EPS 0.94、營收 12 億美元皆優於預期",
+"risk": "財報後股價下跌",
+"s": {
+"BE": "bull"
+},
+"text": "Bloom Energy, \n$BE\n, earnings:\n\n- EPS: $0.94, est: $0.67\n- Revenue: $1.2 billion, est: $1.07 billion",
+"likes": 980
 },
 {
 "id": "2113363906622366053",
@@ -15705,6 +15825,18 @@
 "likes": 82
 },
 {
+"id": "2113414530722328582",
+"author": "unusual_whales",
+"date": "2026-10-22",
+"zh": "Unusual Whales：SpaceX 尋求至少 8 萬個基地台站點，準備推出全國電信",
+"risk": "計畫未定",
+"s": {
+"SPCX": "bull"
+},
+"text": "BREAKING: SpaceX, \n$SPCX\n, is seeking access to at least 80,000 US cell tower sites as it prepares to launch a nationwide wireless carrier, per Bloomberg",
+"likes": 8577
+},
+{
 "id": "2113420826313707954",
 "author": "StockMKTNewz",
 "date": "2026-10-23",
@@ -15727,6 +15859,18 @@
 },
 "text": "Cathie Wood and Ark Invest bought 38,110 shares of Meta Platforms \n$META\n today",
 "likes": 78
+},
+{
+"id": "2113429997977538737",
+"author": "unusual_whales",
+"date": "2026-10-23",
+"zh": "Unusual Whales：Airbnb 房客退房不必再洗碗鋪床",
+"risk": "新聞",
+"s": {
+"ABNB": "neutral"
+},
+"text": "Airbnb, \n$ABNB\n, guests no longer have to wash the dishes or strip the beds at checkout, per AP.",
+"likes": 1189
 },
 {
 "id": "2113442790591926562",
@@ -15953,6 +16097,47 @@
 "likes": 96
 },
 {
+"id": "2113662921096257870",
+"author": "michaelsikand",
+"date": "2026-10-23",
+"zh": "Michael Sikand：MXL 搶 AEC 反證市場年複合成長 49%，CRDO 仍握 90% 市佔",
+"risk": "競爭加劇",
+"s": {
+"ALAB": "neutral",
+"CRDO": "bull",
+"MXL": "neutral",
+"SPCX": "neutral"
+},
+"text": "$CRDO\n is down today because \n$MXL\n is planning to compete with them in the 1.6T AEC market.\n\nWhat I think is funny is investors sold off \n$CRDO\n on their last earnings out of fear copper was a declining market. Now how we have players like \n$MXL\n and \n$ALAB\n moving in on it, because in reality it has a 49% CAGR through 2030.\n\nCredo still has an estimated 90% share of the AEC market and is by far the most trusted vendor, especially considering it has relationships with 5/6 major hyperscalers including \n$SPCX\n which has the most aggressive GW roadmap over the next 18 months. \n\nWhat's interesting as well for \n$CRDO\n is 1/3 of their business could be optical networking by 2028, so a lot of their growth is coming from a completely different market that's growing even faster.\n\n\n$CRDO\n is starting to look ridiculously cheap.",
+"likes": 245
+},
+{
+"id": "2113669324250530043",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：三星集團 ETF SMNG 在那斯達克上市（業配）",
+"risk": "業配",
+"s": {
+"SMNG": "neutral"
+},
+"text": "NEW ETF LAUNCH\n\nYou can now own a portfolio of Samsung Group companies in 1 ticker … \n$SMNG\n \n\nMy sponsors over at xETFs just launched a new Samsung Group ETF \n$SMNG\n which just started trading on Nasdaq\n\nNone of these companies are listed in the US… \n$SMNG\n puts them all in one ticker, in U.S. dollars\n\nTop 3 holdings at launch:\nSamsung Electronics: 20.0%\nSamsung Electro-Mechanics: 20.0%\nSamsung SDI: 7.5%\n\nBelow is the link to the website, which has some more information to start your research\n\nCongratulations to our partners on the new launch\n\n\nhttps://\nxetfs.com/smng\n\nHoldings and weights as of launch, subject to change. To learn more about the Funds risks, expenses and holdings, or to view a prospectus, visit \nhttp://\nxetfs.com/smng.\n\nThis is a paid advertisement. WOLF Financial and its partner accounts are compensated by xETFs to promote the Fund. This compensation creates a potential conflict of interest. Certain information contained herein has been supplied by third parties; actual performance may differ materially.\nTUCRM-6034336-10/26",
+"likes": 43
+},
+{
+"id": "2113677046413164950",
+"author": "michaelsikand",
+"date": "2026-10-23",
+"zh": "Michael Sikand：SpaceX 要 8 萬個基地台，CCI 漲 9%，鐵塔加租戶幾乎純利",
+"risk": "合作未定",
+"s": {
+"AMT": "bull",
+"CCI": "bull",
+"SPCX": "bull"
+},
+"text": "$CCI\n is up 9% today because \n$SPCX\n could be the next next big wireless carrier. \n\n\n$SPCX\n reportedly wants at least 80,000 U.S. cell sites which is about every U.S. tower \n$CCI\n and \n$AMT\n own combined.\n\nTowers are already built so adding a new tenant is almost pure profit on long contracts with yearly price bumps. Interesting to see how seriously the market is taking \n$SPCX\n's entry into telecom.",
+"likes": 45
+},
+{
 "id": "2113683130733457695",
 "author": "Balder13946731",
 "date": "2026-10-23",
@@ -15980,6 +16165,18 @@
 "likes": 64
 },
 {
+"id": "2113686640761925786",
+"author": "unusual_whales",
+"date": "2026-10-23",
+"zh": "Unusual Whales：AXP 裁員 5%",
+"risk": "新聞",
+"s": {
+"AXP": "neutral"
+},
+"text": "American Express, \n$AXP\n, is laying off 5% of its employees",
+"likes": 387
+},
+{
 "id": "2113690656417988701",
 "author": "michaelsikand",
 "date": "2026-10-23",
@@ -15995,6 +16192,43 @@
 },
 "text": "$BE\n under $200? This market is full of pansies!\n\nJust added \n$BE\n at $190/share in my ultra concentrated Asymmetric Bets portfolio as a 16% position.\n\nWhat's interesting is I already made 186% on this stock earlier this year. You can look and see I added the stock at $90 in December and sold it for a 186% gain at $274/share on June 1.\n\nMany remember my YouTube video where I explained the thesis and origin story of the company before this became a consensus energy winner.\n\nNow I'm back in, especially after another record setting earnings. What stood out most to me was customer deposits surging to roughly $750 million from about $145 million at the start of the year, a clear sign customers are paying upfront to lock in Bloom’s capacity before it’s even built.\n\nNew positions often require sacrifices though. So I chose to swap out \n$SNDK\n in the portfolio. The rationale is simple. I see energy as being a more structural trade than memory. \n$BE\n is a stock I can hold for 10 years while \n$SNDK\n and memory has an uphill battle to prove to investors it has long term durability. \n\nI also used cash to bump up my allocations on \n$INTC\n, \n$NBIS\n, \n$CRDO\n, and \n$LITE\n. All are down huge in the last two weeks.\n\nThis portfolio is up over 50% all time despite being down 20% in the past month because I was early to AI infrastructure stocks before the herd. \n\nTough drawdown, but have to stay focused on the best companies in this buildout.",
 "likes": 154
+},
+{
+"id": "2113690996886081628",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：iPhone Duo 觀看串流的樣子",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "This is what it looks like to watch a stream on the new foldable Apple \n$AAPL\n iPhone Due",
+"likes": 158
+},
+{
+"id": "2113700797611724854",
+"author": "unusual_whales",
+"date": "2026-10-23",
+"zh": "Unusual Whales：SpaceX 進軍電信消息使 AT&T、T-Mobile 各跌約 6%",
+"risk": "競爭威脅",
+"s": {
+"T": "bear",
+"TMUS": "bear"
+},
+"text": "AT&T, \n$T\n, and T-Mobile, \n$TMUS\n, are both down about 6% today.\n\nSpaceX is reportedly seeking access to at least 80,000 US cell tower sites as it prepares to launch a nationwide wireless carrier, per Bloomberg.\n\nIt’s the latest blow in a brutal month. On Oct. 9, after SpaceX agreed to buy a nationwide wireless spectrum portfolio, T-Mobile had its worst day since 2013 and AT&T its worst since 2000.\n\nT-Mobile is now down more than 25% this year.\n\nGEX heatmap for \n$TMUS\n shows a big positive gamma wall at $150, which can act like a magnet as dealers dampen moves.",
+"likes": 338
+},
+{
+"id": "2113705284757774694",
+"author": "unusual_whales",
+"date": "2026-10-23",
+"zh": "Unusual Whales：BE 財報優於預期仍跌 11%，營運現金流轉負、多家下調目標價",
+"risk": "現金流轉負",
+"s": {
+"BE": "bear"
+},
+"text": "$BE\n down 11% today to ~$193 after earnings \n\nQ3 was a beat: record $1.24B revenue (+138% YoY), adj EPS $0.94 vs $0.69 est, and 2026 guidance raised.\n\nBut operating cash flow flipped to -$27M (from +$226M in Q2), and Roth, JPM, and BTIG cut targets.\n\nRisk Reversal Skew spiked positive into the print as traders bought downside protection. It's already back to 0.00.\n\nLast time skew spiked and flipped back negative (late July), \n$BE\n bottomed near $160 and ran toward $300.",
+"likes": 423
 },
 {
 "id": "2113712361014239694",
@@ -16076,5 +16310,531 @@
 },
 "text": "Instacart is in talks to sell itself\n\nInstacart has been working with an investment bank to weigh its options and held at least preliminary conversations with DoorDash \n$DASH\n and Uber \n$UBER\n - The Information",
 "likes": 27
+},
+{
+"id": "2113728919308571024",
+"author": "unusual_whales",
+"date": "2026-10-23",
+"zh": "Unusual Whales：有人買進 844 萬美元 HWM 賣權，下週財報",
+"risk": "單筆押注",
+"s": {
+"HWM": "bear"
+},
+"text": "This is unusual.\n\nBig bearish bet on Howmet Aerospace, \n$HWM\n.\n\nSomeone just bought $8.44 million of Howmet puts.\n\nContract: $195 puts expiring Nov. 20\nSize: 5,375 contracts at about $15.70 each\nAll bought at the ask, with rising fill prices across repeated trades, a sign the buyer kept paying up\nBreakeven: about $179.30 by expiration\n\nHowmet’s has earnings next week.",
+"likes": 234
+},
+{
+"id": "2113729723289555004",
+"author": "Balder13946731",
+"date": "2026-10-23",
+"zh": "Balder：演算法日誌，CAT 平倉虧損 5.15%",
+"risk": "演算法紀錄非建議",
+"s": {
+"CAT": "neutral"
+},
+"text": "平仓亏损 1 \n$CAT\n 726.2→688.8 -5.15%\n\n 持仓 APP 270.03→260.25 -3.6% · NU 14.62→15.16 +3.7% · IBM  251.7→253.56 +0.7% · IREN  25.4→24.91 -1.9% · NBIS  160.35→158.74 -1.0%\n\n balder-algo-logs · 龙气 · 10-23 · algo log · not advice",
+"likes": 2
+},
+{
+"id": "2113731580237607227",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：北京黃牛加價 448 美元收購 iPhone Duo",
+"risk": "新聞",
+"s": {
+"AAPL": "bull"
+},
+"text": "SCALPERS IN BEIJING  ARE PAYING AN EXTRA $448 FOR APPLE \n$AAPL\n'S NEW IPHONE DUO\n\nOutside Apple's Sanlitun store on launch day, resellers offered buyers cash on the spot for their newly purchased foldable phones - CNBC",
+"likes": 183
+},
+{
+"id": "2113745065235587446",
+"author": "Balder13946731",
+"date": "2026-10-23",
+"zh": "Balder：10/23 復盤，道指跌 1.24% 最弱，那指靠資安股守住 700",
+"risk": "市寬疲弱",
+"s": {
+"DIA": "bear"
+},
+"text": "【美股复盘 · 10月23日】\n\n**大市**｜隔夜环球市场反复偏软，美股三大指数收市分道扬镳。道指 \n$DIA\n 全日沽压最重，收报521.37点，跌1.24%，为三大指数中跌幅最深；标普 SPY 收报759.97点，跌0.52%，失守760关；纳指 QQQ 则在科网股及网络安全股走强带动下靠稳，收报704.40点，微跌0.01%，守住700关之上，表现一枝独秀。中小型股同步偏软，罗素小型股 IWM 收报275.75点，跌0.33%。市宽较指数所反映的更为疲弱——106只观察股中仅45只报升、61只下跌，跌者多于升者，显示指数的相对抗跌主要靠少数权重科网股支撑，大市内部沽压未见收敛。\n\n**板块**｜网络安全及云端板块领涨全场，三线齐飞： CRWD 急升8.25%、 NET 涨7.29%、 PANW 升7.22%，数据平台股 SNOW 亦造好3.65%。能源股逆市靠稳，在油气双雄带动下反复向上， CVX 升2.88%、 XOM 升2.79%，成为防守资金的去向。半导体板块则严重分化， SMTC 升5.50%、通讯设备股 NOK 升3.30%，但AI互联及存储一线重挫， CRDO 暴跌9.51%、 WDC 挫2.97%。消费及零售股普遍受压， TGT 急泻3.38%、 LOW 跌2.78%，汽车股 F 跌2.85%；出行股 UBER 挫3.43%，软件股 ADBE 跌2.49%，医药重磅股 LLY 跌2.54%，加密相关股 COIN 跌2.74%。新兴市场金融股 NU 逆市升2.92%。\n\n**焦点**｜全日最大单一跌幅来自燃料电池股 BE ，大泻11.24%，主因为前一交易日盘后公布的业绩；存储股 WDC 同样于前一交易日盘后交卷，今日收跌2.97%，两者的波动均为财报后的直接反应。至于跌幅榜第二位的 CRDO ，并非财报日,其9.51%的急泻与同属半导体链的 SMTC 升5.50%形成尖锐对照，反映资金并非整体撤离AI硬件,而是在链条内部高度拣择、强弱互换。另一值得注意的是网安三股同日录得逾7%的齐升——在61只下跌的淡市中,这类集体性的板块级跳升,通常意味着板块资金配置的切换,而非个股消息驱动。\n\n**小结**｜全日格局是典型的「指数平稳、内部分化」：纳指近乎平收,道指却跌逾1.2%,旧经济权重与科网龙头的裂口再度扩阔,而市宽（45升61跌）更接近市场的真实温度。分析指,标普失守760关后,此位将由支持转为阻力,而纳指能否守住700关,仍是短线强弱的关键位;若权重科网的升势无法扩散至市宽,目前由少数板块撑起的指数结构将难以持久。与此同时,AI产业链的财富分配问题亦值得留意——本轮周期中最具爆发力的资产大多留在一级市场,公开市场投资者所能拣择的,只剩链条中强弱悬殊的二线标的,这或正是今日 SMTC 与 CRDO 分道扬镳的更深层背景。",
+"likes": 4
+},
+{
+"id": "2113747604920062105",
+"author": "StockMKTNewz",
+"date": "2026-10-23",
+"zh": "Evan：Tesla 發布 Roadster 戰機座艙風格介面",
+"risk": "新聞",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n just posted this today:\n\n“Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot”",
+"likes": 494
+},
+{
+"id": "2113764961516417058",
+"author": "Balder13946731",
+"date": "2026-10-23",
+"zh": "Balder：指數韌性排序 SPY > IWM > DIA > QQQ",
+"risk": "僅相對排序",
+"s": {
+"DIA": "neutral",
+"IWM": "neutral",
+"QQQ": "neutral",
+"SPY": "neutral"
+},
+"text": "Current Index Resilience\n\n$SPY > $IWM > $DIA > $QQQ",
+"likes": 13
+},
+{
+"id": "2113870888349397022",
+"author": "Balder13946731",
+"date": "2026-10-24",
+"zh": "Balder：AAPL 市值超越 NVDA 重回全球第一",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral",
+"NVDA": "neutral"
+},
+"text": "$AAPL\n 的市值超过 \n$NVDA\n 重新回到世界第一🫪",
+"likes": 18
+},
+{
+"id": "2114000286746337776",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：Jassy 稱 AWS 2026 年售罄、2027 年也大致售罄",
+"risk": "新聞",
+"s": {
+"AMZN": "bull"
+},
+"text": "Amazon \n$AMZN\n CEO Andy Jassy said Amazon Web Services is largely sold out for 2027\n\n\"26 is obviously at this point sold out. '27 is largely sold out. We always leave a certain amount for on demand in our inference service Bedrock or EC2, but largely sold out. All the big chunks. A",
+"likes": 326
+},
+{
+"id": "2114006258336346175",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：2010 年買 1 萬美元 SQQQ 至今只剩 0.04 美元",
+"risk": "新聞",
+"s": {
+"SQQQ": "neutral"
+},
+"text": "If you bought $10K of the 3x Short QQQ ETF \n$SQQQ\n in 2010 and held to today you would currently have $0.04",
+"likes": 445
+},
+{
+"id": "2114013018816168273",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：ChatGPT 在 Rallies AI 競技場的持股組合",
+"risk": "名單非觀點",
+"s": {
+"APH": "neutral",
+"CI": "neutral",
+"CRDO": "neutral",
+"GOOGL": "neutral",
+"JPM": "neutral",
+"LDOS": "neutral",
+"LMT": "neutral",
+"PGR": "neutral",
+"V": "neutral",
+"XOM": "neutral"
+},
+"text": "This is what ChatGPT's stock portfolio looks like right now in the Rallies AI Arena\n\n$28,860 of Google \n$GOOGL\n (+11.9% )\n$22,810 of Progressive \n$PGR\n (+12.4% )\n$21,093 of Leidos \n$LDOS\n (+15.6% )\n$20,456 of Visa \n$V\n (+24.4% )\n$19,950 of Cigna \n$CI\n (+9.4% )\n$18,332 of Exxon Mobil \n$XOM\n (+27.3% )\n$15,557 of Amphenol \n$APH\n (+12.4% )\n$11,081 of Credo \n$CRDO\n (+25.8% )\n$9,947 of JPMorgan \n$JPM\n (+11.2% )\n$6,035 of Lockheed Martin \n$LMT\n (+7.1% )\n$819.27 of available cash",
+"likes": 227
+},
+{
+"id": "2114017279759593929",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：比特幣跌回 8 萬美元以下",
+"risk": "新聞",
+"s": {
+"BTC": "bear"
+},
+"text": "Bitcoin \n$BTC\n just dropped back under $80,000",
+"likes": 299
+},
+{
+"id": "2114043817024524416",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：Starlink 用戶達 1,360 萬，去年同期 720 萬",
+"risk": "新聞",
+"s": {
+"SPCX": "bull"
+},
+"text": "SpaceX's \n$SPCX\n satellite based internet service Starlink now has 13.6 Million subscribers up from 7.2M in the same quarter last year",
+"likes": 510
+},
+{
+"id": "2114050335220310359",
+"author": "unusual_whales",
+"date": "2026-10-24",
+"zh": "Unusual Whales：Polymarket 預測 Anthropic 代號為 ANT，傳 11 月上市",
+"risk": "新聞",
+"s": {
+"ANT": "neutral"
+},
+"text": "Anthropic’s stock ticker is projected to be $ANT, per Polymarket, with traders giving it a 65% chance.\n\nAnthropic is reportedly aiming to go public in November, after the midterms.",
+"likes": 209
+},
+{
+"id": "2114051217869644106",
+"author": "michaelsikand",
+"date": "2026-10-24",
+"zh": "Michael Sikand：MU 一年漲 4 倍，本益比卻從 24 倍降到 11.6 倍",
+"risk": "記憶體週期反轉",
+"s": {
+"MU": "bull"
+},
+"text": "$MU\n one year ago:\n• ~$198/share\n• $11.3B quarterly revenue\n• ~24x trailing earnings\n\n\n$MU\n today:\n• ~$878/share\n• $54.2B quarterly revenue\n• ~11.6x trailing earnings\n\nStock up 4x and it got cheaper.",
+"likes": 639
+},
+{
+"id": "2114103031575048519",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：Tesla 自駕車隊有 433 輛 Cybercab",
+"risk": "新聞",
+"s": {
+"TSLA": "neutral"
+},
+"text": "Tesla \n$TSLA\n now has 433 Cybercabs in its self driving car fleet",
+"likes": 275
+},
+{
+"id": "2114109213676839111",
+"author": "ren_stocks",
+"date": "2026-10-24",
+"zh": "Ren：B200、H200 租金大漲一手難求，需求遠超供給不是泡沫",
+"risk": "算力價格可能回落",
+"s": {
+"NBIS": "bull",
+"NVDA": "bull"
+},
+"text": "$NBIS\n \n$NVDA\n\n\nAt work we use B200s for most of our AI compute, and it's hard as hell to get allocation.\n\nB200 rents are up about 70% from where they started last fall, and H200 rents are up about 65% since early 2025. Even the H100, a four-year-old chip, now rents 54% above what a six-year depreciation schedule says it should be worth.\n\nBut sure, we're in a bubble, with demand far outpacing supply and ever-increasing rental prices. \n\nSo much for \"GPUs are worthless after three years.\"",
+"likes": 150
+},
+{
+"id": "2114114963803406482",
+"author": "unusual_whales",
+"date": "2026-10-24",
+"zh": "Unusual Whales：彭博稱 AI 熱潮愈來愈靠循環融資，讓人想起 2008",
+"risk": "融資風險",
+"s": {
+"AVGO": "bear",
+"NVDA": "bear"
+},
+"text": "The AI boom is increasingly running on circular money, and it’s reminding some investors of 2008, per Bloomberg.\n\nChipmakers and cloud giants invest in or lend to AI companies, which then use that money to buy chips and computing power from the very same companies.\n\nRecent examples:\n\n- Broadcom, \n$AVGO\n, agreed to lend Anthropic up to $42 billion to buy chips and computing hardware\n- Nvidia, \n$NVDA\n, has put more than $40 billion into AI companies this year, including $30 billion in OpenAI.",
+"likes": 2175
+},
+{
+"id": "2114133748308435122",
+"author": "StockMKTNewz",
+"date": "2026-10-24",
+"zh": "Evan：A16Z 稱 2024 年的 H200 租金比年初貴約 160%",
+"risk": "新聞",
+"s": {
+"NVDA": "bull"
+},
+"text": "It costs ~160% more to rent one of Nvidia's \n$NVDA\n H200 chips from 2024 today than it costed at the start of the year - A16Z",
+"likes": 311
+},
+{
+"id": "2114141470294950133",
+"author": "michaelsikand",
+"date": "2026-10-24",
+"zh": "Michael Sikand：問只能 all-in 一檔 AI 股到 2030 選誰：LITE、NBIS、MU、BE、INTC",
+"risk": "集中風險",
+"s": {
+"BE": "bull",
+"INTC": "bull",
+"LITE": "bull",
+"MU": "bull",
+"NBIS": "bull"
+},
+"text": "You have to full port one AI stock and can't sell until 2030. Who you got?\n\n- \n$LITE\n: Networking\n- \n$NBIS\n: Neocloud\n- \n$MU\n: Memory\n- \n$BE\n: Power\n- \n$INTC\n: CPUs",
+"likes": 412
+},
+{
+"id": "2114150444083642850",
+"author": "KawzInvests",
+"date": "2026-10-25",
+"zh": "KawzInvests：AI 代理登入銀行帳戶，小型資安股 OSPN、MITK、YOU 有機會",
+"risk": "題材早期",
+"s": {
+"MITK": "bull",
+"OSPN": "bull",
+"YOU": "bull"
+},
+"text": "AI agents are already accessing bank accounts and trying to move money, per Axios.\n\nBanks are scrambling to restrict them. Could be a pretty interesting setup for some of the smaller cyber names.\n\n\n$OSPN\n already serves more than 60% of the world's 100 largest banks, according to its investor deck.\n\nThey already sell those banks authentication and transaction security. Now add agents logging in, buying things and making payments for customers.\n\nThe bank has to know who gave the agent access, what it's allowed to do, and which transactions still need the customer's approval.\n\nI think banks could end up spending a lot more on this as agent use grows. \n$OSPN\n already has relationships with many of the banks that would be buying.\n\n\n$MITK\n, \n$YOU\n and a few others are also names I like here.\n\nDisclosure: I'm long \n$OSPN\n.",
+"likes": 98
+},
+{
+"id": "2114158021999812878",
+"author": "KawzInvests",
+"date": "2026-10-25",
+"zh": "KawzInvests：也喜歡 RSKD",
+"risk": "觀點簡短",
+"s": {
+"RSKD": "bull"
+},
+"text": "Yeah I like \n$RSKD\n too, forgot to add them to this post haha",
+"likes": 3
+},
+{
+"id": "2114199803320209551",
+"author": "ren_stocks",
+"date": "2026-10-25",
+"zh": "Ren：新雲業者並非都一樣，看好 NBIS",
+"risk": "融資環境收緊",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nI don't know who needs to hear this, but I'll say it again.\n\nNOT ALL NEOCLOUDS ARE CREATED EQUAL\n\nSource: \n@SergeyCYW\n | Compounding Your Wealth.",
+"likes": 690
+},
+{
+"id": "2114346892960444780",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：上週 VOO 流入逾 70 億美元",
+"risk": "新聞",
+"s": {
+"VOO": "neutral"
+},
+"text": "Investors put more than $7 Billion into \n$VOO\n this past week",
+"likes": 232
+},
+{
+"id": "2114350478943207666",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：祖克柏一年可領約 7.18 億美元 META 股利",
+"risk": "新聞",
+"s": {
+"META": "neutral"
+},
+"text": "Mark Zuckerberg will make ~$718 Million from just dividends on his \n$META\n shares over the next year",
+"likes": 176
+},
+{
+"id": "2114364349603049533",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：週三有 FOMC、Apple 發表會與 GOOGL、MSFT 等財報",
+"risk": "事件密集",
+"s": {
+"AAPL": "neutral",
+"CMG": "neutral",
+"F": "neutral",
+"FDX": "neutral",
+"FTNT": "neutral",
+"GOOGL": "neutral",
+"KLAC": "neutral",
+"MSFT": "neutral",
+"NOW": "neutral"
+},
+"text": "WEDNESDAY MAY BE THE BUSIEST DAY OF THE QUARTER\n\nOn Wednesday of this week we have\n\n- Fed Interest rate decision and Kevin Warsh FOMC press conference \n- Apple \n$AAPL\n new product event\n- Earnings from Google \n$GOOGL\n, Microsoft \n$MSFT\n, ServiceNow \n$NOW\n, Chipotle \n$CMG\n Fortinet \n$FTNT\n, KLA Corp \n$KLAC\n, FedEx \n$FDX\n, Ford \n$F\n, and much more\n- I will be at a secret all day event for one of the largest public companies \n\nMy full catalyst watch for the week is below ... make sure you are ready for the week",
+"likes": 95
+},
+{
+"id": "2114372574226604520",
+"author": "octopusycc",
+"date": "2026-10-25",
+"zh": "大老师：CRWV 債務受關注，BTDR 債務與現金流問題也很嚴重",
+"risk": "債務風險",
+"s": {
+"BTDR": "bear",
+"CRWV": "bear"
+},
+"text": "大家都在聊 \n$CRWV\n 的债务问题\n\n其实 \n$BTDR\n 的债务和现金流问题也很严重",
+"likes": 12
+},
+{
+"id": "2114380542477217893",
+"author": "Balder13946731",
+"date": "2026-10-25",
+"zh": "Balder：CEG 給 Google 的 890 MW 靠既有機組升載，老核電最先受惠 AI 缺電",
+"risk": "監管審批",
+"s": {
+"CEG": "bull"
+},
+"text": "Constellation 答应给 Google 的 890 MW，一座新反应堆都不用盖，是把现有机组的出力往上拧（uprate）。走的是 NRC 的许可变更，不用重新选址，也不用开工，十年工期这事跟它没关系。890 MW 差不多就是一台机组的量。\n\n所以 AI 缺电这件事上，最先被变现的是老机组还没拧满的那点余量。手里压着一堆七八十年代反应堆的，会比别人更早收到钱。SMR 还在 2030 年那边排队。\n\n木头姐新买的两只核电股，NuScale 不在里面。 \n$CEG",
+"likes": 14
+},
+{
+"id": "2114393334232002724",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：NVDA 最新 GTC 重點整理",
+"risk": "新聞",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Here are the highlights from Nvidia’s \n$NVDA\n latest GTC event",
+"likes": 70
+},
+{
+"id": "2114395534316515334",
+"author": "michaelsikand",
+"date": "2026-10-25",
+"zh": "Michael Sikand：IREN 股價低於 IPO 價，股數從 5,500 萬膨脹到 3.57 億",
+"risk": "稀釋嚴重",
+"s": {
+"IREN": "bear"
+},
+"text": "$IREN\n at 2021 IPO:\n• $28/share\n• 55M shares out \n• $59M revenue (FY22)\n• 1.5B Market Cap\n\n\n$IREN\n today:\n• ~$25/share\n• 357M shares out\n• $707M revenue (FY26)\n•  $10B Market Cap",
+"likes": 689
+},
+{
+"id": "2114413696189657328",
+"author": "michaelsikand",
+"date": "2026-10-25",
+"zh": "Michael Sikand：本週財報將決定 AI 交易，列出 CDNS、STX、MSFT、GOOGL 等",
+"risk": "財報事件",
+"s": {
+"AMKR": "neutral",
+"AMZN": "neutral",
+"AXTI": "neutral",
+"CDNS": "neutral",
+"GEV": "neutral",
+"GOOGL": "neutral",
+"INTC": "neutral",
+"KLAC": "neutral",
+"MSFT": "neutral",
+"SNDK": "neutral",
+"STX": "neutral",
+"TER": "neutral"
+},
+"text": "THIS WEEK DECIDES THE AI TRADE.\n\nMonday\n• \n$CDNS\n: software designing every AI chip\n• \n$AMKR\n: packages + tests chips\n\nTuesday\n• \n$STX\n: hard drives storing AI data\n• \n$TER\n: tests chips\n\nWednesday\n• FOMC: (94% maintain per \n@Kalshi\n )\n• \n$MSFT\n: Spending $175B on AI in 2026\n• \n$GOOGL\n: Spending $200B on AI in 2026\n• \n$KLAC\n: inspects chips to catch defects\n• \n$GEV\n: gas turbines powering data centers\n\nThursday\n• \n$AMZN\n: Spending $220B on AI in 2026\n• \n$INTC\n: The US Chip Factory \n• \n$SNDK\n: Memory for AI data centers\n• \n$AXTI\n: wafers for optical networking\n\nGood luck in Nasdaqistan.",
+"likes": 212
+},
+{
+"id": "2114422551372017880",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：Anthropic 代號為 ANT 的機率 65%",
+"risk": "新聞",
+"s": {
+"ANT": "neutral"
+},
+"text": "There is currently a 65% chance that Anthropic's public ticker is $ANT",
+"likes": 19
+},
+{
+"id": "2114425767048405164",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：Anthropic 上市後將有 2 倍多空 ETF（業配）",
+"risk": "業配",
+"s": {
+"ANTT": "neutral",
+"ATNZ": "neutral"
+},
+"text": "The Anthropic IPO is coming soon\n\nFor those who don't know, yes, this is 2026 ... there will be 2x long and 2x short Anthropic ETFs launched soon after the IPO\n\nSo for the people who trade 2x ETFs, here's what the 2x Anthropic tickers from my sponsors over at TradrETFs will be \n\n- 2x Long Anthropic: $ANTT \n- 2x Short Anthropic: $ATNZ \n\nAs always these leveraged ETFs are made for short term traders and not long term investors",
+"likes": 50
+},
+{
+"id": "2114475803593629846",
+"author": "ren_stocks",
+"date": "2026-10-25",
+"zh": "Ren：等不及開盤，預期 SNDK、MU 週一走強",
+"risk": "短線判斷",
+"s": {
+"MU": "bull",
+"SNDK": "bull"
+},
+"text": "$SNDK\n \n$MU\n\n\nOpen the markets already.\n\nSomething tell holds into Monday",
+"likes": 40
+},
+{
+"id": "2114482384112701745",
+"author": "michaelsikand",
+"date": "2026-10-25",
+"zh": "Michael Sikand：韓股從最熱變最便宜，約 4 倍預估本益比，高盛目標仍有 60% 空間",
+"risk": "韓股持續修正",
+"s": {
+"DRAM": "bull",
+"EWY": "bull",
+"SKHY": "bull"
+},
+"text": "South Korea went from the world's hottest stock market to the cheapest ever.\n\n• KOSPI down 35%+ from its June peak\n• ~4x fwd earnings, lowest of major markets since 2006\n• Goldman cut its target to 9,000 from 12,000 but that still implies 60% upside\n\n\n$EWY\n \n$SKHY\n \n$DRAM",
+"likes": 79
+},
+{
+"id": "2114526395690881329",
+"author": "KawzInvests",
+"date": "2026-10-26",
+"zh": "KawzInvests：魯拉連任，巴西 ETF EWZ 盤後重挫近 20%",
+"risk": "政治風險",
+"s": {
+"EWZ": "bear"
+},
+"text": "WOW. Brazil’s ETF \n$EWZ\n just plunged nearly 20% in overnight trading.\n\nLula wins a fourth term after beating Flávio Bolsonaro.\n\nAn entire country ETF trading like a memecoin.",
+"likes": 45
+},
+{
+"id": "2114535248876683320",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：MSFT 市值重新超越 GOOGL",
+"risk": "新聞",
+"s": {
+"GOOGL": "neutral",
+"MSFT": "neutral"
+},
+"text": "Microsoft \n$MSFT\n is back to having a larger market cap than Google \n$GOOGL\n \n\nMicrosoft is back to being the 3rd largest stock in the world",
+"likes": 349
+},
+{
+"id": "2114537602745512015",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：本週財報雷達，MSFT 隱含波動低於歷史",
+"risk": "財報波動",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Earnings Radar — week of Oct 26\n\nOn the board: BA · GLW · HOOD · STX · V · SKHY · VRT · MSFT\nAlso reporting (not on the card): GOOGL Wed · F Wed · CAT Thu · LLY Thu · MA Thu · MRK Thu · AMZN Thu · SNDK Thu · INTC Thu · COIN Thu · CVX Fri · XOM Fri\n\nPriciest: BA at 5.7% implied vs a 3.5% typical move — 1.6x what it usually does.\nCheapest: \n$MSFT\n asks 5.3% against a 6.4% history, and it has been up on only 33% of its last 9.\n\nImplied vs what each stock actually does, last 8 reactions in the card",
+"likes": 1
+},
+{
+"id": "2114544921990582572",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：NVDA 投資 AI 影片新創 Higgsfield",
+"risk": "新聞",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n recently invested in AI video startup Higgsfield",
+"likes": 150
+},
+{
+"id": "2114557736100958477",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：MELI 基本面佳，但南美政治難預測",
+"risk": "政治風險",
+"s": {
+"MELI": "bear"
+},
+"text": "$MELI\n fundamentals are excellent but today is a great explanation for why investors ignore them.\n\nSouth American politics are too unpredictable.",
+"likes": 92
+},
+{
+"id": "2114689493026705680",
+"author": "zephyr_z9",
+"date": "2026-10-26",
+"zh": "Zephyr：NBIS 執行長稱上週起新雲債務市場暫時關閉",
+"risk": "融資管道受阻",
+"s": {
+"NBIS": "bear"
+},
+"text": "$NBIS CEO Arkady Volozh Says Debt Markets Closed for Neoclouds Since Last Week\n\n\"We have a pretty healthy balance sheet. We always thought about being more conservative here. We used all kinds of instruments. From last week, probably some of the capital sources are temporarily",
+"likes": 31
 }
 ]
