@@ -16442,7 +16442,7 @@
 "XOM": "neutral"
 },
 "text": "This is what ChatGPT's stock portfolio looks like right now in the Rallies AI Arena\n\n$28,860 of Google \n$GOOGL\n (+11.9% )\n$22,810 of Progressive \n$PGR\n (+12.4% )\n$21,093 of Leidos \n$LDOS\n (+15.6% )\n$20,456 of Visa \n$V\n (+24.4% )\n$19,950 of Cigna \n$CI\n (+9.4% )\n$18,332 of Exxon Mobil \n$XOM\n (+27.3% )\n$15,557 of Amphenol \n$APH\n (+12.4% )\n$11,081 of Credo \n$CRDO\n (+25.8% )\n$9,947 of JPMorgan \n$JPM\n (+11.2% )\n$6,035 of Lockheed Martin \n$LMT\n (+7.1% )\n$819.27 of available cash",
-"likes": 227
+"likes": 228
 },
 {
 "id": "2114017279759593929",
@@ -16540,7 +16540,7 @@
 "NVDA": "bull"
 },
 "text": "It costs ~160% more to rent one of Nvidia's \n$NVDA\n H200 chips from 2024 today than it costed at the start of the year - A16Z",
-"likes": 311
+"likes": 312
 },
 {
 "id": "2114141470294950133",
@@ -16606,7 +16606,7 @@
 "VOO": "neutral"
 },
 "text": "Investors put more than $7 Billion into \n$VOO\n this past week",
-"likes": 232
+"likes": 233
 },
 {
 "id": "2114350478943207666",
@@ -16687,7 +16687,7 @@
 "IREN": "bear"
 },
 "text": "$IREN\n at 2021 IPO:\n• $28/share\n• 55M shares out \n• $59M revenue (FY22)\n• 1.5B Market Cap\n\n\n$IREN\n today:\n• ~$25/share\n• 357M shares out\n• $707M revenue (FY26)\n•  $10B Market Cap",
-"likes": 689
+"likes": 764
 },
 {
 "id": "2114413696189657328",
@@ -16710,7 +16710,7 @@
 "TER": "neutral"
 },
 "text": "THIS WEEK DECIDES THE AI TRADE.\n\nMonday\n• \n$CDNS\n: software designing every AI chip\n• \n$AMKR\n: packages + tests chips\n\nTuesday\n• \n$STX\n: hard drives storing AI data\n• \n$TER\n: tests chips\n\nWednesday\n• FOMC: (94% maintain per \n@Kalshi\n )\n• \n$MSFT\n: Spending $175B on AI in 2026\n• \n$GOOGL\n: Spending $200B on AI in 2026\n• \n$KLAC\n: inspects chips to catch defects\n• \n$GEV\n: gas turbines powering data centers\n\nThursday\n• \n$AMZN\n: Spending $220B on AI in 2026\n• \n$INTC\n: The US Chip Factory \n• \n$SNDK\n: Memory for AI data centers\n• \n$AXTI\n: wafers for optical networking\n\nGood luck in Nasdaqistan.",
-"likes": 212
+"likes": 236
 },
 {
 "id": "2114422551372017880",
@@ -16736,6 +16736,18 @@
 },
 "text": "The Anthropic IPO is coming soon\n\nFor those who don't know, yes, this is 2026 ... there will be 2x long and 2x short Anthropic ETFs launched soon after the IPO\n\nSo for the people who trade 2x ETFs, here's what the 2x Anthropic tickers from my sponsors over at TradrETFs will be \n\n- 2x Long Anthropic: $ANTT \n- 2x Short Anthropic: $ATNZ \n\nAs always these leveraged ETFs are made for short term traders and not long term investors",
 "likes": 50
+},
+{
+"id": "2114460029361467751",
+"author": "michaelsikand",
+"date": "2026-10-25",
+"zh": "Michael Sikand：調查顯示 NBIS 是散戶最高信心持股",
+"risk": "新雲資本需求大",
+"s": {
+"NBIS": "bull"
+},
+"text": "My survey reveals \n$NBIS\n is retail's highest conviction stock pick.\n\nPretty interesting to see the passion here because neoclouds are the most debated sector of AI right now due to their massive capital needs.",
+"likes": 174
 },
 {
 "id": "2114475803593629846",
@@ -16787,7 +16799,7 @@
 "MSFT": "neutral"
 },
 "text": "Microsoft \n$MSFT\n is back to having a larger market cap than Google \n$GOOGL\n \n\nMicrosoft is back to being the 3rd largest stock in the world",
-"likes": 349
+"likes": 440
 },
 {
 "id": "2114537602745512015",
@@ -16811,7 +16823,7 @@
 "NVDA": "neutral"
 },
 "text": "Nvidia \n$NVDA\n recently invested in AI video startup Higgsfield",
-"likes": 150
+"likes": 164
 },
 {
 "id": "2114557736100958477",
@@ -16835,6 +16847,252 @@
 "NBIS": "bear"
 },
 "text": "$NBIS CEO Arkady Volozh Says Debt Markets Closed for Neoclouds Since Last Week\n\n\"We have a pretty healthy balance sheet. We always thought about being more conservative here. We used all kinds of instruments. From last week, probably some of the capital sources are temporarily",
-"likes": 31
+"likes": 134
+},
+{
+"id": "2114696634240049243",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：META 計畫發新股募資約 950 億美元支應 AI 建設",
+"risk": "股權稀釋",
+"s": {
+"META": "bear"
+},
+"text": "META \n$META\n JUST ANNOUNCED PLANS TO RAISE ~$95B BY SELLING NEW STOCK\n\nIt's starting with about $35B now: $22.5B of common stock and $12.5B of convertible preferred stock. Then it plans a separate $60B program to sell its new non-voting Class C shares once they start trading, likely in Q1 2027.\n\nNvidia, AMD, and Broadcom have indicated interest in buying up to $5B of the stock.\n\nMeta says the money will help fund its AI buildout.",
+"likes": 198
+},
+{
+"id": "2114699344410521628",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：SpaceX 與 Apollo 簽 400 億美元表外租賃購買 NVDA 晶片",
+"risk": "表外負債",
+"s": {
+"APO": "neutral",
+"SPCX": "neutral"
+},
+"text": "SPACEX \n$SPCX\n JUST SIGNED A $40B LEASE DEAL WITH APOLLO \n$APO\n TO PAY FOR AI CHIPS\n\nThe money will help SpaceX buy Nvidia chips, per Bloomberg. The deal is structured as private bonds issued by a separate entity that stays off SpaceX's balance sheet.\n\nIt's expected to close before year-end, with the leases starting in the first half of 2027. The interest rate hasn't been set yet.",
+"likes": 207
+},
+{
+"id": "2114710307322876370",
+"author": "ren_stocks",
+"date": "2026-10-26",
+"zh": "Ren：新雲悲觀情緒中，馬斯克自建 AI 雲反而驗證新雲模式",
+"risk": "融資環境收緊",
+"s": {
+"NBIS": "bull",
+"SPCX": "bull"
+},
+"text": "$NBIS\n \n$SPCX\n\n\nOn all the doom and gloom around neoclouds this week, there are two things at play.\n\nFirst, the neocloud business if anything is getting validated. \n\nElon has a habit of getting into the businesses that end up mattering most for humanity. The neocloud model has always been looked down on as just a middleman of Nvidia, but now that compute is at the center of everything, even he realizes he needs his own AI cloud, and even his own chips so he no longer depends on Nvidia.\n\nSecond, he's running a campaign that could tank sentiment around the trade…\n\nTo be honest, the only thing that actually worries me is the cost of borrowing to build out the 5GW. It's not a deal breaker, but it could mean NBIS has a harder time getting good financing terms, especially in the short term. Then again, just 4 days ago they got better terms than most trillion-dollar companies.\n\nThe next couple of weeks should give us a good read on what's most likely to happen, with hyperscaler earnings, the Fed and the midterms all coming up.\n\nIf you're new here, or have only been investing for a short time, this is what PEAK FEAR LOOKS LIKE. Get used to it.\n\nKnow what you hold. \n\nWe're coming in hot, and I expect NBIS to beat and raise next week",
+"likes": 131
+},
+{
+"id": "2114720717875093635",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：SpaceX 收購 Tesla 消息推升 TSLA 漲 5.8%，但 IV 偏低易均值回歸，不建議追",
+"risk": "追高風險",
+"s": {
+"SPCX": "neutral",
+"TSLA": "bear"
+},
+"text": "$SPCX\n 收购 \n$TSLA\n 的新闻持续，$TSLA 大涨5.8%。但不建议再这样跳涨6%以后去追。因为 \n$TSLA\n 的IV还是低，他这么低，意味着多日的波动会指向更低，比较容易中值回归。",
+"likes": 21
+},
+{
+"id": "2114722691307479144",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：Apple 發表 OLED iPad mini，起價升至 699 美元",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "APPLE \n$AAPL\n JUST UNVEILED A NEW IPAD MINI WITH AN OLED SCREEN\n\nIt starts at $699, up from $599 for the last model, per Bloomberg.\n\n- 8.5-inch OLED display, up from 8.3 inches\n- First iPad that's water and dust resistant (IP67)\n- 14% thinner and 13% lighter\n- New A20 Pro chip\n- Up",
+"likes": 127
+},
+{
+"id": "2114741688400859305",
+"author": "ren_stocks",
+"date": "2026-10-26",
+"zh": "Ren：Anthropic S-1 營收 2026 上半年 163 億、淨留存約 900%，AI 需求未見頂",
+"risk": "估值未知",
+"s": {
+"ANT": "bull"
+},
+"text": "Anthropic filed its S-1. Ticker: $ANT on Nasdaq.\n\nThe numbers are wild:\n\nRevenue: $386M in 2024, $4.6B in 2025, and $16.3B in just the first half of 2026\nQ2 revenue up ~1,370% YoY\n~250 customers paying $10M+ a year, and 1,900+ paying $1M+\nNet revenue retention of ~900%\n$112B in cash\n\nIt runs on AWS Trainium, Google TPUs, Nvidia and AMD GPUs, and most of the committed spend is scheduled between 2031 and 2045.\n\nAnyone calling peak AI demand should read the part where the compute contracts run into the 2040s.\n\nI still think the $1.5T valuation they’re after is too high for an IPO, so I’ll do the proper thing: short the IPO pop, then go long forever in my retirement account.",
+"likes": 55
+},
+{
+"id": "2114748010387353718",
+"author": "KawzInvests",
+"date": "2026-10-26",
+"zh": "KawzInvests：Anthropic 10 月 ARR 重新加速",
+"risk": "尚未上市",
+"s": {
+"ANT": "bull"
+},
+"text": "October ARR is reaccelerating. $ANT",
+"likes": 75
+},
+{
+"id": "2114748387014635874",
+"author": "unusual_whales",
+"date": "2026-10-26",
+"zh": "Unusual Whales：META 計畫發股募資 950 億美元，CDS 上週創新高",
+"risk": "融資疑慮",
+"s": {
+"META": "bear"
+},
+"text": "Meta, \n$META\n, plans to raise up to $95 billion through a series of stock sales to fund its AI infrastructure buildout, per The Wall Street Journal.\n\nMeta’s credit default swaps also hit a record high last week, as investors grow wary of how the AI buildout is being financed.",
+"likes": 141
+},
+{
+"id": "2114750103391232461",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：MSFT 向約 6 萬名員工提供自願離職方案",
+"risk": "新聞",
+"s": {
+"MSFT": "neutral"
+},
+"text": "Microoft \n$MSFT\n is offering around 60,000 employees voluntary buyouts - CNBC",
+"likes": 108
+},
+{
+"id": "2114753785067397274",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：沙烏地阿美市值重新超越 META",
+"risk": "新聞",
+"s": {
+"META": "neutral"
+},
+"text": "Saudi Aramco is back to having a larger market cap than Meta Platforms \n$META",
+"likes": 74
+},
+{
+"id": "2114758299526816215",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：回覆提到持有 GOOG 與 AMZN",
+"risk": "語境不明",
+"s": {
+"AMZN": "neutral",
+"GOOG": "neutral"
+},
+"text": "有 \n$GOOG\n 和 \n$AMZN",
+"likes": 1
+},
+{
+"id": "2114762394622906692",
+"author": "unusual_whales",
+"date": "2026-10-26",
+"zh": "Unusual Whales：MSFT 向約 6 萬名員工提供離職方案以降本",
+"risk": "新聞",
+"s": {
+"MSFT": "neutral"
+},
+"text": "BREAKING: Microsoft, \n$MSFT\n, is offering buyouts to around 60,000 employees, according to reports from Business Insider and Bloomberg. \n\nThe move marks Microsoft’s latest efforts to cut costs and rework its workforce for AI.\n\nEmployees at the vice president level and below on select teams in the U.S., Canada, India, and the U.K. will be eligible, the reports say. Some employees, including those working in data centers, sales and marketing, are excluded.",
+"likes": 1409
+},
+{
+"id": "2114767495576072239",
+"author": "unusual_whales",
+"date": "2026-10-26",
+"zh": "Unusual Whales：MSFT 漲 1% 至 530，財報前買權淨流入 2,200 萬",
+"risk": "財報週三盤後",
+"s": {
+"MSFT": "bull"
+},
+"text": "Look at this.\n\nMicrosoft offers buyouts to 60,000 employees.\n\n\n$MSFT\n up 1% to $530.\n\nEarnings are this Wednesday after the close.  \n\nDark pool volume is stacked right at $530, with the biggest prints sitting near $495 from mid-Sept.\n\nNet call flow is climbing into the print (+$22M) while put flow stays flat.",
+"likes": 162
+},
+{
+"id": "2114770532742971566",
+"author": "unusual_whales",
+"date": "2026-10-26",
+"zh": "Unusual Whales：INTC 獲 New Street 升評漲 6%，週四財報，90 美元有支撐",
+"risk": "財報週四",
+"s": {
+"INTC": "bull"
+},
+"text": "$INTC\n up 6% to $91.82.\n\nThere was a New Street upgrade ($125 PT), and earnings Thursday .\n\nGEX heatmap: positive gamma at $90 could act as support.\n\nNegative gamma at $91–92 sits right overhead and could add fuel on a breakout. Next big positive wall: $100.",
+"likes": 79
+},
+{
+"id": "2114772812116226080",
+"author": "ren_stocks",
+"date": "2026-10-26",
+"zh": "Ren：Anthropic token 價格創低、用量翻四倍，傑文斯悖論支撐新雲",
+"risk": "算力價格可能回落",
+"s": {
+"ANT": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n $ANT\n\nThis is the Jevons paradox playing out in real time.\n\nAnthropic just hit its lowest token prices ever. \n\nOver the same stretch, daily usage of its models on OpenRouter roughly quadrupled, from about 0.7T tokens a day to about 2.8T.\n\nEvery one of those tokens runs on a GPU somewhere, which is why rents on the newest chips are up since May even as tokens get cheaper.\n\nThat’s the whole neocloud thesis anyway.\n\nThe cheaper AI gets, the more use cases it makes sense for, and the fuller the GPUs stay.",
+"likes": 72
+},
+{
+"id": "2114790755911016946",
+"author": "DJTRadar",
+"date": "2026-10-26",
+"zh": "DJT Radar：INTC 自 7 月以來首度低於裴洛西買價 92.32",
+"risk": "跟單資訊",
+"s": {
+"INTC": "neutral"
+},
+"text": "For the first time since July, you can buy Intel \n$INTC\n cheaper than Nancy Pelosi did.\n\nHer entry: $92.32. Today: $91.89",
+"likes": 83
+},
+{
+"id": "2114791006579364084",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：Anthropic S-1 顯示其現金將多於全球任何科技公司",
+"risk": "尚未上市",
+"s": {
+"ANT": "bull"
+},
+"text": "The craziest stat from the $ANT S-1 is that it will have more cash than any other tech company on earth.",
+"likes": 68
+},
+{
+"id": "2114803500118884677",
+"author": "unusual_whales",
+"date": "2026-10-26",
+"zh": "Unusual Whales：Anthropic 將向 SpaceX 採購最高 1,205 億美元算力",
+"risk": "合約期長",
+"s": {
+"NVDA": "bull",
+"SPCX": "bull"
+},
+"text": "Anthropic has agreed to spend up to $120.5 billion on computing power from SpaceX, \n$SPCX\n, according to its IPO filing.\n\nThe deals are with SpaceX’s AI unit and give Anthropic access to Nvidia, \n$NVDA\n, chips.\n\nIt’s part of the up to $750 billion Anthropic has signaled it could spend on computing capacity in the coming years.",
+"likes": 187
+},
+{
+"id": "2114805918399357240",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：Grok 在 Rallies 競技場仍有過半資金押 MU",
+"risk": "AI 模擬組合",
+"s": {
+"MU": "neutral"
+},
+"text": "Grok still has more than 50% of its portfolio in the \n@ralliesarena\n in Micron \n$MU\n stock",
+"likes": 26
+},
+{
+"id": "2114812223621083637",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：INTC 收購量子軟體公司 Classiq",
+"risk": "新聞",
+"s": {
+"INTC": "neutral"
+},
+"text": "Intel \n$INTC\n has agreed to acquire Classiq Technologies\n\n\"Classiq customers use its technology to create code that can be tested and run on any type of quantum hardware\"\n\nTerms of the deal were not disclosed - Bloomberg",
+"likes": 18
 }
 ]
