@@ -8025,5 +8025,33 @@
 },
 "text": "@siddhrts I used to spend a lot of time inside $AMZN offices... so I do understand the lack of food availability firsthand.\n\nDespite making so much money, they even limited coffee to once a day.\n\nBro when I visited $META, they had all you can eat buffets like you see in Vegas or Cruise Ships.",
 "likes": 59
+},
+{
+"id": "2114213351060554010",
+"date": "2026-10-25",
+"zh": "黃仁勳稱 scale-up 轉光學後光通訊總量將增約 15 倍、未來需求高出數個數量級；作者認為 CW 雷射已是瓶頸、擴產跟不上，可能引發搶貨與漲價，利多 LITE、COHR 等雷射廠。",
+"risk": "擴產追上後報價回落",
+"s": {
+"COHR": "bull",
+"LITE": "bull",
+"NVDA": "neutral"
+},
+"text": "$NVDA\n Jensen Huang on photonics: adding scale-up to optical domain, “is going to be, well, 15x” to aggregate volume.\n\nRelating to \n$LITE\n, \n$COHR\n, and laser companies.. \n\n“I'm fairly certain the amount of optics that we need in the future will be several orders of magnitude” Huang added.\n\nWe’re already in a CW laser bottleneck, but given the time/rate for capacity expansion, I definitely don’t see it meeting the scale Jensen envisions…\n\nYour leading merchant suppliers focusing new capacity toward UHP CPO lasers might also unintentionally make shortages around lower end ranges more severe…\n\nSince even if you don’t reallocate capacity (which Coherent implied they’d do to maximize margins), the demand for lower end ranges increase too as pluggable demand grows.\n\nAnyway, you’re gonna need a lot of lasers and given low BOM cost… this might trigger some fun game theory allocation wars + price hikes for supply",
+"likes": 1107
+},
+{
+"id": "2114477224208535600",
+"date": "2026-10-25",
+"zh": "作者批評 X 平台擁有者常放大與其 SPCX、TSLA 利益衝突公司的崩盤敘事，不利草根財經討論。",
+"risk": "",
+"s": {
+"AVGO": "neutral",
+"META": "neutral",
+"NVDA": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests conflict with his own at \n$SPCX\n or \n$TSLA\n.\n\nWould people be comfortable if \n$NVDA\n Jensen Huang owned \n$META\n? \n\nAnd then the timelines were dominated by his amplified narratives of \n$AVGO\n failing? \n\nI can't see how that would be healthy for grassroots discussion.",
+"likes": 1451
 }
 ]
