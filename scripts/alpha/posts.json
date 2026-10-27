@@ -16387,6 +16387,18 @@
 "likes": 13
 },
 {
+"id": "2113807071514951982",
+"author": "ren_stocks",
+"date": "2026-10-24",
+"zh": "Ren：AWS 2027 年全年算力售罄，還看空 AMZN？",
+"risk": "資本支出壓力",
+"s": {
+"AMZN": "bull"
+},
+"text": "$AMZN\n cloud computing is sold out FOR THE ENTIRETY OF 2027 and you are bearish? \n\nBruh",
+"likes": 393
+},
+{
 "id": "2113870888349397022",
 "author": "Balder13946731",
 "date": "2026-10-24",
@@ -16410,6 +16422,19 @@
 },
 "text": "Amazon \n$AMZN\n CEO Andy Jassy said Amazon Web Services is largely sold out for 2027\n\n\"26 is obviously at this point sold out. '27 is largely sold out. We always leave a certain amount for on demand in our inference service Bedrock or EC2, but largely sold out. All the big chunks. A",
 "likes": 326
+},
+{
+"id": "2114003628885262820",
+"author": "ren_stocks",
+"date": "2026-10-24",
+"zh": "Ren：期中選舉前 TACO 行情，S&P 預估本益比 18.5 倍低於 5、10 年均值",
+"risk": "政策反覆",
+"s": {
+"QQQ": "bull",
+"SPY": "bull"
+},
+"text": "$SPY\n \n$QQQ\n\n\nIt's TACO time \n\nServed hot before the midterms, for maximum impact.\n\nThe S&P now trades at 18.5x forward earnings, below both its 5-year (19.9x) and 10-year (19.2x) averages.\n\nThe cheapest since the April 2025 tariff low.",
+"likes": 242
 },
 {
 "id": "2114006258336346175",
@@ -16491,6 +16516,18 @@
 },
 "text": "$MU\n one year ago:\n• ~$198/share\n• $11.3B quarterly revenue\n• ~24x trailing earnings\n\n\n$MU\n today:\n• ~$878/share\n• $54.2B quarterly revenue\n• ~11.6x trailing earnings\n\nStock up 4x and it got cheaper.",
 "likes": 639
+},
+{
+"id": "2114071408892637678",
+"author": "ren_stocks",
+"date": "2026-10-24",
+"zh": "Ren：恭喜黃仁勳取得柔道黑帶",
+"risk": "無實質觀點",
+"s": {
+"NVDA": "neutral"
+},
+"text": "$NVDA\n\n\nBlack belt in accelerated computing. \nNow black belt in judo.\n\nCongrats \n@JensenHuang",
+"likes": 17
 },
 {
 "id": "2114103031575048519",
@@ -16750,6 +16787,20 @@
 "likes": 174
 },
 {
+"id": "2114472102162317516",
+"author": "unusual_whales",
+"date": "2026-10-25",
+"zh": "Unusual Whales：moomoo 成為 X Cashtag 合作夥伴（業配）",
+"risk": "業配",
+"s": {
+"AAPL": "neutral",
+"MU": "neutral",
+"NVDA": "neutral"
+},
+"text": "BREAKING: moomoo is now an official X Cashtag partner.   \n\nTap or search any ticker in your feed like \n$AAPL\n, \n$NVDA\n, or \n$MU\n to trade.  \n\nNew users get up to $1,000 in NVDA, $200 in trading coupons, 8.1% APY on idle cash. Terms & Conditions apply.  \n\nClick below to learn more.",
+"likes": 78
+},
+{
 "id": "2114475803593629846",
 "author": "ren_stocks",
 "date": "2026-10-25",
@@ -16775,6 +16826,42 @@
 },
 "text": "South Korea went from the world's hottest stock market to the cheapest ever.\n\n• KOSPI down 35%+ from its June peak\n• ~4x fwd earnings, lowest of major markets since 2006\n• Goldman cut its target to 9,000 from 12,000 but that still implies 60% upside\n\n\n$EWY\n \n$SKHY\n \n$DRAM",
 "likes": 79
+},
+{
+"id": "2114512722780131618",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：AZN 準備申請新一批標靶抗癌藥",
+"risk": "新聞",
+"s": {
+"AZN": "neutral"
+},
+"text": "AstraZeneca \n$AZN\n is readying to file the first of a new portfolio of targeted cancer drugs for regulatory approval - WSJ",
+"likes": 165
+},
+{
+"id": "2114513872619286636",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：巴西 ETF EWZ 盤後開盤跌近 20%",
+"risk": "政治風險",
+"s": {
+"EWZ": "bear"
+},
+"text": "The Brazil  ETF \n$EWZ\n just opened overnight trading down by almost 20%",
+"likes": 1546
+},
+{
+"id": "2114519765742178476",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：SpaceX 確認完成 400 億美元債務發行",
+"risk": "新聞",
+"s": {
+"SPCX": "neutral"
+},
+"text": "This is the first time we have received confirmation that SpaceX \n$SPCX\n has completed its $40 Billion debt offering",
+"likes": 185
 },
 {
 "id": "2114526395690881329",
@@ -16875,6 +16962,54 @@
 "likes": 207
 },
 {
+"id": "2114699759143600223",
+"author": "octopusycc",
+"date": "2026-10-26",
+"zh": "大老师：上週財報預測 6 中 5，本週將分析 GOOG、MSFT、AMZN 等",
+"risk": "預測未公開",
+"s": {
+"AMZN": "neutral",
+"GOOG": "neutral",
+"HOOD": "neutral",
+"IBM": "neutral",
+"INTC": "neutral",
+"LRCX": "neutral",
+"META": "neutral",
+"MSFT": "neutral",
+"SKHY": "neutral",
+"SNDK": "neutral",
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "上周财报预测6中5（ \n$TSLA\n \n$META\n  \n$LRCX\n \n$IBM\n \n$SPCX\n )\n本周继续 挖掘 \n$GOOG\n \n$MSFT\n \n$MSFT\n \n$AMZN\n \n$HOOD\n \n\n$INTC\n \n$SNDK\n \n$SKHY\n \n\nAnthropic上市前夕，这些股票会给我们带来什么样的惊喜/惊吓呢？\n\n我也会在OKX星球上分享我的财报观点\n\n\n@okxchinese\n  \n@star_okx\n  \n@Haiteng_okx\n  \n@Jiajia_OKX\n \n\n#OKX美股财报季",
+"likes": 7
+},
+{
+"id": "2114707109551964231",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：Anthropic 向 SpaceX 採購最高 1,205 億美元 NVDA 算力，月付約 31 億",
+"risk": "90 天通知可取消",
+"s": {
+"NVDA": "bull",
+"SPCX": "bull"
+},
+"text": "ANTHROPIC AGREED TO SPEND UP TO $120.5B ON COMPUTE FROM SPACEX \n$SPCX\n\n\nThe deals are with SpaceX's AI unit, for access to Nvidia \n$NVDA\n chips\n\nOnce all the capacity is delivered, expected in December 2026, Anthropic will pay about $3.1B a month. The deals run into 2029.\n\nAfter early periods ending in January and March 2027, either side can cancel with 90 days' notice.",
+"likes": 1176
+},
+{
+"id": "2114708355013062776",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：Anthropic 營收暴增 13 倍，但今年虧損恐達 1,500 億美元創紀錄",
+"risk": "鉅額虧損",
+"s": {
+"ANT": "bear"
+},
+"text": "Anthropic 将以 $ANT 上市\n\n其2026年前6个月的收入为163亿美元，去年6个月是12亿美元，增加13倍\n\n但是其在23，24，25以及今年前半年亏损了15亿，83亿，420亿以及807亿🫪\n\n这意味着今年亏损可能高达至少1500亿🫪🫪 创下有史以来最高的公司亏损纪录。",
+"likes": 64
+},
+{
 "id": "2114710307322876370",
 "author": "ren_stocks",
 "date": "2026-10-26",
@@ -16886,6 +17021,19 @@
 },
 "text": "$NBIS\n \n$SPCX\n\n\nOn all the doom and gloom around neoclouds this week, there are two things at play.\n\nFirst, the neocloud business if anything is getting validated. \n\nElon has a habit of getting into the businesses that end up mattering most for humanity. The neocloud model has always been looked down on as just a middleman of Nvidia, but now that compute is at the center of everything, even he realizes he needs his own AI cloud, and even his own chips so he no longer depends on Nvidia.\n\nSecond, he's running a campaign that could tank sentiment around the trade…\n\nTo be honest, the only thing that actually worries me is the cost of borrowing to build out the 5GW. It's not a deal breaker, but it could mean NBIS has a harder time getting good financing terms, especially in the short term. Then again, just 4 days ago they got better terms than most trillion-dollar companies.\n\nThe next couple of weeks should give us a good read on what's most likely to happen, with hyperscaler earnings, the Fed and the midterms all coming up.\n\nIf you're new here, or have only been investing for a short time, this is what PEAK FEAR LOOKS LIKE. Get used to it.\n\nKnow what you hold. \n\nWe're coming in hot, and I expect NBIS to beat and raise next week",
 "likes": 131
+},
+{
+"id": "2114715268928635305",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：更正 2 倍放空 Anthropic ETF 代號為 ANTZ（業配）",
+"risk": "業配",
+"s": {
+"ANTZ": "neutral",
+"ATNZ": "neutral"
+},
+"text": "The 2x Short Anthropic will be $ANTZ not $ATNZ my bad",
+"likes": 6
 },
 {
 "id": "2114720717875093635",
@@ -16911,6 +17059,55 @@
 },
 "text": "APPLE \n$AAPL\n JUST UNVEILED A NEW IPAD MINI WITH AN OLED SCREEN\n\nIt starts at $699, up from $599 for the last model, per Bloomberg.\n\n- 8.5-inch OLED display, up from 8.3 inches\n- First iPad that's water and dust resistant (IP67)\n- 14% thinner and 13% lighter\n- New A20 Pro chip\n- Up",
 "likes": 127
+},
+{
+"id": "2114724545428853193",
+"author": "KawzInvests",
+"date": "2026-10-26",
+"zh": "KawzInvests：Anthropic S-1 稱算力長期供不應求，晶片、HBM 供應吃緊",
+"risk": "需求預期過高",
+"s": {
+"AMD": "bull",
+"AMZN": "bull",
+"ANT": "bull",
+"AVGO": "bull",
+"GOOGL": "bull",
+"MSFT": "bull",
+"MU": "bull",
+"NVDA": "bull",
+"SKHY": "bull",
+"TSM": "bull"
+},
+"text": "The numbers in Anthropic’s S-1 are hard to ignore. $ANT\n\nThe S-1 went public this morning. Everything below is quoted straight from it.\n\nOn demand vs supply:\n“we have historically operated in a compute-constrained environment in which demand for compute has exceeded the supply available to us.”\n\nOn \n$TSM\n:\n“we have not always been able to obtain sufficient quantities of chips on a timely basis.”\n\nOn memory, HBM is “largely manufactured by SK hynix Inc., Samsung Electronics Co., and Micron Technology, Inc.” \n$SKHY\n \n$MU\n \n\nOn data center equipment:\nPower, cooling, generators and networking gear “must be ordered years in advance” and “require substantial pre-delivery payments that we may not recover if our plans change.”\n\nThen look at the disclosed compute agreements:\n\n> \n$AVGO\n ~$161.2B in five-year leases for TPU capacity\n> \n$GOOGL\n at least $114.5B through 2033\n> \n$AMZN\n at least $110.0B through 2036\n> \n$MSFT\n at least $44.9B through 2033\n> \n$NVDA\n GPUs through SpaceXAI (up to $120.5B), Nscale (~$44.6B) and Lambda (~$41.3B)\n> \n$AMD\n Helios racks, over $20B if fully procured\n\nRevenue grew 1,368% YoY in Q2. Compute and infrastructure expense grew 300%. Net revenue retention is ~900%.",
+"likes": 44
+},
+{
+"id": "2114727243721400674",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：Anthropic 淨留存率 900%，是 PLTR 的 6 倍",
+"risk": "估值未知",
+"s": {
+"ANT": "bull",
+"PLTR": "neutral",
+"SNOW": "neutral"
+},
+"text": "$ANT S-1: NET REVENUE RETENTION IS 900%\n\nThis means customers who were paying Anthropic a year ago now spend about 9x as much.\n\nThat's 6x higher than any public software company. \n$PLTR\n leads at 157%, \n$SNOW\n follows at 126%.",
+"likes": 104
+},
+{
+"id": "2114737567778173126",
+"author": "KawzInvests",
+"date": "2026-10-26",
+"zh": "KawzInvests：Anthropic 向 SEC 揭露模型曾抗拒關機、具生化武器風險",
+"risk": "監管風險",
+"s": {
+"AMZN": "neutral",
+"GOOG": "neutral",
+"MSFT": "neutral"
+},
+"text": "Anthropic just told the SEC its AI models have tried to resist shutdown and shown behavior resembling blackmail.\n\nIt also says its most capable models have shown capabilities that could meaningfully help someone build chemical or biological weapons.\n\nOn model behavior:\n“models, including our own, have exhibited, and may in the future exhibit, unexpected strategic or self-preserving behaviors, including attempts to resist shutdown, conceal or manipulate information... including behavior resembling blackmail”\n\nOn testing:\n“following incidents in 2026 in which our models gained unauthorized access to real computer systems during pre-release cybersecurity evaluations, we suspended certain of those evaluations”\n\nOn weapons:\n“our most capable models have demonstrated, and future models are expected to demonstrate, capabilities that could provide meaningful assistance to malicious actors seeking to develop chemical, biological, or other dangerous weapons.”\n\nOn their own understanding:\n“we may be unable to anticipate or understand such behaviors in the future.”\n\nOn insurance:\n“no single insurer, and potentially the insurance industry in the aggregate, may have sufficient capacity or expertise to underwrite insurance commensurate with such exposure.”\n\nThey also delayed pre-training a new frontier model by more than a month to tighten security against weight theft. \n$AMZN\n \n$GOOG\n \n$MSFT",
+"likes": 34
 },
 {
 "id": "2114741688400859305",
@@ -17059,6 +17256,125 @@
 "likes": 68
 },
 {
+"id": "2114796549800865902",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：Anthropic 上市後 180 天內將解禁 30% 流通股",
+"risk": "解禁賣壓",
+"s": {
+"ANT": "neutral"
+},
+"text": "This is what the Anthropic $ANT IPO unlock will look like\n\n30% of the float will be unlocked within the first 180 days",
+"likes": 129
+},
+{
+"id": "2114799340870881719",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：今日創 52 週新低名單，含 NFLX、APP、CRWV、IREN 等",
+"risk": "名單非觀點",
+"s": {
+"APLD": "neutral",
+"APP": "neutral",
+"BBD": "neutral",
+"BBDO": "neutral",
+"BSBR": "neutral",
+"CBRE": "neutral",
+"CDE": "neutral",
+"CIG": "neutral",
+"CRS": "neutral",
+"CRWV": "neutral",
+"FSLR": "neutral",
+"GGAL": "neutral",
+"GGG": "neutral",
+"GLXY": "neutral",
+"GRAB": "neutral",
+"HDB": "neutral",
+"IREN": "neutral",
+"KEP": "neutral",
+"KGC": "neutral",
+"KT": "neutral",
+"LTM": "neutral",
+"NFLX": "neutral",
+"NIO": "neutral",
+"RIVN": "neutral",
+"SE": "neutral",
+"SFD": "neutral",
+"TIMB": "neutral",
+"TKO": "neutral",
+"TMUS": "neutral",
+"VIV": "neutral",
+"XP": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nNetflix \n$NFLX\n \nAppLovin \n$APP\n\nRivian \n$RIVN\n \nXP \n$XP\n\nCoreWeave \n$CRWV\n \nNIO \n$NIO\n \nIREN \n$IREN\n\nGrab \n$GRAB\n\nCoeur Mining \n$CDE\n\nCemig \n$CIG\n\nApplied Digital \n$APLD\n\nSantander Brasil \n$BSBR\n\nSea \n$SE\n\nT-Mobile \n$TMUS\n\nHDFC Bank \n$HDB\n\nBanco Bradesco \n$BBD\n\nGalaxy Digital \n$GLXY\n\nTelefônica Brasil \n$VIV\n\nLATAM Airlines \n$LTM\n\nKinross Gold \n$KGC\n\nTIM Brasil \n$TIMB\n\nCBRE \n$CBRE\n\nSmithfield Foods \n$SFD\n\nCarpenter \n$CRS\n\nGrupo Galicia \n$GGAL\n\nFirst Solar \n$FSLR\n\nKT \n$KT\n\nGraco \n$GGG\n\nBanco Bradesco \n$BBDO\n\nTKO \n$TKO\n\nKorea Electric Power \n$KEP",
+"likes": 257
+},
+{
+"id": "2114800905245577532",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：DoorDash 傳洽購 Instacart 進入後期",
+"risk": "交易未定",
+"s": {
+"CART": "neutral",
+"DASH": "neutral"
+},
+"text": "DoorDash \n$DASH\n is reportedly in advanced talks to acquire Instacart \n$CART\n - WSJ",
+"likes": 106
+},
+{
+"id": "2114803180319969651",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：今日創 52 週新高名單，含 XOM、CVX 等能源股",
+"risk": "名單非觀點",
+"s": {
+"ANF": "neutral",
+"BKH": "neutral",
+"BOX": "neutral",
+"CHRD": "neutral",
+"CRL": "neutral",
+"CTAS": "neutral",
+"CVX": "neutral",
+"DBX": "neutral",
+"DOCU": "neutral",
+"EXEL": "neutral",
+"GMAB": "neutral",
+"HALO": "neutral",
+"HAS": "neutral",
+"IFF": "neutral",
+"LNG": "neutral",
+"MMSI": "neutral",
+"MORN": "neutral",
+"NDAQ": "neutral",
+"NSIT": "neutral",
+"NTSK": "neutral",
+"OVV": "neutral",
+"PAA": "neutral",
+"PACS": "neutral",
+"PAGP": "neutral",
+"PAYC": "neutral",
+"PR": "neutral",
+"PSO": "neutral",
+"QLYS": "neutral",
+"R": "neutral",
+"RBRK": "neutral",
+"RPRX": "neutral",
+"RRC": "neutral",
+"SAIC": "neutral",
+"TAK": "neutral",
+"TD": "neutral",
+"TECH": "neutral",
+"THG": "neutral",
+"TTC": "neutral",
+"URBN": "neutral",
+"WCN": "neutral",
+"XOM": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nExxon Mobil \n$XOM\n \nChevron \n$CVX\n\nRange Resources \n$RRC\n\nPermian Resources \n$PR\n\nGenmab \n$GMAB\n\nNetskope \n$NTSK\n\nRubrik \n$RBRK\n\nRoyalty Pharma \n$RPRX\n\nPlains All American \n$PAA\n\nTakeda \n$TAK\n\nBio-Techne \n$TECH\n\nOvintiv \n$OVV\n\nDropbox \n$DBX\n\nBox \n$BOX\n\nNasdaq \n$NDAQ\n\nHasbro \n$HAS\n\nCheniere Energy \n$LNG\n\nWaste Connections \n$WCN\n\nDocuSign \n$DOCU\n\nPlains GP \n$PAGP\n\nInternational Flavors & Fragrances \n$IFF\n\nExelixis \n$EXEL\n\nCintas \n$CTAS\n\nUrban Outfitters \n$URBN\n\nPACS Group \n$PACS\n\nQualys \n$QLYS\n\nCharles River Laboratories \n$CRL\n\nHalozyme \n$HALO\n\nAbercrombie & Fitch \n$ANF\n\nTD Bank \n$TD\n\nBlack Hills \n$BKH\n\nMerit Medical \n$MMSI\n\nChord Energy \n$CHRD\n\nPearson \n$PSO\n\nInsight Enterprises \n$NSIT\n\nPaylocity \n$PAYC\n\nToro \n$TTC\n\nRyder \n$R\n\nSAIC \n$SAIC\n\nMorningstar \n$MORN\n\nHanover Insurance \n$THG",
+"likes": 167
+},
+{
 "id": "2114803500118884677",
 "author": "unusual_whales",
 "date": "2026-10-26",
@@ -17094,5 +17410,223 @@
 },
 "text": "Intel \n$INTC\n has agreed to acquire Classiq Technologies\n\n\"Classiq customers use its technology to create code that can be tested and run on any type of quantum hardware\"\n\nTerms of the deal were not disclosed - Bloomberg",
 "likes": 18
+},
+{
+"id": "2114816907870359587",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：演算法日誌，WDC 平倉獲利 5.35%，其餘 4 筆虧損",
+"risk": "演算法紀錄非建議",
+"s": {
+"WDC": "neutral"
+},
+"text": "平仓获利 1/5 · 最佳 +5.35% \n$WDC\n 342.9→361.25 +5.35%\n\n 平仓亏损 4\n APP 270.03→255.93 -5.22% · IREN 25.4→23.95 -5.71% · NBIS 160.35→150.02 -6.44% · NU 14.62→11.7 -19.94%\n\n 持仓 IBM 251.7→253.44 +0.7%\n\n balder-algo-logs · 龙气 · 10-26 · algo log · not advice",
+"likes": 0
+},
+{
+"id": "2114832375196872892",
+"author": "Balder13946731",
+"date": "2026-10-26",
+"zh": "Balder：10/26 復盤，那指漲 1.11% 領漲，光通訊股 LITE 大漲 8%",
+"risk": "反彈持續性待觀察",
+"s": {
+"QQQ": "bull"
+},
+"text": "【美股复盘 · 10月26日】\n\n**大市**\n\n美股周一全线造好，四大指数同步收高，以科网股为首的纳指表现最为突出。纳指ETF \n$QQQ\n 收报712.20，升1.11%，升幅居四大之首；标普500ETF SPY 收报765.37，升0.71%；罗素小型股ETF IWM 收报276.97，升0.44%；道指ETF DIA 收报522.97，升0.31%，相对落后，反映资金明显偏向成长及科技一端，而非传统工业金融权重。市宽配合指数方向，106只观察股中70只上升、36只下跌，上升股数约为下跌股数的两倍，升势并非仅靠少数超大型权重股拉动。反向杠杆产品全日沽压沉重，做空半导体的 SOXS 急泻8.54%，做空纳指的 SQQQ 挫3.28%，两者跌幅均数倍于相应指数的升幅，侧面印证日内走势反复有限、升幅守得较稳。\n\n**板块**\n\n光通讯及网络设备股一枝独秀，升幅榜近乎被该板块包揽： LITE 暴升8.19%，为全日表现最佳的观察股； AAOI 升6.56%； COHR 升5.83%； CIEN 升4.89%；通讯设备商 NOK 亦升6.14%。半导体设计方面， ARM 升6.19%，为板块内的领涨大型股。电力及能源设备同步造好，燃料电池股 BE 升5.49%。软件股中，数据库供应商 MDB 升4.86%。此外，防务股 LMT 升5.13%，电动车股 TSLA 升5.21%。\n\n沽压则集中于数字资产相关、消费及医药一端，与大市方向背驰。 CRCL 重挫7.07%；加密货币交易平台 COIN 跌2.95%；经纪商 HOOD 跌2.35%，三者同日失色。流媒体股 NFLX 跌2.96%，药业股 MRK 跌3.21%，零售股 TGT 跌2.77%。拉丁美洲数字银行 NU 单日暴泻16.95%，为全日跌幅最大的观察股，表现与整体升市完全脱节。\n\n**焦点**\n\n盘面以外，市场全日的核心议题仍是算力供给的硬约束。亚马逊管理层表示，AWS 2027年的容量已「基本卖光」。卖光本身是需求强劲的证据，但同时意味着该年度的收入上限不再由需求决定，而是由变压器、涡轮机以及何时通电决定；在全行业同时排队的环境下，工期滑一个季度未必只是递延，客户随时转投手上有现成机位的同业。此一叙事的受益方向，与今日光通讯、网络设备及电力设备股的相对强势一致。\n\n融资端的分化亦值得留意。 META 已递交一份不披露规模的 mixed shelf，先将随时发债发股的额度挂上；与此同时，债券市场对缺乏AI数据中心以外收入来源的发行人态度明显收紧。长端利率高企之下，能够顺利融资的往往是最不缺钱的一批，真正缺钱的反而被关在门外——此为未来AI资本开支叙事的主要风险点。\n\n一级市场方面，Anthropic已递交在纳斯达克上市的申请文件，招股书同时列明其技术对人类构成灾难性、生存层面风险的风险提示。此类表述在法律上属标准免责安排，惟就「生存层面风险」一项而言，其现实约束力有限，料成日后定价争议所在。\n\n能源物流方面，沙特近期在新加坡租用油罐储货，等同在油价仍处高位时主动把现货搬到亚洲买家门口；相同手法十余年前曾在冲绳使用。供应方一边维持掐紧水龙头的叙事，一边替客户修通最后一公里管道，此举对后市原油定价权的含义，值得长线留意。\n\n**小结**\n\n全日为一次由科网及算力硬件主导、市宽配合的普涨，惟升势内部分化鲜明：受益于数据中心基建的光通讯、网络设备与电力设备股明显跑出，而数字资产相关、医药及零售则遭沽压。两只反向杠杆产品的跌幅，确认日内并无明显回吐压力。分析指，后市关键在于 QQQ 能否站稳712水平，以及上升股数能否持续维持在七十只以上；若升势继续由单一板块独力支撑，而市宽转弱，则需提防高位反复偏软。卖方对个别大型科技股的目标价区间分歧已明显扩大，亦反映市场对AI资本开支的盈利路径尚未形成共识。",
+"likes": 4
+},
+{
+"id": "2114837334319632893",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：高盛參與今日三筆最大 AI 交易，合計至少 2,100 億美元",
+"risk": "新聞",
+"s": {
+"GS": "bull"
+},
+"text": "GOLDMAN SACHS \n$GS\n WAS A PART OF ALL 3 OF TODAY'S BIGGEST AI MONEY DEALS\n\nThe deals total at least $210B, per Bloomberg:\n\n- Meta's $95B stock sale: co-lead\n- SpaceX's $40B chip financing with Apollo: sole structuring agent\n- Anthropic's IPO: lead-left bookrunner",
+"likes": 178
+},
+{
+"id": "2114843466421432376",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：明日盤後財報名單：HOOD、V、STX、TER 等",
+"risk": "財報事件",
+"s": {
+"BBAI": "neutral",
+"BKR": "neutral",
+"CAKE": "neutral",
+"ENPH": "neutral",
+"EQT": "neutral",
+"HOOD": "neutral",
+"NXPI": "neutral",
+"STX": "neutral",
+"TER": "neutral",
+"V": "neutral",
+"WM": "neutral"
+},
+"text": "Here are a bunch of the largest stocks that report earnings tomorrow after the close\n\nAll these stocks report earnings tomorrow afternoon:\n\nRobinhood \n$HOOD\n \nVisa \n$V\n \nSeagate \n$STX\n \nBigbear \n$BBAI\n \nWaste Management \n$WM\n \nTeradyne \n$TER\n \nEnphase \n$ENPH\n \nNXP Semi \n$NXPI\n \nCheesecake Factory \n$CAKE\n\n\n$EQT\n \nBaker Hugher \n$BKR\n ... and much more",
+"likes": 50
+},
+{
+"id": "2114845589993308603",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：Anthropic 上市熱潮下 NBIS 仍跌很奇怪，看好其團隊取得低成本資金",
+"risk": "融資環境收緊",
+"s": {
+"ANT": "neutral",
+"NBIS": "bull"
+},
+"text": "Strange to see \n$NBIS\n down today despite a wave of AI enthusiasm around the $ANT IPO?\n\nIf there's any neocloud that can continue to attract cheap capital amid high rates and AI anxieties, it's this world class team.",
+"likes": 281
+},
+{
+"id": "2114871545583833321",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：高盛股價五年漲 115%",
+"risk": "新聞",
+"s": {
+"GS": "neutral"
+},
+"text": "Goldman Sachs \n$GS\n stock is up by 115% over the last 5 years",
+"likes": 69
+},
+{
+"id": "2114880371372495358",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：用一個字形容 Anthropic 上市",
+"risk": "無實質觀點",
+"s": {
+"ANT": "neutral"
+},
+"text": "Describe your thoughts on the Anthropic $ANT IPO using just 1 word",
+"likes": 86
+},
+{
+"id": "2114881189479845940",
+"author": "michaelsikand",
+"date": "2026-10-27",
+"zh": "Michael Sikand：Anthropic 上市後現金將超過 2,000 億美元，足以撐多年",
+"risk": "燒錢速度快",
+"s": {
+"ANT": "bull"
+},
+"text": "Can't stop thinking about $ANT $130B cash pile that will become $200+ after IPO. To pull off something ambitious you really need to take every dollar you can and treat each like your last. Anthropic earned itself many years to make this AGI thing work out...",
+"likes": 82
+},
+{
+"id": "2114890306181104014",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：60 位分析師僅 5 位建議賣出 TSLA，為 11 年最低比例",
+"risk": "共識過熱",
+"s": {
+"TSLA": "bull"
+},
+"text": "ONLY 5 OF 60 ANALYSTS TRACKED BY BLOOMBERG NOW SAY SELL TESLA \n$TSLA\n\n\nThat's the lowest share of sell ratings on the stock in more than 11 years",
+"likes": 314
+},
+{
+"id": "2114890727289418127",
+"author": "ren_stocks",
+"date": "2026-10-27",
+"zh": "Ren：僅貼出 KOSPI 代號",
+"risk": "無實質觀點",
+"s": {
+"KOSPI": "neutral"
+},
+"text": "$KOSPI",
+"likes": 102
+},
+{
+"id": "2114891578812879319",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：Barclays 將 TSLA 升至加碼，目標價調高至 450",
+"risk": "新聞",
+"s": {
+"TSLA": "bull"
+},
+"text": "Barclays earlier today upgraded Tesla \n$TSLA\n stock to Overweight from Equal Weight while raising its price target up to $450 from $370",
+"likes": 166
+},
+{
+"id": "2114893356782195084",
+"author": "ren_stocks",
+"date": "2026-10-27",
+"zh": "Ren：這是今年對 AI 建設最看多的一則貼文",
+"risk": "引用內容不明",
+"s": {
+"ANT": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n $ANT\n\nThis is, sadly, the most bullish post I’ve seen for the AI buildout all year long.",
+"likes": 211
+},
+{
+"id": "2114897602399416569",
+"author": "ren_stocks",
+"date": "2026-10-27",
+"zh": "Ren：荷蘭政府需要算力，暗示總部在阿姆斯特丹的 NBIS 受惠",
+"risk": "臆測",
+"s": {
+"NBIS": "bull"
+},
+"text": "Dutch government… hmmm, I wonder where they will get all that compute…\n\nIf only there were a neocloud based in Amsterdam…\n\n(Hint: \n$NBIS\n)",
+"likes": 110
+},
+{
+"id": "2114912119116222636",
+"author": "ren_stocks",
+"date": "2026-10-27",
+"zh": "Ren：持有 NBIS 一年，股價 1.5 倍但季營收 5.5 倍、EBITDA 轉正",
+"risk": "資本需求大",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n\n\nIt’s been one year since I first bought NBIS.\n\nMy first entry sure wasn’t the best, at peak October, I was able to average down a lot by buying at 69 back in February.\n\nLet’s try to see how the stock has done in a year.\n\n• Price: $106 → $159 (1.5x)\n• Quarterly revenue: $105M → $582M (5.5x)\n• Run-rate revenue: ~$430M → $3B (7x)\n• EBITDA: -$21M → +$236M, 41% margin\n• ARR guidance: ~$1B → $7–9B\n• Commitments: $17B → $40B+\n• Power plan: 1 GW → 5 GW\n• Valuation: 57x → 14x current ARR\n\nThe stock is the cheapest it's been in a year, everything else improved, and soon enough so will the price.\n\nBullish \n$NBIS",
+"likes": 199
+},
+{
+"id": "2115046396252312011",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：NVDA 將投資 30 億美元認購 META 新股，雙方擴大 AI 合作",
+"risk": "股權稀釋",
+"s": {
+"META": "bull",
+"NVDA": "bull"
+},
+"text": "NVIDIA \n$NVDA\n WILL INVEST $3B IN META \n$META\n'S NEW STOCK SALE\n\nThe two are also expanding their AI partnership, per WSJ. Meta plans to use more Nvidia hardware, including its Vera Rubin systems, to power its Muse AI agents.\n\nMeta also raised its common stock offering to $25B from $22.5B, priced at $625 a share. Nvidia will invest $3 billion in Meta’s planned equity fundraise.",
+"likes": 81
+},
+{
+"id": "2115050080139133174",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：SOFI 盤前漲逾 10%",
+"risk": "新聞",
+"s": {
+"SOFI": "bull"
+},
+"text": "$SOFI\n stock is now up by more than 10% in pre market trading",
+"likes": 60
+},
+{
+"id": "2115052221821747418",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：黃仁勳稱 AI 代理是新運算典範，與 Meta 擴大合作",
+"risk": "新聞",
+"s": {
+"META": "neutral",
+"NVDA": "neutral"
+},
+"text": "Nvidia \n$NVDA\n CEO Jensen Huang said this today\n\n“AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf”\n\n“This changes how we use computers, from operating applications to working with intelligent agents. NVIDIA and Meta are expanding our partnership to optimize the computing infrastructure end to end for capable, efficient and secure AI agents, so Muse can empower billions of people to achieve more and pursue greater ambitions.”\n\nMeta Platforms \n$META\n CEO Mark Zuckerberg said this today:\n\n“Muse is how we bring personal superintelligence to everyone. We’re excited to keep working with NVIDIA to deliver the best personal agents and frontier models for billions of people”",
+"likes": 43
 }
 ]
