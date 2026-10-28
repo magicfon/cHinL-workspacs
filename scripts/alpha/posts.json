@@ -16828,6 +16828,18 @@
 "likes": 79
 },
 {
+"id": "2114491258563662025",
+"author": "StockMKTNewz",
+"date": "2026-10-25",
+"zh": "Evan：Apple 週三將發表首款觸控螢幕 OLED MacBook Pro",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "APPLE \n$AAPL\n WILL REVEAL ITS FIRST TOUCH-SCREEN MAC ON WEDNESDAY\n\nIt's a new high-end MacBook Pro, per Bloomberg's Mark Gurman\n\n- OLED touch screen, a first for the Mac\n- Dynamic Island, like the iPhone\n- 14-inch and 16-inch sizes\n- Priced well above the current $2,499 MacBook Pro",
+"likes": 329
+},
+{
 "id": "2114512722780131618",
 "author": "StockMKTNewz",
 "date": "2026-10-26",
@@ -16983,6 +16995,30 @@
 },
 "text": "上周财报预测6中5（ \n$TSLA\n \n$META\n  \n$LRCX\n \n$IBM\n \n$SPCX\n )\n本周继续 挖掘 \n$GOOG\n \n$MSFT\n \n$MSFT\n \n$AMZN\n \n$HOOD\n \n\n$INTC\n \n$SNDK\n \n$SKHY\n \n\nAnthropic上市前夕，这些股票会给我们带来什么样的惊喜/惊吓呢？\n\n我也会在OKX星球上分享我的财报观点\n\n\n@okxchinese\n  \n@star_okx\n  \n@Haiteng_okx\n  \n@Jiajia_OKX\n \n\n#OKX美股财报季",
 "likes": 7
+},
+{
+"id": "2114702415244972137",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：ASTS 取得巴西 S 頻段頻譜授權",
+"risk": "新聞",
+"s": {
+"ASTS": "bull"
+},
+"text": "AST SpaceMobile \n$ASTS\n secured S-band spectrum authorization from Brazil’s  National Telecommunications Agency\n\nASTS also secured regulatory approval for the secondary use of spectrum in the 700 MHz band.",
+"likes": 158
+},
+{
+"id": "2114704891394302000",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：Anthropic 將以 ANT 代號在那斯達克上市",
+"risk": "新聞",
+"s": {
+"ANT": "neutral"
+},
+"text": "JUST IN \n\nAnthropic will list on the NASDAQ under the stock ticker $ANT",
+"likes": 1004
 },
 {
 "id": "2114705419394535906",
@@ -17212,6 +17248,30 @@
 },
 "text": "BREAKING: Microsoft, \n$MSFT\n, is offering buyouts to around 60,000 employees, according to reports from Business Insider and Bloomberg. \n\nThe move marks Microsoft’s latest efforts to cut costs and rework its workforce for AI.\n\nEmployees at the vice president level and below on select teams in the U.S., Canada, India, and the U.K. will be eligible, the reports say. Some employees, including those working in data centers, sales and marketing, are excluded.",
 "likes": 1409
+},
+{
+"id": "2114766110767652929",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：NFLX 再創 52 週新低",
+"risk": "新聞",
+"s": {
+"NFLX": "bear"
+},
+"text": "Netflix \n$NFLX\n stock hit new 52 WEEK LOWS again today",
+"likes": 602
+},
+{
+"id": "2114766896230998189",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：APP 再創 52 週新低",
+"risk": "新聞",
+"s": {
+"APP": "bear"
+},
+"text": "AppLovin \n$APP\n stock hit new 52 WEEK LOWS again today",
+"likes": 132
 },
 {
 "id": "2114767495576072239",
@@ -17461,6 +17521,18 @@
 "likes": 36
 },
 {
+"id": "2114821611777900772",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：AVGO 安排 630 億美元 SPV 融資，購買其晶片租給 Anthropic",
+"risk": "擔保晶片殘值",
+"s": {
+"AVGO": "neutral"
+},
+"text": "BROADCOM \n$AVGO\n ARRANGED A $63B DEAL TO FINANCE AI CHIPS FOR ANTHROPIC\n\nA new special-purpose vehicle, funded by Bank of America, Blackstone, Citigroup, and Morgan Stanley, will buy Broadcom chips and lease them to Anthropic, per Bloomberg.\n\nBroadcom is backing part of the financing by guaranteeing some of the chips' future value.",
+"likes": 369
+},
+{
 "id": "2114832375196872892",
 "author": "Balder13946731",
 "date": "2026-10-26",
@@ -17655,6 +17727,54 @@
 "likes": 260
 },
 {
+"id": "2115036269780840587",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：KO 財報營收、EPS 皆優於預期",
+"risk": "新聞",
+"s": {
+"KO": "bull"
+},
+"text": "COCA-COLA \n$KO\n JUST REPORTED EARNINGS\n\n- Revenue of $13.4B, beating expectations of $12.92B \n- Adj EPS of $0.91, beating expectations of $0.88",
+"likes": 412
+},
+{
+"id": "2115037177901932798",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：SOFI 財報優於預期，盤前漲 6%",
+"risk": "新聞",
+"s": {
+"SOFI": "bull"
+},
+"text": "SOFI \n$SOFI\n JUST REPORTED EARNINGS\n\n- Revenue of $1.4B, beating expectations of $1.25B \n- Adj EPS of $0.18, beating expectations of $0.16 \n\nThe stocks’ initial move following the release is up by 6%",
+"likes": 387
+},
+{
+"id": "2115038581882257841",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：PYPL 營收略低於預期、EPS 優於預期，股價持平",
+"risk": "新聞",
+"s": {
+"PYPL": "neutral"
+},
+"text": "PAYPAL \n$PYPL\n JUST REPORTED Q3 EARNINGS  \n\nRevenue of $8.6B, missing expectations of $8.71B  \nAdj EPS of $1.45, beating expectations of $1.31 \n\nPayPal stock is initially about even in pre-hours following its earnings",
+"likes": 112
+},
+{
+"id": "2115039677036351883",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：GLW 財報優於預期，盤前漲 3%",
+"risk": "新聞",
+"s": {
+"GLW": "bull"
+},
+"text": "CORNING \n$GLW\n JUST REPORTED EARNINGS\n\nEPS of $0.91 beating expectations of $0.88\nRevenue of $5.08B beating expectations of $5.02B\n\nGLW stock is initially up by 3% in pre-market following its earnings",
+"likes": 86
+},
+{
 "id": "2115046396252312011",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -17777,6 +17897,18 @@
 "likes": 28
 },
 {
+"id": "2115092208357708272",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：META 250 億美元增資獲 5 倍超額認購",
+"risk": "股權稀釋",
+"s": {
+"META": "bull"
+},
+"text": "META PLATFORMS \n$META\n $25 BILLION STOCK SALE ENDED FIVE TIMES OVERSUBSCRIBED - Bloomberg",
+"likes": 1014
+},
+{
 "id": "2115092829743800813",
 "author": "michaelsikand",
 "date": "2026-10-27",
@@ -17787,6 +17919,18 @@
 },
 "text": "$BE\n has EXPLODED 16% in two sessions since I called investors pansies for letting it hit $190/share.",
 "likes": 223
+},
+{
+"id": "2115096719356473508",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：META 增資定價 625 美元，超過半數配給長線與既有股東",
+"risk": "股權稀釋",
+"s": {
+"META": "bull"
+},
+"text": "Meta Platforms’s \n$META\n upsized $25 billion share sale attracted demand for ~5x the available shares\n\nThe offering priced at $625 per share. 50%+ of the shares were given to long-only and existing investors\n\nThe investors taking the 15 largest stakes accounted for ~70% of the offering",
+"likes": 295
 },
 {
 "id": "2115097559618253138",
@@ -17813,6 +17957,66 @@
 },
 "text": "$NBIS\n \n$MU\n \n$LITE\n\n\nOh boy, I can feel the momentum turning, and it’s been a while since I’ve had that feeling.\n\nI’m restarting the Liquid Tournament, with $1,000 in prizes, from tomorrow through Sunday, Nov 8, to make the most of the upward momentum, earnings season and the midterms.\n\nAt the beginning of the month, I ran a similar one: 52 of you took part, and the top 5 crushed it with returns of +30% or more.\n\nCongrats to the winners: \n@revzbtc\n, \n@PeterGudigandla\n and Sonovil!\n\nWant to join? \n\nJust download the Liquid app and use my code RENSTOCKS to compete for $1,000 in prizes for the top 3 places.\n\nIf you’re already registered under someone else’s code, contact support and ask them to switch you to mine so you can be included.\n\nNot every week is a good week to trade, so make the most of the good ones :)",
 "likes": 19
+},
+{
+"id": "2115103835576484192",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：BA 財報後大跌近 10%",
+"risk": "新聞",
+"s": {
+"BA": "bear"
+},
+"text": "Boeing \n$BA\n stock is currently down by almost 10% today following its earnings",
+"likes": 99
+},
+{
+"id": "2115110546282590432",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：AMD 盤中漲逾 5%",
+"risk": "新聞",
+"s": {
+"AMD": "bull"
+},
+"text": "$AMD\n stock is now up by more than 5% so far today",
+"likes": 379
+},
+{
+"id": "2115111028984086765",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：SOFI 盤中漲逾 15%",
+"risk": "新聞",
+"s": {
+"SOFI": "bull"
+},
+"text": "$SOFI\n stock is now up more than 15% so far today",
+"likes": 332
+},
+{
+"id": "2115112080550342890",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：NBIS 盤中漲逾 10%",
+"risk": "新聞",
+"s": {
+"NBIS": "bull"
+},
+"text": "Nebius \n$NBIS\n stock is now up by more than 10% so far today",
+"likes": 423
+},
+{
+"id": "2115118701498569205",
+"author": "michaelsikand",
+"date": "2026-10-27",
+"zh": "Michael Sikand：NBIS 前一天無故下跌後今漲 10%，應趁市場瘋狂布局",
+"risk": "波動大",
+"s": {
+"NBIS": "bull"
+},
+"text": "Don't let a market full of idiots fool you. \n$NBIS\n +10% today after being down yesterday for no reason but ignorance. Take advantage of lunacy.",
+"likes": 230
 },
 {
 "id": "2115120415987106120",
@@ -17902,6 +18106,23 @@
 "likes": 30
 },
 {
+"id": "2115140705173839872",
+"author": "michaelsikand",
+"date": "2026-10-27",
+"zh": "Michael Sikand：認為 LITE、NBIS、BE、CRDO 將大幅跑贏 MU、SNDK 等記憶體股",
+"risk": "記憶體週期仍強",
+"s": {
+"BE": "bull",
+"CRDO": "bull",
+"LITE": "bull",
+"MU": "bear",
+"NBIS": "bull",
+"SNDK": "bear"
+},
+"text": "My opinion is that stocks like \n$LITE\n, \n$NBIS\n, \n$BE\n, and \n$CRDO\n will heavily outperform memory names like \n$SNDK\n and \n$MU\n from here. AI is so heavily doubted as is so why take on the second risk that memory is still cyclical? Networking, power, and compute are genuinley undeniable.",
+"likes": 813
+},
+{
 "id": "2115149910441922667",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -17981,6 +18202,42 @@
 "likes": 63
 },
 {
+"id": "2115167755733242117",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：今日創 52 週新低名單，含 BA、NFLX、NIO 等",
+"risk": "名單非觀點",
+"s": {
+"BA": "neutral",
+"BILI": "neutral",
+"BKNG": "neutral",
+"BSBR": "neutral",
+"CRS": "neutral",
+"CTVA": "neutral",
+"HDB": "neutral",
+"KEP": "neutral",
+"NFLX": "neutral",
+"NIO": "neutral",
+"WYNN": "neutral",
+"XPEV": "neutral",
+"XYL": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nBoeing \n$BA\n\nNetflix \n$NFLX\n\nNIO \n$NIO\n\nCorteva \n$CTVA\n\nXylem \n$XYL\n\nBooking \n$BKNG\n\nHDFC Bank \n$HDB\n\nXPeng \n$XPEV\n\nSantander Brasil \n$BSBR\n\nCarpenter \n$CRS\n\nBilibili \n$BILI\n\nWynn Resorts \n$WYNN\n\nKorea Electric Power \n$KEP",
+"likes": 141
+},
+{
+"id": "2115168509994860590",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：問 MU 是否值得關注",
+"risk": "無實質觀點",
+"s": {
+"MU": "neutral"
+},
+"text": "Micron \n$MU\n on watch??? \n@GavBlaxberg",
+"likes": 0
+},
+{
 "id": "2115168799645151356",
 "author": "ren_stocks",
 "date": "2026-10-27",
@@ -18030,5 +18287,116 @@
 },
 "text": "Robinhood \n$HOOD\n customers traded $992 Billion worth of stocks on the platform during Q3 up from $647B in the same quarter last year\n\nRobinhood \n$HOOD\n customers traded 905 Million options contracts on the platform during Q3 up from 610M in the same quarter last year",
 "likes": 6
+},
+{
+"id": "2115184080916558281",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：HOOD 已有 20 萬客戶開立 AI 代理交易帳戶",
+"risk": "新聞",
+"s": {
+"HOOD": "neutral"
+},
+"text": "Robinhood \n$HOOD\n said that 200,000 customers have now opened AI Agent trading accounts",
+"likes": 211
+},
+{
+"id": "2115194354293944725",
+"author": "michaelsikand",
+"date": "2026-10-27",
+"zh": "Michael Sikand：預測市場成長看多 HOOD，事件合約不受市場情緒影響",
+"risk": "監管風險",
+"s": {
+"HOOD": "bull"
+},
+"text": "I read predictions growth as bullish as for \n$HOOD\n . While crypto is very boom and bust, event contracts ie. sports betting are not and can drive revenue no matter market sentiment.",
+"likes": 79
+},
+{
+"id": "2115194593260224865",
+"author": "Balder13946731",
+"date": "2026-10-27",
+"zh": "Balder：10/27 復盤，三大指數收漲，AI 算力與半導體設備鏈領漲",
+"risk": "風險偏好擴散",
+"s": {
+"SPY": "bull"
+},
+"text": "【美股复盘 · 10月27日】\n\n**大市**\n\n三大指数收涨，成长股明显领先。标普500ETF( \n$SPY\n )收于769.66，涨0.56%。纳指100ETF( QQQ )收于721.25，涨1.27%，为当日表现最强的宽基指数。道指ETF( DIA )收于523.23，涨0.05%，基本持平。罗素小型股ETF( IWM )收于280.15，涨1.14%。市宽偏向多头，106只观察股中74只上涨、32只下跌。\n\n**板块**\n\nAI算力与半导体设备链条领涨全场。 AEHR 涨12.99%，居涨幅榜首。 CRDO 涨10.77%， SMCI 涨7.34%， DELL 涨7.47%。算力租赁与数据中心一端同步走强， NBIS 涨11.22%， CRWV 涨7.94%， IREN 涨7.90%。 RGTI 涨8.74%， RKLB 涨8.34%， BE 涨7.15%，风险偏好向现金流尚未转正的名字延伸。三倍做空半导体ETF( SOXS )跌11.42%，三倍做空纳指ETF( SQQQ )跌3.78%，从反向端印证了科技股的升幅。抛压集中在三处：能源走弱， XOM 跌2.51%， OXY 跌2.09%；应用软件走弱， ADBE 跌3.97%， CRM 跌2.71%；防务与流媒体同步调整， LMT 跌1.92%， NFLX 跌2.16%。\n\n**焦点**\n\nBA 跌10.69%，是当日跌幅最大的个股，也是道指表现平淡的主要拖累之一。AI融资结构仍是市场的主线话题。Meta此次股权融资已完成定价，采用强制可转换优先股配合远期出售协议的组合，英伟达认购30亿美元；这类工具此前多见于公用事业和航空公司，意在让评级机构将部分金额计为股权，同时把稀释推后两到三年落地。Anthropic最新文件披露4500亿美元算力承诺，与超大规模厂商的资本开支指引不同，实验室签下的算力是合同义务，不能在下一季电话会上一句话调整。微软向约六万名员工开放自愿离职通道，时间点压在财报之前，省下的运营费用与其单季资本开支并不在同一量级。另一条独立线索是黄金的中国买盘，在房产与存款回报双双受限的环境下,家庭部门的配置需求对美联储路径并不敏感。\n\n**小结**\n\n资金当日从软件、能源和防务流出，集中流入AI算力链的高贝塔一端。在长端利率仍处高位的背景下,一批重资产、现金流为负的公司仍能录得两位数升幅，说明定价的核心是融资窗口的松紧，而非利率本身。市宽与指数方向一致，但涨幅高度集中在同一主题，持续性仍需后续财报检验。盘后 HOOD 、 STX 、 V 、 SKHY 公布业绩，影响下一个交易日。",
+"likes": 3
+},
+{
+"id": "2115198413671424256",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：State Street 投資德州證券交易所",
+"risk": "新聞",
+"s": {
+"STT": "neutral"
+},
+"text": "STATE STREET \n$STT\n JUST INVESTED IN THE NEW TEXAS STOCK EXCHANGE\n\nThe investment helps bring the exchange's total equity capital to $440M, per Bloomberg. State Street joins earlier backers BlackRock and JPMorgan",
+"likes": 50
+},
+{
+"id": "2115207743690961314",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：BA 獲美軍 4.998 億美元 Apache 合約",
+"risk": "新聞",
+"s": {
+"BA": "neutral"
+},
+"text": "Boeing \n$BA\n was just awarded a $499.8 Million contract modification with the  Army for\n\n\"Apache AH-64 engineering services and technical support.\"",
+"likes": 82
+},
+{
+"id": "2115233651734782426",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：SKHY Q3 營收、利潤皆優於預期，預期需求大於供給到 2030",
+"risk": "記憶體週期性",
+"s": {
+"MU": "bull",
+"SKHY": "bull",
+"SNDK": "bull"
+},
+"text": "$SKHY\n\n\nSK hynix just did $78.8B revenue and $62.8B operating profit in Q3. Street was at $74B / $58B. First quarter ever over ₩100T, ~80% margins.\n\nGuiding ~₩100T ($75B) in shareholder returns for FY26. ₩20,000 Q3 dividend, half of it a one-off Kioxia special.\n\nLTAs with 14 major customers now cover 50%+ of 2027 and 2028 capacity. They expect demand to beat supply through 2030.\n\nHard not to like this print. \n$SKHY\n \n$MU\n \n$SNDK",
+"likes": 59
+},
+{
+"id": "2115260742316298253",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：OpenAI 傳將向 Google 購買 AI 晶片",
+"risk": "交易未定",
+"s": {
+"GOOGL": "bull"
+},
+"text": "OpenAI reportedly intends to buy some AI computing chips from Google \n$GOOGL\n \n\nFinal terms of any deal aren’t yet known - Bloomberg",
+"likes": 174
+},
+{
+"id": "2115277293345964477",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：韓股與 SKHY 行情才剛開始",
+"risk": "追高風險",
+"s": {
+"KOSPI": "bull",
+"SKHY": "bull"
+},
+"text": "$KOSPI \n$SKHY\n \n\nThis party is just getting started \n\nMy Korean friends, SEND US HIGHER!!!",
+"likes": 112
+},
+{
+"id": "2115390507048419359",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：VRT 財報後盤前漲 15%",
+"risk": "新聞",
+"s": {
+"VRT": "bull"
+},
+"text": "Vertiv \n$VRT\n stock is up by 15% in pre market trading following its earnings",
+"likes": 146
 }
 ]
