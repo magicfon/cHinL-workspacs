@@ -17177,6 +17177,23 @@
 "likes": 55
 },
 {
+"id": "2114743416970182912",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：ANT S-1 顯示營收成長快於算力成本，機構追捧 AI 基建股",
+"risk": "追高風險",
+"s": {
+"ANT": "bull",
+"BE": "bull",
+"CRDO": "bull",
+"INTC": "bull",
+"LITE": "bull",
+"NBIS": "bull"
+},
+"text": "JUST NOW: AI Infra stocks are surging as institutions fomo in on $ANT S-1 after retail bought the dip. \n\nAnthropic cites $640B in compute commitments but shows revenue is growing much faster than compute costs and posts Q2 operating profit. \n\n\n$LITE\n \n$CRDO\n \n$BE\n \n$NBIS\n \n$INTC",
+"likes": 218
+},
+{
 "id": "2114748010387353718",
 "author": "KawzInvests",
 "date": "2026-10-26",
@@ -17211,6 +17228,18 @@
 },
 "text": "Microoft \n$MSFT\n is offering around 60,000 employees voluntary buyouts - CNBC",
 "likes": 108
+},
+{
+"id": "2114751532495462453",
+"author": "michaelsikand",
+"date": "2026-10-26",
+"zh": "Michael Sikand：ANT 每 1 美元營收的算力支出比 2025 Q1 少 80%，商業模式獲驗證",
+"risk": "估值未知",
+"s": {
+"ANT": "bull"
+},
+"text": "$ANT is now spending 80% less on compute for every $1 of revenue compared to Q1 2025.\n\nThe frontier model lab business model has just been validated.",
+"likes": 176
 },
 {
 "id": "2114753785067397274",
@@ -17259,7 +17288,7 @@
 "NFLX": "bear"
 },
 "text": "Netflix \n$NFLX\n stock hit new 52 WEEK LOWS again today",
-"likes": 602
+"likes": 603
 },
 {
 "id": "2114766896230998189",
@@ -17530,7 +17559,7 @@
 "AVGO": "neutral"
 },
 "text": "BROADCOM \n$AVGO\n ARRANGED A $63B DEAL TO FINANCE AI CHIPS FOR ANTHROPIC\n\nA new special-purpose vehicle, funded by Bank of America, Blackstone, Citigroup, and Morgan Stanley, will buy Broadcom chips and lease them to Anthropic, per Bloomberg.\n\nBroadcom is backing part of the financing by guaranteeing some of the chips' future value.",
-"likes": 369
+"likes": 370
 },
 {
 "id": "2114832375196872892",
@@ -17543,6 +17572,28 @@
 },
 "text": "【美股复盘 · 10月26日】\n\n**大市**\n\n美股周一全线造好，四大指数同步收高，以科网股为首的纳指表现最为突出。纳指ETF \n$QQQ\n 收报712.20，升1.11%，升幅居四大之首；标普500ETF SPY 收报765.37，升0.71%；罗素小型股ETF IWM 收报276.97，升0.44%；道指ETF DIA 收报522.97，升0.31%，相对落后，反映资金明显偏向成长及科技一端，而非传统工业金融权重。市宽配合指数方向，106只观察股中70只上升、36只下跌，上升股数约为下跌股数的两倍，升势并非仅靠少数超大型权重股拉动。反向杠杆产品全日沽压沉重，做空半导体的 SOXS 急泻8.54%，做空纳指的 SQQQ 挫3.28%，两者跌幅均数倍于相应指数的升幅，侧面印证日内走势反复有限、升幅守得较稳。\n\n**板块**\n\n光通讯及网络设备股一枝独秀，升幅榜近乎被该板块包揽： LITE 暴升8.19%，为全日表现最佳的观察股； AAOI 升6.56%； COHR 升5.83%； CIEN 升4.89%；通讯设备商 NOK 亦升6.14%。半导体设计方面， ARM 升6.19%，为板块内的领涨大型股。电力及能源设备同步造好，燃料电池股 BE 升5.49%。软件股中，数据库供应商 MDB 升4.86%。此外，防务股 LMT 升5.13%，电动车股 TSLA 升5.21%。\n\n沽压则集中于数字资产相关、消费及医药一端，与大市方向背驰。 CRCL 重挫7.07%；加密货币交易平台 COIN 跌2.95%；经纪商 HOOD 跌2.35%，三者同日失色。流媒体股 NFLX 跌2.96%，药业股 MRK 跌3.21%，零售股 TGT 跌2.77%。拉丁美洲数字银行 NU 单日暴泻16.95%，为全日跌幅最大的观察股，表现与整体升市完全脱节。\n\n**焦点**\n\n盘面以外，市场全日的核心议题仍是算力供给的硬约束。亚马逊管理层表示，AWS 2027年的容量已「基本卖光」。卖光本身是需求强劲的证据，但同时意味着该年度的收入上限不再由需求决定，而是由变压器、涡轮机以及何时通电决定；在全行业同时排队的环境下，工期滑一个季度未必只是递延，客户随时转投手上有现成机位的同业。此一叙事的受益方向，与今日光通讯、网络设备及电力设备股的相对强势一致。\n\n融资端的分化亦值得留意。 META 已递交一份不披露规模的 mixed shelf，先将随时发债发股的额度挂上；与此同时，债券市场对缺乏AI数据中心以外收入来源的发行人态度明显收紧。长端利率高企之下，能够顺利融资的往往是最不缺钱的一批，真正缺钱的反而被关在门外——此为未来AI资本开支叙事的主要风险点。\n\n一级市场方面，Anthropic已递交在纳斯达克上市的申请文件，招股书同时列明其技术对人类构成灾难性、生存层面风险的风险提示。此类表述在法律上属标准免责安排，惟就「生存层面风险」一项而言，其现实约束力有限，料成日后定价争议所在。\n\n能源物流方面，沙特近期在新加坡租用油罐储货，等同在油价仍处高位时主动把现货搬到亚洲买家门口；相同手法十余年前曾在冲绳使用。供应方一边维持掐紧水龙头的叙事，一边替客户修通最后一公里管道，此举对后市原油定价权的含义，值得长线留意。\n\n**小结**\n\n全日为一次由科网及算力硬件主导、市宽配合的普涨，惟升势内部分化鲜明：受益于数据中心基建的光通讯、网络设备与电力设备股明显跑出，而数字资产相关、医药及零售则遭沽压。两只反向杠杆产品的跌幅，确认日内并无明显回吐压力。分析指，后市关键在于 QQQ 能否站稳712水平，以及上升股数能否持续维持在七十只以上；若升势继续由单一板块独力支撑，而市宽转弱，则需提防高位反复偏软。卖方对个别大型科技股的目标价区间分歧已明显扩大，亦反映市场对AI资本开支的盈利路径尚未形成共识。",
 "likes": 4
+},
+{
+"id": "2114833504790048954",
+"author": "StockMKTNewz",
+"date": "2026-10-26",
+"zh": "Evan：明早財報名單：KO、SOFI、PYPL、BA 等",
+"risk": "財報事件",
+"s": {
+"AMT": "neutral",
+"BA": "neutral",
+"FCX": "neutral",
+"GLW": "neutral",
+"GLXY": "neutral",
+"KO": "neutral",
+"PYPL": "neutral",
+"RCL": "neutral",
+"SOFI": "neutral",
+"SPGI": "neutral",
+"UPS": "neutral"
+},
+"text": "Here are a bunch of the largest stocks that report earnings tomorrow morning\n\nAll these stocks will be reporting:\n\nCoca-Cola \n$KO\n\n\n$SOFI\n \nPayPal \n$PYPL\n\nBoeing \n$BA\n \nCorning \n$GLW\n \n\n$UPS\n\nS&P Global \n$SPGI\n\nRoyal Caribbean \n$RCL\n \nFreeport-McMoRan \n$FCX\n \nGalaxy Digital \n$GLXY\n\nAmerican Tower \n$AMT",
+"likes": 87
 },
 {
 "id": "2114836314067472657",
@@ -17748,7 +17799,7 @@
 "SOFI": "bull"
 },
 "text": "SOFI \n$SOFI\n JUST REPORTED EARNINGS\n\n- Revenue of $1.4B, beating expectations of $1.25B \n- Adj EPS of $0.18, beating expectations of $0.16 \n\nThe stocks’ initial move following the release is up by 6%",
-"likes": 387
+"likes": 389
 },
 {
 "id": "2115038581882257841",
@@ -17760,7 +17811,7 @@
 "PYPL": "neutral"
 },
 "text": "PAYPAL \n$PYPL\n JUST REPORTED Q3 EARNINGS  \n\nRevenue of $8.6B, missing expectations of $8.71B  \nAdj EPS of $1.45, beating expectations of $1.31 \n\nPayPal stock is initially about even in pre-hours following its earnings",
-"likes": 112
+"likes": 113
 },
 {
 "id": "2115039677036351883",
@@ -17772,7 +17823,7 @@
 "GLW": "bull"
 },
 "text": "CORNING \n$GLW\n JUST REPORTED EARNINGS\n\nEPS of $0.91 beating expectations of $0.88\nRevenue of $5.08B beating expectations of $5.02B\n\nGLW stock is initially up by 3% in pre-market following its earnings",
-"likes": 86
+"likes": 87
 },
 {
 "id": "2115046396252312011",
@@ -17849,6 +17900,31 @@
 "likes": 247
 },
 {
+"id": "2115073329073946871",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：GLW、PYPL 財報預測命中（直播推廣）",
+"risk": "推廣",
+"s": {
+"GLW": "neutral",
+"PYPL": "neutral"
+},
+"text": "昨天  \n$GLW\n 和 \n$PYPL\n 再命中，今日接着挖掘财报和交易机会。\n\n财报季，尽在大老师 币安直播间 \n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@pearbinance\n \n@ethpopoki\n \n@CYZhang01\n \n\n\nhttps://\napp.binance.com/uni-qr/cspa/47\n726868771633?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\n…\n\n直接开播！",
+"likes": 10
+},
+{
+"id": "2115074983194251329",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：GLW 財報預測命中度極高（推廣）",
+"risk": "推廣",
+"s": {
+"GLW": "neutral"
+},
+"text": "谢谢大家 \n\n\n$GLW\n  财报命中程度极高，一切财报预测尽在 币安直播间。",
+"likes": 11
+},
+{
 "id": "2115077883383206061",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -17871,6 +17947,21 @@
 },
 "text": "$NBIS\n\n\nAnthropic S-1 is going to take the whole trade so so so much higher.\n\nMaking the best out of momentum here.\n\nLet’s go!!!!!\n\nIf you want to join my next tournament that starts now, to swing trade all our way back to ATH, use my code RENSTOCKS on Liquidtrading.",
 "likes": 73
+},
+{
+"id": "2115079124947755443",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：今晚直播看 HOOD、V、ENPH、STX 財報",
+"risk": "推廣",
+"s": {
+"ENPH": "neutral",
+"HOOD": "neutral",
+"STX": "neutral",
+"V": "neutral"
+},
+"text": "今晚三点再播一场\n\n今晚要看 \n$HOOD\n \n$V\n \n$ENPH\n \n$STX\n 这四个 财报",
+"likes": 8
 },
 {
 "id": "2115084880908542391",
@@ -17909,6 +18000,18 @@
 "likes": 1014
 },
 {
+"id": "2115092450134159541",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：META 在 Muse 發布後的漲幅已回吐 96%，市場開始追問 AI 投報",
+"risk": "AI 支出回收期",
+"s": {
+"META": "bear"
+},
+"text": "$META\n，Muse 发布之后这波涨幅，基本吐光了。\n\n发布前最后一个交易日收盘：$616.77\n9月24日盘中最高：$779.82\n今天盘中：$622.61\n\n最高涨了26.4%，随后从高点回撤20.2%，这一轮上涨的价差已经回吐96.4%。\n\n离发布前的收盘价，只剩5.84美元。\n\n我觉得这张图很值得看。\n\nAI产品带来的想象空间，可以很快体现在股价里。\n\n接下来，市场还会追问：要花多少钱，多久能赚回来？\n\n从产品发布后的大涨，到股价几乎回到原点，前后不到两个月。",
+"likes": 12
+},
+{
 "id": "2115092829743800813",
 "author": "michaelsikand",
 "date": "2026-10-27",
@@ -17943,6 +18046,18 @@
 },
 "text": "$BRUN",
 "likes": 21
+},
+{
+"id": "2115099089230798954",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：本週關注 AI 投報，預期 FOMC 偏鷹、市場下跌，可先避險",
+"risk": "總經觀點",
+"s": {
+"AMZN": "neutral"
+},
+"text": "这周美股，我最关心一个问题：AI 花出去的钱，究竟能赚回来多少。\n\n财报、宏观数据，再加上 Anthropic 推进上市，几条线正好碰在一起。\n\n1. 微软、谷歌、亚马逊，云业务财报\n\n北京时间周四清晨看 MSFT、GOOGL，周五清晨看 \n$AMZN\n\n\n2.  美联储、GDP、PCE，影响科技股估值\n\n北京时间 10/29 凌晨公布美联储利率决议，当晚 20:30 发布三季度 GDP 初值和 9 月 PCE。\n\n财报出来之后，市场还得再过增长和通胀这两关。\n\n个人认为 FOMC会放鹰，市场会下跌，这也是一个在FOMC之前Hedge对冲的交易机会。\n\n3. Anthropic 上市，我更关注定价\n\nAnthropic 今天已经公开递交 IPO 文件，这其实也是MSX做的比较好的部分，即MSX Pre-IPO 这也是很多朋友接触MSX的第一步，也是之前少数全额兑现SPCX上市的交易所\n\n接下来的发行估值、融资规模和资金承接，是我观察 AI 板块的重要信号。上市前预期越满，越要看实际业绩能不能接住。\n\n本周我也会继续结合期权流和关键价位，把财报前的预期、财报后的反应拆开看。\n\n 我的 MSX 邀请链接： \nhttp://\nmsx.com/?code=h5cc95",
+"likes": 12
 },
 {
 "id": "2115103249720045945",
@@ -17992,7 +18107,7 @@
 "SOFI": "bull"
 },
 "text": "$SOFI\n stock is now up more than 15% so far today",
-"likes": 332
+"likes": 355
 },
 {
 "id": "2115112080550342890",
@@ -18004,7 +18119,20 @@
 "NBIS": "bull"
 },
 "text": "Nebius \n$NBIS\n stock is now up by more than 10% so far today",
-"likes": 423
+"likes": 441
+},
+{
+"id": "2115116242373603390",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：MSG 分拆，尼克與遊騎兵分別以 MSGK、MSGR 交易",
+"risk": "新聞",
+"s": {
+"MSGK": "neutral",
+"MSGR": "neutral"
+},
+"text": "THE NEW YORK KNICKS AND NEW YORK RANGERS ARE BOTH NOW SEPARATE STOCKS YOU CAN BUY\n\nMSG just completed its spin off of the New York Rangers from the New York Knicks so both sports teams are trading as their own stocks\n\n- The New York Knicks now trade under the ticker $MSGK \n\n- The New York Rangers now trade under the ticker $MSGR",
+"likes": 217
 },
 {
 "id": "2115118701498569205",
@@ -18016,7 +18144,7 @@
 "NBIS": "bull"
 },
 "text": "Don't let a market full of idiots fool you. \n$NBIS\n +10% today after being down yesterday for no reason but ignorance. Take advantage of lunacy.",
-"likes": 230
+"likes": 233
 },
 {
 "id": "2115120415987106120",
@@ -18120,7 +18248,7 @@
 "SNDK": "bear"
 },
 "text": "My opinion is that stocks like \n$LITE\n, \n$NBIS\n, \n$BE\n, and \n$CRDO\n will heavily outperform memory names like \n$SNDK\n and \n$MU\n from here. AI is so heavily doubted as is so why take on the second risk that memory is still cyclical? Networking, power, and compute are genuinley undeniable.",
-"likes": 813
+"likes": 876
 },
 {
 "id": "2115149910441922667",
@@ -18140,6 +18268,19 @@
 },
 "text": "WE HAVE A BUSY AFTER HOURS OF EARNINGS INCOMING\n\nWatch out for numbers from stocks like\n\nVisa \n$V\n\nRobinhood \n$HOOD\n\nSeagate \n$STX\n \nNXP Semi \n$NXPI\n \nTeradyne \n$TER\n \nWaste Management \n$WM\n \nBaker Hugher \n$BKR\n \nEnphase \n$ENPH",
 "likes": 62
+},
+{
+"id": "2115151224211431909",
+"author": "michaelsikand",
+"date": "2026-10-27",
+"zh": "Michael Sikand：CRDO 基本面優於估值，兼具銅線與光通訊題材",
+"risk": "競爭加劇",
+"s": {
+"CRDO": "bull",
+"SPCX": "neutral"
+},
+"text": "$CRDO\n is genuinley one of the tidiest packages in AI infrastructure.\n\nThe way this stock trades make me think most investors don't understand it.\n\nFundamentals too good for current valuation. Riding copper and optics in one. \n$SPCX\n tailwind. Unpriced upside with MicroVCSEL.",
+"likes": 228
 },
 {
 "id": "2115158748230713471",
@@ -18277,6 +18418,30 @@
 "likes": 0
 },
 {
+"id": "2115173765847879707",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：HOOD 公布財報",
+"risk": "新聞",
+"s": {
+"HOOD": "neutral"
+},
+"text": "ROBINHOOD \n$HOOD\n STOCK JUST REPORTED EARNINGS",
+"likes": 101
+},
+{
+"id": "2115174487398273169",
+"author": "StockMKTNewz",
+"date": "2026-10-27",
+"zh": "Evan：Visa 財報後首波下跌 1%",
+"risk": "新聞",
+"s": {
+"V": "bear"
+},
+"text": "Visa \n$V\n stocks' first move is down by 1% following its earnings",
+"likes": 134
+},
+{
 "id": "2115176328253125094",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -18349,6 +18514,18 @@
 "likes": 82
 },
 {
+"id": "2115233613382123553",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：SKHY 財報後盤後漲近 3%",
+"risk": "新聞",
+"s": {
+"SKHY": "bull"
+},
+"text": "SK Hynix \n$SKHY\n stock is up by almost 3% in after-hours following its earnings",
+"likes": 273
+},
+{
 "id": "2115233651734782426",
 "author": "KawzInvests",
 "date": "2026-10-28",
@@ -18363,6 +18540,42 @@
 "likes": 59
 },
 {
+"id": "2115235059846303912",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：PANW 執行長薪酬降約 20% 至 8,030 萬美元",
+"risk": "新聞",
+"s": {
+"PANW": "neutral"
+},
+"text": "PALO ALTO NETWORKS \n$PANW\n CEO NIKESH ARORA'S PAY FELL ABOUT 20% TO $80.3M\n\nThe cut follows years of shareholder pushback, per Bloomberg. Investors have voted against Palo Alto's executive pay 7 times since 2015, more than any other company in the S&P 500.\n\nThe company also lowered the maximum payout on performance-based stock awards to 300% from 400%.\n\nPalo Alto is worth nearly $330B, more than doubling this year.",
+"likes": 184
+},
+{
+"id": "2115236863678246966",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：轉述 TE 社群管理員虧損 65%",
+"risk": "無實質觀點",
+"s": {
+"TE": "neutral"
+},
+"text": "I am currently down 65% on \n$TE\n stock \n\nI am a community mod for the stock",
+"likes": 8
+},
+{
+"id": "2115242650949566718",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Anthropic 選 JPM 主導散戶 IPO 配售",
+"risk": "新聞",
+"s": {
+"JPM": "neutral"
+},
+"text": "ANTHROPIC PICKED JPMORGAN \n$JPM\n TO LEAD SALES OF ITS IPO SHARES TO EVERYDAY RETAIL INVESTORS",
+"likes": 227
+},
+{
 "id": "2115260742316298253",
 "author": "StockMKTNewz",
 "date": "2026-10-28",
@@ -18373,6 +18586,18 @@
 },
 "text": "OpenAI reportedly intends to buy some AI computing chips from Google \n$GOOGL\n \n\nFinal terms of any deal aren’t yet known - Bloomberg",
 "likes": 174
+},
+{
+"id": "2115262524551549008",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：SKHY 行情才剛開始",
+"risk": "追高風險",
+"s": {
+"SKHY": "bull"
+},
+"text": "$SKHY\n\n\nTold ya, this is just getting started.",
+"likes": 62
 },
 {
 "id": "2115277293345964477",
@@ -18388,6 +18613,20 @@
 "likes": 112
 },
 {
+"id": "2115375583848960150",
+"author": "octopusycc",
+"date": "2026-10-28",
+"zh": "大老师：今晚 FOMC 與 GOOG、MSFT、KLAC 財報直播",
+"risk": "推廣",
+"s": {
+"GOOG": "neutral",
+"KLAC": "neutral",
+"MSFT": "neutral"
+},
+"text": "20:30 Ondo 访谈\n21:30 美股开盘直播 \n2:00 FOMC\n4:00 \n$GOOG\n  \n$MSFT\n  \n$KLAC\n  财报\n\n今晚是血战的一天啊",
+"likes": 16
+},
+{
 "id": "2115390507048419359",
 "author": "StockMKTNewz",
 "date": "2026-10-28",
@@ -18398,5 +18637,206 @@
 },
 "text": "Vertiv \n$VRT\n stock is up by 15% in pre market trading following its earnings",
 "likes": 146
+},
+{
+"id": "2115461551662510580",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Apple 執行長發布無說明影片",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Apple \n$AAPL\n CEO John Ternus posted this video with no caption",
+"likes": 114
+},
+{
+"id": "2115489714962932034",
+"author": "michaelsikand",
+"date": "2026-10-28",
+"zh": "Michael Sikand：預期 GOOG 財報搜尋營收仍雙位數成長",
+"risk": "財報不如預期",
+"s": {
+"GOOG": "bull"
+},
+"text": "$GOOG\n is about to pull off some magic in its earnings today.\n\nSearch revenue will be up double digits even though no one has clicked a blue link in 2 years.",
+"likes": 433
+},
+{
+"id": "2115512123728052569",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：ORCL 目標 2030 年營收 2,250 億，FY29 成長可自籌資金",
+"risk": "新聞",
+"s": {
+"ORCL": "bull"
+},
+"text": "ORACLE TARGETS $225 BILLION IN REVENUE BY 2030\n\nORACLE \n$ORCL\n SAYS BY FY 2029 ITS GROWTH WILL BE SELF-FUNDED",
+"likes": 429
+},
+{
+"id": "2115514778798194852",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Apple 觸控 MacBook Pro 首度亮相",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Here is a first look at the new Apple \n$AAPL\n MacBook Pro with a touchscreen",
+"likes": 103
+},
+{
+"id": "2115517310345589015",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：ORCL 漲 14%，提出清楚的自籌資金計畫，緩解信用市場疑慮",
+"risk": "執行風險",
+"s": {
+"ORCL": "bull"
+},
+"text": "$ORCL\n Oh my God, Oracle +14%\n\nOracle IS the company the credit market fears most, and today it laid out a clean plan forward.\n\nRevenue of $225B+ by FY30, growing 35%+ a year\nFree cash flow positive in the second half of FY28, then $30B+ in FY29\nCapex peaks in FY27–28, and growth funds itself from FY29\nOnly $20B more in outside capital through FY30, half equity and half debt, with net debt under 3.5x EBITDA by FY29\n\nIts credit default swaps hit records this month on exactly this question: can Oracle fund the AI buildout without drowning in debt?\n\nNow it has dates and numbers for when the cash comes back.\n\nThis is my favorite kind of comeback, when even the weakest player is pulling it off.\n\nBullish for ALL the AI clouds",
+"likes": 66
+},
+{
+"id": "2115521824180117923",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：ORCL 稱資本支出 FY27–28 見頂、FY29 自由現金流逾 300 億，股價漲 13%",
+"risk": "執行風險",
+"s": {
+"CRWV": "neutral",
+"IREN": "neutral",
+"NBIS": "neutral",
+"ORCL": "bull"
+},
+"text": "$ORCL\n up 13%\n\nAfter saying it expects to generate $30B+ in free cash flow in FY29 and fund its own growth from that point.\n\nCapex is expected to peak in FY27 to FY28, then fall in FY29. Free cash flow should turn positive in the second half of FY28 as Oracle gets through the heaviest spending on its buildout.\n\nOracle says it will limit additional capital raises through FY30 to $20B, split $10B equity and $10B debt, excluding refinancing. That comes after the $20B equity raise already completed.\n\nVendor financing, customer prepayments and customer-supplied hardware should reduce the cash needed upfront.\n\nLast week’s financing fears look completely overdone. \n$CRWV\n \n$NBIS\n \n$IREN\n \n$ORCL",
+"likes": 26
+},
+{
+"id": "2115525475221319956",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：ORCL 是首家給出資本支出高峰年份的 AI 大廠，其他尚未",
+"risk": "財報追問",
+"s": {
+"AMZN": "neutral",
+"GOOG": "neutral",
+"GOOGL": "neutral",
+"META": "neutral",
+"MSFT": "neutral",
+"ORCL": "neutral"
+},
+"text": "As far as I can tell, \n$ORCL\n os the first big AI spender to actually put a year on its capex peak.\n\nThe others still haven’t given a 2027 number:\n\n> \n$META\n said in July it isn’t giving a 2027 capex outlook \n>  \n$GOOG\n Alphabet said details would come later\n> \n$MSFT\n microsoft only said FY27 capex grows YoY\n> \n$AMZN\n Amazon, nothing\n\n\n$GOOGL\n \n$MSFT\n \n$META\n report tonight, and I’d expect analysts to push hard on this.",
+"likes": 24
+},
+{
+"id": "2115531205546229816",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：ORCL 投資人日旨在平息融資疑慮",
+"risk": "融資風險",
+"s": {
+"ORCL": "bull"
+},
+"text": "$ORCL\n knew financing was the biggest concern going into this investor day\n\nToday was clearly about calming those fears and showing bond investors they won’t need to keep borrowing to fund the buildout.",
+"likes": 23
+},
+{
+"id": "2115532551121199177",
+"author": "octopusycc",
+"date": "2026-10-28",
+"zh": "大老师：GOOG 300–350、MSFT 485–575 區間框架交易，MSFT 略好",
+"risk": "博弈激烈",
+"s": {
+"GOOG": "neutral",
+"MSFT": "neutral"
+},
+"text": "今日财报预测 GOOG MSFT\n\n1. GOOG只能进行框架性交易，市场博弈非常严重\n\n\n$GOOG\n \n\n300的put wall 350的call wall \n\n在这个框架上去交易即可 \n\n2. MSFT 同样进行框架性交易，市场博弈严重\n\n比起GOOG 偏好一点\n\n\n$MSFT\n \n\n485-575的框架交易 同上",
+"likes": 3
+},
+{
+"id": "2115535807201313026",
+"author": "Balder13946731",
+"date": "2026-10-28",
+"zh": "Balder：MSFT 營收、獲利雙雙優於預期",
+"risk": "盤後反應未定",
+"s": {
+"MSFT": "bull"
+},
+"text": "$MSFT\n double beat",
+"likes": 0
+},
+{
+"id": "2115536008519238076",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：GOOG 盤後跌 8%",
+"risk": "財報失望",
+"s": {
+"GOOG": "bear"
+},
+"text": "Yikes. \n$GOOG\n down 8%.",
+"likes": 24
+},
+{
+"id": "2115536586310037997",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：GOOGL 年化營收突破 5,000 億美元",
+"risk": "新聞",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n is now a $500+ Billion Revenue Run Rate business",
+"likes": 49
+},
+{
+"id": "2115537250989875585",
+"author": "octopusycc",
+"date": "2026-10-28",
+"zh": "大老师：NOW 財報後崩跌 14%",
+"risk": "財報失望",
+"s": {
+"NOW": "bear"
+},
+"text": "我操你妈 now崩溃了  -14%了 我操\n\n\n$NOW",
+"likes": 3
+},
+{
+"id": "2115537378299297801",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：NOW 財報後首波下跌逾 10%",
+"risk": "新聞",
+"s": {
+"NOW": "bear"
+},
+"text": "SERVICENOW \n$NOW\n JUST REPORTED EARNINGS\n\nServiceNow stocks' initial move following the earnings is down by 10%+",
+"likes": 36
+},
+{
+"id": "2115537785146822723",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Google Cloud 營收成長 103%，TPU 需求強勁",
+"risk": "新聞",
+"s": {
+"GOOGL": "bull"
+},
+"text": "GOOGLE \n$GOOGL\n CEO SUNDAR PICHAI NADELLA JUST SAID:\n\n\"Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions. We're also seeing strong demand for our TPU systems across a wide range of customers\"",
+"likes": 32
+},
+{
+"id": "2115537966341001445",
+"author": "Balder13946731",
+"date": "2026-10-28",
+"zh": "Balder：GOOG 罕見雙雙不及預期跌破 400，但認為創造了買點",
+"risk": "AI 合規落後",
+"s": {
+"GOOG": "bull"
+},
+"text": "这是这么多年来M7的科技公司第一次这么直接的double miss🫪🫪🫪\n\n\n$GOOG\n 大跌回到400以下。Google的大模型的合规以及harness必须要像Anthropic或者OpenAI一样，否则多强的智能都没用。\n\n这个大跌，我认为其实是创造了一个有趣的机会。我们可能重新获得了买入 \n$GOOG\n 的契机",
+"likes": 2
 }
 ]
