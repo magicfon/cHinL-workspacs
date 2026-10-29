@@ -17964,6 +17964,19 @@
 "likes": 8
 },
 {
+"id": "2115080576298348767",
+"author": "unusual_whales",
+"date": "2026-10-27",
+"zh": "Unusual Whales：AMD 擴大與 Meta 合作並投資 10 億美元認購 META 新股",
+"risk": "股權稀釋",
+"s": {
+"AMD": "bull",
+"META": "bull"
+},
+"text": "AMD, \n$AMD\n, is expanding its partnership with Meta, \n$META\n, to power Meta’s “superintelligence” infrastructure.\n\nAs part of the deal, AMD will invest $1 billion in Meta’s stock offering.\n\nIt’s the first big name to buy into Meta’s plan to raise up to $95 billion through stock sales to fund its AI buildout, per The Wall Street Journal.",
+"likes": 415
+},
+{
 "id": "2115084880908542391",
 "author": "Balder13946731",
 "date": "2026-10-27",
@@ -18283,6 +18296,18 @@
 "likes": 228
 },
 {
+"id": "2115153053376737569",
+"author": "unusual_whales",
+"date": "2026-10-27",
+"zh": "Unusual Whales：NBIS 獲 50MW 資料中心合約漲 9% 至 170",
+"risk": "短線波動",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n up 9% to $170 on a new 50MW data center deal.\n\nLet's look at the GEX.\n\nPrice is sitting on negative gamma at $170, so moves here could get choppy.\n\nPositive gamma at $167.50 and $160 could act as support on a pullback.",
+"likes": 187
+},
+{
 "id": "2115158748230713471",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -18317,6 +18342,18 @@
 },
 "text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nExxon Mobil \n$XOM\n \nRange Resources \n$RRC\n\nNetskope \n$NTSK\n\nViatris \n$VTRS\n\nCaris Life Sciences \n$CAI\n\nTenable \n$TENB\n\nNasdaq \n$NDAQ\n\nBio-Techne \n$TECH\n\nRubrik \n$RBRK\n\nKiniksa \n$KNSA\n\nIQVIA \n$IQV\n\nCheniere Energy \n$LNG\n\nAbercrombie & Fitch \n$ANF\n\nHasbro \n$HAS\n\nAmneal \n$AMRX\n\nHalozyme \n$HALO\n\nCharles River Laboratories \n$CRL\n\nBlack Hills \n$BKH\n\nQualys \n$QLYS\n\nWaters \n$WAT\n\nWest Pharmaceutical \n$WST\n\nUnited Rentals \n$URI\n\nHagerty \n$HGTY\n\nVeon \n$VEON\n\nGreif \n$GEF.B",
 "likes": 65
+},
+{
+"id": "2115161358237114567",
+"author": "unusual_whales",
+"date": "2026-10-27",
+"zh": "Unusual Whales：BA 財報後跌 10% 至 18 個月低點，交機目標下修",
+"risk": "現金流下修",
+"s": {
+"BA": "bear"
+},
+"text": "$BA\n down 10% to $169 after earnings, an 18-month low\n\nWider jet-unit loss, a delivery target cut and a lower free cash flow forecast.\n\nBut Risk Reversal Skew is still negative (-0.03). Calls are priced over puts.",
+"likes": 166
 },
 {
 "id": "2115163514499129809",
@@ -18428,6 +18465,19 @@
 },
 "text": "ROBINHOOD \n$HOOD\n STOCK JUST REPORTED EARNINGS",
 "likes": 101
+},
+{
+"id": "2115174082325131385",
+"author": "unusual_whales",
+"date": "2026-10-27",
+"zh": "Unusual Whales：HOOD 營收、EPS 略低於預期；Visa 小幅優於預期",
+"risk": "新聞",
+"s": {
+"HOOD": "bear",
+"V": "neutral"
+},
+"text": "Robinhood, \n$HOOD\n, earnings:\n\n- Revenue: $1.42 billion, est: $1.43 billion\n- EPS: $0.51, est: $0.55\n\nVisa, \n$V\n, earnings:\n\n- Revenue: $12.1 billion, est: $12.09 billion\n- EPS: $3.48, est: $3.44",
+"likes": 548
 },
 {
 "id": "2115174487398273169",
@@ -18756,6 +18806,30 @@
 "likes": 3
 },
 {
+"id": "2115534605801365658",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：MSFT 財報 EPS、營收皆優於預期",
+"risk": "新聞",
+"s": {
+"MSFT": "bull"
+},
+"text": "MICROSOFT \n$MSFT\n JUST REPORTED EARNINGS\n\nEPS of $4.89 beating expectations of $4.72\nRevenue of $92.3B beating expectations of $90.7B",
+"likes": 331
+},
+{
+"id": "2115534757832634378",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：GOOGL 財報營收 1,276 億優於預期",
+"risk": "新聞",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "GOOGLE \n$GOOGL\n JUST REPORTED EARNINGS\n\nEPS of $2.12\nRevenue of $127.6B beating expectations of $124.6B",
+"likes": 303
+},
+{
 "id": "2115535807201313026",
 "author": "Balder13946731",
 "date": "2026-10-28",
@@ -18766,6 +18840,18 @@
 },
 "text": "$MSFT\n double beat",
 "likes": 0
+},
+{
+"id": "2115535944187347131",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：MSFT 財報後首波上漲 4%",
+"risk": "新聞",
+"s": {
+"MSFT": "bull"
+},
+"text": "Microsoft \n$MSFT\n stock's initial move after reporting earnings is up by 4%",
+"likes": 141
 },
 {
 "id": "2115536008519238076",
@@ -18790,6 +18876,20 @@
 },
 "text": "Google \n$GOOGL\n is now a $500+ Billion Revenue Run Rate business",
 "likes": 49
+},
+{
+"id": "2115537141346574500",
+"author": "unusual_whales",
+"date": "2026-10-28",
+"zh": "Unusual Whales：F、EBAY 財報優於預期，CVNA EPS 不及",
+"risk": "新聞",
+"s": {
+"CVNA": "neutral",
+"EBAY": "bull",
+"F": "bull"
+},
+"text": "Ford, \n$F\n, earnings:\n\n- EPS: $0.49, est: $0.4\n- Revenue: $49.5 billion, est: $49 billion\n\n\n$EBAY\n:\n- EPS: $1.51, est: $1.41\n- Revenue; $3.2 billion, est: $3.1 billion\n\n\n$CVNA\n:\n- EPS: $0.39, est: $0.48\n- Revenue: $8 billion, est: $7.7 billion",
+"likes": 208
 },
 {
 "id": "2115537250989875585",
@@ -18838,5 +18938,768 @@
 },
 "text": "这是这么多年来M7的科技公司第一次这么直接的double miss🫪🫪🫪\n\n\n$GOOG\n 大跌回到400以下。Google的大模型的合规以及harness必须要像Anthropic或者OpenAI一样，否则多强的智能都没用。\n\n这个大跌，我认为其实是创造了一个有趣的机会。我们可能重新获得了买入 \n$GOOG\n 的契机",
 "likes": 2
+},
+{
+"id": "2115541710763880689",
+"author": "michaelsikand",
+"date": "2026-10-28",
+"zh": "Michael Sikand：GOOG 雲端僅占 1/4 營收，MSFT 主賣算力、資本支出投報顯著",
+"risk": "估值偏高",
+"s": {
+"GOOG": "neutral",
+"MSFT": "bull"
+},
+"text": "$GOOG\n's cloud growth and beat is impressive but it's only 1/4th of revenue. \n$MSFT\n is primarily in the business of selling compute and it's generating a massive ROI off its capex. Investors are rewarding the company with the obvious path to AI driven profits.",
+"likes": 218
+},
+{
+"id": "2115542795830407567",
+"author": "unusual_whales",
+"date": "2026-10-28",
+"zh": "Unusual Whales：MSFT 財報優於預期，雲端營收超標，盤後續漲",
+"risk": "新聞",
+"s": {
+"MSFT": "bull"
+},
+"text": "BREAKING: \n$MSFT\n beats earnings, cloud revenue tops estimates \n\nIt ran 3.7% into the print and is pushing higher after hours.\n\nBillions have been added in marketcap.\n\nIn 2 of the last 4 reports it moved more than options priced, including a +0.10 blowout in July.",
+"likes": 197
+},
+{
+"id": "2115543830644801649",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Google 視覺搜尋每月逾 500 億次",
+"risk": "新聞",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n just said it has now crossed over 50 Billion visual searches per month",
+"likes": 180
+},
+{
+"id": "2115547170053185817",
+"author": "Balder13946731",
+"date": "2026-10-28",
+"zh": "Balder：GOOG 罕見雙雙不及預期跌破 300，但認為創造了買點",
+"risk": "AI 合規落後",
+"s": {
+"GOOG": "bull"
+},
+"text": "这是这么多年来M7的科技公司第一次这么直接的double miss🫪🫪🫪\n\n\n$GOOG\n 大跌回到300以下。Google的大模型的合规以及harness必须要像Anthropic或者OpenAI一样，否则多强的智能都没用。\n\n这个大跌，我认为其实是创造了一个有趣的机会。我们可能重新获得了买入 \n$GOOG\n 的契机",
+"likes": 88
+},
+{
+"id": "2115549077312274857",
+"author": "unusual_whales",
+"date": "2026-10-28",
+"zh": "Unusual Whales：GOOGL EPS、營收雙雙不及預期，盤後跌 8% 至約 295",
+"risk": "雲端仍優於預期",
+"s": {
+"GOOGL": "bear"
+},
+"text": "BREAKING: \n$GOOGL\n down 8% after hours to ~$295 after earnings\n\nIt missed on both EPS and revenue.\n\nMeanwhile, cloud revenue beat estimates. \n\nEPS growth went +82% in Q1'26 and +296% in Q2'26.",
+"likes": 314
+},
+{
+"id": "2115549631740350956",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：NOW 有 680 家年付逾 500 萬美元客戶",
+"risk": "新聞",
+"s": {
+"NOW": "neutral"
+},
+"text": "SERVICENOW \n$NOW\n NOW HAS 680 CUSTOMERS PAYING MORE THAN $5 MILLION A YEAR",
+"likes": 273
+},
+{
+"id": "2115551338972979459",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：LITE 噴發",
+"risk": "追高風險",
+"s": {
+"LITE": "bull"
+},
+"text": "RIPPPY TIME \n$LITE\n\n\nMY GOD",
+"likes": 40
+},
+{
+"id": "2115551406489059619",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：MRVL 傳洽購 LITE",
+"risk": "交易未定",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "Marvell \n$MRVL\n is reportedly in advanced talks to acquire Lumentum Holdings \n$LITE\n - Bloomberg",
+"likes": 313
+},
+{
+"id": "2115551860639572289",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：MRVL 洽購 LITE 進入後期",
+"risk": "交易未定",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$MRVL\n IN ADVANCED TALKS TO BUY LUMENTUM HOLDINGS \n$LITE",
+"likes": 91
+},
+{
+"id": "2115552416368415139",
+"author": "michaelsikand",
+"date": "2026-10-28",
+"zh": "Michael Sikand：MRVL 洽購 LITE，盤後 MRVL 跌 11%、LITE 漲 12%",
+"risk": "交易未定",
+"s": {
+"LITE": "bull",
+"MRVL": "bear"
+},
+"text": "$MRVL\n IS IN TALKS TO BUY \n$LITE\n.\n\n\n$MRVL\n IS DOWN 11% WHILE \n$LITE\n IS UP 12% AH.",
+"likes": 272
+},
+{
+"id": "2115554093871849685",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：轉述彭博，MRVL 洽購 LITE 最快下週宣布",
+"risk": "交易未定",
+"s": {
+"AAOI": "neutral",
+"COHR": "neutral",
+"LITE": "bull",
+"MRVL": "neutral"
+},
+"text": "$MRVL\n Is Said to Near Deal for \n$LITE\n In AI-Related Megadeal\n\n\"Marvell Technology Inc. is in advanced talks to buy data center optics maker Lumentum Holdings Inc., according to people familiar with the matter, a potential megadeal amid the race to scale up in the artificial intelligence sector.\n\nA deal could be announced as soon as next week, said the people, who asked to not be identified because the discussions are private. Lumentum has a market value of about $83 billion while Marvell is worth about $221 billion.\n\nRepresentatives for Marvell and Lumentum couldn’t immediately be reached for comment.\"\n\n\n$LITE\n \n$COHR\n \n$AAOI",
+"likes": 80
+},
+{
+"id": "2115556291531911456",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：META 發行 4,000 萬股 A 類普通股",
+"risk": "股權稀釋",
+"s": {
+"META": "neutral"
+},
+"text": "META PLATFORMS \n$META\n OFFERS 40 MILLION SHARES OF CLASS A COMMON STOCKS - SEC FILING",
+"likes": 333
+},
+{
+"id": "2115556972728815838",
+"author": "Balder13946731",
+"date": "2026-10-28",
+"zh": "Balder：10/28 復盤，四大指數全漲，AI 算力鏈沿資料中心物料清單輪漲",
+"risk": "追高風險",
+"s": {
+"SPY": "bull"
+},
+"text": "【美股复盘 · 10月28日】\n\n**大市**\n四大指数全线上涨。标普 \n$SPY\n 收于772.31，涨0.34%；纳指 QQQ 收于725.61，涨0.60%；道指 DIA 收于524.68，涨0.27%；罗素小型股 IWM 收于281.36，涨0.42%。纳指领涨，大小盘差距不大。市宽配合上涨，107只观察股中69只上升、38只下跌。两只反向ETF同步走弱，三倍做空纳指的 SQQQ 跌1.76%，三倍做空半导体的 SOXS 跌6.40%，后者的跌幅说明半导体是今天真正的发动机。\n\n**板块**\n涨幅榜几乎被AI算力链包揽。电源与散热的 VRT 涨16.48%，表现最强。云厂商 ORCL 涨10.73%。算力租赁的 CRWV 涨7.32%、 NBIS 涨6.96%。存储端 SNDK 涨7.66%、 MU 涨5.86%。设备端 LRCX 涨5.39%。光互联的 AAOI 涨6.85%、 LITE 涨5.52%。从电力、机柜到存储、光模块，上涨是沿着数据中心的物料清单逐项推进的，不是集中在少数几只名字上。\n\n软件股方向相反。 NOW 跌3.00%， NET 跌2.77%， PANW 跌1.79%。资金在同一天里买硬件、卖软件。一个被反复讨论的理由是，大模型每隔几个月一次的强制迁移，等于给客户安排了一次免费的重新比价——应用层的锁定效应比上一代软件弱得多，而算力的需求是确定的。\n\n**焦点**\nSKHY 涨13.30%，位列涨幅榜第二，主因是前一交易日盘后的财报。 HOOD 跌3.31%，同样来自前一交易日盘后的财报，是跌幅榜上为数不多的高关注度品种。 STX 与 V 的财报也在前一交易日盘后公布。其余跌幅居前的是 ON 跌3.86%、 NU 跌3.47%、 QBTS 跌2.97%，半导体内部同样出现分化，设备与存储上涨，模拟与功率走弱。\n\n**小结**\n指数涨幅温和，结构却不温和：AI基础设施全线走强，软件和部分成长股被抛售，钱从应用端挪向了供给端。 F 、 GOOGL 、 MSFT 、 NOW 的财报在今日盘后公布，其中 NOW 今天已先行下跌。这批数字决定的是下一个交易日，而不是今天这根阳线。",
+"likes": 0
+},
+{
+"id": "2115558633266368952",
+"author": "unusual_whales",
+"date": "2026-10-28",
+"zh": "Unusual Whales：MRVL 洽購市值約 830 億美元的 LITE",
+"risk": "交易未定",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "BREAKING: Marvell \n$MRVL\n in advanced talks to buy Lumentum \n$LITE\n, per Bloomberg\n\nLumentum makes optical components for AI data centers. A deal could be announced as soon as next week. \n\nLumentum is worth about $83 billion; Marvell about $221 billion",
+"likes": 659
+},
+{
+"id": "2115563011821773090",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：GOOGL 財報不及預期盤後重挫，但 AI 資本支出指引未變、2027 年大增",
+"risk": "市場情緒差",
+"s": {
+"GOOGL": "bull"
+},
+"text": "$GOOGL\n carnage AH.\n\nGoogle missed, but its guidance for the AI buildout didn't budge.\n\n$195–205B of capex in 2026, unchanged, and a significant increase in 2027.\n\nWith only ~$80B spent in the first half, that means $115B+ in the back half of this year alone.\n\nThe stock is down on",
+"likes": 57
+},
+{
+"id": "2115564965448867846",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：LITE 盤後漲逾 10%",
+"risk": "新聞",
+"s": {
+"LITE": "bull"
+},
+"text": "Lumentum \n$LITE\n stock is up by more than 10% in after-hours on this news",
+"likes": 119
+},
+{
+"id": "2115565050408865946",
+"author": "michaelsikand",
+"date": "2026-10-28",
+"zh": "Michael Sikand：MRVL 需大幅稀釋收購 LITE，但讓黃仁勳的 1 兆市值說更實際",
+"risk": "股權稀釋",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$200B \n$MRVL\n will need to dilute shareholders heavily to buy $80B \n$LITE\n hence why it's down after hours. But if you remember Jensen called \n$MRVL\n to $1T this makes that seem quite a bit more realistic.",
+"likes": 197
+},
+{
+"id": "2115565376914469038",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：MSFT 預期 2027 財年維持正現金流",
+"risk": "新聞",
+"s": {
+"MSFT": "bull"
+},
+"text": "MICROSOFT \n$MSFT\n SAYS THE COMPANY EXPECTS TO REMAIN CASH FLOW POSITIVE IN FISCAL 2027",
+"likes": 523
+},
+{
+"id": "2115566028222775355",
+"author": "Balder13946731",
+"date": "2026-10-28",
+"zh": "Balder：MRVL 宣布將收購 LITE",
+"risk": "交易未定",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$MRVL\n 宣布要收购 \n$LITE",
+"likes": 18
+},
+{
+"id": "2115623864353059227",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：Google Cloud 年化營收達 1,230 億美元",
+"risk": "新聞",
+"s": {
+"GOOGL": "bull"
+},
+"text": "Google Cloud \n$GOOGL\n is now a $123 Billion ARR business - Fiscal AI",
+"likes": 206
+},
+{
+"id": "2115626389307355638",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：調侃 MRVL 的 1 兆是指股數，暗指稀釋",
+"risk": "股權稀釋",
+"s": {
+"MRVL": "bear"
+},
+"text": "When Jensen said \n$MRVL\n to 1T did he mean the share count?",
+"likes": 131
+},
+{
+"id": "2115633346042900904",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：UBER 再創 52 週新低",
+"risk": "新聞",
+"s": {
+"UBER": "bear"
+},
+"text": "$UBER\n stock hit new 52 WEEK LOWS again today",
+"likes": 320
+},
+{
+"id": "2115795033764892888",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：Peter Thiel 稱 Apple 在賈伯斯之後毫無創新",
+"risk": "新聞",
+"s": {
+"AAPL": "neutral"
+},
+"text": "Peter Thiel has said that Apple, \n$AAPL\n, has done 'nothing new' after Steve Jobs",
+"likes": 2293
+},
+{
+"id": "2115797306805207345",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：Thrive Holdings 以 153 億美元將 ADT 私有化",
+"risk": "新聞",
+"s": {
+"ADT": "neutral"
+},
+"text": "Joshua Kushner's Thrive Holdings has agreed to take \n$ADT\n private in a $15.3 Billion deal - Bloomberg",
+"likes": 35
+},
+{
+"id": "2115800256961245234",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：GOOGL 開盤跌 13%，市值蒸發約 5,000 億美元",
+"risk": "新聞",
+"s": {
+"GOOGL": "bear"
+},
+"text": "GOOGLE'S MARKET CAP IS CURRENTLY DOWN BY ~$500 BILLION \n\nGoogle \n$GOOGL\n stock is starting out trading today down by 13%",
+"likes": 257
+},
+{
+"id": "2115800504429154351",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：NOW 開盤跌約 25%，恐創十年最大單日跌幅",
+"risk": "新聞",
+"s": {
+"NOW": "bear"
+},
+"text": "ServiceNow \n$NOW\n stock is starting out trading today down by ~25% \n\nServiceNow stock is currently on pace for its biggest single-day drop in a decade",
+"likes": 419
+},
+{
+"id": "2115806553735598172",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：用一個字形容 284 美元的 GOOGL",
+"risk": "無實質觀點",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Describe your thoughts on Google \n$GOOGL\n stock at $284 per share using JUST 1 word",
+"likes": 470
+},
+{
+"id": "2115807243836731522",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：用一個字形容 115 美元的 NOW",
+"risk": "無實質觀點",
+"s": {
+"NOW": "neutral"
+},
+"text": "Describe your thoughts on ServiceNow \n$NOW\n stock at $115 per share using JUST 1 word",
+"likes": 148
+},
+{
+"id": "2115810917644665225",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMC 公布沙丘 3 爆米花桶",
+"risk": "新聞",
+"s": {
+"AMC": "neutral"
+},
+"text": "AMC Theaters \n$AMC\n just revealed what the special popcorn buckets are going to look like for Dune 3 - Variety",
+"likes": 212
+},
+{
+"id": "2115813337665622494",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：Meta Muse 模擬帳戶持股，含 MSFT、XOM、MA 等",
+"risk": "AI 模擬組合",
+"s": {
+"CAT": "neutral",
+"JNJ": "neutral",
+"JPM": "neutral",
+"MA": "neutral",
+"MSFT": "neutral",
+"RTX": "neutral",
+"XOM": "neutral"
+},
+"text": "Meta Platforms' Muse was given a $100K account and told to beat the S&P 500 starting on September 14th \n\nThis is what Muse owns right now:\n\n$7,793 of Microsoft \n$MSFT\n\n$7,649 of Exxon Mobil \n$XOM\n\n$7,332 of Mastercard \n$MA\n\n$7,159 of Caterpillar \n$CAT\n\n$7,052 of Johnson & Johnson \n$JNJ\n\n$6,792 of JPMorgan \n$JPM\n\n$5,893 of RTX \n$RTX\n \n$51,308 of available cash",
+"likes": 173
+},
+{
+"id": "2115820199890866461",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：MSFT 擬發行至少 250 億美元公司債，2017 年來首次",
+"risk": "舉債",
+"s": {
+"MSFT": "neutral"
+},
+"text": "BREAKING: Microsoft \n$MSFT\n is looking to raise at least $25 billion in its first bond sale since 2017\n\nThe last time Microsoft tapped the bond market was a $17 billion sale in January 2017, months after borrowing nearly $20 billion to buy LinkedIn.",
+"likes": 512
+},
+{
+"id": "2115827977996902610",
+"author": "ren_stocks",
+"date": "2026-10-29",
+"zh": "Ren：GOOGL 跌回 3 月低點，但營收、雲端成長與利潤都大幅改善",
+"risk": "市場情緒差",
+"s": {
+"GOOGL": "bull"
+},
+"text": "$GOOGL\n Is the market ok?\n\nGoogle is back to its March war-scare low, so let’s look at what changed since then:\n\n+ Quarterly revenue went from $110B to $128B \n+ Google Cloud growth went from 63% to 103%, with Cloud now at $30.7B a quarter\n+ Cloud operating margin is around 36%, and its profit more than tripled in a year\n+ Search queries are growing at the fastest pace in five years\n+ The 2026 capex plan was raised twice, to $195–205B, with more coming in 2027\n\nThe business got bigger and more profitable on every line.  The stock is back where it started.\n\nI’m having a hard time not pouring all my future earnings into this name.",
+"likes": 133
+},
+{
+"id": "2115841747943297380",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：比起 M7 更偏好純 AI 標的 ANT",
+"risk": "尚未上市",
+"s": {
+"ANT": "bull",
+"GOOG": "neutral",
+"META": "neutral"
+},
+"text": "Not going to lie I'm really starting to prefer $ANT over Mag 7 here. Sick of this. Just give me the pure play stock that's actually monetizing this capex. I don't want \n$GOOG\n search, I don't want \n$META\n ads, I don't want legacy AWS. I want AI!",
+"likes": 133
+},
+{
+"id": "2115842485918245340",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：SpaceX 84% 資本支出用於 AI 建設",
+"risk": "新聞",
+"s": {
+"SPCX": "neutral"
+},
+"text": "84% of the money SpaceX \n$SPCX\n spends on CAPEX goes to its AI buildout",
+"likes": 81
+},
+{
+"id": "2115862384401420333",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：LLY 再創歷史新高",
+"risk": "新聞",
+"s": {
+"LLY": "bull"
+},
+"text": "Eli Lilly \n$LLY\n stock hit new ALL TIME HIGHS again today",
+"likes": 206
+},
+{
+"id": "2115872725310886198",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：CVX 將半數探勘預算投向未開發地區",
+"risk": "新聞",
+"s": {
+"CVX": "neutral"
+},
+"text": "CHEVRON \n$CVX\n IS BACK TO HUNTING FOR OIL IN FAR-FLUNG PLACES\n\nHalf of its exploration budget now goes to undeveloped regions, up from about 20% a few years ago, per WSJ. It's drilling in Namibia and Egypt and setting up in Greece, Malta, and Syria",
+"likes": 34
+},
+{
+"id": "2115875948486680705",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMZN 今日盤後財報，市場預期 EPS 2.01",
+"risk": "財報事件",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n reports earnings today after the stock markets close, Wall ST is expecting numbers of\n\nEPS of $2.01\nRevenue of $202.1B",
+"likes": 64
+},
+{
+"id": "2115885630400168173",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：有人買進 1,960 萬美元 LITE 賣權",
+"risk": "單筆押注",
+"s": {
+"LITE": "bear"
+},
+"text": "Someone just bought $19.6 million in \n$LITE\n puts, a day after Bloomberg reported Marvell is in advanced talks to buy Lumentum.\n\n$1,050 puts expiring Jan. 2027\n1,000 contracts, all at the ask\nStock ~$932; breakeven ~$854",
+"likes": 74
+},
+{
+"id": "2115888045924794745",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：今日創 52 週新低名單，含 NFLX、UBER、APP 等",
+"risk": "名單非觀點",
+"s": {
+"ALNY": "neutral",
+"APP": "neutral",
+"BBD": "neutral",
+"BBDO": "neutral",
+"BILI": "neutral",
+"CHRW": "neutral",
+"GGAL": "neutral",
+"HLN": "neutral",
+"ICL": "neutral",
+"KGC": "neutral",
+"LII": "neutral",
+"MBLY": "neutral",
+"MGM": "neutral",
+"NFLX": "neutral",
+"SFM": "neutral",
+"UBER": "neutral",
+"VALE": "neutral"
+},
+"text": "All these stocks have hit new 52 WEEK LOWS at some point today\n\nNetflix \n$NFLX\n \nUber \n$UBER\n \nAppLovin \n$APP\n\nMGM Resorts \n$MGM\n \nMobileye \n$MBLY\n\nBanco Bradesco \n$BBD\n\nHaleon \n$HLN\n\nVale \n$VALE\n\nSprouts Farmers Market \n$SFM\n\nKinross Gold \n$KGC\n\nAlnylam \n$ALNY\n\nBilibili \n$BILI\n\nC.H. Robinson \n$CHRW\n\nICL \n$ICL\n\nGrupo Galicia \n$GGAL\n\nLennox \n$LII\n\nBanco Bradesco \n$BBDO",
+"likes": 66
+},
+{
+"id": "2115889618595831820",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：Anthropic 是 SpaceX 最大單一客戶",
+"risk": "客戶集中",
+"s": {
+"SPCX": "bull"
+},
+"text": "Anthropic is currently SpaceX’s \n$SPCX\n largest single customer - WSJ",
+"likes": 106
+},
+{
+"id": "2115890663916978581",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：LLY 創新高，Mounjaro 成長 65%，上調全年指引",
+"risk": "選擇權資金偏空",
+"s": {
+"LLY": "bull"
+},
+"text": "Eli Lilly, \n$LLY\n, is up ~6% to $1,365, new all-time highs.\n\nMounjaro was up $10.7 billion (+65%), Zepbound $5.35 billion (+49%), and its 2026 guide was raised to $91–92 billion.\n\nRipping even as Market Tide is bearish: calls -$351M, puts +$165M.",
+"likes": 71
+},
+{
+"id": "2115892034397704432",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：今日創 52 週新高名單，含 LLY、MA、ABBV 等",
+"risk": "名單非觀點",
+"s": {
+"ABBV": "neutral",
+"ADT": "neutral",
+"BLCO": "neutral",
+"CRBG": "neutral",
+"CROX": "neutral",
+"GILD": "neutral",
+"GKOS": "neutral",
+"HST": "neutral",
+"LLY": "neutral",
+"LNG": "neutral",
+"MA": "neutral",
+"TENB": "neutral",
+"VTRS": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nEli Lilly \n$LLY\n \nADT \n$ADT\n\nMastercard \n$MA\n\nAbbVie \n$ABBV\n\nViatris \n$VTRS\n\nTenable \n$TENB\n\nGlaukos \n$GKOS\n\nCorebridge Financial \n$CRBG\n\nCrocs \n$CROX\n\nCheniere Energy \n$LNG\n\nGilead \n$GILD\n\nHost Hotels & Resorts \n$HST\n\nBausch + Lomb \n$BLCO",
+"likes": 42
+},
+{
+"id": "2115895062798495934",
+"author": "octopusycc",
+"date": "2026-10-29",
+"zh": "大老师：MSTR、COIN、SNDK、INTC、AMZN 財報預測整體偏負面",
+"risk": "盤後流動性不足",
+"s": {
+"AMZN": "bear",
+"COIN": "bear",
+"INTC": "bear",
+"MSTR": "bear",
+"SNDK": "bear"
+},
+"text": "财报预测\n\n$MSTR\n \n$COIN\n \n$SNDK\n \n$INTC\n \n$AMZN\n \n\n没时间发文字了 \n\n凑合看吧\n\n整体偏负面",
+"likes": 3
+},
+{
+"id": "2115895365077766149",
+"author": "octopusycc",
+"date": "2026-10-29",
+"zh": "大老师：INTC 最後五分鐘拉起，出現一些變化",
+"risk": "方向未定",
+"s": {
+"INTC": "neutral"
+},
+"text": "$INTC\n  看涨最后五分钟拉起来了\n\n一些变化",
+"likes": 2
+},
+{
+"id": "2115895611103085025",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：GOOG 因 AI 顛覆疑慮跌 12%，但今年可望擁有第一名 AI 模型",
+"risk": "搜尋被顛覆",
+"s": {
+"GOOG": "bull"
+},
+"text": "$GOOG\n is down 12% today on AI disruption fears but is projected to have the #1 AI model in the world this year.",
+"likes": 47
+},
+{
+"id": "2115896919679770976",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMZN 財報 EPS、營收皆不及預期",
+"risk": "新聞",
+"s": {
+"AMZN": "bear"
+},
+"text": "AMAZON \n$AMZN\n JUST REPORTED EARNINGS \n\nEPS of $1.89 beating expectations of $1.97 \nRevenue of $201.9B missing expectations of $202.2B",
+"likes": 183
+},
+{
+"id": "2115897530982776931",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：AMZN EPS、營收皆不及預期",
+"risk": "新聞",
+"s": {
+"AMZN": "bear"
+},
+"text": "BREAKING: Amazon, \n$AMZN\n, earnings:\n\n- EPS: $1.89, est: $1.96\n- Revenue: $201 billion, est: $202 billion",
+"likes": 427
+},
+{
+"id": "2115897679217656288",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：INTC 財報優於預期，但 Q4 指引遠低於預期",
+"risk": "指引下修",
+"s": {
+"INTC": "bear"
+},
+"text": "INTEL \n$INTC\n JUST REPORTED EARNINGS\n\nEPS of $0.52 beating expectations of $0.40\nRevenue of $16.5B beating expectations of $16.47B\n\nINTEL JUST GAVE A Q4 FORECAST WELL BELOW ESTIMATES\n\n- Q4 Adj EPS guidance of $0.25 missing expectations of $0.43 \n- Q4 revenue guidance of $15B",
+"likes": 67
+},
+{
+"id": "2115897958780882974",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：INTC、MSTR、RIVN 財報數字",
+"risk": "新聞",
+"s": {
+"INTC": "neutral",
+"MSTR": "neutral",
+"RIVN": "neutral"
+},
+"text": "BREAKING: Intel, \n$INTC\n, earnings:\n\n- EPS: $0.52, est: $0.4\n- Revenue: $16.5 billion, est: $16.49 billion\n\n\n$MSTR\n earnings:\n- EPS: $44.75, est: $22.89\n- Revenue: $125.4 million, est: $128.9 million\n\n\n$RIVN\n earnings:\n- EPS: -$0.63, est: -$0.72\n- Rev: $2.1 billion, est: $2 billion",
+"likes": 146
+},
+{
+"id": "2115898826766885211",
+"author": "Franktradinglog",
+"date": "2026-10-29",
+"zh": "Frank trading：INTC 斬殺",
+"risk": "財報後重挫",
+"s": {
+"INTC": "bear"
+},
+"text": "$INTC\n \n斩杀",
+"likes": 14
+},
+{
+"id": "2115900408728260835",
+"author": "ren_stocks",
+"date": "2026-10-29",
+"zh": "Ren：INTC 財報後重挫，Q4 營收、EPS、毛利率指引皆低於預期",
+"risk": "指引下修",
+"s": {
+"INTC": "bear"
+},
+"text": "$INTC\n - Brutal price action after ER.\n\nQ4 Guide: \n+ Revenue: $15.0B-$16.0B (Est. $17.1B)  \n+ Non-GAAP EPS: $0.25 (Est. $0.43)  \n+ Non-GAAP GM: 38.0% (Est. 42.4%) \n+ GAAP EPS: $0.10\n\n+ Revenue: $16.5B (Est. $16.5B) ; +21% YoY\n+ Adj. EPS: $0.52 (Est. $0.40) ; +126% YoY\n+ GAAP EPS: $0.60\n+ Non-GAAP GM: 44.1% (Est. 42.1%) ; +410 bps YoY \n+ Gross CapEx: $4.2B; -43% YoY",
+"likes": 11
+},
+{
+"id": "2115900984580870521",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMZN 營業利益率創歷史新高",
+"risk": "新聞",
+"s": {
+"AMZN": "bull"
+},
+"text": "AMAZON \n$AMZN\n JUST POSTED THE HIGHEST OPERATING MARGIN IN ITS HISTORY",
+"likes": 66
+},
+{
+"id": "2115901233571545366",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：SNDK 財報 EPS、營收皆優於預期",
+"risk": "新聞",
+"s": {
+"SNDK": "bull"
+},
+"text": "Sandisk \n$SNDK\n just reported earnings\n\nEPS of $49.51 beating expectations of $46.22\nRevenue of $11B beating expectations of $10.6B",
+"likes": 38
+},
+{
+"id": "2115901572114993314",
+"author": "unusual_whales",
+"date": "2026-10-29",
+"zh": "Unusual Whales：SNDK、RDDT 財報優於預期，COIN 營收略低",
+"risk": "新聞",
+"s": {
+"COIN": "neutral",
+"RDDT": "bull",
+"SNDK": "bull"
+},
+"text": "Sandisk, \n$SNDK\n, earnings:\n\n- EPS: $49.5, est: $46\n- Rev: $11 billion, est: $10.7 billion\n\n\n$COIN\n earnings:\n- EPS: $2.51, est: -$0.1\n- Rev: $1.21 billion, est: $1.23 billion\n\n\n$RDDT\n earnings:\n- EPS: $1.4, est: $1.33\n- Rev: $894 million, est: $874 million",
+"likes": 120
+},
+{
+"id": "2115901576145735828",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：AMZN 護城河無可撼動，財報後下跌是大機會",
+"risk": "財報不如預期",
+"s": {
+"AMZN": "bull",
+"GOOG": "neutral"
+},
+"text": "$AMZN\n this is no \n$GOOG\n situation. \n\nThis moat is untouchable. Huge opportunity.",
+"likes": 23
+},
+{
+"id": "2115901831352311968",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：SNDK 宣布 1 拆 8",
+"risk": "新聞",
+"s": {
+"SNDK": "neutral"
+},
+"text": "Sandisk \n$SNDK\n stock just announced a 8:1 stock split\n\nSNDK will have 8x the shares outstanding, and each share will trade at 1/8th the price\n\nThe total value of the shares you hold are not directly impacted",
+"likes": 45
+},
+{
+"id": "2115902855286784182",
+"author": "Balder13946731",
+"date": "2026-10-29",
+"zh": "Balder：SNDK 財報超預期並宣布 1 拆 8",
+"risk": "新聞",
+"s": {
+"SNDK": "bull"
+},
+"text": "$SNDK\n 财报超预期，同时宣布1/8拆股。",
+"likes": 3
+},
+{
+"id": "2115903289300824237",
+"author": "Balder13946731",
+"date": "2026-10-29",
+"zh": "Balder：AMZN 也是雙雙不及預期",
+"risk": "財報失望",
+"s": {
+"AMZN": "bear"
+},
+"text": "$AMZN\n 也是double miss🫪🫪",
+"likes": 4
+},
+{
+"id": "2115903515931680884",
+"author": "Balder13946731",
+"date": "2026-10-29",
+"zh": "Balder：INTC 雙雙優於預期但大幅下修指引，導致崩跌",
+"risk": "指引下修",
+"s": {
+"INTC": "bear"
+},
+"text": "$INTC\n double beats但是大幅调低了Guidance，导致大崩盘。",
+"likes": 7
 }
 ]
