@@ -18099,6 +18099,18 @@
 "likes": 99
 },
 {
+"id": "2115106259691348341",
+"author": "ren_stocks",
+"date": "2026-10-27",
+"zh": "Ren：NBIS 反彈不是死貓跳，資金、聯準會、雲廠財報與選舉將推升",
+"risk": "政策與財報風險",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n\nOh boy, how I've missed these days…\n\nI don't think for a second this is a dead cat bounce. Watch the flows, watch the filings, watch the Fed, watch the hyperscalers' earnings, and watch the elections send us HIGHER",
+"likes": 276
+},
+{
 "id": "2115110546282590432",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -18689,6 +18701,31 @@
 "likes": 146
 },
 {
+"id": "2115431866639753220",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：WEN 盤前漲 15%",
+"risk": "新聞",
+"s": {
+"WEN": "bull"
+},
+"text": "Wendy’s \n$WEN\n stock is up by 15% in pre market trading on this news",
+"likes": 163
+},
+{
+"id": "2115449885956968546",
+"author": "octopusycc",
+"date": "2026-10-28",
+"zh": "大老师：今晚分析 GOOG、MSFT，重點是 AI 資本支出能否轉為利潤",
+"risk": "推廣",
+"s": {
+"GOOG": "neutral",
+"MSFT": "neutral"
+},
+"text": "今晚接着啃 \n$GOOG\n \n$MSFT\n \n\n伴随FOMC的结果，这可能是很难分析的两张票了\n\n同样也是 对整个AI股市 影响最大的票了\n\nAI Capex到底能不能转化成利润\n\n是今天的重点 咱们拭目以待\n\n\n@okxchinese\n \n@Jiajia_OKX",
+"likes": 4
+},
+{
 "id": "2115461551662510580",
 "author": "StockMKTNewz",
 "date": "2026-10-28",
@@ -18940,6 +18977,30 @@
 "likes": 2
 },
 {
+"id": "2115539887793549583",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：Google Q3 發債 287 億、增資 124 億美元",
+"risk": "融資增加",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n raised $28.7 Billion of debt and raised $12.4 Billion by selling common stock during Q3",
+"likes": 160
+},
+{
+"id": "2115541541595009037",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：GOOGL 距歷史高點已跌約 25%",
+"risk": "新聞",
+"s": {
+"GOOGL": "bear"
+},
+"text": "Google \n$GOOGL\n stock is now down ~25% from its most recent ALL TIME HIGHS",
+"likes": 259
+},
+{
 "id": "2115541710763880689",
 "author": "michaelsikand",
 "date": "2026-10-28",
@@ -19128,6 +19189,18 @@
 "likes": 57
 },
 {
+"id": "2115564897824133344",
+"author": "KawzInvests",
+"date": "2026-10-28",
+"zh": "KawzInvests：僅貼出 LITE 代號",
+"risk": "無實質觀點",
+"s": {
+"LITE": "neutral"
+},
+"text": "$LITE",
+"likes": 79
+},
+{
 "id": "2115564965448867846",
 "author": "StockMKTNewz",
 "date": "2026-10-28",
@@ -19178,6 +19251,70 @@
 "likes": 18
 },
 {
+"id": "2115569276899954836",
+"author": "michaelsikand",
+"date": "2026-10-28",
+"zh": "Michael Sikand：預測 GOOG 搜尋仍雙位數成長成真，但稱搜尋明顯已被顛覆",
+"risk": "觀點反諷",
+"s": {
+"GOOG": "neutral"
+},
+"text": "Seems like a lot of you thought this was a bullish earnings take and I was wrong? Exactly as I predicted \n$GOOG\n showed double digit growth in search despite it being very obviously cooked?",
+"likes": 18
+},
+{
+"id": "2115571372432703553",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：Google 開始租用第三方算力，是新雲業者最好的訊號之一",
+"risk": "雲廠利潤壓力",
+"s": {
+"CRWV": "bull",
+"GOOGL": "neutral",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$GOOGL\n\n\nThis might be the one of the best read for neoclouds that's come out of Google yet…\n\n\n$GOOGL\n on the call: \"Given the supply constraint environment, we started utilizing third party compute capacity at the end of Q3 and will ramp usage in Q4. We expect margin headwinds in the near term as we utilize this capacity.\"\n\nGoogle Cloud just grew 103% to $30.7B, and Google is spending ~$200B on capex this year. \n\nIt still can't build fast enough, so it's renting compute from outside.\n\nGoogle is telling you it would rather pay someone else's price, and give up some of its own margin, than turn customers away. \n\nThat's pricing power for whoever owns the capacity, think \n$NBIS\n, \n$CRWV\n, etc.\n\nWhen one of the companies with the most capex, its own chips and its own cloud has to rent, the shortage is real. \n\nThat dollar goes to whoever has capacity ready, and right now that's the AI clouds.",
+"likes": 308
+},
+{
+"id": "2115585181994320156",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：暗示 NBIS 隔日大漲",
+"risk": "短線判斷",
+"s": {
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n\nBe advised: here’s what tomorrow might look like.",
+"likes": 193
+},
+{
+"id": "2115612739699949720",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：一檔對沖基金 80% 押 CVNA，財報後盤後漲 8%",
+"risk": "集中風險",
+"s": {
+"CVNA": "neutral"
+},
+"text": "This is nuts?\n\n\n@patrick_oshag\n recently interviewed a $1.8B hedge fund manager who has 80% of his fund long \n$CVNA\n and said it \"should be 90%\".\n\n\n$CVNA\n crushed earnings today and is up 8% after hours. This guy is up ~$110M tonight.",
+"likes": 173
+},
+{
+"id": "2115614784767107248",
+"author": "ren_stocks",
+"date": "2026-10-29",
+"zh": "Ren：還在看空記憶體？",
+"risk": "記憶體週期性",
+"s": {
+"MU": "bull",
+"SKHY": "bull",
+"SNDK": "bull"
+},
+"text": "$MU\n \n$SNDK\n \n$SKHY\n\n\nAnd you are bearish memory? Bruh.",
+"likes": 212
+},
+{
 "id": "2115623864353059227",
 "author": "StockMKTNewz",
 "date": "2026-10-29",
@@ -19214,6 +19351,44 @@
 "likes": 320
 },
 {
+"id": "2115755430001451516",
+"author": "asklivermore",
+"date": "2026-10-29",
+"zh": "AskLivermore：6/15 以來投組 +8.73%，SMH 跌 12.78%",
+"risk": "防守配置",
+"s": {
+"QQQ": "neutral",
+"SMH": "bear",
+"SPY": "neutral"
+},
+"text": "Since: 6/15/2026\n\nPortfolio: +8.73%\n\n\n$SPY\n: +2.44%\n\n$QQQ\n: -3.44%\n\n$SMH\n: -12.78%",
+"likes": 7
+},
+{
+"id": "2115769750827450832",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：LLY 財報後盤前漲 4%",
+"risk": "新聞",
+"s": {
+"LLY": "bull"
+},
+"text": "Eli Lilly \n$LLY\n stock is up by 4% in pre market trading following its earnings",
+"likes": 119
+},
+{
+"id": "2115774304420020595",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：MSFT 發行至少 250 億美元十檔公司債",
+"risk": "舉債",
+"s": {
+"MSFT": "neutral"
+},
+"text": "MICROSOFT \n$MSFT\n LAUNCHES 10-PART  DOLLAR BOND OFFERING\n\nMICROSOFT LOOKS TO RAISE AT LEAST $25 BILLION FROM US BOND SALE",
+"likes": 145
+},
+{
 "id": "2115795033764892888",
 "author": "unusual_whales",
 "date": "2026-10-29",
@@ -19224,6 +19399,36 @@
 },
 "text": "Peter Thiel has said that Apple, \n$AAPL\n, has done 'nothing new' after Steve Jobs",
 "likes": 2293
+},
+{
+"id": "2115796148300497258",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：DoorDash 以每股 65 美元、170 億美元收購 Instacart",
+"risk": "監管審查",
+"s": {
+"CART": "bull",
+"DASH": "neutral"
+},
+"text": "DoorDash \n$DASH\n today agreed to acquire Instacart \n$CART\n for $17 Billion \n\nDoorDash will pay $65 a share in cash and stock - Bloomberg",
+"likes": 53
+},
+{
+"id": "2115796188163416122",
+"author": "octopusycc",
+"date": "2026-10-29",
+"zh": "大老师：今晚直播 AMZN、AXTI、SNDK、INTC 等財報",
+"risk": "推廣",
+"s": {
+"AMZN": "neutral",
+"AXTI": "neutral",
+"COIN": "neutral",
+"INTC": "neutral",
+"MSTR": "neutral",
+"SNDK": "neutral"
+},
+"text": "今晚依旧是两场重磅直播 \n\n\n$AMZN\n \n$AXTI\n \n$SNDK\n \n$INTC\n \n$MSTR\n \n$COIN\n 财报就在今天！\n\n21:30开播 品一下 PCE和昨天的FOMC（这个依然有Insight）\n\n3:00再播看财报！\n\n谢谢大家支持\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@sisibinance\n \n@pearbinance\n \n@ethpopoki\n \n@CYZhang01",
+"likes": 3
 },
 {
 "id": "2115797306805207345",
@@ -19316,6 +19521,18 @@
 "likes": 173
 },
 {
+"id": "2115814854611378361",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：AAPL 是 AI 最大瓶頸，裝置端學習才是個人超級智慧",
+"risk": "AI 進度落後",
+"s": {
+"AAPL": "bull"
+},
+"text": "The biggest AI bottleneck is \n$AAPL\n. Can you imagine if your Mac/iPhone watched and learned from everything you do on your device? That's the real personal super intelligence.",
+"likes": 72
+},
+{
 "id": "2115820199890866461",
 "author": "unusual_whales",
 "date": "2026-10-29",
@@ -19328,6 +19545,26 @@
 "likes": 512
 },
 {
+"id": "2115821610783695244",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：盤後財報名單：AMZN、INTC、COIN、SNDK 等",
+"risk": "財報事件",
+"s": {
+"AMZN": "neutral",
+"COIN": "neutral",
+"FSLR": "neutral",
+"INTC": "neutral",
+"RBLX": "neutral",
+"RDDT": "neutral",
+"RIVN": "neutral",
+"SBUX": "neutral",
+"SNDK": "neutral"
+},
+"text": "We have another busy after-hours of earnings coming up later today\n\nWe have earnings from names including\n\nAmazon \n$AMZN\n \nIntel \n$INTC\n \nCoinbase \n$COIN\n \nStarbucks \n$SBUX\n \nReddit \n$RDDT\n \nSandisk \n$SNDK\n \nRivian \n$RIVN\n \nRoblox \n$RBLX\n \nFirst Solar \n$FSLR",
+"likes": 92
+},
+{
 "id": "2115827977996902610",
 "author": "ren_stocks",
 "date": "2026-10-29",
@@ -19338,6 +19575,19 @@
 },
 "text": "$GOOGL\n Is the market ok?\n\nGoogle is back to its March war-scare low, so let’s look at what changed since then:\n\n+ Quarterly revenue went from $110B to $128B \n+ Google Cloud growth went from 63% to 103%, with Cloud now at $30.7B a quarter\n+ Cloud operating margin is around 36%, and its profit more than tripled in a year\n+ Search queries are growing at the fastest pace in five years\n+ The 2026 capex plan was raised twice, to $195–205B, with more coming in 2027\n\nThe business got bigger and more profitable on every line.  The stock is back where it started.\n\nI’m having a hard time not pouring all my future earnings into this name.",
 "likes": 133
+},
+{
+"id": "2115833525404647542",
+"author": "michaelsikand",
+"date": "2026-10-29",
+"zh": "Michael Sikand：解析 MRVL 收購 LITE",
+"risk": "交易未定",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$MRVL\n x \n$LITE\n Mega Merger Explained",
+"likes": 63
 },
 {
 "id": "2115841747943297380",
@@ -19667,6 +19917,18 @@
 "likes": 45
 },
 {
+"id": "2115902660196835620",
+"author": "KawzInvests",
+"date": "2026-10-29",
+"zh": "KawzInvests：OSPN 財報優於預期並上調指引，盤後漲 20%",
+"risk": "小型股波動",
+"s": {
+"OSPN": "bull"
+},
+"text": "My identity security report goes out tomorrow. Tonight one of my five picks reported.\n\n\n$OSPN\n up 20% after hours on a beat and raise.\n\n> Revenue $63.9M vs $57.4M expected (+12% YoY)\n> Subscription revenue +16%\n> ARR +9% to $195.5M\n> Net retention 105%\n> FY guide raised on revenue, ARR and adjusted EBITDA\n\nThis month hackers hit 16 Korean financial institutions and India's largest bank. \n\n\n$OSPN\n says more than 60% of the world's 100 largest banks use its products.\n\nOneSpan is one of five picks in my identity security report, out tomorrow. Keep an eye out for this one, the other four are just as interesting. \n$OSPN",
+"likes": 80
+},
+{
 "id": "2115902855286784182",
 "author": "Balder13946731",
 "date": "2026-10-29",
@@ -19701,5 +19963,131 @@
 },
 "text": "$INTC\n double beats但是大幅调低了Guidance，导致大崩盘。",
 "likes": 7
+},
+{
+"id": "2115906484743864721",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMZN 單季營收首次逾 2,000 億美元的第三季",
+"risk": "新聞",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Amazon \n$AMZN\n just brought in more than $200 Billion of revenue for the 3 quarter in its history",
+"likes": 209
+},
+{
+"id": "2115913006269812741",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：AMZN 本季自由現金流為負 348 億美元",
+"risk": "資本支出壓力",
+"s": {
+"AMZN": "bear"
+},
+"text": "Amazon \n$AMZN\n just brought in negative free cash flow of $34.8B during this past quarter",
+"likes": 192
+},
+{
+"id": "2115917476818977056",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：INTC 盤後跌約 20% 至 74 美元，美國政府持股市值縮水",
+"risk": "指引下修",
+"s": {
+"INTC": "bear"
+},
+"text": "The US Government bought 433.3 million shares of Intel stock at $20.47 on August 22nd, 2025 spending ~$8.9B\n\nIntel \n$INTC\n stock closed trading at $92.08 per share ... the stock is currently down by ~20% in after hours following its earnings\n\nINTC stock is currently trading at ~$74 per share in after hours\n\nThat means the  Government's stake in Intel was worth $39.9 Billion as of today's close\n\nAnd is currently worth $32.1 Billion in after hours",
+"likes": 308
+},
+{
+"id": "2115920162767708310",
+"author": "octopusycc",
+"date": "2026-10-29",
+"zh": "大老师：財報框架交易奏效，AMZN 215、INTC 71 抄底",
+"risk": "短線交易",
+"s": {
+"AMZN": "bull",
+"INTC": "bull",
+"SNDK": "neutral"
+},
+"text": "今日财报直播总结：\n\n还是很有感触的\n\n财报分析基本上进入下一阶段了\n\n框架交易在今日财报预测中发力明显\n\n无论是 \n$AMZN\n  215的抄底 还是 \n$INTC\n  71的抄底\n还是 \n$SNDK\n  1380 1260的框架，几乎完美匹配了我们的交易系统\n\n感谢大家的支持。\n\n顶级财报预测分析，尽在币安广场，明天再见！\n\n\n@heyibinance\n \n@binancezh\n \n@yingbinance\n \n@Yuki27__\n \n@sisibinance\n \n@pearbinance\n \n@ethpopoki\n \n@CYZhang01",
+"likes": 9
+},
+{
+"id": "2115935913914077399",
+"author": "KawzInvests",
+"date": "2026-10-29",
+"zh": "KawzInvests：僅貼出 INTC 代號",
+"risk": "無實質觀點",
+"s": {
+"INTC": "neutral"
+},
+"text": "$INTC",
+"likes": 118
+},
+{
+"id": "2115944128831979922",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：NVDA 洽談為 Nscale 擔保數十億美元債務",
+"risk": "擔保風險",
+"s": {
+"NVDA": "neutral"
+},
+"text": "NVIDIA \n$NVDA\n IS IN TALKS TO BACK BILLIONS OF DOLLARS OF DEBT FOR AI CLOUD STARTUP NSCALE\n\nThe credit guarantees would help Nscale build a 460-megawatt data center that Anthropic plans to use, per The Information.\n\nThe deal isn't signed yet, and terms could change.",
+"likes": 127
+},
+{
+"id": "2115949930497933342",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：鴻海稱可滿足 iPhone Duo 需求，摺疊機熱賣至一月",
+"risk": "新聞",
+"s": {
+"AAPL": "bull"
+},
+"text": "APPLE \n$AAPL\n'S MAIN IPHONE MAKER SAYS IT CAN KEEP UP WITH DEMAND FOR THE IPHONE DUO\n\nFoxconn has more than 240 sites in 24 countries, and its CEO says that will help it meet holiday orders, per Bloomberg. The $2,000 foldable sold out fast, with some online orders not arriving until the end of January.\n\nFoxconn's business has also shifted. Apple once made up more than half of its revenue. Now its AI-driven cloud and networking unit makes up 51% of sales.",
+"likes": 72
+},
+{
+"id": "2115980420571709689",
+"author": "ren_stocks",
+"date": "2026-10-30",
+"zh": "Ren：貼出 GOOGL、MSFT、SNDK、AMZN 走勢感嘆市場",
+"risk": "無明確方向",
+"s": {
+"AMZN": "neutral",
+"GOOGL": "neutral",
+"MSFT": "neutral",
+"SNDK": "neutral"
+},
+"text": "$GOOGL\n \n$MSFT\n \n$SNDK\n \n$AMZN\n\n\nThe stock market ladies and gentlemen.",
+"likes": 44
+},
+{
+"id": "2116120561621368949",
+"author": "asklivermore",
+"date": "2026-10-30",
+"zh": "AskLivermore：持防守股抗跌，等更多恐慌訊號再轉向成長股",
+"risk": "時機判斷",
+"s": {
+"KO": "neutral",
+"MRK": "neutral"
+},
+"text": "While everyone is panic'ing and crying about their portfolios, we are one of the ONLY accounts on X that is surviving and barely feeling any drop. \n\nOnce we see even MORE pain, this is when we tilt our portfolio to high growth names. \n\nGet ready for my signal. We will start building slowly once I see these specific signs:\n\nMedia/cultural\n• Serenity having 3 more fake surgeries\n• All-in challenges liquidated on X\n• YTD screenshots from X accounts to brag that they're still positive for the year\n• CNBC anchors in fear\n• Jim Cramer meltdown\n\nSentiment\n• VIX spikes above 40 - 50\n• Put / call ratio at extremes\n• CNN Fear & Greed at \"Extreme Fear\" for weeks\n• Bank of America manager survey showing max cash levels\n• Money market fund (safety) hitting max records of inflows\n\nMarket structure\n• Massive volume on down days (selling climax)\n• Correlation goes to 1, everything sells off together\n• Even our \"safe\" names like \n$KO\n, \n$MRK\n, etc. sells off\n• Gold selling off too (forced liquidation)\n• Credit spreads blowing out \n• Margin calls \n\nLook for the signs, that's when we're going big.",
+"likes": 209
+},
+{
+"id": "2116121577066844514",
+"author": "asklivermore",
+"date": "2026-10-30",
+"zh": "AskLivermore：SMH 自起始以來跌逾 17%，其投組大幅跑贏",
+"risk": "半導體續弱",
+"s": {
+"SMH": "bear"
+},
+"text": "Both. \n$SMH\n is down over -17% since our start together. Both portfolios 3X'ing - 5X'ing the entire benchmark. Core portfolio is also +8% positive in the same period. Amazing.",
+"likes": 4
 }
 ]
