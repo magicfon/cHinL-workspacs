@@ -18504,6 +18504,21 @@
 "likes": 134
 },
 {
+"id": "2115176254630723918",
+"author": "octopusycc",
+"date": "2026-10-27",
+"zh": "大老师：財報復盤，ENPH、STX 稍不如預期就暴跌，凸顯半導體二階股脆弱",
+"risk": "半導體二階脆弱",
+"s": {
+"ENPH": "bear",
+"HOOD": "neutral",
+"STX": "bear",
+"VISA.NE": "neutral"
+},
+"text": "快速复盘 本次财报 算4中2 或 4中1.5\n\n和半导体相关的公司只要超预期程度低了，就会暴跌，体现出半导体相关的脆弱性 如 \n$ENPH\n \n$STX\n  在本次财报预测中 ENPH算是猜中了，但STX的Put Wall完全击穿，这意味着 STX的抛售压力要远远大于 持有带来的上行风险。\n\n这其实直接体现了半导体二阶的脆弱性\n\n\n$HOOD\n 依然属于 韭菜扎堆的股票，这里得到了验证，GEX里充满了 散户交易 本次 观察/轻仓参与的提醒 也相对有价值\n\n\n$VISA.NE\n  属于符合预期，但市场下跌 但符合GEX Wall的特性，走的相对中规中矩。",
+"likes": 11
+},
+{
 "id": "2115176328253125094",
 "author": "StockMKTNewz",
 "date": "2026-10-27",
@@ -18701,6 +18716,19 @@
 "likes": 146
 },
 {
+"id": "2115426530239164918",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：大量用 AI 的醫院死亡率顯著下降，AI 真能救命還看空？",
+"risk": "因果待驗證",
+"s": {
+"NBIS": "bull",
+"NVDA": "bull"
+},
+"text": "$NVDA\n \n$NBIS\n\n\nHospitals using AI the most saw deaths per 100k patients fall from ~1,600 in 2023 to ~1,000 this year. The slow adopters bounced back up.\n\nAI might be literally keeping people alive, and you're bearish?\n\nBruh",
+"likes": 96
+},
+{
 "id": "2115431866639753220",
 "author": "StockMKTNewz",
 "date": "2026-10-28",
@@ -18724,6 +18752,21 @@
 },
 "text": "今晚接着啃 \n$GOOG\n \n$MSFT\n \n\n伴随FOMC的结果，这可能是很难分析的两张票了\n\n同样也是 对整个AI股市 影响最大的票了\n\nAI Capex到底能不能转化成利润\n\n是今天的重点 咱们拭目以待\n\n\n@okxchinese\n \n@Jiajia_OKX",
 "likes": 4
+},
+{
+"id": "2115457314752737557",
+"author": "ren_stocks",
+"date": "2026-10-28",
+"zh": "Ren：AI 建設商 CDS 回落，信用開始修復，融資可望重啟",
+"risk": "信用再惡化",
+"s": {
+"CRWV": "bull",
+"META": "bull",
+"MSFT": "bull",
+"NBIS": "bull"
+},
+"text": "$NBIS\n \n$CRWV\n \n$META\n \n$MSFT\n\n\nAI credit is starting to heal \n\nOver the last few weeks we lived through the first real crack in credit, and I'm going to keep a close eye on it as a read on the overall health of the buildout.\n\nCDS on the AI builders just turned lower. \n\nCoreWeave is back to ~1,040bp from above 1,100, Oracle is under 300, and Meta and Microsoft are off their highs.\n\nIf the cost of insuring AI debt keeps falling, funding reopens, multiples come back, and we might see the best rally of this cycle.\n\nWe're not there yet, but it sure is encouraging",
+"likes": 78
 },
 {
 "id": "2115461551662510580",
@@ -18816,6 +18859,115 @@
 },
 "text": "As far as I can tell, \n$ORCL\n os the first big AI spender to actually put a year on its capex peak.\n\nThe others still haven’t given a 2027 number:\n\n> \n$META\n said in July it isn’t giving a 2027 capex outlook \n>  \n$GOOG\n Alphabet said details would come later\n> \n$MSFT\n microsoft only said FY27 capex grows YoY\n> \n$AMZN\n Amazon, nothing\n\n\n$GOOGL\n \n$MSFT\n \n$META\n report tonight, and I’d expect analysts to push hard on this.",
 "likes": 24
+},
+{
+"id": "2115528258251030881",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：今日創 52 週新高名單，多為醫療與能源股",
+"risk": "名單非觀點",
+"s": {
+"A": "neutral",
+"AER": "neutral",
+"AMGN": "neutral",
+"AMRX": "neutral",
+"BIIB": "neutral",
+"BLCO": "neutral",
+"CAI": "neutral",
+"CHE": "neutral",
+"CRL": "neutral",
+"DGX": "neutral",
+"EMR": "neutral",
+"ETSY": "neutral",
+"EXEL": "neutral",
+"FTV": "neutral",
+"GILD": "neutral",
+"GMAB": "neutral",
+"GTLB": "neutral",
+"HAFN": "neutral",
+"HALO": "neutral",
+"HAS": "neutral",
+"HNGE": "neutral",
+"ICLR": "neutral",
+"KNSA": "neutral",
+"KNTK": "neutral",
+"LH": "neutral",
+"MANH": "neutral",
+"MEDP": "neutral",
+"MTD": "neutral",
+"NDAQ": "neutral",
+"NTSK": "neutral",
+"PACS": "neutral",
+"QLYS": "neutral",
+"RBRK": "neutral",
+"RRC": "neutral",
+"RS": "neutral",
+"RUSHB": "neutral",
+"RVTY": "neutral",
+"TD": "neutral",
+"TMO": "neutral",
+"TRGP": "neutral",
+"URI": "neutral",
+"VEON": "neutral",
+"VTRS": "neutral",
+"WAT": "neutral",
+"WST": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nGenmab \n$GMAB\n\nRange Resources \n$RRC\n\nEtsy \n$ETSY\n\nFortive \n$FTV\n\nViatris \n$VTRS\n\nNetskope \n$NTSK\n\nCaris Life Sciences \n$CAI\n\nICON \n$ICLR\n\nGilead \n$GILD\n\nBausch + Lomb \n$BLCO\n\nHafnia \n$HAFN\n\nHasbro \n$HAS\n\nRubrik \n$RBRK\n\nAmgen \n$AMGN\n\nEmerson Electric \n$EMR\n\nNasdaq \n$NDAQ\n\nRevvity \n$RVTY\n\nGitLab \n$GTLB\n\nBiogen \n$BIIB\n\nLabcorp \n$LH\n\nManhattan Associates \n$MANH\n\nKiniksa \n$KNSA\n\nThermo Fisher \n$TMO\n\nAgilent \n$A\n\nKinetik \n$KNTK\n\nExelixis \n$EXEL\n\nAerCap \n$AER\n\nAmneal \n$AMRX\n\nCharles River Laboratories \n$CRL\n\nHalozyme \n$HALO\n\nTD Bank \n$TD\n\nWaters \n$WAT\n\nQuest Diagnostics \n$DGX\n\nTarga Resources \n$TRGP\n\nHinge Health \n$HNGE\n\nPACS Group \n$PACS\n\nWest Pharmaceutical \n$WST\n\nQualys \n$QLYS\n\nUnited Rentals \n$URI\n\nReliance \n$RS\n\nChemed \n$CHE\n\nMedpace \n$MEDP\n\nRush Enterprises \n$RUSHB\n\nVeon \n$VEON\n\nMettler-Toledo \n$MTD",
+"likes": 91
+},
+{
+"id": "2115529089087840614",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：今日創 52 週新低名單，含 NFLX、BA、UBER 等",
+"risk": "名單非觀點",
+"s": {
+"ARE": "neutral",
+"BA": "neutral",
+"BBD": "neutral",
+"BBDO": "neutral",
+"BILI": "neutral",
+"BKNG": "neutral",
+"BSBR": "neutral",
+"BSX": "neutral",
+"CHRW": "neutral",
+"CTVA": "neutral",
+"FLG": "neutral",
+"GGAL": "neutral",
+"GIL": "neutral",
+"ICL": "neutral",
+"INGR": "neutral",
+"KEP": "neutral",
+"KT": "neutral",
+"LII": "neutral",
+"LKQ": "neutral",
+"NFLX": "neutral",
+"RSI": "neutral",
+"SFD": "neutral",
+"TKO": "neutral",
+"UBER": "neutral",
+"VALE": "neutral",
+"WPC": "neutral",
+"WYNN": "neutral",
+"XYL": "neutral",
+"ZWS": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nNetflix \n$NFLX\n \nBoeing \n$BA\n\nUber \n$UBER\n \nBanco Bradesco \n$BBD\n\nBoston Scientific \n$BSX\n\nVale \n$VALE\n\nCorteva \n$CTVA\n\nXylem \n$XYL\n\nFlagstar Bank \n$FLG\n\nSantander Brasil \n$BSBR\n\nBooking \n$BKNG\n\nAlexandria Real Estate \n$ARE\n\nLKQ \n$LKQ\n\nRush Street Interactive \n$RSI\n\nC.H. Robinson \n$CHRW\n\nBilibili \n$BILI\n\nLennox \n$LII\n\nICL \n$ICL\n\nZurn Elkay \n$ZWS\n\nSmithfield Foods \n$SFD\n\nW.P. Carey \n$WPC\n\nWynn Resorts \n$WYNN\n\nGrupo Galicia \n$GGAL\n\nKT \n$KT\n\nKorea Electric Power \n$KEP\n\nIngredion \n$INGR\n\nTKO \n$TKO\n\nGildan Activewear \n$GIL\n\nBanco Bradesco \n$BBDO",
+"likes": 150
+},
+{
+"id": "2115530999404859520",
+"author": "StockMKTNewz",
+"date": "2026-10-28",
+"zh": "Evan：MSFT、GOOGL 財報前瞻",
+"risk": "財報事件",
+"s": {
+"GOOGL": "neutral",
+"MSFT": "neutral"
+},
+"text": "Microsoft \n$MSFT\n and Google \n$GOOGL\n are about to report earnings in less than 30 minutes\n\nHere is some of what to expect for the earnings coming up after the close",
+"likes": 95
 },
 {
 "id": "2115531205546229816",
@@ -19389,6 +19541,18 @@
 "likes": 145
 },
 {
+"id": "2115791861205889119",
+"author": "StockMKTNewz",
+"date": "2026-10-29",
+"zh": "Evan：JPM 首評 PLTR 加碼，目標價 262",
+"risk": "新聞",
+"s": {
+"PLTR": "bull"
+},
+"text": "JPMorgan today initiated coverage on Palantir \n$PLTR\n stock with an Overweight rating and a $262 price target",
+"likes": 499
+},
+{
 "id": "2115795033764892888",
 "author": "unusual_whales",
 "date": "2026-10-29",
@@ -19411,7 +19575,7 @@
 "DASH": "neutral"
 },
 "text": "DoorDash \n$DASH\n today agreed to acquire Instacart \n$CART\n for $17 Billion \n\nDoorDash will pay $65 a share in cash and stock - Bloomberg",
-"likes": 53
+"likes": 54
 },
 {
 "id": "2115796188163416122",
@@ -19530,7 +19694,7 @@
 "AAPL": "bull"
 },
 "text": "The biggest AI bottleneck is \n$AAPL\n. Can you imagine if your Mac/iPhone watched and learned from everything you do on your device? That's the real personal super intelligence.",
-"likes": 72
+"likes": 73
 },
 {
 "id": "2115820199890866461",
@@ -19587,7 +19751,7 @@
 "MRVL": "neutral"
 },
 "text": "$MRVL\n x \n$LITE\n Mega Merger Explained",
-"likes": 63
+"likes": 64
 },
 {
 "id": "2115841747943297380",
@@ -19926,7 +20090,7 @@
 "OSPN": "bull"
 },
 "text": "My identity security report goes out tomorrow. Tonight one of my five picks reported.\n\n\n$OSPN\n up 20% after hours on a beat and raise.\n\n> Revenue $63.9M vs $57.4M expected (+12% YoY)\n> Subscription revenue +16%\n> ARR +9% to $195.5M\n> Net retention 105%\n> FY guide raised on revenue, ARR and adjusted EBITDA\n\nThis month hackers hit 16 Korean financial institutions and India's largest bank. \n\n\n$OSPN\n says more than 60% of the world's 100 largest banks use its products.\n\nOneSpan is one of five picks in my identity security report, out tomorrow. Keep an eye out for this one, the other four are just as interesting. \n$OSPN",
-"likes": 80
+"likes": 86
 },
 {
 "id": "2115902855286784182",
@@ -19939,6 +20103,18 @@
 },
 "text": "$SNDK\n 财报超预期，同时宣布1/8拆股。",
 "likes": 3
+},
+{
+"id": "2115903087177298360",
+"author": "ren_stocks",
+"date": "2026-10-29",
+"zh": "Ren：SNDK 大幅優於預期，資料中心營收季增 61%，指引高於預期",
+"risk": "記憶體週期性",
+"s": {
+"SNDK": "bull"
+},
+"text": "$SNDK\n Significant beat! \n\nDATA CENTER REV UP 61% QoQ\n\nQ2 FY27 Guide: \n+ Revenue: $12.2B-$12.6B (Est. $12.18B)  \n+ Adj. EPS: $55.00-$57.00 (Est. $53.19)  \n+ Adj. Gross Margin: 84.5%-85.5% (Est. 84.4%)  \n+ Diluted Shares: ~151M\n\n+ Revenue: $11.03B (Est. $10.64B) ; +378% YoY, +23% QoQ \n+ Adj. EPS: $49.51 (Est. $46.22) ; +26% QoQ \n+ Adj. Gross Margin: 85.1% (Est. 84.1%) ; +55.2 ppts YoY \n+ Adj. Oper Income: $8.87B (Est. $8.44B) ; +25% QoQ\n\nForward Stock Split: \nEight-for-one, effective November 19, 2026",
+"likes": 244
 },
 {
 "id": "2115903289300824237",
@@ -19974,7 +20150,7 @@
 "AMZN": "neutral"
 },
 "text": "Amazon \n$AMZN\n just brought in more than $200 Billion of revenue for the 3 quarter in its history",
-"likes": 209
+"likes": 243
 },
 {
 "id": "2115913006269812741",
@@ -19986,7 +20162,7 @@
 "AMZN": "bear"
 },
 "text": "Amazon \n$AMZN\n just brought in negative free cash flow of $34.8B during this past quarter",
-"likes": 192
+"likes": 201
 },
 {
 "id": "2115917476818977056",
@@ -19998,7 +20174,7 @@
 "INTC": "bear"
 },
 "text": "The US Government bought 433.3 million shares of Intel stock at $20.47 on August 22nd, 2025 spending ~$8.9B\n\nIntel \n$INTC\n stock closed trading at $92.08 per share ... the stock is currently down by ~20% in after hours following its earnings\n\nINTC stock is currently trading at ~$74 per share in after hours\n\nThat means the  Government's stake in Intel was worth $39.9 Billion as of today's close\n\nAnd is currently worth $32.1 Billion in after hours",
-"likes": 308
+"likes": 361
 },
 {
 "id": "2115920162767708310",
@@ -20024,7 +20200,7 @@
 "INTC": "neutral"
 },
 "text": "$INTC",
-"likes": 118
+"likes": 149
 },
 {
 "id": "2115944128831979922",
@@ -20036,7 +20212,7 @@
 "NVDA": "neutral"
 },
 "text": "NVIDIA \n$NVDA\n IS IN TALKS TO BACK BILLIONS OF DOLLARS OF DEBT FOR AI CLOUD STARTUP NSCALE\n\nThe credit guarantees would help Nscale build a 460-megawatt data center that Anthropic plans to use, per The Information.\n\nThe deal isn't signed yet, and terms could change.",
-"likes": 127
+"likes": 159
 },
 {
 "id": "2115949930497933342",
@@ -20048,7 +20224,31 @@
 "AAPL": "bull"
 },
 "text": "APPLE \n$AAPL\n'S MAIN IPHONE MAKER SAYS IT CAN KEEP UP WITH DEMAND FOR THE IPHONE DUO\n\nFoxconn has more than 240 sites in 24 countries, and its CEO says that will help it meet holiday orders, per Bloomberg. The $2,000 foldable sold out fast, with some online orders not arriving until the end of January.\n\nFoxconn's business has also shifted. Apple once made up more than half of its revenue. Now its AI-driven cloud and networking unit makes up 51% of sales.",
-"likes": 72
+"likes": 110
+},
+{
+"id": "2115970461590835650",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：Anthropic 上市將採四類股權結構，創辦人握 50.1% 投票權",
+"risk": "治理結構",
+"s": {
+"ANT": "neutral"
+},
+"text": "Anthropic $ANT is going to go public with 4 separate share classes\n\nThis is what that's going to look like:\n\n- Class F: 1 share held by the 7 co-founders, with 50.1% of the vote\n- Class A: public investors, employees, and others, with 1 vote per share, capped at 49.9% combined\n- Class T: 1 share held by the Long-Term Benefit Trust, which elects a majority of the board\n- Class N: strategic partners and Anthropic's public benefit fund, with no vote",
+"likes": 219
+},
+{
+"id": "2115976922257653784",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：GOOGL 單日市值蒸發 4,800 億美元",
+"risk": "新聞",
+"s": {
+"GOOGL": "bear"
+},
+"text": "Google's \n$GOOGL\n market cap closed today down by $480 Billion in market cap",
+"likes": 78
 },
 {
 "id": "2115980420571709689",
@@ -20063,7 +20263,7 @@
 "SNDK": "neutral"
 },
 "text": "$GOOGL\n \n$MSFT\n \n$SNDK\n \n$AMZN\n\n\nThe stock market ladies and gentlemen.",
-"likes": 44
+"likes": 50
 },
 {
 "id": "2116120561621368949",
@@ -20089,5 +20289,248 @@
 },
 "text": "Both. \n$SMH\n is down over -17% since our start together. Both portfolios 3X'ing - 5X'ing the entire benchmark. Core portfolio is also +8% positive in the same period. Amazing.",
 "likes": 4
+},
+{
+"id": "2116143852754985195",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：INTC 開盤恐跌 25%",
+"risk": "新聞",
+"s": {
+"INTC": "bear"
+},
+"text": "Intel \n$INTC\n stock is on pace to open trading today down by 25%",
+"likes": 93
+},
+{
+"id": "2116147259310043360",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：CVX 稱為 MSFT 德州資料中心供電計畫仍如期進行",
+"risk": "德州暫停許可",
+"s": {
+"CVX": "neutral",
+"MSFT": "neutral"
+},
+"text": "CHEVRON \n$CVX\n SAYS ITS MICROSOFT \n$MSFT\n DATA CENTER POWER PROJECT IN WEST TEXAS IS STILL ON SCHEDULE\n\nThat's despite Texas Governor Greg Abbott pausing permits for new data centers, per Bloomberg.\n\nChevron will supply natural gas to power the project. Its CFO says Chevron still expects first power in 2028 and a full ramp-up by 2031.",
+"likes": 65
+},
+{
+"id": "2116154088945860934",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：BofA 將 INTC 降至中立，目標價降至 100",
+"risk": "新聞",
+"s": {
+"INTC": "bear"
+},
+"text": "Bank of America today downgraded Intel \n$INTC\n stock to Neutral from Buy while lowering its price target to $100 down from $145",
+"likes": 98
+},
+{
+"id": "2116173380001149048",
+"author": "asklivermore",
+"date": "2026-10-30",
+"zh": "AskLivermore：SPY 估值仍偏高，修正可能更深，但已跌深個股跌幅較小",
+"risk": "修正風險",
+"s": {
+"SPY": "bear"
+},
+"text": "We’re at premium levels for \n$SPY\n still, can always get worse once S&P 500 decides to correct. \n\nBut again, a lot of beaten down names may not go down AS much since they’re already beaten down.",
+"likes": 2
+},
+{
+"id": "2116184832434675747",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：那斯達克 100 距高點跌 8%",
+"risk": "新聞",
+"s": {
+"QQQ": "bear"
+},
+"text": "The NASDAQ 100 \n$QQQ\n is now down 8% from its most recent all time highs",
+"likes": 56
+},
+{
+"id": "2116189468151455835",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：大摩、BofA 小幅下調 AMZN 目標價，仍維持買進",
+"risk": "新聞",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Morgan Stanley today lowered its price target on Amazon \n$AMZN\n stock to $335 down from $350 while maintaining its Overweight rating \n\nBank of America today lowered its price target on Amazon \n$AMZN\n stock to $317 down from $320 while maintaining its Buy rating",
+"likes": 175
+},
+{
+"id": "2116192837259931757",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：INTC 恐創半世紀最大單日跌幅",
+"risk": "新聞",
+"s": {
+"INTC": "bear"
+},
+"text": "Intel \n$INTC\n stock is on pace for its worst day in more than a HALF CENTURY",
+"likes": 150
+},
+{
+"id": "2116207186007454013",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：CD&R 尋求收購 Global Payments，可能是史上最大收購之一",
+"risk": "交易未定",
+"s": {
+"GPN": "bull"
+},
+"text": "CD&R IS PURSUING A BUYOUT OF GLOBAL PAYMENTS \n$GPN\n IN WHAT WOULD RANK AMONG THE LARGEST BUYOUTS IN HISTORY",
+"likes": 15
+},
+{
+"id": "2116210697562619997",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：FT 稱 Anthropic 上市後可能獲高收益債信評",
+"risk": "信評偏低",
+"s": {
+"ANT": "neutral"
+},
+"text": "Anthropic $ANT reportedly may recieve a high junk credit rating following its IPO - Financial Times",
+"likes": 156
+},
+{
+"id": "2116211136416669926",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：AMZN 建立以硬體擔保、最高 800 億美元的借款管道",
+"risk": "舉債增加",
+"s": {
+"AMZN": "neutral"
+},
+"text": "AMAZON \n$AMZN\n SET UP A NEW WAY TO BORROW UP TO $80B FOR ITS AI BUILDOUT\n\nThe loans are secured against hardware Amazon buys. Amazon can tap them from the start of 2027 through Q3 2028.\n\nUntil now, Amazon had mostly paid for data centers and chips with its own cash and record bond sales - WSJ",
+"likes": 301
+},
+{
+"id": "2116215146146324851",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：Google 成功在軌道衛星上啟動 TPU 並完成推論",
+"risk": "新聞",
+"s": {
+"GOOGL": "neutral"
+},
+"text": "Google \n$GOOGL\n CEO Sundar Pichai just posted this:\n\n“After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth”",
+"likes": 794
+},
+{
+"id": "2116221494263222585",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：Ford 目標下個十年初年銷 500 萬輛",
+"risk": "新聞",
+"s": {
+"F": "neutral"
+},
+"text": "Ford Motor \n$F\n CEO Jim Farley told employees that they expect sell 5 million cars a year by early next decade - WSJ",
+"likes": 48
+},
+{
+"id": "2116247778812719109",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：今日創 52 週新高名單，含 BRK.B、LLY、XOM 等",
+"risk": "名單非觀點",
+"s": {
+"BRK.B": "neutral",
+"CVX": "neutral",
+"GILD": "neutral",
+"GPN": "neutral",
+"JNJ": "neutral",
+"KDP": "neutral",
+"LLY": "neutral",
+"MA": "neutral",
+"MO": "neutral",
+"PFE": "neutral",
+"PM": "neutral",
+"SHEL": "neutral",
+"XOM": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK HIGHS at some point today\n\nBerkshire Hathaway \n$BRK.B\n \nEli Lilly \n$LLY\n\nExxon Mobil \n$XOM\n \nJohnson & Johnson \n$JNJ\n\nMastercard \n$MA\n\nPfizer \n$PFE\n\nKeurig Dr Pepper \n$KDP\n\nGlobal Payments \n$GPN\n\nGilead \n$GILD\n\nChevron \n$CVX\n\nPhilip Morris \n$PM\n\nAltria \n$MO\n\nShell \n$SHEL",
+"likes": 80
+},
+{
+"id": "2116248138529046630",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：今天買了一些 QTOP",
+"risk": "持股揭露",
+"s": {
+"QTOP": "neutral"
+},
+"text": "I bought some \n$QTOP\n today",
+"likes": 1
+},
+{
+"id": "2116254475375587473",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：今日創 52 週新低名單，含 RDDT、APP、COIN、IREN 等",
+"risk": "名單非觀點",
+"s": {
+"AAON": "neutral",
+"AGI": "neutral",
+"ALNY": "neutral",
+"APLD": "neutral",
+"APP": "neutral",
+"BBD": "neutral",
+"BBDO": "neutral",
+"BIDU": "neutral",
+"BILI": "neutral",
+"BSBR": "neutral",
+"CCJ": "neutral",
+"CDE": "neutral",
+"CHRW": "neutral",
+"COIN": "neutral",
+"GGAL": "neutral",
+"ICL": "neutral",
+"IREN": "neutral",
+"KEP": "neutral",
+"KGC": "neutral",
+"MBLY": "neutral",
+"NIO": "neutral",
+"RDDT": "neutral",
+"SPXC": "neutral",
+"SYM": "neutral",
+"TTWO": "neutral",
+"VALE": "neutral",
+"XPEV": "neutral"
+},
+"text": "All these stocks hit new 52 WEEK LOWS at some point today\n\nReddit \n$RDDT\n\nAppLovin \n$APP\n \nCoinbase \n$COIN\n\nIREN \n$IREN\n\nVale \n$VALE\n\nBanco Bradesco \n$BBD\n\nCoeur Mining \n$CDE\n\nNIO \n$NIO\n\nApplied Digital \n$APLD\n\nKinross Gold \n$KGC\n\nMobileye \n$MBLY\n\nCameco \n$CCJ\n\nAlamos Gold \n$AGI\n\nAlnylam \n$ALNY\n\nXPeng \n$XPEV\n\nSantander Brasil \n$BSBR\n\nTake-Two \n$TTWO\n\nSymbotic \n$SYM\n\nBaidu \n$BIDU\n\nBilibili \n$BILI\n\nSPX \n$SPXC\n\nC.H. Robinson \n$CHRW\n\nAAON \n$AAON\n\nGrupo Galicia \n$GGAL\n\nICL \n$ICL\n\nKorea Electric Power \n$KEP\n\nBanco Bradesco \n$BBDO",
+"likes": 34
+},
+{
+"id": "2116254978587418951",
+"author": "ren_stocks",
+"date": "2026-10-30",
+"zh": "Ren：又到了去麥當勞打工的時候（自嘲）",
+"risk": "玩笑",
+"s": {
+"MCD": "neutral"
+},
+"text": "It’s that time again… \n$MCD",
+"likes": 18
+},
+{
+"id": "2116259175403860336",
+"author": "StockMKTNewz",
+"date": "2026-10-30",
+"zh": "Evan：那斯達克 100 距高點跌逾 10%，進入修正",
+"risk": "新聞",
+"s": {
+"QQQ": "bear"
+},
+"text": "The NASDAQ 100 \n$QQQ\n is now down by more than 10% from its most recent ALL TIME HIGHS\n\nWE ARE NOW IN A CORRECTION",
+"likes": 32
 }
 ]
