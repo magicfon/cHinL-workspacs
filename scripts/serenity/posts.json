@@ -8187,6 +8187,17 @@
 "likes": 1845
 },
 {
+"id": "2115095909042405871",
+"date": "2026-10-27",
+"zh": "（疑似他人回覆）只問了一句 EOSE？",
+"risk": "非作者本人觀點",
+"s": {
+"EOSE": "neutral"
+},
+"text": "$EOSE\n ?",
+"likes": 16
+},
+{
 "id": "2115096629506457833",
 "date": "2026-10-27",
 "zh": "FLNC 以約 5.8 美元加入「It's All Over」投組追蹤，作者聲明不構成推薦。",
@@ -8196,6 +8207,17 @@
 },
 "text": "@Bleesed2win Thanks $FLNC added to the “It’s All Over” portfolio, tracking it at ~$5.8.\n\nFYI this is not a recommendation of any of these stocks (or their fundamentals)",
 "likes": 58
+},
+{
+"id": "2115096738537336997",
+"date": "2026-10-27",
+"zh": "（疑似他人回覆）提醒別忘了 WYFI。",
+"risk": "非作者本人觀點",
+"s": {
+"WYFI": "neutral"
+},
+"text": "Dont forget \n$WYFI",
+"likes": 25
 },
 {
 "id": "2115097816779673903",
@@ -8244,6 +8266,17 @@
 "likes": 93
 },
 {
+"id": "2115112523674304628",
+"date": "2026-10-27",
+"zh": "（疑似他人回覆）只貼了 LWLG 代號。",
+"risk": "非作者本人觀點",
+"s": {
+"LWLG": "neutral"
+},
+"text": "$LWLG",
+"likes": 4
+},
+{
 "id": "2115115209413292219",
 "date": "2026-10-27",
 "zh": "LWLG 從 18 美元跌到 4 美元，比宣布與 TSEM 合作時還低；作者原本就偏空，順手放進「It's all over」投組。",
@@ -8265,5 +8298,17 @@
 },
 "text": "@nisanyanviskisi $EOSE was added to this meme port just by looking at the chart... https://t.co/3AElXGYtTO",
 "likes": 43
+},
+{
+"id": "2115624832947917083",
+"date": "2026-10-29",
+"zh": "傳 MRVL 正處於收購 LITE 的最後階段，想垂直整合最受限的雷射瓶頸；作者認為若成真是高招，也讓其他雷射廠更具戰略價值。",
+"risk": "收購案尚未確定",
+"s": {
+"LITE": "bull",
+"MRVL": "bull"
+},
+"text": "Holy sht, \n$MRVL\n is in the final stages of a deal to acquire \n$LITE\n.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more strategically valuable.",
+"likes": 2062
 }
 ]
