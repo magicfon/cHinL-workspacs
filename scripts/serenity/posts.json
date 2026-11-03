@@ -8332,5 +8332,110 @@
 },
 "text": "@rob55178 I said that at $12. Now $LWLG is $4.\n\nBut I do have small positions now as part of that “it’s all over” trade https://t.co/14Ym8iCVuP",
 "likes": 52
+},
+{
+"id": "2117228754489807320",
+"date": "2026-11-02",
+"zh": "產能售罄到 2029 的 LITE 將被 MRVL 併購，作者認為 AAOI、SIVE、COHR 在西方更具戰略價值，應享有併購溢價。",
+"risk": "併購溢價未必實現",
+"s": {
+"AAOI": "bull",
+"COHR": "bull",
+"LITE": "neutral",
+"MRVL": "neutral",
+"SIVE": "bull"
+},
+"text": "@MarzoIndustries Considering $LITE (that is sold out into 2029) is going to get swallowed up by $MRVL next week.\n\nI see $AAOI / $SIVE / $COHR are going to be a lot more strategically valuable in the West.\n\nBoth for M&amp;A prospects (which deserves a premium) so companies can vertically integrate",
+"likes": 125
+},
+{
+"id": "2117229519178498541",
+"date": "2026-11-02",
+"zh": "MRVL 真的宣布收購 LITE，作者直呼不可思議。",
+"risk": "",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp https://t.co/GsTfqhJTkn",
+"likes": 2001
+},
+{
+"id": "2117232605146034649",
+"date": "2026-11-02",
+"zh": "作者原以為 MRVL 會買市值較小的 SIVE，結果買了 LITE；MRVL 走向博通式垂直整合，SIVE、AAOI 戰略價值更高。",
+"risk": "併購溢價未必實現",
+"s": {
+"AAOI": "bull",
+"LITE": "neutral",
+"MRVL": "neutral",
+"SIVE": "bull"
+},
+"text": "@JaeKim1089208 I actually thought $MRVL would buy $SIVE given smaller MC, but they went ahead and bought $LITE instead.\n\nSince it looked like Marvell was heading the Broadcom direction with vertical integration and needed lasers.\n\nAs you said, $SIVE / $AAOI are much more strategically valuable",
+"likes": 238
+},
+{
+"id": "2117233515104464961",
+"date": "2026-11-02",
+"zh": "併購為每股 LITE 換 4.5 股 MRVL，以 MRVL 196 美元計約值 882 美元，仍高於 LITE 現價；MRVL 回升則 LITE 跟漲。",
+"risk": "換股價值隨 MRVL 波動",
+"s": {
+"LITE": "bull",
+"MRVL": "neutral"
+},
+"text": "@jacobsimon2002 Well.. that was before $MRVL crashed. The deal is 4.5x Marvell shares for every Lumentum share.\n\n4.5x * 196 = $882 (floating), so you're getting that for $LITE, which is still more than current prices.\n\nIf Marvell recovers, so does Lumentum shares now",
+"likes": 158
+},
+{
+"id": "2117255303301612014",
+"date": "2026-11-02",
+"zh": "MRVL 併 LITE 後，作者認為 AAOI、COHR、SIVE 等獨立西方雷射廠戰略價值大增，MTSI、SMTC 作為 2027 年新興雷射廠也值得關注。",
+"risk": "併購溢價未必實現",
+"s": {
+"AAOI": "bull",
+"COHR": "bull",
+"MTSI": "bull",
+"SIVE": "bull",
+"SMTC": "bull"
+},
+"text": "Following the Lumentum / Marvell deal:\n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable.\n\n$MTSI and $SMTC should get some attention too as emerging laser players in 2027.\n\nIf I had to guess:\n\n1. https://t.co/TcMB1LCYnq",
+"likes": 1211
+},
+{
+"id": "2117259390185345372",
+"date": "2026-11-02",
+"zh": "CRDO 沒有自製 CW DFB 雷射能力，Dustphotonics 也是整合外部雷射，因此 Credo 可能是下一個需要併購雷射廠的公司。",
+"risk": "併購僅屬推測",
+"s": {
+"CRDO": "neutral",
+"MRVL": "neutral"
+},
+"text": "@steeluu To my knowledge, $CRDO doesn't have in-house CW DFB laser manufacturing capabilities, so not quite...\n\nDustphotonics integrates external CW lasers so Credo is another potential $MRVL for the need to M&amp;A laser companies.\n\nThey did another with Hyperlume earlier but that was for",
+"likes": 46
+},
+{
+"id": "2117262767040463102",
+"date": "2026-11-02",
+"zh": "作者以中文回覆：中國早有類似 MRVL 收購 LITE 的案例（東山精密併索爾思），劍橋科技也投資多家雷射廠；認為此案對中際旭創、新易盛策略影響不大。",
+"risk": "",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "@Ericbaofu 中国其实早就有类似 $MRVL 收购 $LITE 的案例了，比如东山精密收购索尔思光电。\n\n不过国内监管环境不太一样，更多还是为了发展自主技术，减少对西方供应链的依赖。\n\n剑桥科技也是个例子，投资了不少国内激光器厂商，来保障供应和扩充产能。\n\n我觉得这次收购对中际旭创和新易盛的战略影响不会太大",
+"likes": 60
+},
+{
+"id": "2117296667108278605",
+"date": "2026-11-02",
+"zh": "作者認為 LITE 若獨立，財報後應會因新的 50 億美元 CPO／NPO 合約（與 NVDA 無關）上漲，毛利率可能逾 60%，光 Greensboro 廠年營收就達 50 億美元，顯示雷射廠規模化後極賺錢。",
+"risk": "併購後不再獨立交易",
+"s": {
+"LITE": "bull",
+"MRVL": "neutral",
+"NVDA": "neutral"
+},
+"text": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5B revenue/year)\n\nIn terms of the $MRVL https://t.co/bCMoPUvLJX https://t.co/ZJa1FOwQpH",
+"likes": 507
 }
 ]
