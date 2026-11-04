@@ -8437,5 +8437,137 @@
 },
 "text": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5B revenue/year)\n\nIn terms of the $MRVL https://t.co/bCMoPUvLJX https://t.co/ZJa1FOwQpH",
 "likes": 507
+},
+{
+"id": "2117437833820672397",
+"date": "2026-11-03",
+"zh": "作者批評 X 上靠唱衰換流量：SPCX 若沒看到報酬不會大舉投入新雲端，三星長約、LITE 售罄到 2029 都顯示需求持續；認為 180 倍本益比的資安、生技股比 3 倍本益比的記憶體股更像泡沫。",
+"risk": "市場情緒持續悲觀",
+"s": {
+"COHR": "neutral",
+"LITE": "bull",
+"NBIS": "neutral",
+"SNDK": "neutral",
+"SPCX": "neutral"
+},
+"text": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese big tech, if Alibaba/Tencent/Bytedance saw memory overflooding in 2 years.\n\n$LITE wouldn’t be sold out into 2029 and announce new $5B UHP laser contracts if optical demand didn’t persist.\n\nIt’s interesting seeing the very same people long $SNDK, $NBIS, to $COHR 2 months ago. Flip flop on every market narrative from the initial Iran War to the current “AI Bubble”.\n\nI’d argue 180x fwd P/E cybersecurity and biotech stocks are more of a bubble than 3 P/E memory companies with hyperscaler LTAs.",
+"likes": 1382
+},
+{
+"id": "2117447704662208721",
+"date": "2026-11-03",
+"zh": "AEHR 財報確實優於預期，客戶都要求盡快出貨，訂單成長快於營收認列；可能取得疑似 AMD 的大型燒機系統訂單，矽光子客戶也加速，指引保守；作者認為基本面並未惡化。",
+"risk": "NAND 相關業務延遲",
+"s": {
+"AEHR": "bull",
+"AMD": "neutral"
+},
+"text": "@Dreamfyre43 All of $AEHR customers saying \"In fact, that’s kind of everybody right now. Ship as quickly as you can.\" doesn't quite sound like any potential order cancellations lol.\n\nGenuine earnings beat, lot of orders faster than revenue recognition, and overall demand acceleration.\n\nThen there's upside:\n-\"We believe this customer represents one of the largest potential burn-in system opportunities Aehr has ever pursued\"\n\nFrom a \"major supplier of AI accelerators, CPUs, and network processors\", which sounds more like $AMD given historical context.\n\n- $AEHR saw acceleration from multiple silicon-photonics customers.\n\n- Guidance was stated to be conservative, since $AEHR was not supply-constrained and could fulfill more orders for FY2027. So likely potential for more earnings beats again.\n\nDownside was NAND related memory segments were delayed.\n\nI understand valuation compression from macro, but markets are selling things off like their fundamentals deteriorated, which is clearly not the case for $AEHR.",
+"likes": 94
+},
+{
+"id": "2117493886100918684",
+"date": "2026-11-03",
+"zh": "ESMT 財報：營收 6.79 億美元、毛利率 77%、營益率 59%，年化營業利益 16.1 億美元，市值僅 23 億、淨現金 7.6 億；管理層預期 2027 年 DDR2／DDR3 供給不會明顯增加、Q4 續漲價，作者認為 1.6 倍本益比遭拋售太荒謬。",
+"risk": "記憶體報價反轉",
+"s": {
+"ESMT": "bull"
+},
+"text": "Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:\n\n- Revenue: $679.4M\n- Gross profit: $526.2M (77.44% margin)\n- Operating profit: $403.4M (59.37% margin)\n\nAnnualized Q3 would be $1.61B operating profit.\n\nThey’re also sitting on $757M net cash + $278M in inventory…\n\nSo you only need ~3.5x more quarters until they exceed their marketcap in assets.\n\n- Economic Daily also reported that management does not expect a meaningful increase in DDR2/DDR3 supply in 2027 and believes prices can be maintained\n\nSo yes, I think markets are trolling now with selling off a 1.59x p/e (annualized) company.\n\nSince further price hikes are expected Q4z",
+"likes": 803
+},
+{
+"id": "2117539121434591711",
+"date": "2026-11-03",
+"zh": "AI 股跌到 POET 市值 8.3 億美元、接近 7.9 億淨現金且低於帳面價值；機構幾個月前才以 21 美元投資 4 億美元，如今約 4.8 美元，作者稱「怕被殲滅」情緒已到極端。",
+"risk": "市場恐慌持續",
+"s": {
+"POET": "neutral"
+},
+"text": "Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.\n\nIt's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.\n\nConsidering institutions were funding it $400m at $21, with $26.25 exercisable warrants few months ago and it's back to ~$4.8.\n\nPoet would need to rally +337.5% just to return back to the original financing price.\n\n\"FOGO\" (Fear of Getting Obliterated) have hit extreme levels if \"growth\" companies are priced near liquidation values.",
+"likes": 1423
+},
+{
+"id": "2117550199895896490",
+"date": "2026-11-03",
+"zh": "MRVL 併 LITE 的反向影響：競爭對手都想要第二家獨立雷射來源，SIVE 被點名，2027 年將有 1 億顆產能（AAOI 2026 年底約 2400 萬顆）；作者認為市場錯估雷射瓶頸的機會。",
+"risk": "AI 估值崩跌拖累",
+"s": {
+"AAOI": "neutral",
+"CRDO": "neutral",
+"JBL": "neutral",
+"LITE": "neutral",
+"MRVL": "neutral",
+"SIVE": "bull",
+"SMTC": "neutral"
+},
+"text": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, with names like $CRDO as potential partners of Sivers.\n\n- \"With Lumentum sold out for years, the overflow goes to whoever has merchant capacity\"\n\nAlready said this before, but we'll likely see some incentive to diversify laser sourcing.\n\nSivers was cited here, and comes online with 100M lasers / external foundry capacity (2:1 external/internal target).\n\nTo demonstrate the sheer scale on that, $AAOI exit 2026 laser capacity target was roughly ~24M/year (but different blend).\n\n- \"Module makers move upstream\" was also another second order effect.\n\n $JBL as one example is now heavily competing with the combined Lumentum + Marvell.... There's other players like $SMTC that are explicitly doing M&A for expanding laser capacity.\n\nI don't think the overall AI valuation crash is representative of individual company strength in the optical sector.\n\nThere's very compelling opportunities in the laser bottleneck in the upcoming year that I believe markets are mispricing.",
+"likes": 822
+},
+{
+"id": "2117556261378298059",
+"date": "2026-11-03",
+"zh": "CIEN 上月也指出雷射瓶頸，萬聯證券認為 MRVL 併 LITE 後 CIEN 會分散供應商；作者認為 SIVE 未來幾個月有很大的搶市機會。",
+"risk": "訂單轉移未經證實",
+"s": {
+"CIEN": "neutral",
+"LITE": "neutral",
+"MRVL": "neutral",
+"SIVE": "bull"
+},
+"text": "@riverio1e $CIEN was another company that explicitly cited bottlenecks with lasers last month...\n\nWanlian Securities also flagged Ciena today as a candidate for supplier diversification following the $MRVL / $LITE acquisition... with other laser manufacturers gaining share.\n\nSo I think $SIVE has a tremendous opportunity for market capture in the coming months.",
+"likes": 96
+},
+{
+"id": "2117634458778247210",
+"date": "2026-11-03",
+"zh": "Agility Robotics 合併案通過，AGLT 預計 11/5 掛牌，是美國首家純人形機器人公司，獲 NVDA、AMZN 等支持；約 61.5% 公眾股被贖回，流通股少、波動恐大。作者今天買進 CCXI 並持有。",
+"risk": "流通股少，波動劇烈",
+"s": {
+"AGLT": "neutral",
+"AMZN": "neutral",
+"CCXI": "bull",
+"NVDA": "neutral"
+},
+"text": "Agility Robotics merger is now approved!\n\n$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!\n\nThe company is backed by $NVDA, $AMZN, Foxconn, Softbank, and others... to automate human work in warehouses and manufacturing.\n\n~61.48% of the 41.4M public shares were redeemed (~25.45M shares), leaving ~15.95M public shares tradeable.\n\nGiven heavily reduced share count, as a warning, the stock may experience significant volatility.\n\nDisclosure: Not a recommendation, purchased $CCXI shares today after seeing the news and currently hold a position.",
+"likes": 589
+},
+{
+"id": "2117639781572366705",
+"date": "2026-11-03",
+"zh": "作者樂見 AEHR、FN 等高 beta AI 半導體股財報後大漲，並調侃先前開槓桿的人還有沒有活著看到反彈。",
+"risk": "高 beta 波動大",
+"s": {
+"AEHR": "bull",
+"FN": "bull"
+},
+"text": "Glad to see high beta AI semis like $AEHR or $FN rallying after earnings.\n\nI wonder if anyone previously on leverage is still alive to see a potential recovery? https://t.co/u1niEPMhDc",
+"likes": 645
+},
+{
+"id": "2117649322330468542",
+"date": "2026-11-03",
+"zh": "作者說今年上半年比較好玩，現在大家都沮喪看空，NBIS、CIFR 的反彈讓人心有餘悸；希望這是傳說中的期中選舉行情而非再一波賣壓。",
+"risk": "可能再度下跌",
+"s": {
+"CIFR": "neutral",
+"NBIS": "neutral"
+},
+"text": "@IkaKnight_ Yeah H1 2026 was more fun, everyone now is depressed and bearish…\n\nSo recoveries like $NBIS and $CIFR give everyone PTSD.\n\nI’m hoping this is the fabled midterm election rally and not another selloff https://t.co/9HWkUkMQjg",
+"likes": 77
+},
+{
+"id": "2117664715811995717",
+"date": "2026-11-03",
+"zh": "AAOI 與雲南鍺業簽 5 年 InP 基板合約、2027 年每年 1.944 億美元，五年約 9.7 億；作者推測 AAOI 雷射擴產比揭露的大，財報可能宣布新 UHP 雷射合約，對 AXTI 也是利多。",
+"risk": "資本支出增加引發疑慮",
+"s": {
+"AAOI": "bull",
+"AXTI": "bull",
+"COHR": "neutral",
+"LITE": "neutral"
+},
+"text": "$AAOI signs $194.4M/year contract with Yuunan Germanium.\n\nThis is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)\n\nHmm just some thoughts:\n\n- AOI laser capacity expansion seems bigger than what’s disclosed based on procurement patterns?\n\n180K wafers seems like an extreme amount compared to what’s needed for lasers within their own transceivers… if they can consume all of that\n\nSo maybe we’ll hear about a new UHP laser contracts in earnings, after $LITE announced a $5B contract.\n\n- read through on $AXTI is positive, given they’ll probably be #1 in InP substrates manufacturing scale in the future + have contracts with $LITE and $COHR.\n\n- positive AOI was able to secure capacity during the bottleneck\n\nMore spend is probably the boogeyman in the AI trade, but it’s a good signal for earnings.",
+"likes": 828
 }
 ]
