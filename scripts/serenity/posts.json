@@ -8634,5 +8634,195 @@
 },
 "text": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. It's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. And this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. But people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. If it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. We'll likely see swarms go wild from aggressor nation states in the next few years. And any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. US spent $11T+ cumulatively (inflation adjusted) on Nuclear weapons and we're like ~$1.8T into the the \"cyber-nuclear weapon\" equivalent of that And this is not even including the endless other economic implications from AI in other fields from advancing cancer discovery to workforce automation with physical AI. It's hard to measure AI sustainability if $50K in compute spend from a foreign actor can take down $10B of your own infrastructure. AI has become a bipartisan national security issue, and even Democrats would not want China overtake the US in this field.\" ## Conversation * [](https://x.com/aleabitoreddit) Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. It's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. And this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. But people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. If it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. We'll likely see swarms go wild from aggressor nation states in the next few years. And any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. US spent $11T+ cumulatively (inflation adjuste",
 "likes": 0
+},
+{
+"id": "2118049698733064433",
+"date": "2026-11-04",
+"zh": "SEC 文件揭露 INTC 執行長以家族信託在 64.7 美元買進 971 萬美元股票，作者視為本月下跌 49.9% 後的強烈信心表態，類似前 TSM 董事長在 300 多美元時買進 MU。",
+"risk": "內部人買進不保證止跌",
+"s": {
+"INTC": "bull",
+"MU": "neutral",
+"TSM": "neutral"
+},
+"text": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust.\n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU back in the $300's. https://t.co/KLXXwqtL9f",
+"likes": 1683
+},
+{
+"id": "2118200689453314341",
+"date": "2026-11-05",
+"zh": "COHR 法說：客戶偏好無競爭衝突的獨立供應商；2028 年前無過剩風險，2027 年全數售罄、長約到 2030；新簽 5 年 200 億美元長約，具定價權並調高毛利目標，CPO 技術以 CW 雷射為主。",
+"risk": "擴產需大量資金",
+"s": {
+"COHR": "bull",
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser industry oversupply.\n\nA: No oversupply risk by 2028. Coherent’s entire current internal InP production is consumed by its own products while its expanding capacity.\n\nQ: On Chinese laser competition for CPO UHP lasers\n\nA: “We really only have one competitor” (hinting at $LITE).\n\nQ: On financing concerns for capacity expansion during this market scare\n\nA: Customer LTAs have prepayments, which are used for product capacity orders\n\n2027 completely sold out, LTAs extend to 2030, customers placing orders into 2028.\n\nQ: On laser technology for CPO scale up from Bernstein, whether it’s VCSELs or CW lasers.\n\nA: CW for CPO scale out and scale up for 2026-2027.\n\n2029-2030 sees scale in and chip to chip using micro-VCSELs, and 2028 opportunities for NPO scale up.\n\nSo technology of choice is CW for CPO.\n\n- Coherent is seeing pricing power and raising margin targets, supporting view optical players get additional leverage for margin expansion\n\n- Massive new $20B 5Y LTA, anchored by UHP CW lasers, with other optical products mixed in\n\n- demand comes from growth in DC and conversion of copper interconnects to optics. The latter is bandwidth requirements, independent of DC growth.\n\nslower compute growth can coexist with sharply rising optical content per system\n\nTLDR:\n\n- nothing quite showing optical demand like $20B in LTAs anchored by high power lasers from 1 customer alone (not your frontier labs type commitments)\n\n- no industry wide laser oversupply risk by 2028 for InP lasers/EML\n\n- financing funded by revenue from LTAs and purchase orders.\n\n- doesn’t see Chinese competition for high end lasers, commentary casts doubts over China capability + capacity expansion claims\n\n- CW lasers weapon of choice for CPO, blended margins going up for optical players\n\n- optics more isolated in the event of a DC slowdown\n\nQuite wild to see fundamentals of optical players improve so much, while overall valuations crash.",
+"likes": 864
+},
+{
+"id": "2118206374689853853",
+"date": "2026-11-05",
+"zh": "AAOI 大量採購 InP 基板，作者認為部分用於高毛利 UHP 雷射，市值不到 50 億美元；SIVE 已有晶圓廠產能與 1 億顆擴產計畫，MRVL 併 LITE 帶來認證窗口，作者不意外兩者 2028 年營收超過市值。",
+"risk": "認證進度不如預期",
+"s": {
+"AAOI": "bull",
+"COHR": "neutral",
+"CRDO": "neutral",
+"LITE": "neutral",
+"MRVL": "neutral",
+"SIVE": "bull"
+},
+"text": "@ThePivotDad Yes $AAOI had a massive InP substrate purchase order earlier, and I don’t believe all of that is going toward transceiver lasers that Rosenblatt modeled.\n\nI believe have the similar 60%+ GM UHP laser capabilities that $COHR $20B LTAs and $LITE $5B LTAs are primarily for.\n\nWhile having a MC of <$5B and we’ll see some announcements there later.\n\nAs for $SIVE, it’s mainly about qualifications given they have the capacity now with foundries + 100m laser expansion plan.\n\n$MRVL + $LITE gives it an extremely clear window of opportunity as well, alongside current laser bottlenecks for qualifying players like $CRDO, Innolight, Cambridge, and hyperscalers.\n\nWe’ll see what new partners they announce in earnings this month.\n\nGiven both their tiny $600m, ~$4.9B MCs, I would not be surprised if their 2028 revenue exceeded their valuations.",
+"likes": 131
+},
+{
+"id": "2118240089025413421",
+"date": "2026-11-05",
+"zh": "作者駁斥 MicroLED 取代 CPO 雷射的說法；COHR 稱「需求沒有任何減弱跡象」，與 LITE 不斷簽下 200 億、50 億美元長約，顯示雷射需求和記憶體一樣強。",
+"risk": "新技術路線變化",
+"s": {
+"COHR": "bull"
+},
+"text": "@acceler8future That’s just blatantly false, there’s heavy industry doubts if MicroLED are even commercializable for CPO.\n\nAlso regarding $COHR on optical demand: “We continue to see no signs of attenuation in demand.”\n\nLaser demand is independently as strong as memory, and Coherent / Lumentum wouldn’t be signing $20B or $5B LTAs left and right.",
+"likes": 62
+},
+{
+"id": "2118253723244007677",
+"date": "2026-11-05",
+"zh": "作者批評企業溝通失靈：SK 海力士、三星任由客戶在 X 上主導記憶體過剩說法，CBRS 遭放空報告重挫數十億市值仍等財報才回應，新雲端業者也不反駁。",
+"risk": "負面敘事持續發酵",
+"s": {
+"CBRS": "neutral"
+},
+"text": "@ValueSpectre I’m just calling out what I see with a failure in corporate communication, when so much is at stake.\n\nI’m really not sure why SK Hynix/Samsung representing SK’s economy let narratives of memory oversupply be dominated by their own customers on X.\n\nOr why $CBRS, which lost billions in valuation after the short seller report, is waiting for an analyst question in earnings to fix the damage\n\nOr why many of the “guppies” that would face a death in the Neocloud market aren’t actively fighting back against that claim here.\n\nA lot of narratives and claims originated and were distributed via X.\n\nEven if you don’t like Elon or X, even the Democratic Party combats narratives here as seen with the ratio on the VP’s New York post\n\nI don’t see why this can’t be done with AI companies calling BS on $4 B300 price gluts.",
+"likes": 97
+},
+{
+"id": "2118258090328162483",
+"date": "2026-11-05",
+"zh": "作者認為 Elon 是駁斥假消息的好例子，遇到不實報導會即時回應，主張業界高層至少應找人反駁誤導敘事。",
+"risk": "",
+"s": {
+"SPCX": "neutral",
+"TSLA": "neutral"
+},
+"text": "@Dubbiosismo @elonmusk Elon is the perfect example though, on what you should do to dispute the BS\n\nIf there’s a false WSJ report or X post on $TSLA or $SPCX… Even if it’s something as little as space datacenters won’t work, he just calls it out real time.\n\nI’m not saying every industry executive should do this, but at least hire a representative to defend against misleading narratives",
+"likes": 132
+},
+{
+"id": "2118387249087918591",
+"date": "2026-11-05",
+"zh": "作者樂見 CBRS 直接回應放空報告。",
+"risk": "放空報告疑慮",
+"s": {
+"CBRS": "neutral"
+},
+"text": "@andrewdfeldman @CulperResearch @cerebras Glad to see a direct response from $CBRS about the short report",
+"likes": 181
+},
+{
+"id": "2118422637320007721",
+"date": "2026-11-05",
+"zh": "GOOGL 宣布在懷俄明州蓋 170 億美元資料中心並採用 BE 燃料電池；作者反諷「AI 建設就此結束了」。",
+"risk": "",
+"s": {
+"BE": "neutral",
+"GOOGL": "bull"
+},
+"text": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project.\n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
+"likes": 2819
+},
+{
+"id": "2118446295274901803",
+"date": "2026-11-05",
+"zh": "GLXY 執行長稱股價與公司價值嚴重脫節並開始加碼買股，作者認為在板塊被清算時，機房業者高層用自有資金表態是好訊號。",
+"risk": "德州政治不確定性",
+"s": {
+"GLXY": "bull"
+},
+"text": "$GLXY CEO after pushing back on Texas political uncertainty:\n\n\"I see a massive disconnect between where Galaxy trades and what I believe this company is worth.\n\nThat’s why I’m buying more stock, starting today.\"\n\nGood vote of confidence to see colo executives calling out fundamental disconnects amid sector liquidations.\n\nThen putting their own capital behind their statement.",
+"likes": 688
+},
+{
+"id": "2118569237128286343",
+"date": "2026-11-06",
+"zh": "AAOI 財報：揭露與雲端客戶 10–15 億美元長約，第二份大 5 倍以上（約 50–75 億）且含雷射；需求「前所未見」、只能滿足 80%，改用銀行貸款融資。缺點是產能目標延到 2027 下半年，Q4 指引因 DSP 缺貨小幅下修。",
+"risk": "產能延遲、DSP 缺貨",
+"s": {
+"AAOI": "bull",
+"COHR": "neutral",
+"LITE": "neutral",
+"NBIS": "neutral"
+},
+"text": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages.\n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to supplying merchant lasers.\n\n- \"The demand is exceptional, unprecedented. I do not know what kind of superlatives to use to describe the amount of demand that we are seeing out there in the industry\"\n\nYeah this commentary doesn't sound like any optical demand would slowed down if it's \"exceptional + unprecedented\"\n\n- Rejected hyperscaler slowdowns from political changes with little effect.\n\n- AOI Can only meet 80% of demand, in case there's a kind of reduction, the demand would be bigger than AOI future capacity\n\n- Moving toward other financing methods than ATMs (thank god), US bank loans similar to what $NBIS is doing, I'd argue is positive, given FCF coming in later.\n\n- Delay in meeting capacity projections into H1 2027. $471m/month targets pushed back into H2 2027, due to electrical procurement and construction logistics, which existed before Texas governor changed.\n\nThis part is negative part of the earnings call. To qualify this, I don't quite think hyperscalers would sign a $5-$7.5B LTA if they didn't think AOI couldn't deliver.\n\n-  Near term Q4 guidance cut was DSP availability. AOI revised near term projections down slightly to $385M and $420M in revenue.\n\nSaid DSP supply would ease early 2027 and that they're qualifying more suppliers.\n\n- Gave hiked H2 2027 capacity projections from their expansion, near term revision downward.\n\n- 4 to 5 ongoing UHP laser eval/quals for CPO\n\nUHP laser segment alone would far outweigh their $3.8B MC, especially if you're executing on multi billion dollar contracts with 60%+ gross margin laseres.\n\nTLDR:\n- Long term visibility improved a lot, with est. $6-$9B cumulative LTA contracts coming soon.\n- Shift toward supplying CPO lasers merchant is fundamentally material vs. just transceivers, and what I wanted to hear\n- Capacity guidance hiked into H2 2027, near term delays from electrical/DSP related procurement + installation.\n\nI still think we're reached peak fear levels, but wouldn't dismiss disappointing short term procurement delays + Q4 DSP bottlenecks.\n\nAOI likely signing an additional +$5-$7.5B in likely hyperscaler LTAs and entering merchant UHP CPO market dominanted by $LITE + $COHR.\n\nFactored in with the valuation drop has made medium-long term opportunities very compelling.",
+"likes": 1175
+},
+{
+"id": "2118570510783246410",
+"date": "2026-11-06",
+"zh": "IREN 5 年合約取得 90% GPU 資本支出預付款，作者認為在市場擔心新雲端融資時特別利多。",
+"risk": "新雲端融資疑慮",
+"s": {
+"IREN": "bull"
+},
+"text": "@Jsjsjsjd88 $IREN 90% GPU capex prepayment on a 5Y contract is exceptionally bullish and surprising to say the least...\n\nEspecially given market concerns over Neocloud financing.",
+"likes": 409
+},
+{
+"id": "2118586028944687282",
+"date": "2026-11-06",
+"zh": "作者認為在市場清算期間再來一檔超大型 IPO 不是好主意，SPCX 六月上市就吸走大量成長股資金，OpenAI 延到 2027 年反應也還好。",
+"risk": "",
+"s": {
+"SPCX": "neutral"
+},
+"text": "@wannabepanacea I mean considering all the market liquidations now, another mega-IPO during this time wouldn’t be the best idea…\n\n$SPCX in June was a good example, soaking up a ton of market liquidity from growth names.\n\nOpenAI postponed theirs into 2027 and reactions were fine",
+"likes": 65
+},
+{
+"id": "2118605467459199016",
+"date": "2026-11-06",
+"zh": "作者仍認為 RKLB 可能成為下一個 SPCX、NBIS 可能成為下一個超大型雲端、SIVE 有機會成為下一個 LITE，記憶體與 AXTI 瓶頸比市場想的更持久；作者維持做多並趁機加碼贏家。",
+"risk": "槓桿者恐被洗出場",
+"s": {
+"AMD": "neutral",
+"AXTI": "bull",
+"INTC": "neutral",
+"LITE": "neutral",
+"NBIS": "bull",
+"NVDA": "neutral",
+"RKLB": "bull",
+"SIVE": "bull",
+"SPCX": "neutral"
+},
+"text": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential to be the next hyperscaler\n\n- $SIVE has moonshot potential to be the next $LITE\n\n- 1-3x P/E memory companies and $AXTI substrate bottlenecks are more durable than markets think\n\nAnd that it’s stupid to sell single digit fwd P/E AI companies or promising longs.\n\nAnd rotate that into 5% growth towel resellers at 47x P/E. Or 180x cyber companies, just because they’re going up.\n\nI’ve seen $AMD go from the $3 valley of doom to $400 as people thought it could be the next $INTC / $NVDA.\n\nAnd been through the Bitcoin $1000 -> $18,000 -> $3000 -> $100,000 cycle.\n\nNot advice on how to position or trade, but anyone on extreme leverage during those times got wiped out.\n\nWhile the underlying assets sharply recovered later.\n\nI do think AI, Space, and Physical AI are the future.\n\nSo, I’m remaining long, and using this time to maximize exposure to the winners",
+"likes": 2865
+},
+{
+"id": "2118683089383874576",
+"date": "2026-11-06",
+"zh": "台灣將借券賣出上限從 30% 降至 3%、提高融券保證金並動用 153 億美元國安基金，南韓暫停追繳保證金，中國推出 150 億美元流動性工具；作者認為這些機制有利近期市場穩定與反轉。",
+"risk": "政策效果可能短暫",
+"s": {
+"SKHY": "bull",
+"TSM": "bull"
+},
+"text": "In response to the recent market volatility across $TSM to $SKHY to Innolight:\n\n- Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction),  effective Nov 9th.\n\nTaiwan is separately raising its minimum collateral requirement from 90% to 130% for margin short selling.\n\nAnd authorized the $15.3B stabilization fund for Government buying in the stock market.\n\n- South Korea to waive 140% margin-loan collateral maintenance for 3 months to reduce forced selling, effective Nov 9th.\n\n- China introduced a series of stock-market support package aimed at stabilizing equities. People's Bank of China introduced a $15 billion liquidity-swap operation for securities firms and fund managers.\n\nAs well as reduced lending rates for the share buybacks and shareholder purchase programs from 1.25% -> 1% this month.\n\n_\n\nNot saying what direction stocks would go, but with Countries heavily tied to the AI trade introducing short selling restrictions, share repurchases, and reduced margin collateral.\n\nThese market mechanics are bullish for near term market stability + potential reversal in equities.",
+"likes": 723
+},
+{
+"id": "2118726497129423273",
+"date": "2026-11-06",
+"zh": "ASTS 宣布自建可重複使用中重型火箭 Blacklift，預計 2028 年底完成垂直整合，可能與 RKLB Neutron、SPCX Falcon 9 競爭；作者認為難度高、耗資大。",
+"risk": "執行難度極高",
+"s": {
+"ASTS": "neutral",
+"RKLB": "neutral",
+"SPCX": "neutral"
+},
+"text": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets.\n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9?\n\n\"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\"\n\nBut it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off\n\nDoes anyone in the Spacemob think this is realistically achievable given AST capabilities?",
+"likes": 735
 }
 ]
