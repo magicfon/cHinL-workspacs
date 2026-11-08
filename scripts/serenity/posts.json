@@ -8824,5 +8824,167 @@
 },
 "text": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets.\n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9?\n\n\"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\"\n\nBut it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off\n\nDoes anyone in the Spacemob think this is realistically achievable given AST capabilities?",
 "likes": 735
+},
+{
+"id": "2118954148398080283",
+"date": "2026-11-07",
+"zh": "作者認為 Sivers 的技術討論有幫助，但對投資人的溝通太保守；黃仁勳稱 scale-up 讓光學用量增 15 倍，LITE、COHR 已用 50–200 億美元長約量化需求。",
+"risk": "SIVE 溝通保守",
+"s": {
+"COHR": "neutral",
+"LITE": "neutral",
+"NVDA": "neutral"
+},
+"text": "@SiversSemicond @VickramVathulya @sallywf @eetimes I found the technical discussion helpful, but investor messaging to be way too conservative.\n\nIf you look at how $NVDA CEO describes CPO, Jensen states scale up is increasing optical volumes by 15x. $LITE and $COHR are quantifying that by describing $5-$20B agreements spanning",
+"likes": 436
+},
+{
+"id": "2119023086502805730",
+"date": "2026-11-07",
+"zh": "針對「報價下跌時長約毫無意義」的說法，MU 表示策略客戶協議不能單方面取消、客戶有義務付款；作者引用產業說法反駁記憶體看空論點。",
+"risk": "客戶違約風險",
+"s": {
+"MU": "bull"
+},
+"text": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\":\n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers are obligated to pay for their committed https://t.co/zwaOWMwxin",
+"likes": 571
+},
+{
+"id": "2119025765308350564",
+"date": "2026-11-07",
+"zh": "作者認同交易對手分析很重要：記憶體長約主要來自 NVDA、GOOGL、AMZN 等最有錢的超大型雲端，其他來自高通、現代等。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"GOOGL": "neutral",
+"NVDA": "neutral"
+},
+"text": "@PatrikBatCrypto I know this is an AI reply but just to piggyback, I agree counterparty analysis is really important.\n\nIf we look at memory LTAs, in general they're primarily coming from $NVDA, $GOOGL, $AMZN, and your richest hyperscalers.\n\nOther commitments come from Qualcomm to Hyundai.",
+"likes": 46
+},
+{
+"id": "2119031172705771860",
+"date": "2026-11-07",
+"zh": "作者認為市場已極度失序：POET 週四市值比淨現金還低約 9800 萬美元，等於本業被給予負價值。",
+"risk": "恐慌賣壓延續",
+"s": {
+"POET": "neutral"
+},
+"text": "@soulernauts I think we've reached extreme market dislocation territory.\n\n$POET as one example traded close to -$98M under their net cash on Thursday, giving a very negative value to their actual business.\n\nBut even if hyperscaler capex gets reduced, I'd argue demand visibility on some",
+"likes": 69
+},
+{
+"id": "2119043029369762209",
+"date": "2026-11-07",
+"zh": "作者的記憶體持股曾賺 450%，現約剩 50–100% 未實現獲利仍續抱；AAOI 為節稅實現數百萬美元虧損，但仍持續做多。",
+"risk": "帳上獲利大幅回吐",
+"s": {
+"AAOI": "bull"
+},
+"text": "@NenadVacuum My cost averages are a lot different. My memory longs were once up +450%, but many are probably down to +50-100% unrealized. I still hold those.\n\nJust tax lost harvesting a bit of my $AAOI position over time was a few million realized losses (I'm still long, this is just tax https://t.co/yRftGhSvlN",
+"likes": 151
+},
+{
+"id": "2119053062644121869",
+"date": "2026-11-07",
+"zh": "作者仍持有百萬股級 SIVE、占公司相當比例；雖嚴厲批評其 CPO 相關溝通與揭露，但若在可插拔產品上有新揭露仍值得期待。",
+"risk": "公司溝通與揭露不佳",
+"s": {
+"SIVE": "bull"
+},
+"text": "@Highonstocks_ I still own shares in the million range, which is a material % of the overall company for $SIVE.\n\nI've been extremely critical of their recent communication and disclosures around CPO, which is why I originally invested.\n\nBut given their focus on pluggables, if they disclose",
+"likes": 215
+},
+{
+"id": "2119056343462203480",
+"date": "2026-11-07",
+"zh": "作者以中文自嘲在暴跌中勉強存活，沒想到 LITE 被 MRVL 收購後仍暴跌 51.53%，連收購方 MRVL 也崩跌 50.3%。",
+"risk": "市場崩跌持續",
+"s": {
+"LITE": "neutral",
+"MRVL": "neutral"
+},
+"text": "@semivision_tw 市場暴跌後，我現在還勉強活著。\n\n我從來沒想過 $LITE 被 $MRVL 收購後，股價竟然還能暴跌 -51.53%。\n\n結果沒想到，連收購方 $MRVL 也一起崩了 -50.3%。",
+"likes": 200
+},
+{
+"id": "2119077473107472729",
+"date": "2026-11-07",
+"zh": "作者逆勢看好估值崩跌後的新雲端如 NBIS，認為 Elon 的 SPCX 大舉進入這個市場正是因為看到其吸引人的經濟效益。",
+"risk": "新雲端融資與淘汰風險",
+"s": {
+"NBIS": "bull",
+"SPCX": "neutral"
+},
+"text": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash.\n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die:\n\nHe sees how attractive the economics are after https://t.co/v2CK4ehLCi",
+"likes": 1473
+},
+{
+"id": "2119080107319206219",
+"date": "2026-11-07",
+"zh": "生技股 TWST 的 AI 測試業務（與 Anthropic 合作）年增逾 100%，但公司整體僅預估到 2031 年營收翻倍、年增約 15%。",
+"risk": "整體成長偏低",
+"s": {
+"TWST": "neutral"
+},
+"text": "@100puhcent Even with current narratives like biotech eg. $TWST, there's 100%+ Y/Y growth from their AI testing segment with Anthropic.\n\nBut if you look at company overall revenue projections, they're only calling for double revenue growth by 2031 (implying 15% annual growth).\n\nI'm sure",
+"likes": 50
+},
+{
+"id": "2119085455375503816",
+"date": "2026-11-07",
+"zh": "作者在 IREN 收購 Mirantis 與最新財報後轉為基本面正向，營運展望與融資能力更具說服力，但提醒這不一定反映在股價上。",
+"risk": "基本面不等於股價報酬",
+"s": {
+"IREN": "bull"
+},
+"text": "@giamp1967 So two things:\n\n1. I'm now fundamentally positive on $IREN post Mirantis acquisition and after their recent earnings. Their operating outlook and ability to finance has looked more compelling.\n\n2. That doesn't always translate to appreciating share price and ROI to shareholders.",
+"likes": 145
+},
+{
+"id": "2119087830907666759",
+"date": "2026-11-07",
+"zh": "MSFT 未續約的是 2023 年支援 Bing 的舊 GPU 合約，作者認為舊世代 GPU 不符需求很正常，若發生在新 B300 合約才值得擔心。",
+"risk": "新世代合約若取消",
+"s": {
+"MSFT": "neutral"
+},
+"text": "@invest4introver $MSFT an old 2023 contract to support AI-powered Bing ended, and Microsoft declined to renew.\n\nOlder generation GPUs did not fit this specific customers use case, that doesn't mean they \"dunked on Oracle\".\n\nIf this happened to new B300 contracts that would be worrysome, but the",
+"likes": 61
+},
+{
+"id": "2119097842363211968",
+"date": "2026-11-07",
+"zh": "TSM 發言人否認在研究 3D DRAM；The Information 先前報導此為 NVDA 要求，若屬實 TSM 將與 MU、SK 海力士、三星競爭。",
+"risk": "記憶體競爭加劇疑慮",
+"s": {
+"MU": "neutral",
+"NVDA": "neutral",
+"TSM": "neutral"
+},
+"text": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware.\n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request.\n\nThe implications would have put TSMC in competition with $MU, SK Hynix, and Samsung and set https://t.co/5PHnAY2CaB",
+"likes": 374
+},
+{
+"id": "2119100095341998329",
+"date": "2026-11-07",
+"zh": "閒聊：被問到黃仁勳相關八卦對 AI 交易的影響，作者表示無從得知。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "@piyush1337 If someone asked me 10 years ago what I'd be doing in the future,\n\nAnswering questions on Jensen + Spys banging each other and implications on the AI trade would not be in mind\n\nMy response to that question is: how am i supposed to know?\n\nOn AI trade implications: $NVDA probably",
+"likes": 60
+},
+{
+"id": "2119115555093557488",
+"date": "2026-11-07",
+"zh": "作者認為不宜拿 onsemi 等雙方合意修約的歷史案例，推論 MU 在需求或報價下滑時會讓步。",
+"risk": "記憶體需求下滑",
+"s": {
+"MU": "bull"
+},
+"text": "@jukan05 Yep! That's a fair example with onsemi. But I'm not quite sure it's appropriate to extrapolate from historical examples of mutually agreed contract changes.\n\nAnd apply that to today's memory market and assume $MU would make concessions if demand/pricing ever drops.\n\nMicron",
+"likes": 91
 }
 ]
