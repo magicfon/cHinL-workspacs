@@ -13,6 +13,7 @@
    （`https://x.com/<handle>`），往下捲動，收集最近 3 天內的貼文，包含長文（點「顯示更多」取得完整內容）。
    第一次執行請改收最近 30 天，讓網站有足夠資料比對共識。
    2026-10-04 新增 @zephyr_z9（Zephyr）和 @unusual_whales（Unusual Whales）：下一次執行時這兩個帳號也請收最近 30 天。
+   2026-11-10：inbox 從 10/30 收盤後就沒有新資料，恢復後的第一次執行請所有帳號改收 2026-10-30 之後的全部貼文（約 14 天）。
 2. 在本機的 chinl-workspacs 程式庫 `git pull origin main`，把所有帳號的結果寫進同一個檔案
    `scripts/alpha/inbox/YYYY-MM-DD-open.json`（開盤前）或 `YYYY-MM-DD-close.json`（收盤後），日期用美東當天日期。格式是 JSON 陣列：
 
