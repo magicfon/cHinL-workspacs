@@ -9000,5 +9000,90 @@
 },
 "text": "[](https://x.com/aleabitoreddit) It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: - 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. - Optical companies like $POET traded -$97M under net cash. Valuing the operating business very negatively, not even at $0. - While AI companies with larger premiums continue to record demand over the next 3-5 years. Such as the new $20B LTAs signed w/ $COHR to $5B LTAs signed w/ $LITE. Can someone in the media honestly see negative EV high-beta optical companies, where 2 years of burnrate would still value the company below $0. or single digit memory companies with contracted demand + price floors years out and say that's a bubble? Many of these names are extremely profitable today... But obviously there's other elements inside the theme, such as: - Certain startups like Instinct that look like a private valuation bubble. - Leveraged Neoclouds that didn't finance properly - and AI lab valuations and commitments, which should be viewed cautiously. But everything gets grouped into one with the boogyman of \"leverage\" or \"debt\". Yes, valuations can compress or correct from macro, potential regulatory uncertainty, or potential capex reductions. But for the companies physically powering the AI buildout, it looks more like the Great AI Deleveraging of 2026... Than anything like fundamental demand destruction. As more earnings come out and free cash flow accumulates over time. I'm confident in a recovery, especially in bottlenecks, and for markets to eventually discern durability + growth over frothy valuations tied to AI.",
 "likes": 0
+},
+{
+"id": "2119458038260318634",
+"date": "2026-11-08",
+"zh": "AI 賣壓期間多位高管發言：LITE 執行長附和 IREN 執行長，稱公司訂單簿與市場表現之間存在巨大落差。",
+"risk": "市場情緒與基本面脫節",
+"s": {
+"IREN": "neutral",
+"LITE": "bull"
+},
+"text": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff:\n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books.\n\nAnd what the markets are showing. And yet https://t.co/qIit6H1ek2",
+"likes": 1358
+},
+{
+"id": "2119633154629881997",
+"date": "2026-11-09",
+"zh": "作者表態在這段時間全力支持 NVDA 與黃仁勳，認為傳奇人物也是凡人，公開面對私生活爭議需要勇氣。",
+"risk": "執行長個人爭議",
+"s": {
+"NVDA": "neutral"
+},
+"text": "I fully support $NVDA and Jensen Huang through this time.\n\nEven the most legendary figure in the AI industry is human.\n\nTrump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives.\n\nIt takes courage to own up to it publicly and move forward https://t.co/1DBwuUrtJM",
+"likes": 2777
+},
+{
+"id": "2119689635869954503",
+"date": "2026-11-09",
+"zh": "台灣 AI 股從聯發科到華邦電幾乎全面漲停，加權指數大漲 4.94%，為史上第二大單日漲幅。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up.\n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl",
+"likes": 1324
+},
+{
+"id": "2119807048204595582",
+"date": "2026-11-09",
+"zh": "作者沒料到從 LITE 到 NBIS 整個 AI 族群今天一起反彈。",
+"risk": "",
+"s": {
+"LITE": "neutral",
+"NBIS": "neutral"
+},
+"text": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH https://t.co/s28Ad2oIbd",
+"likes": 981
+},
+{
+"id": "2120074819878449605",
+"date": "2026-11-10",
+"zh": "CW 雷射報價隨架構升級大漲（70mW 約 3–4 美元，400mW UHP 達 50–75 美元）。作者目前看法：COHR 是風險調整後最佳；LITE 因 MRVL 併購的估值壓力轉為偏空；AAOI 需求能見度極高但執行有疑慮；SIVE 擴產至 3 億顆但認證不確定。",
+"risk": "整個 AI 族群同漲同跌",
+"s": {
+"AAOI": "bull",
+"COHR": "bull",
+"LITE": "bear",
+"MRVL": "neutral",
+"SIVE": "bull"
+},
+"text": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage for pluggables.\n\n120–150mW NPO: ~$15–20\n350mW UHP CW: ~$40 (Nomura)\n400mW UHP CW for NPO/CPO: ~$50–75 (Mizuho)\n\nWith former communication laser chips going from 20-50 cents.\n\nThe pricing and gross margins of these players go up with each architectural shift (60%+ for CPO lasers).\n\nAnd go up even more depending how far down the stack you go (selling ELSFP was ~2.5x revenue content)\n\nIn terms of how I see the landscape now:\n\n- $COHR is probably the best risk adjusted laser player now, for people who don't like uncertainty. Their new $20B LTA is very substantial.\n\n- $LITE pretty negative now given the valuation overhang from $MRVL acquisition. Operationally very opsitive.\n\n- $AAOI has extreme demand visibility (likely $6-$9B in new LTAs from just 1 quarter), but credible execution uncertainty.\n\nThey've also been focusing on pluggables + bottlenecked by DSPs, rather focusing on UHP CPO laser merchant markets.\n\nBut I think if markets see a new $5B-$7B LTA that they're in late stage discussion for... and see the $4.4B MC. Pretty sure that's a catalyst for recovery.\n\nThe demand doesn't disappear but timeline shifts back a few months.\n\nAOI also signaled DSP as the main bottleneck, last quarter it was TIAs, so other different component players that are interesting.\n\n- $SIVE has extreme capacity expansion (300m laser capacity targeted in total).\n\nThe economic implications that they won't disclose are likely enormous relative to their MC, even if they sell $3 70mW lasers to China pluggable players.\n\nBut there's a qualification uncertainty to fill the gap,\nthat markets have punished the company for. Especially when management communication amplifies uncertainty, despite the ongoing shortage.\n\nRight now entire AI trade is going up and down together though.",
+"likes": 655
+},
+{
+"id": "2120106741090370030",
+"date": "2026-11-10",
+"zh": "Elon 指 SoftBank 渦輪訂單違約，SoftBank 財務長直接否認，GE 執行長也稱沒看到取消或客戶融資困難；作者質疑這類指控的真實性。",
+"risk": "",
+"s": {
+"GE": "neutral",
+"SPCX": "neutral"
+},
+"text": "New commentary today from SoftBank on Elon Musks post 4 days ago:\n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?”\n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no such default”\n\nThis also mirrors what $GE CEO Scott Strazik stated about seeing no procurement cancellations or counterparty financing difficulties.\n\nPretty damaging allegations about the company financing $SPCX competitor (OpenAI + Stargate).\n\nI wonder if there’s any more nuance these claims or if it’s false.",
+"likes": 631
+},
+{
+"id": "2120198265346081174",
+"date": "2026-11-10",
+"zh": "NVDA 在預估 FY2028 受供給限制下仍成長 70% 的情況下崩跌 25%、蒸發近 2 兆美元；作者認為 ANT 選在週四以 1.4 兆美元 IPO 時機很差。",
+"risk": "市場劇烈波動",
+"s": {
+"ANT": "neutral",
+"NVDA": "neutral"
+},
+"text": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday…\n\nAre there still people out there interested at that price? https://t.co/KYrQL2hyc4",
+"likes": 1223
 }
 ]
