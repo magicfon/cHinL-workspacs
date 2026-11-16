@@ -9345,5 +9345,72 @@
 },
 "text": "Altimeter and Atreides' letter to the board of $NVDA. https://t.co/vC4lgj6OxC",
 "likes": 3052
+},
+{
+"id": "2121852636261724398",
+"date": "2026-11-15",
+"zh": "作者批評西方媒體對 NVDA 與黃仁勳的報導，認為反而讓中國人對官媒更有自豪感。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism. https://t.co/oJ8eEgOIDS",
+"likes": 2888
+},
+{
+"id": "2121918080293196209",
+"date": "2026-11-15",
+"zh": "作者從黃仁勳學到：若關鍵材料只要約 4 億美元就能買下（如 SOI 預估 FY2028 光子 SOI 營收），卻能撬動數百億美元價值，就該鎖定它；作者暗示 SOI 具戰略價值。",
+"risk": "僅為策略推論",
+"s": {
+"NVDA": "neutral",
+"SOI": "bull"
+},
+"text": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast for $SOI)\n\nAnd trigger tens of billions https://t.co/tuTM1btm9V",
+"likes": 1075
+},
+{
+"id": "2121921939677610194",
+"date": "2026-11-15",
+"zh": "作者說自己的論點很聚焦，且已反映在財報上，不是投機；記憶體之外還有許多瓶頸，例如 AXTI 的 InP 基板。",
+"risk": "",
+"s": {
+"AXTI": "bull"
+},
+"text": "@brksbrksbrks My thesis is very narrow. It's also no longer speculation when it shows up in reported earnings.\n\nHBM is a very large component cost in an AI server and not what I'm arguing. There's also many bottlenecks outside of memory.\n\nAn obvious example is $AXTI InP substrates, where not",
+"likes": 49
+},
+{
+"id": "2121981880480522483",
+"date": "2026-11-15",
+"zh": "作者稱黃仁勳值得力挺，與其本人及身邊人交談後認為他對 NVDA 和美國 AI 領導地位獨一無二，並轉發、簽署了支持請願。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI.\n\nA friend asked me to share this petition (I signed):\nhttps://t.co/8SymDAeyOD https://t.co/PYOU1EFtRn",
+"likes": 1850
+},
+{
+"id": "2121984477908160727",
+"date": "2026-11-15",
+"zh": "作者玩笑說，只要能讓黃仁勳回任 NVDA 執行長，自己願意犧牲。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "@thurbodegen I'll take one for the team if that's what it takes for Jensen to return as CEO of $NVDA",
+"likes": 197
+},
+{
+"id": "2122046823934407066",
+"date": "2026-11-15",
+"zh": "FT 報導黃仁勳討論回任 NVDA 執行長，作者稱是他的「救贖之路」。",
+"risk": "回任與否未定",
+"s": {
+"NVDA": "neutral"
+},
+"text": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G https://t.co/9oGjxu1gvr",
+"likes": 1861
 }
 ]
