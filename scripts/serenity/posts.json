@@ -9412,5 +9412,256 @@
 },
 "text": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G https://t.co/9oGjxu1gvr",
 "likes": 1861
+},
+{
+"id": "2122519172664209692",
+"date": "2026-11-17",
+"zh": "GOOGL 威脅情報團隊稱「自主攻擊時代已來臨」；作者認為不論資安贏家是誰，持續的網路攻防都會長期消耗推論算力，受惠的是 AI 算力與基建供應商。",
+"risk": "",
+"s": {
+"AMZN": "neutral",
+"GOOGL": "neutral"
+},
+"text": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive frameworks\n\n- AI is collapsing the window between vulnerability disclosure and exploitation\n\n- Google believes cybersecurity defense must become autonomous too\n\nby combining Gemini and other frontier models for reasoning + smaller models for continuous scanning.\n\nI’d actually argue beneficiaries of this arms race are AI compute and infra providers, regardless of the cybersecurity winners.\n\nSince cybersecurity will become a source of persistent inference consumption.\n\n$AMZN CEO Andy Jassy's also quoted estimates earlier that 20% of AI tokens could go toward cybersecurity.\n\nBelieve it or not, the rise of persistent cyberattacks from hostile state actors… is a structural driver for long term compute demand.",
+"likes": 973
+},
+{
+"id": "2122628849657954454",
+"date": "2026-11-17",
+"zh": "AAPL 放棄找 CMXT 等中國廉價記憶體，轉向三星洽談 2027 上半年起 4–5 年的 DRAM 長約，作者認為提升記憶體需求能見度。",
+"risk": "尚無價格下限條款",
+"s": {
+"AAPL": "neutral",
+"CMXT": "neutral"
+},
+"text": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China.\n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years.\n\nThis is positive on regarding memory demand visibility, no price floors enforced yet like other hyperscaler agreements.",
+"likes": 1009
+},
+{
+"id": "2122636464672383306",
+"date": "2026-11-17",
+"zh": "作者建倉後，IQE 獲 MTSI 支持並與 TSEM 簽約，財報營收成長由 30% 加速至 40%、毛利改善；作者認為中長期基本面持續轉好。",
+"risk": "股價尚未反映",
+"s": {
+"IQE": "bull",
+"MTSI": "neutral",
+"TSEM": "neutral"
+},
+"text": "@snmart Yeah, $IQE got backstopped by $MTSI and signed $TSEM agreements since I originally took positions!\n\nEarnings saw revenue acceleration too from 30%->40% and margins increase.\n\nFundamentals keep improving despite share prices not reflecting it, but over medium/long horizon I think things keep improving",
+"likes": 73
+},
+{
+"id": "2122660925488718046",
+"date": "2026-11-17",
+"zh": "川普政府不顧 AMZN 等雲端業者反對，將禁止進口中國 AI 資料中心設備如新型光收發器；作者認為利多西方光收發器、雷射與元件供應鏈，利空中際旭創、新易盛等。",
+"risk": "雲端業者成本上升",
+"s": {
+"AMZN": "neutral"
+},
+"text": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.\n\nDespite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5\n\nThis move benefits Western optical transceiver and laser + component supply chains.\n\nWhile negatively impacting players like Innolight, Eoptolink, and upstream Chinese suppliers.\n\nChina hawks in Washington were concerned Chinese transceivers could be used by Beijing to steal data, install malware, or disrupt ​US DC services.",
+"likes": 1448
+},
+{
+"id": "2122791681405997440",
+"date": "2026-11-17",
+"zh": "黃仁勳離開 NVDA 後首度公開發言，作者稱各界支持壓倒性，沒有人比他更適合領導 Nvidia。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI https://t.co/5cHu1Uw0zE",
+"likes": 2378
+},
+{
+"id": "2122814062329471182",
+"date": "2026-11-17",
+"zh": "作者稱 AAOI 再推 5.5 億美元 ATM，管理層信用盡失，與先前說法相反；雖然營運上 CPO 與收發器放量仍有吸引力，作者坦言誤判管理層、從 25 美元攤平到 100 美元以上而重傷，無法再支持一再稀釋股權的公司。",
+"risk": "持續股權稀釋",
+"s": {
+"AAOI": "bear"
+},
+"text": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO program + optical transceiver ramp.\n\nEspecially as it comes to the new China optical transceiver restrictions and incoming $5B-7B LTAs.\n\nBut I misjudged management and suffered heavy losses after cost averaging up to $100+ from the initial ~$25.\n\nDefinitely did not foresee them tapping into abusive financing methods again after the sector drop.\n\nI’ll still track their progress, but I don’t see how it’s possible to support a company that serially dilutes with ATMs.",
+"likes": 2336
+},
+{
+"id": "2122826811667263749",
+"date": "2026-11-17",
+"zh": "作者分析 AAOI 融資：承諾 9.56 億美元、現金僅 6.05 億，CFO 原說會偏向舉債，卻花 1.02 億買下租用的德州廠房，兩週後又宣布 5.5 億美元 ATM；相較之下 COHR 用客戶預付款擴產。",
+"risk": "",
+"s": {
+"COHR": "neutral"
+},
+"text": "@MO1465424922353 I'll leave it up to your judgement. From my point of view, there's $956M in commitments vs. $605M cash so they needed more financing for their buildout.\n\nHowever two things stood out:\n\n1. Management commentary around financing: CFO said US bank financing could reach $500m, and that profits would help fund operations. CFO said share price mattered and that they'd lean more into debt.\n\nSo their actions went contrary to management commentary.\n\nIf you look at $COHR, they fund capacity expansion from upfront prepayments. There's other ways to do it too like convertible notes.\n\n2. Capital allocation issue: they spent $102M on three Texas buildings they had under lease. Which was around $5M annualized and I'm sure they're aware market financing conditions are tight.\n\n2 weeks after buying buildings when they were already relatively low on cash... AOI decided to do yet another $550M ATM.\n\nIt's just a bit hard to justify.",
+"likes": 235
+},
+{
+"id": "2122835908596846950",
+"date": "2026-11-17",
+"zh": "NVDA 財報「需求遠超供給」：供應承諾從 2790 億增至 3900 億美元（主要為多年期記憶體採購），利多 MU 與三星；營收成長上修至約 75%，雲端積壓訂單增至 2.5 兆美元，CPO 路線圖如期。",
+"risk": "供應鏈產能限制",
+"s": {
+"MU": "bull",
+"NVDA": "neutral"
+},
+"text": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".\n\n- Good news for the $MU / Samsung memory longs:\n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the multi-year procurement of memory supply\". (from SEC filings, not call)\n\nThis is a a major leap Q/Q in supply procurement.\n\n- \"We expect revenue to grow approximately 75% year-over-year, up from 70%.\" (upward revision, likely due to capacity constraints easing)\n\n(new agreements with Kinsus and Samsung Electro-Mechanics support additional ABF substrate capacity)\n\n- NVIDIA said industry cloud backlog increased from $2 trillion to $2.5 trillion in a single quarter. While GPU rental pricing is continuing to rise dramatically:\n\nHopper GPUs: 2x their original pricing\nB300 GPUs: +60% since introduction\nUtilization: NVIDIA says its own compute is fully utilized across the hyperscalers and neoclouds it serves.\n\n- \"Our co-packaged optics roadmap remains on track\"\n\nOptical networking keeps growing rapidly ($21B+ in quarterly networking), CPO scale out switches has entered volume production. With Lambda earlier announcing production deployment of Nvidia photonics CPO switches.\n\n- \"Under these agreements, we will earn revenue on the upfront sale of our infrastructure\" So there's additional recurring economics coming from Neoclouds.\n\nBut just points to industry acceleration from memory to CPO to neoclouds, relative to markets pricing in collapse.",
+"likes": 1117
+},
+{
+"id": "2123067177905643769",
+"date": "2026-11-18",
+"zh": "作者建議對 AI 多頭做壓力測試（2028 後資本支出下修、算力閒置、融資惡化、利率翻倍）；認為新一代光子是少數能以光學含量與單價抵銷資本支出下修的領域，價值會轉向架構轉換受惠者。",
+"risk": "多重下行情境",
+"s": {
+"AAOI": "neutral",
+"COHR": "neutral",
+"NVDA": "neutral"
+},
+"text": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028\n2. Stranded Compute / DC Slowdowns\n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and see what happens with valuations of AI longs.\n\nIf you see acceleration despite all 4, I'd argue that's an opportunity.\n\n> Next-gen of photonics is one of the rare segments with an extreme rise in optical content and ASPs that can offset aggregate capex cuts.\n\nEveryone’s moving into that space, including Elon Musk doing M&A, Marvell, Samsung and others with M&A… and we haven’t seen economic impact on emerging architectures even hit players from Celestial to Ayar + their suppliers yet.\n\nIf we look at a scenario where there's excess GPUs but power constraints:\n\nWe might see slowdown in aggregate accelerator/GPU/ASIC procurement, but your optical engines + light sources + switches players see acceleration.\n\nEspecially as incentive to replace power inefficient networking... since different (cheap BOM) optical architectures improves GPU utilization or even HBM requirements.\n\nSo value migrates to players more high-beta to architectural shifts.\n\nIf Celestial projections are $500m -> $1B, and we expect -30% aggregate capex cuts, I'd argue we'd still see upward revisions from Celestial over the next 2 years.\n\nBut financing with #3 matters a lot as seen with $AAOI dropping off of a $550M, vs. $COHR getting prepayments for capacity expansion from their customers.\n\nCompanies that rely on external foundries might be less sensitive to #3 since they're not as capex intensive.\n\nOn the other hand, companies in sectors have a lot of floating interest like certain Neoclouds, and require further financing might be the most impacted.\n\n> Legacy and specialty memory is a different cycle that markets conflate with AI capex.\n\nIf consumer demand weakens but at the same time, players like Windbond exits DDR2, pricing durability is longer than markets expect.\n\n> Wafer/substrate procurement such as ABF, SOI, InP are low cost but large downstream destruction if not secured, so we’ll likely see acceleration here as seen with $NVDA earnings call.\n\n> qualification cycle players within bottlenecks remain very compelling, since first revenue in a large TAM, relative to MC is material to that company.\n\nIf a company is valued at $400m then they get a $200m of orders, it's more asymmetrical to a certain company than a rounding error to a $50B incumbent revenue.\n_",
+"likes": 798
+},
+{
+"id": "2123080934362845437",
+"date": "2026-11-18",
+"zh": "作者反諷：NVDA 單季多揭露 1110 億美元主要為記憶體的採購，以前會被視為 MU、SK 海力士的利多。",
+"risk": "市場忽視利多",
+"s": {
+"MU": "bull",
+"NVDA": "neutral"
+},
+"text": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
+"likes": 962
+},
+{
+"id": "2123084154757873815",
+"date": "2026-11-18",
+"zh": "記憶體公司可趁獲利期大量回購，SNDK 或三星未來兩年可買回相當比例流通股；部分避險基金賣 NVDA 等去認購 ANT IPO，但資金最終會因其龐大承諾流回。",
+"risk": "資金被 IPO 抽走",
+"s": {
+"NVDA": "neutral",
+"SNDK": "bull"
+},
+"text": "@wockjones Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 years from earnings.\n\nEveryone is competing for capital rn and Anthropic IPO + upsizing just eats up more. Some HFs as you’ve seen sold off $NVDA and others to put capital into this IPO.\n\nThat same capital rotates back into these players eventually from Anthropic’s massive commitments tho.",
+"likes": 86
+},
+{
+"id": "2123100162616951229",
+"date": "2026-11-18",
+"zh": "Semafor 報導 NVDA 董事會部分成員推動黃仁勳回任，作者希望創紀錄財報後的市場反應能給董事會一個訊號。",
+"risk": "",
+"s": {
+"NVDA": "neutral"
+},
+"text": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.co/aEve8LRHnv",
+"likes": 1214
+},
+{
+"id": "2123116246183088517",
+"date": "2026-11-18",
+"zh": "ANT IPO 募得的資金最終會流回半導體：其約 9009 億美元採購承諾涵蓋 AVGO/Google TPU、AMZN、MSFT、RIOT、WULF、MU 等；作者長期看空前沿實驗室估值，但認為 IPO 提升其交易對手信用。",
+"risk": "前沿實驗室估值過高",
+"s": {
+"AMD": "neutral",
+"ANT": "neutral",
+"AVGO": "neutral",
+"CRWV": "neutral",
+"IREN": "neutral",
+"MU": "neutral",
+"RIOT": "neutral",
+"WULF": "neutral"
+},
+"text": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual purchase agreements:\n\n- $AVGO + financing partners: $161.2B in Google TPU leases\n- Google Cloud: at least $121.3B\n- SpaceX: Up to $120.5B (ceiling, can be cut)\n- Amazon: at least $110B\n- Microsoft: $47.2B-$49.2B\n- Nscale:  up to $44.6B\n- Lambda: ~$41.3BN ($34.9B can be cut)\n\nWith other identifiable counterparty deals such as:\n\n- $MU (undisclosed), but supply agreement\n- $RIOT: ~$28B+ $9.1B\n- $WULF: ~$19B\n- Akami: ~$11.6B (CPU cloud)\n- Volta: ~$10B\n- OnePWR: ~$3.4B\n- $CRWV (undisclosed)\n- Everwind (undisclosed)\n- Likely $IREN (undisclosed)\n- Zerra DC (undisclosed)\n\nOutside the $900.9B, there's another:\n\n- Additional Google TPU capacity: $125B-$150B estimated\n\n- $AMD: over $20B if Anthropic takes the full initial tranche of Helios capacity\n\nI'm actually personally longer term bearish on frontier lab valuations (I like OpenAI more if I had to pick one due to consumer stickiness). But raising a lot from IPO does help raise their counterparty status.\n\nRegardless of how they utilize it, that's a lot of GPUs, TPUs, HBM, optical networking, and compute needed for the next 5+ years.",
+"likes": 388
+},
+{
+"id": "2123119673864778076",
+"date": "2026-11-18",
+"zh": "作者看多 SOI：新增 12 億美元多年期光子 SOI 晶圓預訂、已收 8600 萬歐元預付款並承諾到 2028 年，淨現金從 3 月的 -5600 萬轉為 1.69 億歐元；其他業務仍弱。",
+"risk": "非光學業務疲弱",
+"s": {
+"SOI": "bull"
+},
+"text": "@VENTOUXBLEU Bullish $SOI, I need to wait for management commentary to shed more light. So far on most material disclosures:\n\n-> $1.2B new multi-year photonics SOI wafer reservations, which is probably what to focus on.\n\nConsidering they were doing like $100m revenue from that earlier... that's a very very large jump.\n\nAlready €86M in prepayments, committed through 2028.\n\n-> Net cash now €169m from -€56m in March.\n\nRest of the business still kinda weak, but their optical growth is hard carrying.",
+"likes": 45
+},
+{
+"id": "2123126925908742463",
+"date": "2026-11-18",
+"zh": "作者建倉 SOI 時花旗曾警告光子 SOI 預期過高，當時營收僅 2500 萬美元；8 個月後已拿到 12 億美元長期產能承諾並收訂金，作者認為證明光學需求加速。",
+"risk": "其他事業仍疲弱",
+"s": {
+"SOI": "bull"
+},
+"text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note.\n\nnow?\n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months.\n\n$25M -> $1.2B LTAs... Vindicated.\n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction.",
+"likes": 379
+},
+{
+"id": "2123128124628140034",
+"date": "2026-11-18",
+"zh": "作者開玩笑說，年初的 SOI 論點如今被 12 億美元承諾驗證；原以為加速要到 2027 年。",
+"risk": "",
+"s": {
+"SOI": "bull"
+},
+"text": "@deepstocktrends I'm just joking with the language lol. But it's fun to see a thesis earlier in the year get validated with $1.2B commitments.\n\nI thought $SOI would probably see acceleration into 2027, rather than everyone do supply procurement so early.",
+"likes": 25
+},
+{
+"id": "2123130570008060023",
+"date": "2026-11-18",
+"zh": "作者希望 SIVE 管理層能證明市場對營收成長的預期是錯的；SIVE 有大量雷射配額、處於產業瓶頸，但要能轉為客戶承諾。",
+"risk": "執行與轉換不確定",
+"s": {
+"SIVE": "bull"
+},
+"text": "@BAreadude I hope $SIVE management proves everyone wrong around revenue growth expectations as well.\n\nSivers has large laser allocations, lasers for CPO/NPO/pluggables, and sit inside an industry bottleneck.\n\nSo I hope they can execute and convert those into commitments (no promises though)",
+"likes": 71
+},
+{
+"id": "2123135584621539471",
+"date": "2026-11-18",
+"zh": "作者仍認為 AAOI 2027 下半年營收會加速，但誤判管理層融資的言行；接近 2028 年營運或能抵銷稀釋，但目前沒人想資助擴產，中短期有明顯賣壓。",
+"risk": "中短期股權稀釋賣壓",
+"s": {
+"AAOI": "bear"
+},
+"text": "@piyush1337 I still don't think I'm wrong on $AAOI in terms of revenue acceleration entering H2 2027. I'm sure others see how compelling their manufacturing ramp is too.\n\nBut in terms of shareholder returns, I personally misjudged management commentary vs. actions in how they do financing.\n\nI do think approaching 2028 operations outweigh equity dilution, but it's a ways away...\n\nNobody wants to fund further capacity buildout in these market conditions, so near-medium term there's a material overhang.",
+"likes": 48
+},
+{
+"id": "2123137705597120613",
+"date": "2026-11-18",
+"zh": "作者認為 Leopold 早期從 SNDK 到 BE 的看法方向正確，也認同 MLCC 可能在 2027 年成為瓶頸，但其過度槓桿導致被清算；作者也學到要更聚焦選股。",
+"risk": "",
+"s": {
+"BE": "neutral",
+"SNDK": "neutral"
+},
+"text": "Situational Awareness 2.0 is coming.\n\nI think Leopold's early ideas were directionally right from $SNDK to $BE.\n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027.\n\nUnfortunately, due to excessive leverage and crowded longs... Positioning left him vulnerable to liquidation before he got to see longer horizon ideas play out.\n\nI think it's fun to see fund managers actually have unique ideas in similar sectors. So hope he can make a comeback.\n\nI learned a lot of lessons myself to in terms of being more narrow with long selections, so very excited for 2027.",
+"likes": 646
+},
+{
+"id": "2123145041837527085",
+"date": "2026-11-18",
+"zh": "作者近期多談主題，因 AI 股同漲同跌；Foci 與尚未放量的 CPO 高度相關，上月成為 TSM COUPE 供應商，希望它像 SOI 一樣迎來營收拐點。",
+"risk": "作者自承常常太早",
+"s": {
+"NVDA": "neutral",
+"SOI": "neutral",
+"TSM": "neutral"
+},
+"text": "@Jaime21129601 Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now.\n\nFoci is heavily tied to CPO which hasn't reached volume yet. And they've been named to be a $TSM COUPE supplier now last month with exposure to $NVDA CPO programs.\n\nLast month, Largan cited fiber arrays as facing the greatest shortages for CPO expansion.\n\nH2 2027 from Goldman Sachs flagged accelerated CPO FAU revenue growth.\n\nBut we're entering 2027 soon, so I hope we see earnings inflection with Foci similar to $SOI today with their commitments. I have a tendency to be a bit early.",
+"likes": 29
+},
+{
+"id": "2123173088598938033",
+"date": "2026-11-18",
+"zh": "GOOGL 在 ANT IPO 前發布 Gemini 4 Neon 基準測試。",
+"risk": "",
+"s": {
+"ANT": "neutral",
+"GOOGL": "neutral"
+},
+"text": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+"likes": 596
 }
 ]
