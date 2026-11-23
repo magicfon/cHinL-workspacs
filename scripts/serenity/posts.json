@@ -9855,5 +9855,39 @@
 },
 "text": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolios.\n\nIt's just wild to witness a $5T+ company crash -46%+ in weeks. https://t.co/pb32leFCIB",
 "likes": 1326
+},
+{
+"id": "2124315829202493468",
+"date": "2026-11-22",
+"zh": "ORCL 稱對 OpenAI 的資金已到位、SNDK 與美光也強調長約與價格下限，市場卻極度不信任；作者認為若合約與預測成立，這可能是 AI 世代級買點，否則市場懷疑有其道理。",
+"risk": "揭露可信度受質疑",
+"s": {
+"ORCL": "neutral",
+"SNDK": "neutral"
+},
+"text": "It's very interesting $ORCL can put out statements about being fully funded for OpenAI.\n\nOr $SNDK / Micron can put out statements reassuring investors about signed LTAs + price floors.\n\nYet there's extraordinary levels of distrust toward disclosures and durability.\n\nEither everyone is excessively bearish, and this creates a generational buying opportunity on AI if contracts + projections hold... or they're skeptical for a good reason.",
+"likes": 1030
+},
+{
+"id": "2124318494879780986",
+"date": "2026-11-22",
+"zh": "CRWV 財報稱 2027 年量化需求是算力供給的 10 倍，同週卻有人以亞洲小型資料中心受衝擊推論算力過剩，作者覺得這種市場動態很有趣。",
+"risk": "算力過剩疑慮",
+"s": {
+"CRWV": "neutral"
+},
+"text": "@corbinians_bear Maybe it's self-fufilling, we'll see. From earnings, $CRWV said 10x quantified demand > compute availability throughout 2027.\n\nThen the same week a bunch of people are arguing for a compute glut extrapolating smaller Asian DCs getting impacted.\n\nOne of the most interesting market dynamics",
+"likes": 80
+},
+{
+"id": "2124582975455318147",
+"date": "2026-11-22",
+"zh": "財長 Bessent 談 NVDA：暗示支持黃仁勳回任，將 AI 崩跌歸因於民主黨反對 AI 建設與聯準會鷹派，否認循環融資疑慮；作者認為黃仁勳回任、改善 AI 情緒的機率明顯上升。",
+"risk": "回任仍未確定",
+"s": {
+"NVDA": "neutral"
+},
+"text": "Treasury Secretary Bessent on $NVDA, AI crash, and circular financing:\n\nQ: On Trump wanting Jensen Huang back.\nA: \"Well, I said they should go to the outside, but he's on the outside now\"\n\nQ: On AI market crash:\nA: \"The Democratic position on the SI buildout has spooked a lot of investors in terms of slowing\"\n\" hawkish remarks from the Federal Reserve... people believe they may be making a policy mistake if they over-tighten\"\n\"substantial tightening in financial conditions over the past few months\"\n\nQ: On circular financing:\nA: \"No, as Nvidia continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide.\"\n\nLooks like the chances of Jensen returning and improving AI sentiment... have gone up materially with more support from Washington.",
+"likes": 893
 }
 ]
