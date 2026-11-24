@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>外資期貨動向</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@700&display=swap">
+<style>
+/* 台股慣例：紅＝偏多／淨多單／增加多單，綠＝偏空／淨空單。 */
+:root {
+  --bg: #f3f5f8; --surface: #ffffff; --ink: #141a26; --muted: #5b6477; --line: #dde2ea; --grid: #edf0f4;
+  --accent: #2c56c9; --accent-soft: #e5ebfa; --red: #c7362d; --red-soft: #fbe9e7; --green: #137f47; --green-soft: #e3f3ea; --amber: #a86c10; --amber-soft: #fbf1df;
+  --idx: #6b7487;
+  --f-display: "Noto Serif TC", "Songti TC", serif;
+  --f-body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --f-num: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root {
+  --bg: #0e1219; --surface: #161c26; --ink: #e6e9ef; --muted: #98a1b3; --line: #273041; --grid: #1e2532;
+  --accent: #7d9dff; --accent-soft: #1b2644; --red: #ff6e63; --red-soft: #3a1c1a; --green: #41cf82; --green-soft: #133023; --amber: #e3aa4a; --amber-soft: #2e2413;
+  --idx: #8f98aa; color-scheme: dark } }
+* { box-sizing: border-box }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 14px; line-height: 1.55 }
+.wrap { max-width: 1240px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 48px }
+.num { font-family: var(--f-num); font-variant-numeric: tabular-nums }
+h1, h2, h3 { margin: 0; text-wrap: balance }
+button { font: inherit; color: inherit }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+header.top { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px; margin-bottom: 14px }
+header.top h1 { font-family: var(--f-display); font-size: 26px; letter-spacing: .02em }
+.sub { color: var(--muted); font-size: 13px }
+.bar { position: sticky; top: 0; z-index: 5; background: var(--bg); display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding-block: 10px; border-bottom: 1px solid var(--line); margin-bottom: 16px }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface) }
+.seg button { border: 0; background: none; padding: 6px 12px; cursor: pointer; font-size: 13px }
+.seg button + button { border-left: 1px solid var(--line) }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); font-weight: 500 }
+.lbl { font-size: 12px; color: var(--muted); letter-spacing: .06em; margin-right: 6px }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px }
+.core { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-bottom: 20px }
+@media (max-width: 900px) { .core { grid-template-columns: minmax(0, 1fr) } }
+.card { padding: 18px; display: grid; gap: 14px; min-width: 0 }
+.c-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap }
+.c-head h2 { font-family: var(--f-display); font-size: 22px }
+.c-head .tk { color: var(--muted); font-size: 12px }
+.hero { text-align: right }
+.hero .k { font-size: 12px; color: var(--muted) }
+.hero .big { font-family: var(--f-num); font-size: 30px; font-weight: 500; line-height: 1.15 }
+.hero .amt { font-size: 12px; color: var(--muted) }
+.pos { color: var(--red) } .neg { color: var(--green) } .zero { color: var(--muted) }
+.metrics { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 8px; overflow: hidden }
+@media (max-width: 520px) { .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)) } }
+.metric { background: var(--surface); padding: 8px 10px }
+.metric .k { font-size: 11px; color: var(--muted) }
+.metric .v { font-family: var(--f-num); font-size: 15px }
+.horizons { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px }
+@media (max-width: 520px) { .horizons { grid-template-columns: minmax(0, 1fr) } }
+.hz { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 6px; align-content: start }
+.hz .h-name { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; align-items: center }
+.hz ul { margin: 0; padding-left: 16px; font-size: 12px; color: var(--muted) }
+.chip { display: inline-block; font-size: 12px; padding: 1px 9px; border-radius: 999px; font-weight: 500; white-space: nowrap }
+.chip.bull { background: var(--red-soft); color: var(--red) }
+.chip.bear { background: var(--green-soft); color: var(--green) }
+.chip.flat { background: transparent; color: var(--muted); border: 1px solid var(--line) }
+.sec-title { font-size: 12px; letter-spacing: .1em; color: var(--muted); display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; align-items: center }
+.legend { display: flex; gap: 14px; font-size: 12px; color: var(--muted); flex-wrap: wrap }
+.legend span::before { content: ""; display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 5px; background: var(--c) }
+.legend span.sq::before { height: 8px; width: 8px; border-radius: 2px }
+.chart { position: relative; user-select: none }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible }
+.chart text { font-family: var(--f-num); font-size: 10px; fill: var(--muted) }
+.tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 14px rgb(0 0 0 / .12); min-width: 170px; display: none; z-index: 3 }
+.tip b { font-weight: 500 }
+.tip .r { display: flex; justify-content: space-between; gap: 12px }
+.tip .r span:first-child { color: var(--muted) }
+table { width: 100%; border-collapse: collapse; font-size: 13px }
+th, td { padding: 7px 8px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap }
+th:first-child, td:first-child { text-align: left }
+th { font-weight: 500; color: var(--muted); font-size: 12px }
+tr:last-child td { border-bottom: 0 }
+.tbl { overflow-x: auto }
+.section { padding: 18px; display: grid; gap: 12px; margin-bottom: 20px; min-width: 0 }
+.section h3 { font-size: 16px }
+details summary { cursor: pointer; color: var(--accent); font-size: 13px }
+.spark { width: 120px; height: 28px; display: block }
+.msg { padding: 24px; color: var(--muted) }
+.msg.err { color: var(--amber) }
+footer { margin-top: 8px; font-size: 12px; color: var(--muted); max-width: 80ch }
+footer p { margin: 6px 0 }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>外資期貨動向</h1>
+      <div class="sub">期交所三大法人未平倉｜核心：美國費城半導體期貨、美國那斯達克100期貨</div>
+    </div>
+    <div class="sub" id="asof">讀取中…</div>
+  </header>
+
+  <div class="bar">
+    <span><span class="lbl">區間</span>
+      <span class="seg" id="range">
+        <button data-r="3m">3 個月</button><button data-r="6m">6 個月</button><button data-r="1y" aria-pressed="true">1 年</button><button data-r="3y">3 年</button>
+      </span>
+    </span>
+    <span><span class="lbl">單位</span>
+      <span class="seg" id="unit">
+        <button data-u="lots" aria-pressed="true">口數</button><button data-u="amt">金額</button>
+      </span>
+    </span>
+  </div>
+
+  <div id="app"><div class="panel msg">正在向期交所讀取資料，第一次可能要 10–20 秒…</div></div>
+
+  <footer>
+    <p>資料來源：臺灣期貨交易所「三大法人－區分各期貨契約」（每日一般交易時段收盤後、約下午 3 點公布）與「大額交易人未沖銷部位」；指數收盤取自 Yahoo Finance（美股指數日期為美國交易日）。頁面每 15 分鐘向來源重新取得一次。</p>
+    <p>多空判讀是依外資淨未平倉的變化規則計算：短線看近 5 日、中線看近 20 日與前十大特定法人、長線看淨部位在近一年的百分位；變化量以過去一年的波動（標準差）衡量，超過 0.5 個標準差才算偏多或偏空。只是部位面的參考，不是投資建議。費半、那指期在期交所的成交量不大，單日幾十口的變化就可能改變訊號，請搭配指數本身走勢判讀。</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var state = { range: "1y", unit: "lots", data: null };
+  var COL = { date: 0, tradeNet: 1, tradeNetAmt: 2, longOI: 3, shortOI: 4, netOI: 5, netOIAmt: 6 };
+  var IDX_NAME = { "^SOX": "費城半導體指數", "^NDX": "那斯達克100指數", "^GSPC": "標普500指數", "^DJI": "道瓊工業指數", "^TWII": "加權指數" };
+
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  function fmt(v, d) { if (v == null || !isFinite(v)) return "–"; return Number(v).toLocaleString("en-US", { maximumFractionDigits: d || 0, minimumFractionDigits: d || 0 }); }
+  function sgn(v, d) { if (v == null || !isFinite(v)) return "–"; return (v > 0 ? "+" : "") + fmt(v, d); }
+  function cls(v) { return v > 0 ? "pos" : v < 0 ? "neg" : "zero"; }
+  function yi(k) { return k / 1e5; } // 千元 → 億元
+  function chip(sig) { var c = sig.label === "偏多" ? "bull" : sig.label === "偏空" ? "bear" : "flat"; return '<span class="chip ' + c + '">' + sig.label + "</span>"; }
+  function netOf(r) { return state.unit === "amt" ? yi(r[COL.netOIAmt]) : r[COL.netOI]; }
+  function chgOf(rows, i) { return i > 0 ? netOf(rows[i]) - netOf(rows[i - 1]) : null; }
+  function uName() { return state.unit === "amt" ? "億元" : "口"; }
+  function uDig() { return state.unit === "amt" ? 2 : 0; }
+
+  function load() {
+    document.getElementById("asof").textContent = "讀取中…";
+    fetch("/api/taifex?range=" + state.range).then(function (r) { return r.json(); }).then(function (d) {
+      state.data = d; render();
+    }).catch(function () {
+      document.getElementById("app").innerHTML = '<div class="panel msg err">讀取失敗，請稍後重新整理。</div>';
+      document.getElementById("asof").textContent = "";
+    });
+  }
+
+  function render() {
+    var d = state.data;
+    if (!d || !d.products) return;
+    document.getElementById("asof").innerHTML = d.asOf ? "資料日期 <span class='num'>" + d.asOf + "</span>" : "尚無資料";
+    var core = d.products.filter(function (p) { return p.core; });
+    var others = d.products.filter(function (p) { return !p.core; });
+    var h = "";
+    if (d.errors && d.errors.length) h += '<div class="panel msg err" style="margin-bottom:16px">部分資料讀取失敗：' + esc(d.errors.join("；")) + "</div>";
+    h += '<div class="core">' + core.map(cardHTML).join("") + "</div>";
+    h += core.map(chartSection).join("");
+    h += '<div class="panel section"><h3>三大法人對照（' + esc(d.asOf || "") + '）</h3><div class="tbl">' + instTable(d.products) + "</div></div>";
+    h += '<div class="panel section"><h3>其他期貨的外資部位</h3><div class="tbl">' + othersTable(others) + "</div></div>";
+    document.getElementById("app").innerHTML = h;
+    core.forEach(function (p) { drawChart(p); });
+  }
+
+  function cardHTML(p) {
+    var f = p.foreign, last = f[f.length - 1];
+    if (!last) return '<div class="panel card"><h2>' + esc(p.name) + '</h2><div class="msg">查無資料</div></div>';
+    var s = p.signal, st = s ? s.stats : {};
+    var lt = p.largeTraders && p.largeTraders[p.largeTraders.length - 1];
+    var fOI = last[COL.longOI] + last[COL.shortOI];
+    var m = [
+      ["今日淨買賣", sgn(last[COL.tradeNet]) + " 口", last[COL.tradeNet]],
+      ["1 日變化", sgn(st.d1) + " 口", st.d1],
+      ["5 日變化", sgn(st.d5) + " 口", st.d5],
+      ["20 日變化", sgn(st.d20) + " 口", st.d20],
+      ["外資多單", fmt(last[COL.longOI]) + " 口", 0],
+      ["外資空單", fmt(last[COL.shortOI]) + " 口", 0],
+      ["全市場未平倉", lt ? fmt(lt.oi) + " 口" : "–", 0],
+      ["外資占比", lt && lt.oi ? Math.round(fOI / (2 * lt.oi) * 100) + "%" : "–", 0]
+    ];
+    return '<div class="panel card">' +
+      '<div class="c-head"><div><h2>' + esc(p.name) + '</h2><div class="tk">' + esc(p.id) + "・對照 " + esc(IDX_NAME[p.index] || p.index) + "</div></div>" +
+      '<div class="hero"><div class="k">外資淨未平倉</div><div class="big ' + cls(last[COL.netOI]) + '">' + sgn(last[COL.netOI]) + ' <small style="font-size:14px">口</small></div>' +
+      '<div class="amt num">契約金額 ' + sgn(yi(last[COL.netOIAmt]), 2) + " 億元</div></div></div>" +
+      '<div class="metrics">' + m.map(function (x) { return '<div class="metric"><div class="k">' + x[0] + '</div><div class="v ' + (x[2] ? cls(x[2]) : "") + '">' + x[1] + "</div></div>"; }).join("") + "</div>" +
+      (s ? '<div class="horizons">' + [["短線", "1–5 日", s.short], ["中線", "1 個月", s.mid], ["長線", "近一年", s.long]].map(function (z) {
+        return '<div class="hz"><div class="h-name"><span>' + z[0] + "・" + z[1] + "</span>" + chip(z[2]) + "</div><ul>" + z[2].reasons.map(function (r) { return "<li>" + esc(r) + "</li>"; }).join("") + "</ul></div>";
+      }).join("") + "</div>" : "") +
+      "</div>";
+  }
+
+  function chartSection(p) {
+    return '<div class="panel section">' +
+      '<div class="sec-title"><h3 style="letter-spacing:0;color:var(--ink)">' + esc(p.name) + "：外資淨未平倉與" + esc(IDX_NAME[p.index] || "") + '</h3>' +
+      '<div class="legend"><span style="--c:var(--idx)">' + esc(IDX_NAME[p.index] || "") + '</span><span style="--c:var(--accent)">外資淨未平倉（' + uName() + '）</span><span class="sq" style="--c:var(--red)">淨部位增加</span><span class="sq" style="--c:var(--green)">淨部位減少</span></div></div>' +
+      '<div class="chart" id="ch-' + p.id + '"></div>' +
+      "<details><summary>看每日數據表（近 30 個交易日）</summary>" + dailyTable(p) + "</details>" +
+      (p.largeTraders && p.largeTraders.length ? "<details><summary>看前五／前十大交易人（近一個月）</summary>" + ltTable(p) + "</details>" : "") +
+      "</div>";
+  }
+
+  function dailyTable(p) {
+    var f = p.foreign.slice(-30).reverse();
+    var tr = p.trust, dl = p.dealer;
+    var byDate = function (a) { var o = {}; (a || []).forEach(function (r) { o[r[0]] = r; }); return o; };
+    var T = byDate(tr), D = byDate(dl);
+    var all = p.foreign, pos = {};
+    all.forEach(function (r, i) { pos[r[0]] = i; });
+    return '<div class="tbl"><table><thead><tr><th>日期</th><th>外資淨買賣(口)</th><th>外資多單</th><th>外資空單</th><th>外資淨未平倉</th><th>變化</th><th>淨金額(億)</th><th>投信淨未平倉</th><th>自營淨未平倉</th></tr></thead><tbody>' +
+      f.map(function (r) {
+        var i = pos[r[0]], c = i > 0 ? r[COL.netOI] - all[i - 1][COL.netOI] : null;
+        return "<tr><td class='num'>" + r[0] + "</td><td class='num " + cls(r[COL.tradeNet]) + "'>" + sgn(r[COL.tradeNet]) + "</td><td class='num'>" + fmt(r[COL.longOI]) + "</td><td class='num'>" + fmt(r[COL.shortOI]) +
+          "</td><td class='num " + cls(r[COL.netOI]) + "'>" + sgn(r[COL.netOI]) + "</td><td class='num " + cls(c) + "'>" + sgn(c) + "</td><td class='num'>" + sgn(yi(r[COL.netOIAmt]), 2) +
+          "</td><td class='num'>" + (T[r[0]] ? sgn(T[r[0]][COL.netOI]) : "–") + "</td><td class='num'>" + (D[r[0]] ? sgn(D[r[0]][COL.netOI]) : "–") + "</td></tr>";
+      }).join("") + "</tbody></table></div>";
+  }
+
+  function ltTable(p) {
+    return '<div class="tbl"><table><thead><tr><th>日期</th><th>前五大買方</th><th>前五大賣方</th><th>前十大淨部位</th><th>前十大特定法人淨部位</th><th>全市場未平倉</th></tr></thead><tbody>' +
+      p.largeTraders.slice().reverse().map(function (r) {
+        var a = r.top10Buy - r.top10Sell, b = r.inst10Buy - r.inst10Sell;
+        return "<tr><td class='num'>" + r.date + "</td><td class='num'>" + fmt(r.top5Buy) + "</td><td class='num'>" + fmt(r.top5Sell) + "</td><td class='num " + cls(a) + "'>" + sgn(a) + "</td><td class='num " + cls(b) + "'>" + sgn(b) + "</td><td class='num'>" + fmt(r.oi) + "</td></tr>";
+      }).join("") + "</tbody></table></div>";
+  }
+
+  function instTable(ps) {
+    var rows = [];
+    ps.forEach(function (p) {
+      [["外資", p.foreign], ["投信", p.trust], ["自營商", p.dealer]].forEach(function (w) {
+        var a = w[1] || [], r = a[a.length - 1], pr = a[a.length - 2];
+        if (!r) return;
+        rows.push("<tr><td>" + (w[0] === "外資" ? "<b>" + esc(p.name) + "</b> " : '<span style="visibility:hidden">' + esc(p.name) + "</span> ") + w[0] + "</td><td class='num " + cls(r[COL.tradeNet]) + "'>" + sgn(r[COL.tradeNet]) +
+          "</td><td class='num " + cls(r[COL.netOI]) + "'>" + sgn(r[COL.netOI]) + "</td><td class='num " + (pr ? cls(r[COL.netOI] - pr[COL.netOI]) : "") + "'>" + (pr ? sgn(r[COL.netOI] - pr[COL.netOI]) : "–") +
+          "</td><td class='num'>" + sgn(yi(r[COL.netOIAmt]), 2) + "</td></tr>");
+      });
+    });
+    return "<table><thead><tr><th>商品／身份</th><th>淨買賣(口)</th><th>淨未平倉(口)</th><th>較前日</th><th>淨未平倉金額(億)</th></tr></thead><tbody>" + rows.join("") + "</tbody></table>";
+  }
+
+  function othersTable(ps) {
+    return "<table><thead><tr><th>商品</th><th>外資淨未平倉</th><th>5 日變化</th><th>20 日變化</th><th>短線</th><th>中線</th><th>長線</th><th>走勢</th></tr></thead><tbody>" +
+      ps.map(function (p) {
+        var s = p.signal; if (!s) return "<tr><td>" + esc(p.name) + "</td><td colspan='7'>查無資料</td></tr>";
+        return "<tr><td>" + esc(p.name) + "</td><td class='num " + cls(s.stats.net) + "'>" + sgn(s.stats.net) + "</td><td class='num " + cls(s.stats.d5) + "'>" + sgn(s.stats.d5) + "</td><td class='num " + cls(s.stats.d20) + "'>" + sgn(s.stats.d20) +
+          "</td><td>" + chip(s.short) + "</td><td>" + chip(s.mid) + "</td><td>" + chip(s.long) + "</td><td>" + spark(p.foreign.map(function (r) { return r[COL.netOI]; })) + "</td></tr>";
+      }).join("") + "</tbody></table>";
+  }
+
+  function spark(v) {
+    if (v.length < 2) return "";
+    var mn = Math.min.apply(null, v.concat([0])), mx = Math.max.apply(null, v.concat([0])), W = 120, H = 28, rg = (mx - mn) || 1;
+    var pts = v.map(function (y, i) { return (i / (v.length - 1) * W).toFixed(1) + "," + (H - 2 - (y - mn) / rg * (H - 4)).toFixed(1); }).join(" ");
+    var z = (H - 2 - (0 - mn) / rg * (H - 4)).toFixed(1);
+    return '<svg class="spark" viewBox="0 0 ' + W + " " + H + '" aria-hidden="true"><line x1="0" x2="' + W + '" y1="' + z + '" y2="' + z + '" stroke="var(--line)"/><polyline fill="none" stroke="var(--accent)" stroke-width="1.5" points="' + pts + '"/></svg>';
+  }
+
+  /* ---- 三段對齊的圖：指數收盤 / 外資淨未平倉 / 每日變化，共用時間軸與十字線 ---- */
+  function niceTicks(lo, hi, n) {
+    var span = hi - lo || 1, step = Math.pow(10, Math.floor(Math.log10(span / n))), e = span / n / step;
+    step *= e >= 5 ? 5 : e >= 2 ? 2 : 1;
+    var t = [], s = Math.ceil(lo / step) * step;
+    for (var v = s; v <= hi + 1e-9; v += step) t.push(+v.toFixed(6));
+    return t;
+  }
+  function drawChart(p) {
+    var el = document.getElementById("ch-" + p.id);
+    var f = p.foreign;
+    if (!el || f.length < 2) { if (el) el.innerHTML = '<div class="msg">資料不足</div>'; return; }
+    var W = Math.max(320, el.clientWidth || 900), L = 64, R = 14, H1 = 150, H2 = 170, H3 = 90, G = 18, T = 8;
+    var H = T + H1 + G + H2 + G + H3 + 22;
+    var t = function (s) { return Date.parse(s + "T00:00:00Z"); };
+    var t0 = t(f[0][0]), t1 = t(f[f.length - 1][0]);
+    var idx = p.indexClose.filter(function (r) { return t(r[0]) >= t0 - 4 * 864e5 && t(r[0]) <= t1; });
+    if (idx.length) t0 = Math.min(t0, t(idx[0][0]));
+    var X = function (s) { return L + (t(s) - t0) / ((t1 - t0) || 1) * (W - L - R); };
+    var net = f.map(netOf), chg = f.map(function (r, i) { return chgOf(f, i); });
+    function scale(vals, top, h, incZero) {
+      var v = vals.filter(function (x) { return x != null && isFinite(x); });
+      var lo = Math.min.apply(null, v), hi = Math.max.apply(null, v);
+      if (incZero) { lo = Math.min(lo, 0); hi = Math.max(hi, 0); }
+      var pad = (hi - lo) * 0.06 || 1; lo -= pad; hi += pad;
+      return { lo: lo, hi: hi, y: function (x) { return top + h - (x - lo) / (hi - lo) * h; }, top: top, h: h };
+    }
+    var s1 = scale(idx.map(function (r) { return r[1]; }), T, H1, false);
+    var s2 = scale(net, T + H1 + G, H2, true);
+    var s3 = scale(chg, T + H1 + G + H2 + G, H3, true);
+    var o = [];
+    o.push('<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="' + esc(p.name) + '外資淨未平倉走勢">');
+    function axis(s, d, lab) {
+      niceTicks(s.lo, s.hi, 4).forEach(function (v) {
+        var y = s.y(v).toFixed(1);
+        o.push('<line x1="' + L + '" x2="' + (W - R) + '" y1="' + y + '" y2="' + y + '" stroke="' + (v === 0 ? "var(--muted)" : "var(--grid)") + '" stroke-width="1"' + (v === 0 ? ' stroke-dasharray="3 3"' : "") + "/>");
+        o.push('<text x="' + (L - 6) + '" y="' + y + '" dy="3" text-anchor="end">' + fmt(v, d) + "</text>");
+      });
+      o.push('<text x="' + L + '" y="' + (s.top - 1) + '" style="fill:var(--ink)">' + lab + "</text>");
+    }
+    if (idx.length > 1) {
+      axis(s1, 0, esc(IDX_NAME[p.index] || ""));
+      o.push('<polyline fill="none" stroke="var(--idx)" stroke-width="2" stroke-linejoin="round" points="' + idx.map(function (r) { return X(r[0]).toFixed(1) + "," + s1.y(r[1]).toFixed(1); }).join(" ") + '"/>');
+    } else o.push('<text x="' + L + '" y="' + (T + 20) + '">無指數資料</text>');
+    axis(s2, uDig() ? 1 : 0, "外資淨未平倉（" + uName() + "）");
+    var z2 = s2.y(0);
+    var line = f.map(function (r, i) { return X(r[0]).toFixed(1) + "," + s2.y(net[i]).toFixed(1); });
+    o.push('<polygon fill="var(--accent)" fill-opacity=".10" points="' + X(f[0][0]).toFixed(1) + "," + z2.toFixed(1) + " " + line.join(" ") + " " + X(f[f.length - 1][0]).toFixed(1) + "," + z2.toFixed(1) + '"/>');
+    o.push('<polyline fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" points="' + line.join(" ") + '"/>');
+    axis(s3, uDig() ? 1 : 0, "每日變化");
+    var bw = Math.max(1, Math.min(8, (W - L - R) / f.length - 1.5)), z3 = s3.y(0);
+    f.forEach(function (r, i) {
+      var c = chg[i]; if (c == null || !c) return;
+      var x = X(r[0]) - bw / 2, y = s3.y(c);
+      o.push('<rect x="' + x.toFixed(1) + '" y="' + Math.min(y, z3).toFixed(1) + '" width="' + bw.toFixed(1) + '" height="' + Math.max(1, Math.abs(z3 - y)).toFixed(1) + '" rx="' + Math.min(2, bw / 2) + '" fill="' + (c > 0 ? "var(--red)" : "var(--green)") + '"/>');
+    });
+    // x 軸月份
+    var seen = {}, every = f.length > 400 ? 3 : 1, k = 0;
+    f.forEach(function (r) {
+      var m = r[0].slice(0, 7); if (seen[m]) return; seen[m] = 1;
+      if ((k++) % every) return;
+      o.push('<text x="' + X(r[0]).toFixed(1) + '" y="' + (H - 6) + '" text-anchor="middle">' + (r[0].slice(5, 7) === "01" ? r[0].slice(0, 4) : r[0].slice(5, 7) + "月") + "</text>");
+    });
+    o.push('<line id="cx-' + p.id + '" x1="0" x2="0" y1="' + T + '" y2="' + (H - 20) + '" stroke="var(--muted)" stroke-width="1" visibility="hidden"/>');
+    o.push('<circle id="cd-' + p.id + '" r="4" fill="var(--accent)" stroke="var(--surface)" stroke-width="2" visibility="hidden"/>');
+    o.push('<rect x="' + L + '" y="0" width="' + (W - L - R) + '" height="' + H + '" fill="transparent" id="hit-' + p.id + '"/>');
+    o.push("</svg>");
+    el.innerHTML = o.join("") + '<div class="tip" id="tip-' + p.id + '"></div>';
+    var svg = el.querySelector("svg"), tip = el.querySelector(".tip"), cx = el.querySelector("#cx-" + p.id), cd = el.querySelector("#cd-" + p.id);
+    var xs = f.map(function (r) { return X(r[0]); });
+    function idxAt(date) { var v = null; for (var i = 0; i < idx.length && idx[i][0] <= date; i++) v = idx[i]; return v; }
+    function move(ev) {
+      var rect = svg.getBoundingClientRect(), sx = (ev.clientX - rect.left) * W / rect.width;
+      var best = 0; for (var i = 1; i < xs.length; i++) if (Math.abs(xs[i] - sx) < Math.abs(xs[best] - sx)) best = i;
+      var r = f[best], ix = idxAt(r[0]);
+      cx.setAttribute("x1", xs[best]); cx.setAttribute("x2", xs[best]); cx.setAttribute("visibility", "visible");
+      cd.setAttribute("cx", xs[best]); cd.setAttribute("cy", s2.y(net[best])); cd.setAttribute("visibility", "visible");
+      tip.innerHTML = "<b class='num'>" + r[0] + "</b>" +
+        "<div class='r'><span>外資淨未平倉</span><span class='num " + cls(r[COL.netOI]) + "'>" + sgn(r[COL.netOI]) + " 口</span></div>" +
+        "<div class='r'><span>淨金額</span><span class='num'>" + sgn(yi(r[COL.netOIAmt]), 2) + " 億</span></div>" +
+        "<div class='r'><span>較前日</span><span class='num " + cls(best ? r[COL.netOI] - f[best - 1][COL.netOI] : 0) + "'>" + (best ? sgn(r[COL.netOI] - f[best - 1][COL.netOI]) : "–") + " 口</span></div>" +
+        "<div class='r'><span>當日淨買賣</span><span class='num'>" + sgn(r[COL.tradeNet]) + " 口</span></div>" +
+        "<div class='r'><span>多單／空單</span><span class='num'>" + fmt(r[COL.longOI]) + "／" + fmt(r[COL.shortOI]) + "</span></div>" +
+        (ix ? "<div class='r'><span>" + esc(IDX_NAME[p.index] || "") + "（" + ix[0].slice(5) + "）</span><span class='num'>" + fmt(ix[1], 2) + "</span></div>" : "");
+      tip.style.display = "block";
+      var px = xs[best] * rect.width / W, tw = tip.offsetWidth;
+      tip.style.left = (px + 14 + tw > rect.width ? px - tw - 14 : px + 14) + "px";
+      tip.style.top = (s2.top * rect.height / H) + "px";
+    }
+    function leave() { tip.style.display = "none"; cx.setAttribute("visibility", "hidden"); cd.setAttribute("visibility", "hidden"); }
+    svg.addEventListener("mousemove", move);
+    svg.addEventListener("touchstart", function (e) { move(e.touches[0]); }, { passive: true });
+    svg.addEventListener("touchmove", function (e) { move(e.touches[0]); }, { passive: true });
+    svg.addEventListener("mouseleave", leave);
+  }
+
+  function seg(id, key, attr) {
+    document.getElementById(id).addEventListener("click", function (e) {
+      var b = e.target.closest("button"); if (!b) return;
+      [].forEach.call(this.querySelectorAll("button"), function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+      state[key] = b.getAttribute(attr);
+      if (key === "range") load(); else render();
+    });
+  }
+  seg("range", "range", "data-r");
+  seg("unit", "unit", "data-u");
+  var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(render, 200); });
+  load();
+})();
+</script>
+</body>
+</html>
