@@ -11,6 +11,7 @@ const nextConfig = {
       { source: "/stocks", destination: "/stocks/index.html" },
       { source: "/serenity", destination: "/serenity/index.html" },
       { source: "/alpha", destination: "/alpha/index.html" },
+      { source: "/futures", destination: "/futures/index.html" },
     ];
   },
 };
