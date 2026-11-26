@@ -9911,5 +9911,144 @@
 },
 "text": "THE AI TRADE IS BACK\n\n$NVDA Board Reinstates Jensen Huang as CEO https://t.co/8s5s4AdkL2",
 "likes": 3614
+},
+{
+"id": "2125056333045219562",
+"date": "2026-11-24",
+"zh": "SMTC 併 HieFo 後揭露雷射進度：年底與明年底各擴產 3–4 倍，季營收可達約 1 億美元，與 4 家美國、3 家中國雲端洽談 NPO；作者認為它商業化落後但 2028 年是可信的競爭者，希望 SIVE 學習這種揭露。",
+"risk": "SMTC 商業化落後",
+"s": {
+"AAOI": "neutral",
+"SIVE": "neutral",
+"SMTC": "neutral"
+},
+"text": "Ooo found $SMTC laser disclosures in earnings interesting after their HieFo acquisition:\n\n- UHP 400mW lasers under development (further behind $AAOI in this aspect since AOI has been doing quals).\n\nIn terms of laser revenue:\n-  3-4x capacity expansion EOY, another 3-4x end of next year.\n-> $25M/quarter EOY after 3x\n-> ~$$100M quarter after 4x\n\n- NPO engagement with 4 US hyperscalers and 3 Chinese hyperscalers (Aug 2027–Jan 2028 initial revenue for NPO for timelines)\n\n- \"developing CPO scale-up lasers, but that's a contribution of potential revenue beyond 2027\" in terms of timeline\n\n- \"NPO represents a great near-term opportunity\" relative to CPO\n\n- \"We wanted to catch the next wave, so that is a 3.2T\" (from previous earnings)\n\nIt would be nice if $SIVE learned a thing or two about doing economic disclosures similar to this ($ scale of capacity, engagement scale.\n\nSemtech's strat is probably VHP/UHP lasers for NPO/CPO and 3.2T for pluggables since they missed the initial wave.\n\nAnyway, they look commercially behind compared to the rest (100-150mW only sampling now)... but very credible and interesting competitor emerging in 2028 + additional TAM expansion on top of TIA/Drivers.\n\nTLDR: HieFo acquisition might be goated (~$300m-$400m exit 2027 annualized capacity revenue opportunity, probably a lot more for 2028)...\n\nIf it were standalone under Semtech I could see it being $1B-$2B+ just based on opportunity alone, but they got it for like ~$34M from US Gov forced divestiture.",
+"likes": 418
+},
+{
+"id": "2125058643154632845",
+"date": "2026-11-24",
+"zh": "黃仁勳回任後，作者把 AI 資本支出預估（加速器以外）上修回來；他會鎖定測試、載板、雷射、記憶體等所有產能，迫使雲端業者更積極採購。",
+"risk": "資本支出預估反覆",
+"s": {
+"GOOGL": "neutral",
+"NVDA": "bull"
+},
+"text": "I'd personally revise AI capex estimates back up (beyond accelerators), after Jensen's return to $NVDA.\n\nA lot of revised forecasts where made off him leaving, but his return, can be a lot more confidence in spend with upstream supply chains + bottlenecks.\n\nJensen my ideal game theory troll, he just secures all the capacity of things other programs like $GOOGL or Amazon needs.\n\n> Testing? (Nvidia just secures all the capacity)\n> Substrates? (Nvidia just secures all the capacity)\n> Lasers? (Nvidia just secures all the capacity)\n> Memory? (Nvidia just secures all the capacity)\n\nBefore there was a lot of uncertainty (to the point I had to model major capex cuts)...\n\nBut Jensen's return forces hyperscalers to be much more aggressive again in supply procurement.",
+"likes": 876
+},
+{
+"id": "2125063759077192093",
+"date": "2026-11-24",
+"zh": "作者稱 AAOI 是最令人沮喪的公司之一：營運上 CPO 認證、收發器放量都很好，若融資與資本配置不同，即使 AI 崩跌也可能到 150 美元，但持續的 ATM 讓股價難漲。",
+"risk": "ATM 賣壓",
+"s": {
+"AAOI": "bear"
+},
+"text": "@NiHongDream $AAOI has been the one of the most frustrating companies I've encountered.\n\nIn another world if they did financing and capacity/capital allocations differently, I could see it being $150+ despite the AI crash.\n\nOperationally things are just so amazing with CPO quals, transceiver ramps, but it's such a mess for share appreciation with persistent ATM overhang.",
+"likes": 50
+},
+{
+"id": "2125071113470595535",
+"date": "2026-11-24",
+"zh": "作者反駁「黃仁勳解決不了問題」：他無法改變利率與信用緊縮，但會加速上游產能採購、提升 NBIS、IREN 等 NVDA 生態系的信心與融資；他回任能明顯增加上游 AI 資本支出。",
+"risk": "總經與信用緊縮",
+"s": {
+"AMD": "neutral",
+"IREN": "neutral",
+"NBIS": "neutral",
+"NVDA": "bull"
+},
+"text": "@James_S2908 I heavily disagree with your other comment when you say Jensen doesn't solve anything.\n\nJensen doesn't change macro issues with interest rates, credit/cash tightening (aside from maybe supplier financing).\n\nBut he does cause accelerated upstream capacity procurement patterns, (which gives more durability visibility + more upstream capex commitments).\n\nSame thing with greater confidence in $NVDA's ecosystem like Neoclouds like $NBIS or $IREN.\n\nPeople argue downside reflexivity today:\n-> valuations crash\n-> less willingness to support vendor financing/guarantees.\n-> outflow to other ecosystems like TPUs + $AMD (Nvidia ecosystem push decline further eg. CPO), and so on.\n-> cycle of suck\n\nThen there's other concurrent issues like the $500B AI financing with insurance + residual guarantees that was in trouble with Jensen gone.\n\nBut same can be applied the other way upstream again with valuations + confidence + financing with Jensen's return.\n\nThis is different from saying there's going to be a cash crunch and aggregate AI capex will keep exponentially increasing, my point is very narrow.\n\nBut I'd argue Jensen alone does meaningfully increase upstream AI capex spend than when he's gone.",
+"likes": 44
+},
+{
+"id": "2125074969201946809",
+"date": "2026-11-24",
+"zh": "作者指出 AI 資本支出正擴及小企業與保險公司等，B300 租價並未明顯下跌，CRWV 也稱 2027 年合格需求是供給 10 倍；不應以亞洲幾家出問題的新雲端推論整體算力過剩。",
+"risk": "部分新雲端經營困難",
+"s": {
+"CRWV": "neutral"
+},
+"text": "@4intheflames From Everpure earnings, AI capex is broadening to small business and random parts of the market (eg. insurance companies) because economics make sense.\n\nNot just handful of big buyers.\n\nPeople like to say capacity glut but B300 rates haven't really materially gone down, It went from $7.56 -> $7.65 -> $7.47 (compute glut timeframe)-> then up again $7.58 over past few weeks...\n\n$CRWV also says 10x qualified demand > supply for 2027, so there's too much demand. I wouldn't extrapolate several troubled Neoclouds in Asia to the entire compute market.\n\nAs for past that, who knows, maybe there will be re-acceleration with other sources of demand. AI is crazy and keeps evolving every month.",
+"likes": 47
+},
+{
+"id": "2125115492935549060",
+"date": "2026-11-24",
+"zh": "Databricks 共同創辦人稱目前只找到一家隔離性夠強的新雲端能跑客戶工作負載，作者高度確信指的是 NBIS（Databricks 已選用 Nebius），證明新雲端也有技術護城河。",
+"risk": "",
+"s": {
+"NBIS": "bull"
+},
+"text": "Who said Neoclouds don't have a technical moat? High confidence this statement is about $NBIS.\n\nDatabricks co-founder:\n\n\"We are VERY CAREFUL about where compute runs and so far we've only found a *single* neocloud we think has robust enough isolation to ever have a chance at running our customer workloads.\"\n\n- Databricks selected Nebius AI Cloud (shareholder letter) following a rigorous evaluation (November 12)",
+"likes": 2122
+},
+{
+"id": "2125215193139663292",
+"date": "2026-11-24",
+"zh": "AAOI 與雲端客戶簽 22 億美元長約：2027 年 15 億美元 800G 收發器、2028–2029 年 7 億美元雷射，客戶預估四年需求可能超過 100 億美元。",
+"risk": "",
+"s": {
+"AAOI": "neutral"
+},
+"text": "$AAOI signs $2.2B LTA with hyperscaler customer.\n\n- $1.5 billion of 800G transceivers in 2027\n- $0.7 billion in lasers between 2028 and 2029\n\n\"Customer forecast indicates demand that could exceed $10 billion over the four-year term\". https://t.co/1qHK90LlfA",
+"likes": 1282
+},
+{
+"id": "2125216873172381920",
+"date": "2026-11-24",
+"zh": "AAOI 營運面非常有吸引力，但管理層過度濫用 ATM，5.5 億美元增資仍在進行，作者認為中期難以看好股價。",
+"risk": "持續股權稀釋",
+"s": {
+"AAOI": "bear"
+},
+"text": "@snmart Yeah, $AAOI turned out extremely compelling on an operational standpoint.\n\nIn terms of seeing an iota of shareholder value, management has excessively abused ATMs, with the $550m ongoing.\n\nSo In find it hard to be bullish on share appreciation medium term.",
+"likes": 154
+},
+{
+"id": "2125220077847052586",
+"date": "2026-11-24",
+"zh": "AAOI 營運面極度看多，光 2027 年 800G 營收就至少 15 億美元，但管理層先前說「會大五倍以上」，結果只有 1.5–2 倍，讓作者抓狂。",
+"risk": "管理層說法誇大",
+"s": {
+"AAOI": "neutral"
+},
+"text": "@piyush1337 Well yes, for $AAOI it's insanely operationally bullish... In terms of $1.5B in 800G revenue for 2027 alone minimum (not including their other LTAs + orders).\n\nBut management commentary is literally trolling. They said \"Will be even five times bigger, or even more than that.\"\n\nAnd it turned out to be like 1.5x-2x.\n\nStandalone it's still transformational but management commentary drives me insane",
+"likes": 96
+},
+{
+"id": "2125276382909566982",
+"date": "2026-11-24",
+"zh": "GOOGL DeepMind 發表用 AI 代理尋找更快量子演算法的研究，ANT 也在做量子電路設計；作者好奇 AI 會不會提早量子商業化，帶出新受惠者。",
+"risk": "",
+"s": {
+"ANT": "neutral",
+"GOOGL": "neutral"
+},
+"text": "I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery.\n\n$GOOGL Deepmind: \"Finding faster quantum algorithms with agents\":\n\n1. The timeline by which quantum computers can solve breakthrough problems in science depend as much on better algorithms as on better hardware.\n\n2. LLMs have accelerated progress through automated discovery loops\n\n3. AI lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation.\n\n$ANT has also been recently working on other applications in this field as well: \"Designing more efficient quantum circuits with Claude\"\n\nJust found this paper interesting, there might be some interesting beneficiaries if AI could pull forward quantum commercialization timelines.",
+"likes": 347
+},
+{
+"id": "2125311224242164185",
+"date": "2026-11-24",
+"zh": "SNDK 市值 890 億美元，卻有至少 890 億美元附價格下限的長約、保障每年毛利率至少 80%，客戶已為 2029–2031 產能付訂金；作者認為只要報價維持高檔、能見度長，記憶體股明顯被低估。",
+"risk": "NAND 報價回落",
+"s": {
+"SNDK": "bull"
+},
+"text": "Wow, memory names like $SNDK just keep on dropping.\n\nAt a $89B MC they have:\n\n> $89B minimum in LTAs with contractual price floors supporting at least 80% gross margins\n\n\"The floor pricing for those contracts, we said in aggregate, will deliver at least 80% gross margin for every single year\"\n\n> Not including HBF and uncommited capacity (~50% for 2027, ~33% for 2028)\n\n> Customers placing billions in deposits for 2029-2031 capacity already (Morgan Stanley)\n\nI really disagree with the notion that you need need NAND pricing to keep exponentially increasing Q/Q.\n\nAt long as pricing remains elevated and you have duration visibility, lot of these memory companies look very undervalued.",
+"likes": 1128
+},
+{
+"id": "2125315431695286326",
+"date": "2026-11-24",
+"zh": "作者認為記憶體股下跌是無差別降低部位加上不相信客戶會履行長約；SNDK 已說明有第三方金融機構擔保長約付款，只是市場需要時間改觀。",
+"risk": "市場不信任長約",
+"s": {
+"SNDK": "neutral"
+},
+"text": "@amitisinvesting Yeah, I think it's a mix of just indiscriminate de-grossing as well as just not believing in counterparties paying the LTAs.\n\nEven $SNDK can go out and say:\n\n\"We came up with these financial guarantees with third-party financial institutions, which basically will flow those funds to us if they don't execute their part of the agreement\"\n\nI guess all it takes is time for people to change their minds.",
+"likes": 140
 }
 ]
